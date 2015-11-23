@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent= "true"
+        android:orientation="vertical"
+        >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/oneup_no_nopreview" />
+
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            android:id="@+id/adobe_common_view_error_message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:paddingTop="@dimen/asset_viewer_no_preview_padding"
+            android:text="@string/IDS_ASSET_VIEWER_NO_PREVIEW_AVAILABLE"
+            android:textColor="@color/asset_browser_light_text"
+            android:textSize="@dimen/asset_viewer_no_preview_textSize" />
+    </LinearLayout>
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/asset_viewer_no_preview.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/layout/asset_viewer_no_preview.xml -->

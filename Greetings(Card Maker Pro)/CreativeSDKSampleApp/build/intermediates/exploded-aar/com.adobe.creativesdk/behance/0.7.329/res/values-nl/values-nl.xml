@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nl/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_add_content_project_cover_selection_title">Een omslag selecteren</string>
+    <string name="bsdk_add_content_project_publish_adult_content_text">Inhoud voor volwassenen</string>
+    <string name="bsdk_add_content_project_publish_creative_field_hint">Een creatief veld selecteren</string>
+    <string name="bsdk_add_content_project_publish_creative_tags_hint">tags, gescheiden door, komma</string>
+    <string name="bsdk_add_content_project_publish_initiated_msg">Je project wordt gepubliceerd.</string>
+    <string name="bsdk_add_content_project_publish_invalid_tag_msg">Tags mogen alleen alfanumerieke tekens met of zonder spaties bevatten</string>
+    <string name="bsdk_add_content_project_publish_project_description_hint">Projectbeschrijving</string>
+    <string name="bsdk_add_content_project_publish_project_name_hint">Je project een naam geven</string>
+    <string name="bsdk_add_content_project_publish_right_navigation">Publiceren</string>
+    <string name="bsdk_add_content_project_publish_service_initialize_error_msg">Kan service niet starten. Probeer het later opnieuw.</string>
+    <string name="bsdk_add_content_project_publish_share_on">DELEN OP:</string>
+    <string name="bsdk_add_content_project_publish_title">Info</string>
+    <string name="bsdk_add_project_copyright_settings_dialog_title_label">Copyright-instellingen</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_message_txt">Je project is leeg</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_use_action_below_msg">Ga aan de slag met de onderstaande opties</string>
+    <string name="bsdk_add_project_edit_project_fragment_right_navigation">Klaar</string>
+    <string name="bsdk_add_project_edit_project_fragment_title">Bewerken</string>
+    <string name="bsdk_add_project_embed_content_edit_text_hint">Plak de insluitcode</string>
+    <string name="bsdk_add_project_embed_content_error">Je code is ongeldig. Probeer het opnieuw.</string>
+    <string name="bsdk_add_project_embed_content_title">Media-inhoud insluiten</string>
+    <string name="bsdk_add_project_preview_project_fragment_edit_action">Bewerken</string>
+    <string name="bsdk_add_project_preview_project_fragment_title">Voorbeeld</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nl/strings_add_wip.xml -->
+    <eat-comment/>
+    <string name="bsdk_add_wip_new_wip_dialog_desc">Typ titel voor onderhanden werk</string>
+    <string name="bsdk_add_wip_new_wip_dialog_title">Titel toevoegen</string>
+    <string name="bsdk_add_wip_pick_source_view_camera_launch_error">Kan camera niet starten om foto te maken. Probeer het later opnieuw.</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_action_btn_create_wip_label">Nieuw</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_title_select_wip_label">Selecteren</string>
+    <string name="bsdk_add_wip_view_connection_error_msg">Kan geen verbinding maken. Controleer de netwerkverbinding en probeer het opnieuw.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nl/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_addproject_creative_field_filter_dialog_done_btn_label">Klaar</string>
+    <string name="bsdk_addproject_creative_field_filter_dialog_title_label">Disciplines</string>
+    <string name="bsdk_addproject_creative_fields_popular_category">POPULAIR</string>
+    <string name="bsdk_addproject_custom_actionbar_forward_nav_default_txt">Volgende</string>
+    <string name="bsdk_addproject_project_cover_selection_right_nav_crop_txt">Toepassen</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nl/strings_cc_asset_browser_launcher.xml -->
+    <eat-comment/>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_text">De middelen worden gedownload uit Creative Cloud. Weet u zeker dat u wilt annuleren?</string>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_title">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_file_download_error">Kan het bestand %1$s niet downloaden. Probeer het later opnieuw.</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_back_nav_content_desc">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_title_label">Creative Cloud</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nl/strings_adobe_cloud_selection_view.xml -->
+    <eat-comment/>
+    <string name="bsdk_cloud_selection_view_back_nav_content_desc">Vorige</string>
+    <string name="bsdk_cloud_selection_view_loading_error_msg">Kan accounts niet laden. Probeer het later opnieuw.</string>
+    <string name="bsdk_cloud_selection_view_title">Account kiezen</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nl/strings.xml -->
+    <eat-comment/>
+    <string name="bsdk_connection_error_msg">Kan geen verbinding maken. Controleer de netwerkverbinding en probeer het opnieuw.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nl/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_copyright_cc_by">Naamsvermelding</string>
+    <string name="bsdk_copyright_cc_by_nc">Naamsvermelding-Niet-commercieel</string>
+    <string name="bsdk_copyright_cc_by_nc_nd">Naamsvermelding-Niet-commercieel-Geen afgeleide werken</string>
+    <string name="bsdk_copyright_cc_by_nc_sa">Naamsvermelding-Niet-commercieel-Gelijk delen</string>
+    <string name="bsdk_copyright_cc_by_nd">Naamsvermelding-Geen afgeleiden</string>
+    <string name="bsdk_copyright_cc_by_sa">Naamsvermelding-Gelijk delen</string>
+    <string name="bsdk_copyright_creative_commons_header">CREATIVE COMMONS</string>
+    <string name="bsdk_copyright_no_license_header">GEEN LICENTIE</string>
+    <string name="bsdk_copyright_no_use_at_all">Niet gebruiken zonder expliciete toestemming</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nl/strings_edit_profile.xml -->
+    <eat-comment/>
+    <string name="bsdk_edit_profile_ab_save">Opslaan</string>
+    <string name="bsdk_edit_profile_ab_title">Profiel bewerken</string>
+    <string name="bsdk_edit_profile_avatar_first_name_field_missing_msg">Voornaam is vereist</string>
+    <string name="bsdk_edit_profile_avatar_last_name_field_missing_msg">Achternaam is vereist</string>
+    <string name="bsdk_edit_profile_avatar_required_fields_missing_msg">Voor- en achternaam zijn vereist</string>
+    <string name="bsdk_edit_profile_avatar_saving_error">Profieldetails zijn opgeslagen, maar profielafbeelding kan niet worden opgeslagen. Probeer het later opnieuw.</string>
+    <string name="bsdk_edit_profile_editing_error">Kan je profieldetails niet opslaan. Probeer het later opnieuw.</string>
+    <string name="bsdk_edit_profile_hint_company">Bedrijf</string>
+    <string name="bsdk_edit_profile_hint_first_name">Voornaam</string>
+    <string name="bsdk_edit_profile_hint_last_name">Achternaam</string>
+    <string name="bsdk_edit_profile_hint_location">Locatie</string>
+    <string name="bsdk_edit_profile_hint_occupation">Beroep/functie</string>
+    <string name="bsdk_edit_profile_hint_website">URL van website</string>
+    <string name="bsdk_edit_profile_loading_error">Kan je profieldetails niet laden. Probeer het later opnieuw.</string>
+    <string name="bsdk_edit_profile_unsaved_changes_body">Alle wijzigingen zullen verloren gaan. Weet je zeker dat je wilt afsluiten?</string>
+    <string name="bsdk_edit_profile_unsaved_changes_title">Niet-opgeslagen wijzigingen</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nl/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_enterprise_login_warning_actionbar_title">Publiceren</string>
+    <string name="bsdk_enterprise_login_warning_cancel_button_text">Annuleren</string>
+    <string name="bsdk_enterprise_login_warning_continue_button_text">DOORGAAN</string>
+    <string name="bsdk_enterprise_login_warning_text_content">Je kunt met Behance werk publiceren als lid van \neen team, maar je hebt geen toegang meer tot \nje portfolio als je de organisatie verlaat</string>
+    <string name="bsdk_enterprise_login_warning_text_header">U bent momenteel aangemeld\nmet een Enterprise ID</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nl/strings.xml -->
+    <eat-comment/>
+    <string name="bsdk_generic_alert_dialog_cancel_btn_label">Annuleren</string>
+    <string name="bsdk_generic_alert_dialog_ok_btn_label">OK</string>
+    <string name="bsdk_generic_image_content_desc">Afbeelding</string>
+    <string name="bsdk_image_cropper_crop_failed_msg">Kan afbeelding niet uitsnijden. Probeer het opnieuw.</string>
+    <string name="bsdk_image_cropper_failed_to_open_msg">Afbeelding niet gevonden. Probeer het opnieuw.</string>
+    <string name="bsdk_image_selector_view_empty_album_msg">%1$s-album is leeg. Probeer een ander album.</string>
+    <string name="bsdk_image_selector_view_error_loading_albums_msg">Kan albums niet laden. Probeer het later opnieuw.</string>
+    <string name="bsdk_image_selector_view_image_dimensions_invalid_msg">Geselecteerde afmetingen voldoen niet aan vereisten</string>
+    <string name="bsdk_image_selector_view_image_dimensions_less_than_min_required_msg">Afbeelding moet minimaal %1$s x %2$s zijn. Geselecteerde afbeelding is %3$s x %4$s</string>
+    <string name="bsdk_image_selector_view_image_dimensions_more_than_max_allowed_msg">Afbeelding mag maximaal %1$s x %2$s zijn. Geselecteerde afbeelding is %3$s x %4$s</string>
+    <string name="bsdk_image_selector_view_image_file_type_allowed_msg">%1$s is een ongeldig bestandstype. Alleen %2$s zijn toegestaan.</string>
+    <string name="bsdk_image_selector_view_image_file_type_invalid_msg">%1$s is een ongeldig bestandstype.</string>
+    <string name="bsdk_image_selector_view_image_file_type_not_allowed_msg">%1$s is een ongeldig bestandstype. %2$s zijn niet toegestaan.</string>
+    <string name="bsdk_image_selector_view_image_size_invalid_msg">Geselecteerde afbeelding voldoet niet aan vereisten voor grootte</string>
+    <string name="bsdk_image_selector_view_image_size_less_than_min_required_msg">Afbeelding is te klein. Minimale bestandsgrootte is %1$s</string>
+    <string name="bsdk_image_selector_view_image_size_more_than_max_allowed_msg">Afbeelding is te groot. Maximale bestandsgrootte is %1$s</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_cancel_label">Annuleren</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_cancel_label">Overslaan</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_done_label">Klaar</string>
+    <string name="bsdk_image_selector_view_titlebar_back_nav_content_desc">Vorige</string>
+    <string name="bsdk_image_selector_view_titlebar_title_albums_txt">Albums</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_photos_txt">Beelden selecteren</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_single_photo_txt">Afbeelding selecteren</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nl/strings_search.xml -->
+    <eat-comment/>
+    <string name="bsdk_license_cc_by">Naamsvermelding</string>
+    <string name="bsdk_license_cc_by_nc">Bijdrage Niet-commercieel</string>
+    <string name="bsdk_license_cc_by_nc_nd">Bijdrage Niet-commercieel Geen afgeleiden</string>
+    <string name="bsdk_license_cc_by_nc_sa">Bijdrage Niet-commercieel Share Alike</string>
+    <string name="bsdk_license_cc_by_nd">Bijdrage Geen afgeleiden</string>
+    <string name="bsdk_license_cc_by_sa">Bijdrage Share Alike</string>
+    <string name="bsdk_license_no_use_at_all">Gebruik is niet toegestaan zonder expliciete toestemming van de eigenaar</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nl/strings_location_filter_dialog.xml -->
+    <eat-comment/>
+    <string name="bsdk_location_filter_dialog_city_empty_error">Selecteer een geldige plaats</string>
+    <string name="bsdk_location_filter_dialog_city_label">Stad</string>
+    <string name="bsdk_location_filter_dialog_country_label">Land</string>
+    <string name="bsdk_location_filter_dialog_done_btn_label">Klaar</string>
+    <string name="bsdk_location_filter_dialog_failed_to_load_error">Kan locatiegegevens niet laden. Probeer het later opnieuw.</string>
+    <string name="bsdk_location_filter_dialog_state_label">Staat</string>
+    <string name="bsdk_location_filter_dialog_title_label">Locatie</string>
+    <string name="bsdk_location_filter_dialog_type_city_name_label">Typ de plaatsnaam</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nl/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_msg_image_missing">msg_image_missing-behance-addcontent</string>
+    <string name="bsdk_publish_project_from_cc_invalid_file_type">%1$s is een ongeldig bestandstype. Alleen %2$s zijn toegestaan.</string>
+    <string name="bsdk_publish_project_from_cc_invalid_image_size">%1$s voldoet niet aan vereisten voor grootte. Maximale bestandsgrootte is %2$s.</string>
+    <string name="bsdk_publish_project_service_failure_notification_msg">Kan project niet uploaden. %1$s. Controleer de netwerkverbinding en probeer het opnieuw.</string>
+    <string name="bsdk_publish_project_service_failure_notification_ticker">Fout bij publicatie van je project op Behance</string>
+    <string name="bsdk_publish_project_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_text">Je project wordt gepubliceerd</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_publish_on_twitter_msg">Bekijk nieuw project in mijn \@Behance-portfolio: %1$s</string>
+    <string name="bsdk_publish_project_service_success_notification_text">Tik om je gepubliceerde project te bekijken</string>
+    <string name="bsdk_publish_project_service_success_notification_ticker">Je project is gepubliceerd op Behance</string>
+    <string name="bsdk_publish_project_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_unknown_failure_notification_msg">Je project kan op dit moment niet worden geüpload. Controleer je netwerkverbinding en probeer het opnieuw.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nl/strings_publish_results.xml -->
+    <eat-comment/>
+    <string name="bsdk_publish_results_view_behance_btn_label">WEERGEVEN IN BEHANCE</string>
+    <string name="bsdk_publish_results_view_desc_label">Ga naar Behance om feedback op uw werk\n weer te geven en te delen op Twitter, Facebook en meer.</string>
+    <string name="bsdk_publish_results_view_title_label">Uw Werk is Live!</string>
+    <string name="bsdk_publish_results_view_titlebar_back_nav_content_desc">Vorige</string>
+    <string name="bsdk_publish_results_view_titlebar_title_label">Publiceren</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nl/strings_add_wip.xml -->
+    <eat-comment/>
+    <string name="bsdk_publish_wip_image_required_error_msg">Kan afbeelding niet laden om te publiceren. Controleer dit en probeer het later opnieuw.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_msg">Kan onderhanden werk niet uploaden. %1$s. Controleer de netwerkverbinding en probeer het opnieuw.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_ticker">Fout bij publicatie van je onderhanden werk op Behance</string>
+    <string name="bsdk_publish_wip_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_text">Publiceren van je onderhanden werk</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_publish_on_twitter_msg">Bekijk nieuw werk in mijn \@Behance-portfolio: %1$s</string>
+    <string name="bsdk_publish_wip_service_success_notification_text">Tik om je gepubliceerde onderhanden werk te bekijken</string>
+    <string name="bsdk_publish_wip_service_success_notification_ticker">Je onderhanden werk is gepubliceerd op Behance</string>
+    <string name="bsdk_publish_wip_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_unknown_failure_notification_msg">Je nog niet voltooide werk kan op dit moment niet worden geüpload. Controleer je netwerkverbinding en probeer het opnieuw.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nl/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_search_filters_dialog_custom_actionbar_back_nav_default_txt">Vorige</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nl/strings_social_account_management.xml -->
+    <eat-comment/>
+    <string name="bsdk_social_account_facebook_login_confirmation_body">Meld je aan bij Facebook om door te gaan.</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_cancel_btn_label">Annuleren</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_title">Aanmelden bij Facebook</string>
+    <string name="bsdk_social_account_fb_auth_failure">Fout bij verificatie met Facebook. Probeer het later opnieuw.</string>
+    <string name="bsdk_social_account_fb_auth_permissions_failure">Onvoldoende machtigingen om te delen op Facebook.</string>
+    <string name="bsdk_social_account_twitter_login_authentication_failure">Fout bij verificatie met Twitter. Probeer het later opnieuw.</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_body">Meld je aan bij Twitter om door te gaan.</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_cancel_btn_label">Annuleren</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_title">Aanmelden bij Twitter</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_body">Weet je zeker dat je het Facebook-account wilt ontkoppelen?</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_cancel_btn_label">Annuleren</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_title">Facebook-account ontkoppelen</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_body">Weet je zeker dat je het Twitter-account wilt ontkoppelen?</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_cancel_btn_label">Annuleren</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_title">Twitter-account ontkoppelen</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nl/strings_search.xml -->
+    <eat-comment/>
+    <string name="bsdk_sort_option_featured">Aanbevolen</string>
+    <string name="bsdk_sort_option_most_appreciated">Meest gewaardeerd</string>
+    <string name="bsdk_sort_option_most_discussed">Meest besproken</string>
+    <string name="bsdk_sort_option_most_followed">Meest gevolgd</string>
+    <string name="bsdk_sort_option_most_recent">Meest recent</string>
+    <string name="bsdk_sort_option_most_relevant">Meest relevant</string>
+    <string name="bsdk_sort_option_most_viewed">Meest bekeken</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nl/strings_add_wip.xml -->
+    <eat-comment/>
+    <string name="bsdk_wip_publish_view_adult_content_text">Inhoud voor volwassenen</string>
+    <string name="bsdk_wip_publish_view_publish_initiated_msg">Je onderhanden werk wordt gepubliceerd. De voortgang zie je op de statusbalk.</string>
+    <string name="bsdk_wip_publish_view_publish_invalid_tag_msg">Tags mogen alleen alfanumerieke tekens met of zonder spaties bevatten</string>
+    <string name="bsdk_wip_publish_view_publish_required_fields_missing_msg">Vul alle vereiste velden in</string>
+    <string name="bsdk_wip_publish_view_publish_service_initialize_error_msg">Kan service niet starten. Probeer het later opnieuw.</string>
+    <string name="bsdk_wip_publish_view_share_on_fb_content_desc">Delen op Facebook</string>
+    <string name="bsdk_wip_publish_view_share_on_twitter_content_desc">Delen op Twitter</string>
+    <string name="bsdk_wip_publish_view_share_on_txt">DELEN OP:</string>
+    <string name="bsdk_wip_publish_view_titlebar_action_btn_publish_label">Publiceren</string>
+    <string name="bsdk_wip_publish_view_titlebar_back_nav_content_desc">Vorige</string>
+    <string name="bsdk_wip_publish_view_titlebar_title_publish_label">Info</string>
+    <string name="bsdk_wip_publish_view_wip_desc_hint">Vragen om feedback</string>
+    <string name="bsdk_wip_publish_view_wip_name_hint">Titel toevoegen</string>
+    <string name="bsdk_wip_publish_view_wip_tags_hint">tags, gescheiden door, komma</string>
+    <string name="bsdk_wip_publish_view_wips_loading_label">Laden …</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nl/strings_fb_sdk.xml -->
+    <eat-comment/>
+    <string name="com_facebook_internet_permission_error_message">Voor aanmelden bij WebView is INTERNET-toestemming vereist</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest-fout</string>
+    <string name="com_facebook_loading">Laden …</string>
+    <string name="com_facebook_requesterror_password_changed">Je Facebook-wachtwoord is gewijzigd. Meld je opnieuw aan bij deze app om weer verbinding te maken met je Facebook-account.</string>
+    <string name="com_facebook_requesterror_permissions">Deze app heeft hiervoor geen toestemming. Meld je opnieuw aan bij deze app om toestemmingen te wijzigen.</string>
+    <string name="com_facebook_requesterror_reconnect">Meld je opnieuw aan bij deze app om weer verbinding te maken met je Facebook-account.</string>
+    <string name="com_facebook_requesterror_relogin">Meld je opnieuw aan bij deze app om weer verbinding te maken met je Facebook-account.</string>
+    <string name="com_facebook_requesterror_web_login">Je Facebook-account is vergrendeld. Meld je opnieuw aan op www.facebook.com om door te gaan.</string>
+</resources>

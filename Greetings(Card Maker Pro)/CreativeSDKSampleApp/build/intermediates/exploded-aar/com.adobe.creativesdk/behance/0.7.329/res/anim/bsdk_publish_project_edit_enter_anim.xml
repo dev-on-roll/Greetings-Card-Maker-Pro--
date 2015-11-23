@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:interpolator/decelerate_quad"
+    android:shareInterpolator="false" >
+
+    <translate
+        android:duration="@integer/bsdk_publish_project_edit_preview_anim_duration"
+        android:fromXDelta="0%"
+        android:fromYDelta="100%"
+        android:toXDelta="0%"
+        android:toYDelta="0%" />
+
+</set><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/anim/bsdk_publish_project_edit_enter_anim.xml -->

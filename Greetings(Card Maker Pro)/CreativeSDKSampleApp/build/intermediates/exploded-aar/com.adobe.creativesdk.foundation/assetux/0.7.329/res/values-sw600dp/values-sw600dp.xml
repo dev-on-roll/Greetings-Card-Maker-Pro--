@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/values-sw600dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="asset_multipage_gridview_column_width">192dp</dimen>
+    <dimen name="asset_multipage_spacing">7dp</dimen>
+    <dimen name="assetview_dialog_margin_left">70dp</dimen>
+    <dimen name="assetview_dialog_margin_right">70dp</dimen>
+    <item name="assetview_staggeredgrid_land_column_count" type="integer">4</item>
+    <item name="assetview_staggeredgrid_portrait_column_count" type="integer">3</item>
+</resources>

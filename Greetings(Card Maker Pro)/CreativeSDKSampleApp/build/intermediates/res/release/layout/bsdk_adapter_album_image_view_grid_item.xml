@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:gravity="center" >
+
+    <!-- Changing this parent requires changing layoutparams type in adapter class -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bsdk_shape_album_image_grid_item_adapter_bg"
+        android:padding="@dimen/bsdk_image_selector_view_adapter_bg_stroke_width"
+        tools:ignore="UselessParent" >
+
+        <ImageView
+            android:id="@+id/bsdkAlbumImageAdapterThumbnailImageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/bsdk_msg_image_missing"
+            android:scaleType="centerCrop" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/bsdkAlbumImageAdapterSelectionIndicator"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bsdk_shape_album_image_selection_indicator_bg"
+        android:gravity="right|bottom"
+        android:visibility="gone" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/bsdk_generic_image_content_desc"
+            android:padding="10dp"
+            android:scaleType="center"
+            android:src="@drawable/bsdk_icon_adapter_album_image_selected" />
+    </LinearLayout>
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_adapter_album_image_view_grid_item.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/layout/bsdk_adapter_album_image_view_grid_item.xml -->

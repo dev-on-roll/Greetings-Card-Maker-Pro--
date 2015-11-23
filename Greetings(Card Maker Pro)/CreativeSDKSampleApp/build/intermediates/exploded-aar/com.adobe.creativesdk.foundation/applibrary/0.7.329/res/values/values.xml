@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="app_dev_by_color">#929ca4</color>
+    <color name="app_dev_color">#2099f6</color>
+    <color name="app_name_color">#3f4c56</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values/bs_colors.xml -->
+    <eat-comment/>
+    <color name="bs_background_dark">#ff303030</color>
+    <color name="bs_background_light">#ffeeeeee</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="get_button_bg">#2099f6</color>
+    <declare-styleable name="BottomSheetTheme"><attr format="reference|color" name="bottomSheetBackground"/></declare-styleable>
+    <declare-styleable name="ResolverDrawerLayout"><attr name="android:maxWidth"/><attr format="dimension" name="maxCollapsedHeight"/><attr format="dimension" name="maxCollapsedHeightSmall"/></declare-styleable>
+    <declare-styleable name="ResolverDrawerLayout_LayoutParams"><attr format="boolean" name="layout_alwaysShow"/><attr format="boolean" name="layout_ignoreOffset"/><attr name="android:layout_gravity"/></declare-styleable>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values/adobe_360_dimens.xml -->
+    <eat-comment/>
+    <dimen name="adobe360_app_entry_height">48dp</dimen>
+    <dimen name="adobe360_app_header_margin">12dp</dimen>
+    <dimen name="adobe360_app_icon_height">24dp</dimen>
+    <dimen name="adobe360_app_icon_padding">8dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="app_card_height">165dp</dimen>
+    <dimen name="app_image_margin_left">20dp</dimen>
+    <dimen name="app_lib_card_min_width">380dp</dimen>
+    <dimen name="app_lib_image_icon_width">68.33dp</dimen>
+    <dimen name="app_name_left_padding">22.66dp</dimen>
+    <dimen name="app_section_pad_left">20dp</dimen>
+    <dimen name="app_section_pad_right">12dp</dimen>
+    <dimen name="app_section_pad_top_bottom">18.33dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values/bs_dimens.xml -->
+    <eat-comment/>
+    <dimen name="bs_max_width">600dp</dimen>
+    <dimen name="bs_padding">16dp</dimen>
+    <dimen name="bs_share_icon">46dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">All Apps</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">All categories have been excluded</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">GET</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">CATEGORIES</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">SORT</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">Explore the growing library of creative apps, compatible and connected with Creative Cloud</string>
+    <string name="IDS_APPLIBRARY_ERROR">The App Library is currently unavailable. Please check back later to explore the growing library of creative apps</string>
+    <string name="IDS_APPLIBRARY_FEATURED">Featured</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">Highest Rated</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">Most Recent</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">No apps found in this category</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">No Applications were found.</string>
+    <string name="IDS_APPLIBRARY_TITLE">App Library</string>
+    <string name="IDS_APP_GET">INSTALL</string>
+    <string name="IDS_APP_OPEN">OPEN</string>
+    <string name="IDS_BY">by</string>
+    <string name="IDS_CATEGORY_AUDIO">Audio</string>
+    <string name="IDS_CATEGORY_CAPTURE">Capture</string>
+    <string name="IDS_CATEGORY_COMMUNITY">Community</string>
+    <string name="IDS_CATEGORY_DESIGN">Design</string>
+    <string name="IDS_CATEGORY_DRAWING">Drawing</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">Illustration</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">Image Editing</string>
+    <string name="IDS_CATEGORY_PHOTOS">Photos</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">Photo &amp; Video</string>
+    <string name="IDS_CATEGORY_PRESENTATION">Presentation</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">Productivity</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">Prototyping</string>
+    <string name="IDS_CATEGORY_SOCIAL">Social</string>
+    <string name="IDS_CATEGORY_STORAGE">Storage</string>
+    <string name="IDS_CATEGORY_STORY">Storytelling</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">UI/UX Design</string>
+    <string name="IDS_CATEGORY_UTILITY">Utility</string>
+    <string name="IDS_CATEGORY_VIDEO">Video</string>
+    <string name="IDS_PLEASE_WAIT">Please Wait…</string>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">Communication</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">Compilations</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">Contests</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">Drawing</string>
+    <string name="IDS_SUBCATEGORY_EDITING">Editing</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">Email</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">Feedback</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">File Sharing</string>
+    <string name="IDS_SUBCATEGORY_FONTS">Fonts</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">For Hire</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">Generation</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">Patterns</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">Photo Editing</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">Photography</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">Portfolio</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">Printing</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">Prototyping</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">Social Network</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">Story Telling</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">Vectors</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">Websites</string>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">Edit in</string>
+    <string name="action_settings">Settings</string>
+    <string name="adobe_360_capture">Capture</string>
+    <string name="adobe_360_edit">Edit</string>
+    <string name="adobe_360_embed">Embed</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppLibraryTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/creative_sdk_actionbar_background_color</item>
+        <item name="colorPrimaryDark">@color/adobe_activity_common_status_bar_color</item>
+        <item name="colorAccent">@color/adobe_activity_common_color_accent</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values/bs_styles.xml -->
+    <eat-comment/>
+    <style name="Base.BottomSheet" parent="Theme.AppCompat"/>
+    <style name="Base.BottomSheet.Light" parent="Theme.AppCompat.Light"/>
+    <style name="BottomSheet" parent="Base.BottomSheet">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="bottomSheetBackground">@color/bs_background_dark</item>
+    </style>
+    <style name="BottomSheet.Light" parent="Base.BottomSheet.Light">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="bottomSheetBackground">@color/bs_background_light</item>
+    </style>
+</resources>

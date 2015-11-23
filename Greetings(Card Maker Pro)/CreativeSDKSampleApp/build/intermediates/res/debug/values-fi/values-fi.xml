@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="ASSET_BROWSER_COLLABORATION_ACCEPT">HYVÄKSY</string>
+    <string name="ASSET_BROWSER_COLLABORATION_REJECT">HYLKÄÄ</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="Analogus">Samankaltaiset</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="CANCEL_UPLOAD_ASSET_BROWSER_BUTTON">Peruuta lähetys</string>
+    <string name="COLLABORATE_INVITE_EDIT_TEXT_HINT">Lisää sähköpostiosoite</string>
+    <string name="COLLABORATION_ALREADY_USED">Sähköpostiosoite on jo rekisteröity</string>
+    <string name="COLLABORATION_DELETE_MESSAGE">Haluatko poistaa tämän yhteistyökumppanin?</string>
+    <string name="COLLABORATION_INVALID_EMAIL">Sähköpostiosoite ei kelpaa</string>
+    <string name="COLLABORATION_INVITATION_DELETE_ERROR">Kutsun poistaminen epäonnistui.</string>
+    <string name="COLLABORATION_INVITATION_DELETE_MESSAGE">Haluatko poistaa tämän kutsun?</string>
+    <string name="COLLABORATION_INVITE">LISÄÄ</string>
+    <string name="COLLABORATION_INVITEE">(Kutsuttu)</string>
+    <string name="COLLABORATION_INVITE_CANCEL">PERUUTA</string>
+    <string name="COLLABORATION_INVITE_ERROR_MESSAGE">Kutsuprosessia ei voitu viedä loppuun.</string>
+    <string name="COLLABORATION_OWNER">(Omistaja)</string>
+    <string name="COLLABORATION_SELF_DELETE_MESSAGE">Haluatko poistua tästä kansiosta?</string>
+    <string name="COLLABORATOR_DELETE_NEGATIVE_BUTTON">PERUUTA</string>
+    <string name="COLLABORATOR_DELETE_POSITIVE_BUTTON">POISTA</string>
+    <string name="CREATE_NEW_FOLDER_BUTTON_CANCEL">PERUUTA</string>
+    <string name="CREATE_NEW_FOLDER_BUTTON_CREATE">LUO</string>
+    <string name="CREATE_NEW_FOLDER_DIALOG_TITLE">Luo uusi kansio</string>
+    <string name="CREATE_NEW_FOLDER_EDIT_TEXT_HINT">Kansion nimi</string>
+    <string name="CREATE_NEW_FOLDER_TITLE">Luo uusi kansio</string>
+    <string name="CREATE_NEW_INVITE_TITLE">Lisää yhteistyökumppani</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="Complementary">Vastaväri</string>
+    <string name="Compound">Yhdistelmä</string>
+    <string name="Custom">Mukautettu</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="IDS_ACTION_VIEW_COMMENT">Kommentit</string>
+    <string name="IDS_ACTION_VIEW_EDIT_ANNOTATION">Muokkaa muistiinpanoja</string>
+    <string name="IDS_ACTION_VIEW_FILE_DETAILS">Tiedot</string>
+    <string name="IDS_ACTION_VIEW_PUBLISH_TO_BEHANCE">Julkaise Behanceen</string>
+    <string name="IDS_ACTION_VIEW_SHARE">Jaa</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">Kaikki sovellukset</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">Kaikki luokat on jätetty toiminnon ulkopuolelle</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">HAE</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">LUOKAT</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">LAJITTELE</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">Tutustu Creative Cloudin kanssa yhteensopivien luovien sovellusten alati kasvavaan kirjastoon</string>
+    <string name="IDS_APPLIBRARY_ERROR">Sovelluskirjasto ei ole tällä hetkellä käytettävissä. Kokeile myöhemmin uudelleen, niin voit tutustua kasvavaan luovien sovellusten kirjastoon.</string>
+    <string name="IDS_APPLIBRARY_FEATURED">Esittelyssä</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">Parhaan luokituksen saaneet</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">Viimeisimmät</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">Tästä luokasta ei löytynyt sovelluksia.</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">Sovelluksia ei löytynyt.</string>
+    <string name="IDS_APPLIBRARY_TITLE">Sovelluskirjasto</string>
+    <string name="IDS_APP_GET">ASENNA</string>
+    <string name="IDS_APP_OPEN">AVAA</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="IDS_ASSET_DETAILS_FILE_DETAILS">Tiedoston tiedot</string>
+    <string name="IDS_ASSET_DETAILS_HEIGHT">Korkeus</string>
+    <string name="IDS_ASSET_DETAILS_KB"> kt</string>
+    <string name="IDS_ASSET_DETAILS_MB"> Mt</string>
+    <string name="IDS_ASSET_DETAILS_MODIFIED">Muokattu</string>
+    <string name="IDS_ASSET_DETAILS_PX">px</string>
+    <string name="IDS_ASSET_DETAILS_SIZE">Koko</string>
+    <string name="IDS_ASSET_DETAILS_UPLOADED">Ladattu</string>
+    <string name="IDS_ASSET_DETAILS_WIDTH">Leveys</string>
+    <string name="IDS_ASSET_DETAILS_ZERO_MB">0 Mt</string>
+    <string name="IDS_ASSET_DETAILS_ZERO_PX">0 px</string>
+    <string name="IDS_ASSET_VIEWER_NO_PREVIEW_AVAILABLE">Esikatselu ei ole käytettävissä</string>
+    <string name="IDS_ASSET_VIEWER_OF">/</string>
+    <string formatted="false" name="IDS_ASSET_VIEWER_OF_2">%s/%s</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="IDS_BY">luonut</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="IDS_CAPTION_COLLATION_FOLDERS_HEADER">KANSIOT</string>
+    <string name="IDS_CAPTION_COLLATION_UNKNOWN_DATE">TUNTEMATON</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_DATE">PÄIVITETTY %s</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_LAST_WEEK">PÄIVITETTY VIIME VIIKOLLA</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_THIS_MONTH">PÄIVITETTY TÄSSÄ KUUSSA</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_THIS_WEEK">PÄIVITETTY TÄLLÄ VIIKOLLA</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_TODAY">PÄIVITETTY TÄNÄÄN</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="IDS_CATEGORY_AUDIO">Ääni</string>
+    <string name="IDS_CATEGORY_CAPTURE">Taltiointi</string>
+    <string name="IDS_CATEGORY_COMMUNITY">Yhteisö</string>
+    <string name="IDS_CATEGORY_DESIGN">Suunnittelu</string>
+    <string name="IDS_CATEGORY_DRAWING">Piirustus</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">Kuvitus</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">Kuvanmuokkaus</string>
+    <string name="IDS_CATEGORY_PHOTOS">Valokuvat</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">Valokuva ja video</string>
+    <string name="IDS_CATEGORY_PRESENTATION">Esitys</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">Tuottavuus</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">Prototyyppi</string>
+    <string name="IDS_CATEGORY_SOCIAL">Sosiaalinen</string>
+    <string name="IDS_CATEGORY_STORAGE">Tallennus</string>
+    <string name="IDS_CATEGORY_STORY">Tarinankerronta</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">Käyttöliittymän/käyttökokemuksen suunnittelu</string>
+    <string name="IDS_CATEGORY_UTILITY">Apuohjelma</string>
+    <string name="IDS_CATEGORY_VIDEO">Video</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="IDS_COMMENT_ERROR_MSG">%s kommentin poistaminen epäonnistui</string>
+    <string name="IDS_COMMENT_INSERTION_ERROR_MSG">Kommentin lisääminen ei onnistunut</string>
+    <string name="IDS_COMMENT_SINGLE_ERROR_MSG">%s kommentin poistaminen epäonnistui</string>
+    <string name="IDS_COMMENT_SINGLE_SUCCESS_MSG">%s kommentin poistaminen onnistui</string>
+    <string name="IDS_COMMENT_SUCCESS_MSG">%s kommentin poistaminen onnistui</string>
+    <string name="IDS_COMMENT_UPDATE_MSG">%d kommenttia lisätty</string>
+    <string name="IDS_COMMENT_UPDATE_MSG_SINGLE">%d kommentti lisätty</string>
+    <string name="IDS_DELETE_ERROR_MSG">%s kohteen poistaminen epäonnistui</string>
+    <string name="IDS_DELETE_SINGLE_ERROR_MSG">%s kohteen poistaminen epäonnistui</string>
+    <string name="IDS_DELETE_SINGLE_SUCCESS_MSG">%s kohde poistettiin</string>
+    <string name="IDS_DELETE_SUCCESS_MSG">%s kohdetta poistettiin</string>
+    <string name="IDS_EDIT_ERROR_DGL_TITLE">Muokkaa virheitä</string>
+    <string name="IDS_EDIT_ERROR_MSG">%s kohteen muokkaaminen epäonnistui</string>
+    <string name="IDS_EDIT_SINGLE_ERROR_MSG">%s kohteen muokkaaminen epäonnistui</string>
+    <string name="IDS_EDIT_SINGLE_SUCCESS_MSG">%s kohteen muokkaaminen onnistui</string>
+    <string name="IDS_EDIT_SUCCESS_MSG">%s kohteen muokkaaminen onnistui</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_GET_STARTED">Aloita kirjautumalla sisään Adobe ID -tunnuksellasi tai luo uusi tunnus.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="IDS_INVITATION_ERROR_MSG">%s kutsun käsittely epäonnistui</string>
+    <string name="IDS_INVITATION_SINGLE_ERROR_MSG">%s kutsun käsittely epäonnistui</string>
+    <string name="IDS_INVITATION_SINGLE_SUCCESS_MSG">%s kutsu käsiteltiin</string>
+    <string name="IDS_INVITATION_SUCCESS_MSG">%s kutsua käsiteltiin</string>
+    <string name="IDS_MOVE_ERROR_MSG">%s kohteen siirtäminen epäonnistui</string>
+    <string name="IDS_MOVE_SINGLE_ERROR_MSG">%s kohteen siirtäminen epäonnistui</string>
+    <string name="IDS_MOVE_SINGLE_SUCCESS_MSG">%s kohde siirrettiin</string>
+    <string name="IDS_MOVE_SUCCESS_MSG">%s kohdetta siirrettiin</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="IDS_PLEASE_WAIT">Odota…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="IDS_SAVE_TO_DEVICE_CANCELLED_NOTIFICATION_TEXT">%d tiedosto peruutettu</string>
+    <string name="IDS_SAVE_TO_DEVICE_CANCELLED_NOTIFICATION_TITLE">Lataaminen peruutettu</string>
+    <string name="IDS_SAVE_TO_DEVICE_CANCEL_TEXT">Peruuta</string>
+    <string name="IDS_SAVE_TO_DEVICE_COMPLETE_NOTIFICATION_TEXT">%d tiedosto ladattu</string>
+    <string name="IDS_SAVE_TO_DEVICE_COMPLETE_NOTIFICATION_TITLE">Lataus on valmis</string>
+    <string name="IDS_SAVE_TO_DEVICE_ERROR_NOTIFICATION_TEXT">%d tiedoston lataaminen epäonnistui</string>
+    <string name="IDS_SAVE_TO_DEVICE_ERROR_NOTIFICATION_TITLE">Latausvirhe</string>
+    <string formatted="false" name="IDS_SAVE_TO_DEVICE_NOTIFICATION_TEXT">%d tiedosto jäljellä</string>
+    <string name="IDS_SAVE_TO_DEVICE_NOTIFICATION_TITLE">Tallennetaan laitteeseen</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_SIGN_IN">KIRJAUDU SISÄÄN ADOBE ID -TUNNUKSELLASI</string>
+    <string name="IDS_SIGN_UP">REKISTERÖIDY ADOBE ID -TUNNUSTA VARTEN</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">Viestintä</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">Kokoelmat</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">Kilpailut</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">Piirustus</string>
+    <string name="IDS_SUBCATEGORY_EDITING">Muokkaus</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">Sähköposti</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">Palaute</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">Tiedostonjako</string>
+    <string name="IDS_SUBCATEGORY_FONTS">Kirjasimet</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">Vuokrataan</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">Sukupolvi</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">Kuviot</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">Valokuvien muokkaus</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">Valokuvaus</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">Portfolio</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">Tulostus</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">Prototyyppi</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">Sosiaalinen verkosto</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">Tarinankerronta</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">Vektorit</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">Sivustot</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="IDS_UPLOAD_ERROR_DGL_TITLE">Latausvirheet</string>
+    <string name="IDS_UPLOAD_ERROR_MSG">%s tiedoston lataaminen epäonnistui</string>
+    <string name="IDS_UPLOAD_SINGLE_ERROR_MSG">%s tiedoston lataaminen epäonnistui</string>
+    <string name="IDS_UPLOAD_SINGLE_SUCCESS_MSG">%s tiedosto ladattiin palveluun</string>
+    <string name="IDS_UPLOAD_SUCCESS_MSG">%s tiedostoa ladattiin palveluun</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_WELCOME">Tervetuloa Creative Cloudiin</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="Monochromatic">Monokromaattinen</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="NOTIFICATION_ACCEPT_FAILURE">Hyväksymisprosessia ei voitu viedä loppuun.</string>
+    <string name="NOTIFICATION_INVITATION">on kutsunut sinut käyttämään jaettua kansiotaan </string>
+    <string name="NOTIFICATION_JOINED">Liityit kohteeseen: </string>
+    <string name="NOTIFICATION_NOT_FOUND">Ilmoituksia ei löytynyt</string>
+    <string name="NOTIFICATION_REJECTED">Hylkäsit seuraavan kutsun: </string>
+    <string name="NOTIFICATION_REJECT_FAILURE">Hylkäysprosessia ei voitu viedä loppuun.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="OK">OK</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="SHARE_WITH_OPTIONS_TITLE">Jaa kohteelle</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="Shades">Varjot</string>
+    <string name="Triad">Kolmiväri</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="UPLOAD_ASSET_BROWSER_BUTTON">Lataa tiedostoja palveluun</string>
+    <string name="UPLOAD_ASSET_FROM_CAMERA_BUTTON">Ota valokuva</string>
+    <string name="UPLOAD_IMAGE_TO_LIBRARY_MENU_TITLE">Lataa kuvia</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">Muokkaa kohteessa</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Siirry etusivulle"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Siirry ylös"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Lisää"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Valmis"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Näytä kaikki"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Valitse sovellus"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Tyhjennä kysely"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Hakulauseke"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Haku"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lähetä kysely"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Puhehaku"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Jakaminen:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Jakaminen: %s"</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="action_login">kirjaudu sisään</string>
+    <string name="action_logout">kirjaudu ulos</string>
+    <string name="action_settings">Settings</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="add_collaborator">Lisää yhteistyökumppani</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="add_color">Lisää väri</string>
+    <string name="add_theme">Lisää teema</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="adobe_360_capture">Taltiointi</string>
+    <string name="adobe_360_edit">Muokkaa</string>
+    <string name="adobe_360_embed">Upota</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="adobe_asset_edit_in_progress">Muokkaus käynnissä</string>
+    <string name="adobe_asset_edit_rename_button">Nimeä uudelleen</string>
+    <string name="adobe_asset_move_error_same_location">Virhe: siirtotoiminnon lähde- ja kohdesijainti ovat sama</string>
+    <string name="adobe_asset_view_add_annotation_dialog_hint_text">Kirjoita kommenttisi</string>
+    <string name="adobe_asset_view_add_annotation_dialog_negative_button">PERUUTA</string>
+    <string name="adobe_asset_view_add_annotation_dialog_positive_button">LÄHETÄ</string>
+    <string name="adobe_asset_view_add_annotation_dialog_title">Lisää muistiinpano</string>
+    <string name="adobe_asset_view_add_comments_dialog_error_message">Kommenttia lisättäessä tapahtui virhe</string>
+    <string name="adobe_asset_view_add_comments_dialog_hint_text">Kirjoita kommenttisi</string>
+    <string name="adobe_asset_view_add_comments_dialog_negative_button">PERUUTA</string>
+    <string name="adobe_asset_view_add_comments_dialog_positive_button">LÄHETÄ</string>
+    <string name="adobe_asset_view_add_comments_dialog_title">Lisää kommentti</string>
+    <string name="adobe_asset_view_comments_title">Kommentit</string>
+    <string name="adobe_asset_view_dialog_fetch_link">Noudetaan linkkiä...</string>
+    <string name="adobe_asset_view_edit_delete_button">Poista</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_file">Haluatko poistaa tämän tiedoston?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_folder">Haluatko poistaa tämän kansion?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_multi_select">Haluatko poistaa nämä %d kohdetta?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_negative_button">PERUUTA</string>
+    <string name="adobe_asset_view_edit_delete_dialog_positive_button">POISTA</string>
+    <string name="adobe_asset_view_edit_download_button">Tallenna laitteeseen</string>
+    <string name="adobe_asset_view_edit_fragment_edit_button">Muokkaa</string>
+    <string name="adobe_asset_view_edit_fragment_erase_button">Poista</string>
+    <string name="adobe_asset_view_edit_fragment_move_button">Siirrä</string>
+    <string name="adobe_asset_view_edit_fragment_title">Valitse kohteet</string>
+    <string name="adobe_asset_view_edit_move_button">Siirrä</string>
+    <string name="adobe_asset_view_edit_rename_dialog_error_message">Nimeä muokattaessa tapahtui virhe</string>
+    <string name="adobe_asset_view_edit_rename_dialog_hint_text">Uusi nimi</string>
+    <string name="adobe_asset_view_edit_rename_dialog_negative_button">PERUUTA</string>
+    <string name="adobe_asset_view_edit_rename_dialog_positive_button">MUOKKAA</string>
+    <string name="adobe_asset_view_edit_rename_dialog_title">Muokkaa nimeä</string>
+    <string name="adobe_asset_view_error_fetch_link">Linkin noutaminen epäonnistui</string>
+    <string name="adobe_asset_view_move_fragment_title">Valitse kansio</string>
+    <string name="adobe_asset_view_multi_page_count">%d sivua</string>
+    <string formatted="false" name="adobe_asset_view_multi_page_numbering">%d/%d </string>
+    <string name="adobe_asset_view_no_comments_found">Kommentteja ei löytynyt</string>
+    <string name="adobe_asset_view_send_link_button">Lähetä linkki</string>
+    <string name="adobe_asset_view_show_annotation_dialog_button">SELVÄ</string>
+    <string name="adobe_assetbrowser_edit_delete_confirm">Haluatko poistaa tämän tiedoston?</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="adobe_auth_sign_in_close">Sulje</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="adobe_cloud_not_reachable_no_internet_connection">Unable to connect to the Creative Cloud.\n Please check your internet connection and try again</string>
+    <string name="adobe_cloud_not_reachable_private_cloud">Creative Cloud-palvelu, jota yrität käyttää, ei ole saatavilla.\nTarkista VPN-yhteytesi ja yritä uudelleen.</string>
+    <string name="adobe_cloud_not_reachable_public_cloud">Creative Cloud -palvelu, jota yrität käyttää, ei ole saatavilla.\nYritä uudelleen.</string>
+    <string name="adobe_cloud_not_reachable_retry">YRITÄ UUDELLEEN</string>
+    <string name="adobe_common_error_folder_invalid_chars">Kansion nimi ei kelpaa</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="adobe_common_error_view_no_internet_connection">Ei Internet-yhteyttä</string>
+    <string name="adobe_common_error_view_unknown_authenticate_error">Todennuksessa tapahtui virhe.\nYritä myöhemmin uudelleen.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="adobe_common_error_while_creating_folder">Kansion luominen ei onnistu</string>
+    <string name="adobe_composition_collection_plural">sommittelua</string>
+    <string name="adobe_composition_collection_singular">sommittelu</string>
+    <string name="adobe_comps_empty_collection">Sinulla ei vielä ole sommitteluja</string>
+    <string name="adobe_design_library_collection_count">%s resurssia</string>
+    <string name="adobe_design_library_collection_count_single">1 resurssi</string>
+    <string name="adobe_design_library_empty_collection">Tämä Creative Cloud Library on tyhjä</string>
+    <string name="adobe_design_library_header_brushes">SIVELTIMET (%s)</string>
+    <string name="adobe_design_library_header_color">VÄRIT (%s)</string>
+    <string name="adobe_design_library_header_colortheme">VÄRITEEMAT (%s)</string>
+    <string name="adobe_design_library_header_graphics">GRAAFIIKAT (%s)</string>
+    <string name="adobe_design_library_header_layoutstyle">TASOTYYLIT (%s)</string>
+    <string name="adobe_design_library_header_looks">LOOKS (%s)</string>
+    <string name="adobe_design_library_header_textstyle">TEKSTITYYLIT (%s)</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="adobe_error_not_entitled_to_video">"Viesti siitä, että käyttäjällä ei ole oikeutta esikatsella videota."</string>
+    <string name="adobe_id_authenticator_accesslabel">Adobe ID -tilin täysi käyttöoikeus</string>
+    <string name="adobe_id_authenticator_add_account_error_onlyone">Vain yhtä Adobe ID -tunnusta tuetaan</string>
+    <string name="adobe_id_authenticator_settings_label">Adobe</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="adobe_lineordrawcollection_plural">piirustusta</string>
+    <string name="adobe_lineordrawcollection_singular">piirustus</string>
+    <string name="adobe_mobilecreation_item_download">Lataus</string>
+    <string name="adobe_mobilecreations_empty_collection">Sinulla ei vielä ole piirustuksia.</string>
+    <string name="adobe_mobilecreations_package_count">%s resurssia</string>
+    <string name="adobe_mobilecreations_sort">Lajittele tuontipäivämäärän mukaan</string>
+    <string name="adobe_my_libraries_empty_collection">Sinulla ei vielä ole kirjastoja.</string>
+    <string formatted="false" name="adobe_notification_activities_comments">%s kommentoi kohdetta %s</string>
+    <string name="adobe_notification_activities_comments_self">Olet kommentoinut kohdetta %s</string>
+    <string formatted="false" name="adobe_notification_activities_invitation_accept">%s liittyi kohteeseen %s</string>
+    <string name="adobe_notification_activities_invitation_accept_single">Liityit kohteeseen %s</string>
+    <string name="adobe_notification_activities_section_header_single">TOIMINTO</string>
+    <string name="adobe_notification_activities_self">Sinä</string>
+    <string name="adobe_notification_activity_timestamp_day_single">1 päivä sitten</string>
+    <string name="adobe_notification_activity_timestamp_days_multiple">%d päivää sitten</string>
+    <string name="adobe_notification_activity_timestamp_hour_single">1 tunti sitten</string>
+    <string name="adobe_notification_activity_timestamp_hours_multiple">%d tuntia sitten</string>
+    <string name="adobe_notification_activity_timestamp_less_than_minute">Alle minuutti sitten</string>
+    <string name="adobe_notification_activity_timestamp_minute">%d minuuttia sitten</string>
+    <string name="adobe_notification_activity_timestamp_year_multiple">%d vuotta sitten</string>
+    <string name="adobe_notification_activity_timestamp_year_single">1 vuosi sitten</string>
+    <string name="adobe_notification_invitation_message">on kutsunut sinut käyttämään jaettua kansiotaan \"%s\"</string>
+    <string name="adobe_notification_invitation_section_header">KUTSUT(%d)</string>
+    <string name="adobe_notification_invitation_section_header_single">KUTSU(1)</string>
+    <string name="adobe_notification_operation_collaborated_folder_error">Kokoelman lataaminen epäonnistui</string>
+    <string name="adobe_notification_operation_comment_error">Resurssin lataaminen epäonnistui</string>
+    <string name="adobe_psmix_collection_plural">valokuvasommittelua</string>
+    <string name="adobe_psmix_collection_singular">valokuvasommittelu</string>
+    <string name="adobe_sdk_main_root_collection">Tiedostot</string>
+    <string name="adobe_sketchCollection_plural">luonnosta</string>
+    <string name="adobe_sketchCollection_singular">Luonnos</string>
+    <string name="adobe_sketches_empty_collection">Sinulla ei vielä ole luonnoksia</string>
+    <string name="adobe_storage_no_folders_found">Kansioita ei löytynyt</string>
+    <string name="adobe_uxassetbrowser_action_asgrid">Näytä ruudukkona</string>
+    <string name="adobe_uxassetbrowser_action_aslist">Näytä luettelona</string>
+    <string name="adobe_uxassetbrowser_action_collaborate">Tee yhteistyötä</string>
+    <string name="adobe_uxassetbrowser_action_edit_asset">Muokkaa</string>
+    <string name="adobe_uxassetbrowser_action_sort_alpha">Lajittele aakkosjärjestykseen</string>
+    <string name="adobe_uxassetbrowser_action_sort_date">Lajittele päivämäärän mukaan</string>
+    <string name="adobe_uxassetbrowser_comps">COMP CC</string>
+    <string name="adobe_uxassetbrowser_create_new_folder">Luo uusi kansio</string>
+    <string name="adobe_uxassetbrowser_csdk_myassets_main">Omat resurssit</string>
+    <string name="adobe_uxassetbrowser_csdk_mylibraries">Omat kirjastot</string>
+    <string name="adobe_uxassetbrowser_designlibrary">Kirjasto</string>
+    <string name="adobe_uxassetbrowser_download_cancelled">Lataus peruutettu %s</string>
+    <string name="adobe_uxassetbrowser_download_description">Adobe Creative Cloud</string>
+    <string name="adobe_uxassetbrowser_download_directory">Creative Cloud</string>
+    <string name="adobe_uxassetbrowser_download_error">Latauksen aikana tapahtui virhe. %s</string>
+    <string name="adobe_uxassetbrowser_download_io_failure"> kohteen %s lataaminen epäonnistui IO-virheen vuoksi</string>
+    <string name="adobe_uxassetbrowser_download_successful"> %s ladattu</string>
+    <string name="adobe_uxassetbrowser_drawings">ILLUSTRATOR DRAW</string>
+    <string name="adobe_uxassetbrowser_file_download_assert_exception">Resurssitiedosto ei kelpaa.</string>
+    <string name="adobe_uxassetbrowser_files">TIEDOSTOT</string>
+    <string name="adobe_uxassetbrowser_library_image_download_assert_exception">Kirjaston kuva ei kelpaa.</string>
+    <string name="adobe_uxassetbrowser_lines">ILLUSTRATOR LINE</string>
+    <string name="adobe_uxassetbrowser_myacount">Oma tili</string>
+    <string name="adobe_uxassetbrowser_photo_download_assert_exception">Valokuvaresurssi ei kelpaa.</string>
+    <string name="adobe_uxassetbrowser_photos">VALOKUVAT</string>
+    <string name="adobe_uxassetbrowser_psmix">PHOTOSHOP MIX</string>
+    <string name="adobe_uxassetbrowser_sdk_myaccount">Oma tili</string>
+    <string name="adobe_uxassetbrowser_selectfolder_upload">Valitse kansio</string>
+    <string name="adobe_uxassetbrowser_sketches">PHOTOSHOP SKETCH</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="all_colors">Kaikki värit</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="app_library">Sovelluskirjasto</string>
+    <string name="app_name">Creative SDK</string>
+    <string name="asset_browser">Resurssien selain</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="auth_required">Authentication Required</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="behance_publish">Julkaise Behancessa</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="bsdk_add_content_project_cover_selection_title">Valitse kansi</string>
+    <string name="bsdk_add_content_project_publish_adult_content_text">Sisältää aikuissisältöä</string>
+    <string name="bsdk_add_content_project_publish_creative_field_hint">Valitse luova ala</string>
+    <string name="bsdk_add_content_project_publish_creative_tags_hint">pilkku, eroteltu, nimiöt</string>
+    <string name="bsdk_add_content_project_publish_initiated_msg">Projektia julkaistaan.</string>
+    <string name="bsdk_add_content_project_publish_invalid_tag_msg">Tunnisteissa voi olla vain aakkosnumeerisia merkkejä välilyöntien kanssa tai ilman niitä.</string>
+    <string name="bsdk_add_content_project_publish_project_description_hint">Projektin kuvaus</string>
+    <string name="bsdk_add_content_project_publish_project_name_hint">Anna projektille nimi</string>
+    <string name="bsdk_add_content_project_publish_right_navigation">Julkaise</string>
+    <string name="bsdk_add_content_project_publish_service_initialize_error_msg">Palvelua käynnistettäessä ilmeni ongelma. Yritä myöhemmin uudelleen.</string>
+    <string name="bsdk_add_content_project_publish_share_on">JAA KOHTEESSA:</string>
+    <string name="bsdk_add_content_project_publish_title">Tiedot</string>
+    <string name="bsdk_add_project_copyright_settings_dialog_title_label">Tekijänoikeusasetukset</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_message_txt">Projektisi on tyhjä.</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_use_action_below_msg">Aloita käyttämällä alla olevia vaihtoehtoja</string>
+    <string name="bsdk_add_project_edit_project_fragment_right_navigation">Valmis</string>
+    <string name="bsdk_add_project_edit_project_fragment_title">Muokkaa</string>
+    <string name="bsdk_add_project_embed_content_edit_text_hint">Liitä upotuskoodi</string>
+    <string name="bsdk_add_project_embed_content_error">Koodi on virheellinen. Yritä uudelleen.</string>
+    <string name="bsdk_add_project_embed_content_title">Upota mediasisältö</string>
+    <string name="bsdk_add_project_preview_project_fragment_edit_action">Muokkaa</string>
+    <string name="bsdk_add_project_preview_project_fragment_title">Esikatselu</string>
+    <string name="bsdk_add_wip_new_wip_dialog_desc">Anna käynnissä olevalle työlle nimi</string>
+    <string name="bsdk_add_wip_new_wip_dialog_title">Lisää nimi</string>
+    <string name="bsdk_add_wip_pick_source_view_camera_launch_error">Kameraa kuvan ottamista varten käynnistettäessä ilmeni ongelma. Yritä myöhemmin uudelleen.</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_action_btn_create_wip_label">Uusi</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_title_select_wip_label">Valitse</string>
+    <string name="bsdk_add_wip_view_connection_error_msg">Yhteyttä muodostettaessa ilmeni ongelma. Tarkista verkkoyhteys ja yritä uudelleen.</string>
+    <string name="bsdk_addproject_creative_field_filter_dialog_done_btn_label">Valmis</string>
+    <string name="bsdk_addproject_creative_field_filter_dialog_title_label">Alat</string>
+    <string name="bsdk_addproject_creative_fields_popular_category">SUOSITTU</string>
+    <string name="bsdk_addproject_custom_actionbar_forward_nav_default_txt">Seuraava</string>
+    <string name="bsdk_addproject_project_cover_selection_right_nav_crop_txt">Käytä</string>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_text">Resursseja ladataan Creative Cloudista. Haluatko varmasti peruuttaa?</string>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_title">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_file_download_error">Tiedostoa %1$s ladattaessa ilmeni ongelma. Yritä myöhemmin uudelleen.</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_back_nav_content_desc">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_title_label">Creative Cloud</string>
+    <string name="bsdk_cloud_selection_view_back_nav_content_desc">Takaisin</string>
+    <string name="bsdk_cloud_selection_view_loading_error_msg">Tilejä ladattaessa ilmeni ongelma. Yritä myöhemmin uudelleen.</string>
+    <string name="bsdk_cloud_selection_view_title">Valitse tili</string>
+    <string name="bsdk_connection_error_msg">Yhteyttä muodostettaessa ilmeni ongelma. Tarkista verkkoyhteys ja yritä uudelleen.</string>
+    <string name="bsdk_copyright_cc_by">Määrite</string>
+    <string name="bsdk_copyright_cc_by_nc">Määrite-Epäkaupallinen</string>
+    <string name="bsdk_copyright_cc_by_nc_nd">Määrite-Epäkaupallinen-Ei johdannaisteoksia</string>
+    <string name="bsdk_copyright_cc_by_nc_sa">Määrite-Epäkaupallinen-Jaa samoin</string>
+    <string name="bsdk_copyright_cc_by_nd">Määrite-Ei johdannaisteoksia</string>
+    <string name="bsdk_copyright_cc_by_sa">Määrite-Jaa samoin</string>
+    <string name="bsdk_copyright_creative_commons_header">CREATIVE COMMONS</string>
+    <string name="bsdk_copyright_no_license_header">EI KÄYTTÖOIKEUTTA</string>
+    <string name="bsdk_copyright_no_use_at_all">Ei saa käyttää ilman erityistä lupaa</string>
+    <string name="bsdk_edit_profile_ab_save">Tallenna</string>
+    <string name="bsdk_edit_profile_ab_title">Muokkaa profiilia</string>
+    <string name="bsdk_edit_profile_avatar_first_name_field_missing_msg">Etunimi on annettava.</string>
+    <string name="bsdk_edit_profile_avatar_last_name_field_missing_msg">Sukunimi on annettava.</string>
+    <string name="bsdk_edit_profile_avatar_required_fields_missing_msg">Etu- ja sukunimi on annettava.</string>
+    <string name="bsdk_edit_profile_avatar_saving_error">Profiilitiedot on tallennettu, mutta profiilikuvaa tallennettaessa ilmeni ongelma. Yritä myöhemmin uudelleen.</string>
+    <string name="bsdk_edit_profile_editing_error">Profiilitietoja tallennettaessa ilmeni ongelma. Yritä myöhemmin uudelleen.</string>
+    <string name="bsdk_edit_profile_hint_company">Yritys</string>
+    <string name="bsdk_edit_profile_hint_first_name">Etunimi</string>
+    <string name="bsdk_edit_profile_hint_last_name">Sukunimi</string>
+    <string name="bsdk_edit_profile_hint_location">Sijainti</string>
+    <string name="bsdk_edit_profile_hint_occupation">Ammatti/työnimike</string>
+    <string name="bsdk_edit_profile_hint_website">Verkkosivun URL-osoite</string>
+    <string name="bsdk_edit_profile_loading_error">Profiilitietoja ladattaessa ilmeni ongelma. Yritä myöhemmin uudelleen.</string>
+    <string name="bsdk_edit_profile_unsaved_changes_body">Kaikki muutokset menetetään. Haluatko varmasti lopettaa?</string>
+    <string name="bsdk_edit_profile_unsaved_changes_title">Tallentamattomat muutokset</string>
+    <string name="bsdk_enterprise_login_warning_actionbar_title">Julkaise</string>
+    <string name="bsdk_enterprise_login_warning_cancel_button_text">Peruuta</string>
+    <string name="bsdk_enterprise_login_warning_continue_button_text">JATKA</string>
+    <string name="bsdk_enterprise_login_warning_text_content">Behancen avulla voit julkaista työn osana ryhmää, \nmutta menetät oikeudet portfoliosi käyttöön, \njos lähdet organisaatiosta.</string>
+    <string name="bsdk_enterprise_login_warning_text_header">Olet tällä hetkellä kirjautunut\nsisään Enterprise ID -tunnuksella.</string>
+    <string name="bsdk_generic_alert_dialog_cancel_btn_label">Peruuta</string>
+    <string name="bsdk_generic_alert_dialog_ok_btn_label">OK</string>
+    <string name="bsdk_generic_image_content_desc">Kuva</string>
+    <string name="bsdk_image_cropper_crop_failed_msg">Kuvan rajaaminen epäonnistui. Yritä uudelleen.</string>
+    <string name="bsdk_image_cropper_failed_to_open_msg">Kuvaa ei löydy. Yritä uudelleen.</string>
+    <string name="bsdk_image_selector_view_empty_album_msg">Albumi %1$s on tyhjä. Kokeile toista albumia.</string>
+    <string name="bsdk_image_selector_view_error_loading_albums_msg">Albumeita ladattaessa ilmeni ongelma. Yritä myöhemmin uudelleen.</string>
+    <string name="bsdk_image_selector_view_image_dimensions_invalid_msg">Valitun kuvan mitat eivät vastaa vaatimuksia.</string>
+    <string name="bsdk_image_selector_view_image_dimensions_less_than_min_required_msg">Kuvakoon on oltava vähintään %1$s x %2$s. Valitun kuvan koko on %3$s x %4$s.</string>
+    <string name="bsdk_image_selector_view_image_dimensions_more_than_max_allowed_msg">Kuvakoko voi olla enintään %1$s x %2$s. Valitun kuvan koko on %3$s x %4$s.</string>
+    <string name="bsdk_image_selector_view_image_file_type_allowed_msg">%1$s on virheellinen tiedostotyyppi. Sallittuja ovat vain tiedostotyypit %2$s.</string>
+    <string name="bsdk_image_selector_view_image_file_type_invalid_msg">%1$s on virheellinen tiedostotyyppi.</string>
+    <string name="bsdk_image_selector_view_image_file_type_not_allowed_msg">%1$s on virheellinen tiedostotyyppi. Tiedostotunnisteet %2$s eivät ole sallittuja.</string>
+    <string name="bsdk_image_selector_view_image_size_invalid_msg">Valittu kuva ei vastaa kokovaatimuksia.</string>
+    <string name="bsdk_image_selector_view_image_size_less_than_min_required_msg">Kuva on liian pieni. Vähimmäistiedostokoko on %1$s.</string>
+    <string name="bsdk_image_selector_view_image_size_more_than_max_allowed_msg">Kuva on liian suuri. Enimmäistiedostokoko on %1$s.</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_cancel_label">Peruuta</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_cancel_label">Ohita</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_done_label">Valmis</string>
+    <string name="bsdk_image_selector_view_titlebar_back_nav_content_desc">Takaisin</string>
+    <string name="bsdk_image_selector_view_titlebar_title_albums_txt">Albumit</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_photos_txt">Valitse kuvat</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_single_photo_txt">Valitse kuva</string>
+    <string name="bsdk_license_cc_by">Määrite</string>
+    <string name="bsdk_license_cc_by_nc">Määrite Epäkaupallinen</string>
+    <string name="bsdk_license_cc_by_nc_nd">Määrite Epäkaupallinen Ei johdannaisteoksia</string>
+    <string name="bsdk_license_cc_by_nc_sa">Määrite Epäkaupallinen Jaa samoin</string>
+    <string name="bsdk_license_cc_by_nd">Määrite Ei johdannaisteoksia</string>
+    <string name="bsdk_license_cc_by_sa">Määrite Jaa samoin</string>
+    <string name="bsdk_license_no_use_at_all">Käyttöä ei sallita ilman omistajan erityistä lupaa.</string>
+    <string name="bsdk_location_filter_dialog_city_empty_error">Valitse kelvollinen kaupunki</string>
+    <string name="bsdk_location_filter_dialog_city_label">Kaupunki</string>
+    <string name="bsdk_location_filter_dialog_country_label">Maa</string>
+    <string name="bsdk_location_filter_dialog_done_btn_label">Valmis</string>
+    <string name="bsdk_location_filter_dialog_failed_to_load_error">Sijaintitietojen lataaminen epäonnistui. Yritä myöhemmin uudelleen.</string>
+    <string name="bsdk_location_filter_dialog_state_label">Osavaltio</string>
+    <string name="bsdk_location_filter_dialog_title_label">Sijainti</string>
+    <string name="bsdk_location_filter_dialog_type_city_name_label">Kirjoita kaupungin nimi</string>
+    <string name="bsdk_msg_image_missing">msg_image_missing-behance-addcontent</string>
+    <string name="bsdk_publish_project_from_cc_invalid_file_type">%1$s on virheellinen tiedostotyyppi. Sallittuja ovat vain tiedostotyypit %2$s.</string>
+    <string name="bsdk_publish_project_from_cc_invalid_image_size">%1$s ei vastaa kokovaatimuksia. Tiedoston enimmäiskoko on %2$s.</string>
+    <string name="bsdk_publish_project_service_failure_notification_msg">Projektia ei voi lähettää. %1$s. Tarkista verkkoyhteys ja yritä uudelleen.</string>
+    <string name="bsdk_publish_project_service_failure_notification_ticker">Projektia Behancessa julkaistaessa ilmeni virhe.</string>
+    <string name="bsdk_publish_project_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_text">Projektia julkaistaan</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_publish_on_twitter_msg">Tutustu uuteen projektiini \@Behance-portfoliossani: %1$s</string>
+    <string name="bsdk_publish_project_service_success_notification_text">Näytä julkaistu projekti napauttamalla tätä</string>
+    <string name="bsdk_publish_project_service_success_notification_ticker">Projekti on julkaistu Behancessa.</string>
+    <string name="bsdk_publish_project_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_unknown_failure_notification_msg">Projektiasi ei tällä hetkellä voi lähettää. Tarkista verkkoyhteys ja yritä uudelleen.</string>
+    <string name="bsdk_publish_results_view_behance_btn_label">NÄYTÄ BEHANCESSA</string>
+    <string name="bsdk_publish_results_view_desc_label">Käy Behancessa, jossa voit tarkastella työstäsi annettua palautetta\n ja jakaa sen muun muassa Twitterissä ja Facebookissa.</string>
+    <string name="bsdk_publish_results_view_title_label">Työsi on julkaistu!</string>
+    <string name="bsdk_publish_results_view_titlebar_back_nav_content_desc">Takaisin</string>
+    <string name="bsdk_publish_results_view_titlebar_title_label">Julkaise</string>
+    <string name="bsdk_publish_wip_image_required_error_msg">Julkaistavaa kuvaa ladattaessa ilmeni ongelma. Tarkista kuva ja yritä uudelleen.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_msg">Käynnissä olevaa työtä ei voi lähettää. %1$s. Tarkista verkkoyhteys ja yritä uudelleen.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_ticker">Käynnissä olevaa työtä Behancessa julkaistaessa ilmeni virhe.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_text">Työn julkaiseminen käynnissä</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_publish_on_twitter_msg">Tutustu uuteen työhöni \@Behance-portfoliossani: %1$s</string>
+    <string name="bsdk_publish_wip_service_success_notification_text">Näytä julkaistu käynnissä oleva työ napauttamalla tätä</string>
+    <string name="bsdk_publish_wip_service_success_notification_ticker">Käynnissä oleva työ on julkaistu Behancessa.</string>
+    <string name="bsdk_publish_wip_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_unknown_failure_notification_msg">Käynnissä olevaa työtä ei tällä hetkellä voi lähettää. Tarkista verkkoyhteys ja yritä uudelleen.</string>
+    <string name="bsdk_search_filters_dialog_custom_actionbar_back_nav_default_txt">Takaisin</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_body">Kirjaudu Facebookiin ennen jatkamista.</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_cancel_btn_label">Peruuta</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_title">Kirjaudu Facebookiin</string>
+    <string name="bsdk_social_account_fb_auth_failure">Facebook-todennuksen aikana ilmeni virhe. Yritä myöhemmin uudelleen.</string>
+    <string name="bsdk_social_account_fb_auth_permissions_failure">Käyttöoikeudet eivät riitä sisällön jakamiseen Facebookissa.</string>
+    <string name="bsdk_social_account_twitter_login_authentication_failure">Twitter-todennuksen aikana ilmeni virhe. Yritä myöhemmin uudelleen.</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_body">Kirjaudu Twitteriin ennen jatkamista.</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_cancel_btn_label">Peruuta</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_title">Kirjaudu Twitteriin</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_body">Haluatko varmasti poistaa Facebook-tilin liitoksen?</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_cancel_btn_label">Peruuta</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_title">Poista Facebook-tilin liitos</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_body">Haluatko varmasti poistaa Twitter-tilin liitoksen?</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_cancel_btn_label">Peruuta</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_title">Poista Twitter-tilin liitos</string>
+    <string name="bsdk_sort_option_featured">Esittelyssä</string>
+    <string name="bsdk_sort_option_most_appreciated">Arvostetuimmat</string>
+    <string name="bsdk_sort_option_most_discussed">Puhutuimmat</string>
+    <string name="bsdk_sort_option_most_followed">Seuratuimmat</string>
+    <string name="bsdk_sort_option_most_recent">Viimeisimmät</string>
+    <string name="bsdk_sort_option_most_relevant">Olennaisimmat</string>
+    <string name="bsdk_sort_option_most_viewed">Katsotuimmat</string>
+    <string name="bsdk_wip_publish_view_adult_content_text">Sisältää aikuissisältöä</string>
+    <string name="bsdk_wip_publish_view_publish_initiated_msg">Käynnissä olevan työn julkaiseminen on käynnissä. Tarkista edistyminen tilariviltä.</string>
+    <string name="bsdk_wip_publish_view_publish_invalid_tag_msg">Tunnisteissa voi olla vain aakkosnumeerisia merkkejä välilyöntien kanssa tai ilman niitä.</string>
+    <string name="bsdk_wip_publish_view_publish_required_fields_missing_msg">Täytä kaikki pakolliset kentät</string>
+    <string name="bsdk_wip_publish_view_publish_service_initialize_error_msg">Palvelua käynnistettäessä ilmeni ongelma. Yritä myöhemmin uudelleen.</string>
+    <string name="bsdk_wip_publish_view_share_on_fb_content_desc">Jaa Facebookissa</string>
+    <string name="bsdk_wip_publish_view_share_on_twitter_content_desc">Jaa Twitterissä</string>
+    <string name="bsdk_wip_publish_view_share_on_txt">JAA KOHTEESSA:</string>
+    <string name="bsdk_wip_publish_view_titlebar_action_btn_publish_label">Julkaise</string>
+    <string name="bsdk_wip_publish_view_titlebar_back_nav_content_desc">Takaisin</string>
+    <string name="bsdk_wip_publish_view_titlebar_title_publish_label">Tiedot</string>
+    <string name="bsdk_wip_publish_view_wip_desc_hint">Pyydä palautetta</string>
+    <string name="bsdk_wip_publish_view_wip_name_hint">Lisää nimi</string>
+    <string name="bsdk_wip_publish_view_wip_tags_hint">pilkku, eroteltu, nimiöt</string>
+    <string name="bsdk_wip_publish_view_wips_loading_label">Ladataan…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="by">Tekijä: </string>
+    <string name="cancel">PERUUTA</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="cancelLogIn">CANCEL</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="cc_title">Creative Cloud</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="clear_history">TYHJENNÄ</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="collaboration_create_invite_error">Ei voitu luoda kutsua</string>
+    <string name="collaboration_create_invite_error_network">Ei voitu muodostaa yhteyttä verkkoon</string>
+    <string name="collaboration_delete_failure">Yhteistyökumppanin poistaminen epäonnistui</string>
+    <string formatted="false" name="collaboration_delete_prompt">Poistetaanko %s? </string>
+    <string name="collaboration_error">Virhe yhteistyökumppaneita noudettaessa</string>
+    <string name="collaboration_leave_failure">Kansiosta poistuminen ei onnistu</string>
+    <string formatted="false" name="collaboration_leave_prompt">Poistutaanko kohteesta %s? </string>
+    <string name="collaborator">Yhteistyökumppanit</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="color_component_activity_actionbar_title">Väri</string>
+    <string name="color_picker_actionbar_title">Värimuokkain</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="com_facebook_image_download_unknown_error">Odottamaton virhe kuvan palvelimesta lataamisen aikana.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="com_facebook_internet_permission_error_message">WebView-kirjautumiseen vaaditaan INTERNET-oikeudet.</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest-virhe</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="com_facebook_like_button_liked">Tykätty</string>
+    <string name="com_facebook_like_button_not_liked">Tykkää</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="com_facebook_loading">Ladataan…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="com_facebook_loginview_cancel_action">Peruuta</string>
+    <string name="com_facebook_loginview_log_in_button">Kirjaudu sisään</string>
+    <string name="com_facebook_loginview_log_in_button_long">Kirjaudu sisään Facebookin avulla</string>
+    <string name="com_facebook_loginview_log_out_action">Kirjaudu ulos</string>
+    <string name="com_facebook_loginview_log_out_button">Kirjaudu ulos</string>
+    <string name="com_facebook_loginview_logged_in_as">Sisäänkirjautunut nimellä: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Sisäänkirjautunut Facebookin avulla</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="com_facebook_requesterror_password_changed">Facebook-salasanasi on muuttunut. Kirjaudu tähän sovellukseen ja yhdistä Facebook-tilisi uudelleen.</string>
+    <string name="com_facebook_requesterror_permissions">Sovelluksella ei ole oikeuksia tämän toiminnon suorittamiseen. Jos haluat muuttaa käyttöoikeuksia, yritä kirjautua sovellukseen uudelleen.</string>
+    <string name="com_facebook_requesterror_reconnect">Kirjaudu tähän sovellukseen ja yhdistä Facebook-tilisi uudelleen.</string>
+    <string name="com_facebook_requesterror_relogin">Kirjaudu tähän sovellukseen ja yhdistä Facebook-tilisi uudelleen.</string>
+    <string name="com_facebook_requesterror_web_login">Facebook-tilisi on lukittu. Kirjaudu osoitteeseen www.facebook.com ennen jatkamista.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="com_facebook_send_button_text">Lähetä</string>
+    <string name="com_facebook_share_button_text">Jaa</string>
+    <string name="com_facebook_tooltip_default">Uutta! Sinä päätät – valitse, mitä haluat jakaa sovellusten kanssa.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="comments_error">Virhe kommentteja noudettaessa</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="copy_themes">Kopioi teemat</string>
+    <string name="copy_to">Kopioi kohteeseen</string>
+    <string name="create">Luo</string>
+    <string name="create_library">Luo kirjasto</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="creative_cloud">Creative Cloud</string>
+    <string name="creative_sdk">Creative SDK</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="delete">Poista</string>
+    <string name="edit">MUOKKAA</string>
+    <string name="edit_camel">Muokkaa</string>
+    <string name="edit_color">Muokkaa väriä</string>
+    <string name="edit_name">Muokkaa nimeä</string>
+    <string name="edit_theme">Muokkaa teemaa</string>
+    <string name="empty_color_list_line1">Aloita värien ja teemojen kerääminen</string>
+    <string name="empty_color_list_line2">tähän kirjastoon ja käytä niitä muiden</string>
+    <string name="empty_color_list_line3">mobiili- ja työpöytäsovellusten välillä</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="hex">Heksadesimaali</string>
+    <string name="history">Historia</string>
+    <string name="history_cleared">Historia tyhjennetty</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="launch_header">KÄYNNISTÄ KOMPONENTIT</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="lib_row_desc_p_p">%1$d väriä, %2$d teemaa</string>
+    <string name="lib_row_desc_p_s">%1$d väriä, 1 teema</string>
+    <string name="lib_row_desc_s_p">1 väri, %1$d teemaa</string>
+    <string name="lib_row_desc_s_s">1 väri, 1 teema</string>
+    <string name="libraries_tab_heading">OMAT KIRJASTOT</string>
+    <string name="loading">Ladataan…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="logIn">LOGIN</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="messenger_send_button_text">Lähetä</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="my_library">Oma kirjasto</string>
+    <string name="new_name">Uusi nimi</string>
+    <string name="no_colors">Ei värejä</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="notification_title">Ilmoitukset</string>
+    <string name="photo_asset_browser_empty_folder">Sinulla ei vielä ole valokuvia</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="picker_tab_heading">VALITSIN</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="proxy_passwd_label">PASSWORD</string>
+    <string name="proxy_username_label">USER NAME</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="psmix_download_statement">Lataa Adobe Photoshop Mix</string>
+    <string name="psmix_files_empty">Photoshop Mix tarjoaa Adobe Photoshopin tehon kätevässä\r\nmobiilisovelluksessa, ja sen avulla valokuvien muokkaaminen Android-laitteessa on helppoa ja hauskaa.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="remove">POISTA</string>
+    <string name="remove_camel">Poista</string>
+    <string name="remove_confirmation">Haluatko varmasti poistaa kohteen?</string>
+    <string name="rename">NIMEÄ UUDELLEEN</string>
+    <string name="rename_library">Nimeä kirjasto uudelleen</string>
+    <string name="rgb">RGB</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="search_query_hint">Haetaan…</string>
+    <string name="search_title">Hae</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="select_a_color">Valitse väri</string>
+    <string name="select_library">Valitse kirjasto</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="selection_header">Valitut tiedostot</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="storage_asset_browser_empty_folder">Sinulla ei vielä ole tiedostoja</string>
+    <string name="storage_cancel_selection">PERUUTA</string>
+    <string name="storage_create_folder_already_exists_error">Kansio on jo järjestelmässä</string>
+    <string name="storage_create_folder_authention_requires_error">Edellyttää todennusta.</string>
+    <string name="storage_create_folder_no_error">""</string>
+    <string name="storage_empty_folder_upload_files_title">LATAA TIEDOSTOJA PALVELUUN</string>
+    <string name="storage_open">AVAA</string>
+    <string name="storage_open_files">AVAA</string>
+    <string name="storage_open_multiple_files">AVAA (%s)</string>
+    <string name="storage_open_multiple_files_99">AVAA (yli 99)</string>
+    <string name="storage_settigs_usuage_calculating">(käyttötietoja lasketaan)</string>
+    <string name="storage_settings_edit_cc_settings">Muokkaa CC:n asetuksia</string>
+    <string name="storage_settings_get_more_storage">Hanki lisää tallennustilaa</string>
+    <string formatted="false" name="storage_settings_storage_usage">%s käytössä (%s/%s Gt)</string>
+    <string name="storage_settings_switch_accounts">Vaihda tiliä</string>
+    <string name="storage_upload_btn_title">LATAA PALVELUUN (%s)</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="syncing_library">Synkronoidaan kirjastoja…</string>
+    <string name="theme_picker_actionbar_title">Teemavalitsin</string>
+    <string name="themes_tab_heading">TEEMAT</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="title_activity_display_message">My Message</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string formatted="false" name="warning_msg">The server http://%s requires a username and password. The server says : %s</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fi/values-fi.xml -->
+    <eat-comment/>
+    <string name="wheel">Pyörä</string>
+</resources>

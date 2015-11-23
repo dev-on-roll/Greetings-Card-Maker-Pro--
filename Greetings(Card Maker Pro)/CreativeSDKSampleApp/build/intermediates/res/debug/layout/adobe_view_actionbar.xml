@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="@dimen/ActionBar_Size"
+    android:contentInsetStart="72dp"
+    app:contentInsetStart="72dp"
+    android:id="@+id/adobe_actionbar_toolbar"
+    app:popupTheme="@style/AdobeCSDKPopUpStyle"
+    android:background="@color/actionbar_background"
+    app:theme="@style/AdobeCSDKThemeActionBar"
+    >
+
+</android.support.v7.widget.Toolbar><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_view_actionbar.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/layout/adobe_view_actionbar.xml -->

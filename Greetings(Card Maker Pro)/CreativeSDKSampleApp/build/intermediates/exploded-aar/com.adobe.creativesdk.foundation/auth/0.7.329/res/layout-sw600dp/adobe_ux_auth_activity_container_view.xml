@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <include
+        layout="@layout/actionbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <FrameLayout
+        android:id="@+id/creativesdk_foundation_auth_fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+</LinearLayout>
+
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/layout-sw600dp/adobe_ux_auth_activity_container_view.xml -->

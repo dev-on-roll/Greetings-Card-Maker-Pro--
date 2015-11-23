@@ -1,0 +1,161 @@
+<ViewFlipper xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bsdkPublishProjectPreviewAndEditViewFlipper"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bsdk_add_project_edit_preview_fragment_viewflipper_background_color" >
+
+    <LinearLayout
+        android:id="@+id/bsdkPublishProjectPreviewLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bsdk_publish_project_view_bg_color"
+        android:orientation="vertical" >
+
+        <include layout="@layout/bsdk_actionbar_custom_publish_project_preview_fragment" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <ListView
+                android:id="@+id/bsdkPublishProjectPreviewProjectModulesListView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:clipToPadding="false"
+                android:divider="@android:color/transparent"
+                android:gravity="center"
+                android:paddingBottom="@dimen/bsdk_add_project_preview_project_fragment_listview_top_bottom_padding"
+                android:paddingTop="@dimen/bsdk_add_project_preview_project_fragment_listview_top_bottom_padding"
+                android:scrollbarStyle="outsideOverlay" />
+
+            <ProgressBar
+                android:id="@+id/bsdkPublishProjectPreviewPrgressBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bsdkPublishProjectEditLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bsdk_add_project_edit_fragment_background_color"
+        android:orientation="vertical" >
+
+        <include layout="@layout/bsdk_actionbar_custom_publish_project" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <LinearLayout
+                android:id="@+id/bsdkPublishProjectEditEmptyProjectMessageLayout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="@dimen/bsdk_add_project_edit_fragment_option_height"
+                android:background="@color/bsdk_add_project_edit_fragment_empty_project_background_color"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                    android:id="@+id/bsdkPublishProjectEditEmptyProjectMessage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="15dp"
+                    android:gravity="center"
+                    android:text="@string/bsdk_add_project_edit_fragment_empty_project_message_txt"
+                    android:textColor="@color/bsdk_add_project_edit_fragment_empty_project_message_txt_color"
+                    android:textSize="@dimen/bsdk_add_project_edit_fragment_empty_project_message_txt_size" />
+
+                <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                    android:id="@+id/bsdkPublishProjectEditEmptyProjectActionMessage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:text="@string/bsdk_add_project_edit_fragment_empty_project_use_action_below_msg"
+                    android:textColor="@color/bsdk_add_project_edit_fragment_empty_project_use_action_below_msg_txt_color"
+                    android:textSize="@dimen/bsdk_add_project_edit_fragment_empty_project_use_action_below_msg_txt_size" />
+            </LinearLayout>
+
+            <com.behance.sdk.mobeta.android.dslv.DragSortListView
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:dslv="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/bsdkPublishProjectEditProjectModulesListView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:choiceMode="multipleChoice"
+                android:clipToPadding="false"
+                android:divider="@color/bsdk_add_project_edit_fragment_list_item_divider_color"
+                android:dividerHeight="1px"
+                android:paddingBottom="@dimen/bsdk_add_project_edit_fragment_option_height"
+                android:scrollbarStyle="outsideOverlay"
+                dslv:click_remove_id="@id/add_project_edit_fragment_delete_icon"
+                dslv:collapsed_height="0px"
+                dslv:drag_enabled="true"
+                dslv:drag_handle_id="@id/drag_handle"
+                dslv:drag_scroll_start="0.33"
+                dslv:drag_start_mode="onDown"
+                dslv:float_alpha="0.6"
+                dslv:remove_animation_duration="300"
+                dslv:remove_enabled="true"
+                dslv:remove_mode="clickRemove"
+                dslv:slide_shuffle_speed="0.3" />
+
+            <LinearLayout
+                android:id="@+id/bsdkPublishProjectEditOptionsLayout"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/bsdk_add_project_edit_fragment_option_height"
+                android:layout_alignParentBottom="true"
+                android:background="@color/bsdk_add_project_edit_fragment_options_backgroud"
+                android:gravity="center"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/bsdkPublishProjectEditOptionCreativeCloud"
+                    android:layout_width="@dimen/bsdk_add_project_edit_fragment_edit_options_icon_width"
+                    android:layout_height="@dimen/bsdk_add_project_edit_fragment_edit_options_icon_height"
+                    android:layout_marginRight="@dimen/bsdk_add_project_edit_fragment_option_padding"
+                    android:contentDescription="@string/bsdk_msg_image_missing"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/bsdk_icon_add_project_edit_fragment_cloud" />
+
+                <ImageView
+                    android:id="@+id/bsdkPublishProjectEditOptionCamera"
+                    android:layout_width="@dimen/bsdk_add_project_edit_fragment_edit_options_icon_width"
+                    android:layout_height="@dimen/bsdk_add_project_edit_fragment_edit_options_icon_height"
+                    android:layout_marginRight="@dimen/bsdk_add_project_edit_fragment_option_padding"
+                    android:contentDescription="@string/bsdk_msg_image_missing"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/bsdk_icon_add_project_edit_fragment_camera" />
+
+                <ImageView
+                    android:id="@+id/bsdkPublishProjectEditOptionAlbums"
+                    android:layout_width="@dimen/bsdk_add_project_edit_fragment_edit_options_icon_width"
+                    android:layout_height="@dimen/bsdk_add_project_edit_fragment_edit_options_icon_height"
+                    android:layout_marginRight="@dimen/bsdk_add_project_edit_fragment_option_padding"
+                    android:contentDescription="@string/bsdk_msg_image_missing"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/bsdk_icon_add_project_edit_fragment_picture" />
+
+                <ImageView
+                    android:id="@+id/bsdkPublishProjectEditOptionEmbed"
+                    android:layout_width="@dimen/bsdk_add_project_edit_fragment_edit_options_icon_width"
+                    android:layout_height="@dimen/bsdk_add_project_edit_fragment_edit_options_icon_height"
+                    android:contentDescription="@string/bsdk_msg_image_missing"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/bsdk_icon_add_project_edit_fragment_embed" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_above="@id/bsdkPublishProjectEditOptionsLayout"
+                android:background="@color/bsdk_add_project_edit_fragment_options_divider_color" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</ViewFlipper><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_dialog_fragment_publish_project_preview.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/layout/bsdk_dialog_fragment_publish_project_preview.xml -->

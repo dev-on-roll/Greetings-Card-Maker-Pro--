@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/storage_assetcell_background_card"
+    >
+
+    <ImageView
+
+        android:id="@+id/asset_image_view"
+
+        android:scaleType="centerCrop"
+        android:adjustViewBounds="true"
+        android:layout_width="@dimen/asset_multipage_gridview_column_width"
+        android:layout_height="@dimen/asset_multipage_gridview_column_height"
+        />
+
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_multipage_autorecycler_cellview.xml -->

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">Toutes les applications</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">Toutes les catégories ont été exclues</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">OBTENIR</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">CATEGORIES</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">TRIER</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">Découvrez la bibliothèque d’applications créative compatibles et connectées avec Creative Cloud</string>
+    <string name="IDS_APPLIBRARY_ERROR">La bibliothèque d’applications n’est pas disponible actuellement. Revenez plus tard pour découvrir notre bibliothèque d’applications créatives qui s’agrandit sans cesse</string>
+    <string name="IDS_APPLIBRARY_FEATURED">Recommandés</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">Meilleure notation</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">Les plus récents</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">Aucune application trouvée dans cette catégorie</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">Aucune application trouvée.</string>
+    <string name="IDS_APPLIBRARY_TITLE">Bibliothèque d’app</string>
+    <string name="IDS_APP_GET">INSTALLER</string>
+    <string name="IDS_APP_OPEN">OUVRIR</string>
+    <string name="IDS_BY">de</string>
+    <string name="IDS_CATEGORY_AUDIO">Audio</string>
+    <string name="IDS_CATEGORY_CAPTURE">Capture</string>
+    <string name="IDS_CATEGORY_COMMUNITY">Communauté</string>
+    <string name="IDS_CATEGORY_DESIGN">Création</string>
+    <string name="IDS_CATEGORY_DRAWING">dessin</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">Illustration</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">Retouche d’image</string>
+    <string name="IDS_CATEGORY_PHOTOS">Photos</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">Photo et vidéo</string>
+    <string name="IDS_CATEGORY_PRESENTATION">Présentation</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">Productivité</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">Prototypage</string>
+    <string name="IDS_CATEGORY_SOCIAL">Social</string>
+    <string name="IDS_CATEGORY_STORAGE">Stockage</string>
+    <string name="IDS_CATEGORY_STORY">Narration</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">Design UI/UX</string>
+    <string name="IDS_CATEGORY_UTILITY">Utilitaire</string>
+    <string name="IDS_CATEGORY_VIDEO">Vidéo</string>
+    <string name="IDS_PLEASE_WAIT">Patientez…</string>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">Communications</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">Compilations</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">Concours</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">dessin</string>
+    <string name="IDS_SUBCATEGORY_EDITING">Modification</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">Adresse électronique</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">Retours</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">Partage de fichiers</string>
+    <string name="IDS_SUBCATEGORY_FONTS">Polices</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">Carrières</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">Génération</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">Motifs</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">Retouche de photos</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">Photographie</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">Portfolio</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">Impression</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">Prototypage</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">Réseau social</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">Narration d’histoires</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">Vecteurs</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">Sites Web</string>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">Modifier dans</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="adobe_360_capture">Capturer</string>
+    <string name="adobe_360_edit">Modifier</string>
+    <string name="adobe_360_embed">Intégrer</string>
+    <string name="hello_world">Hello World!</string>
+</resources>

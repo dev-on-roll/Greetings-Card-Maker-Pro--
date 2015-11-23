@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/values-w480dp/integers.xml -->
+    <eat-comment/>
+    <integer name="adobe_library_collections_num_columns">3</integer>
+    <integer name="adobe_library_items_color_section_columns">4</integer>
+    <integer name="adobe_library_items_colortheme_section_columns">2</integer>
+    <integer name="adobe_library_items_columns_GCM">12</integer>
+    <integer name="adobe_library_items_default_columns">3</integer>
+    <integer name="adobe_library_items_image_section_columns">3</integer>
+</resources>

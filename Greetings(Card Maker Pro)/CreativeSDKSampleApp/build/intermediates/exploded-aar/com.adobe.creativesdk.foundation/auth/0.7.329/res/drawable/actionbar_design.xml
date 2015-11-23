@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Bottom Line -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/actionbar_border" />
+        </shape>
+    </item>
+    <!--<item>-->
+
+        <!--<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">-->
+            <!--<gradient-->
+                <!--android:startColor="@color/actionbar_border"-->
+                <!--android:endColor="@color/actionbar_border"-->
+                <!--android:angle="90"/>-->
+        <!--</shape>-->
+    <!--</item>-->
+
+    <!-- Color of your action bar -->
+    <item android:bottom="@dimen/ActionBar_Bottom_Border_Size">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/actionbar_background" />
+        </shape>
+    </item>
+</layer-list><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/drawable/actionbar_design.xml -->

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <string name="Analogus">Benzer</string>
+    <string name="Complementary">Tamamlayıcı</string>
+    <string name="Compound">Bileşik</string>
+    <string name="Custom">Özel</string>
+    <string name="Monochromatic">Tek Renkli</string>
+    <string name="OK">Tamam</string>
+    <string name="Shades">Gölgeler</string>
+    <string name="Triad">Üçlü</string>
+    <string name="add_color">Renk Ekle</string>
+    <string name="add_theme">Tema Ekle</string>
+    <string name="all_colors">Tüm Renkler</string>
+    <string name="by">Hazırlayan: </string>
+    <string name="cancel">İPTAL</string>
+    <string name="clear_history">TEMİZLE</string>
+    <string name="color_component_activity_actionbar_title">Renk</string>
+    <string name="color_picker_actionbar_title">Renk Seçici</string>
+    <string name="copy_themes">Temaları Kopyala</string>
+    <string name="copy_to">Şuraya Kopyala:</string>
+    <string name="create">Oluştur</string>
+    <string name="create_library">Kitaplık Oluştur</string>
+    <string name="delete">Sil</string>
+    <string name="edit">DÜZENLE</string>
+    <string name="edit_camel">Düzenle</string>
+    <string name="edit_color">Rengi Düzenle</string>
+    <string name="edit_name">Adı Düzenle</string>
+    <string name="edit_theme">Temayı Düzenle</string>
+    <string name="empty_color_list_line1">Diğer mobil ve masaüstü uygulamalarda kullanmak</string>
+    <string name="empty_color_list_line2">için bu kitaplıkta renkleri ve</string>
+    <string name="empty_color_list_line3">koleksiyonları toplamaya başlayın.</string>
+    <string name="hello_blank_fragment">Burada boş bir parça var</string>
+    <string name="hex">Altıgen</string>
+    <string name="history">Geçmiş</string>
+    <string name="history_cleared">Geçmiş Temizlendi</string>
+    <string name="lib_row_desc_p_p">%1$d Renk, %2$d Tema</string>
+    <string name="lib_row_desc_p_s">%1$d Renk, 1 Tema</string>
+    <string name="lib_row_desc_s_p">1 Renk, %1$d Tema</string>
+    <string name="lib_row_desc_s_s">1 Renk, 1 Tema</string>
+    <string name="libraries_tab_heading">KİTAPLIKLARIM</string>
+    <string name="loading">Yükleniyor…</string>
+    <string name="my_library">Kitaplığım</string>
+    <string name="new_name">Yeni Ad</string>
+    <string name="no_colors">Renk Yok</string>
+    <string name="picker_tab_heading">SEÇİCİ</string>
+    <string name="remove">KALDIR</string>
+    <string name="remove_camel">Kaldır</string>
+    <string name="remove_confirmation">Kaldırmak istediğinizden emin misiniz?</string>
+    <string name="rename">YENİDEN ADLANDIR</string>
+    <string name="rename_library">Kitaplığı Yeniden Adlandır</string>
+    <string name="rgb">RGB</string>
+    <string name="select_a_color">Renk Seçin</string>
+    <string name="select_library">Kitaplık Seç</string>
+    <string name="syncing_library">Kitaplıklar Senkronize Ediliyor…</string>
+    <string name="theme_picker_actionbar_title">Tema Seçici</string>
+    <string name="themes_tab_heading">TEMALAR</string>
+    <string name="wheel">Tekerlek</string>
+</resources>

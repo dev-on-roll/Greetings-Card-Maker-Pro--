@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/library_list_logged_out_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:paddingTop="@dimen/empty_color_list_top_padding">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/empty_color_list_large_text_bottom_padding"
+        android:text="Logged Out"
+        android:textSize="@dimen/empty_color_list_text_size_large"
+        android:textColor="@color/empty_color_list_text_color"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="please log in to access"
+        android:textSize="@dimen/empty_color_list_text_size_small"
+        android:textColor="@color/empty_color_list_text_color"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="colors and themes saved in"
+        android:textSize="@dimen/empty_color_list_text_size_small"
+        android:textColor="@color/empty_color_list_text_color"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="your creative cloud libraries"
+        android:textSize="@dimen/empty_color_list_text_size_small"
+        android:textColor="@color/empty_color_list_text_color"/>
+</LinearLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/layout/creativesdkcolor_logged_out_view.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/layout/creativesdkcolor_logged_out_view.xml -->

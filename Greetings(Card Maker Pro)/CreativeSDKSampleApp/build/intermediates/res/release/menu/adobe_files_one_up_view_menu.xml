@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/cc_action_view_file_details"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/IDS_ACTION_VIEW_FILE_DETAILS"/>
+
+
+
+    <item
+        android:id="@+id/cc_adobe_asset_one_up_view_edit_annotations_menu"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:title="@string/IDS_ACTION_VIEW_EDIT_ANNOTATION"></item>
+
+    <item
+        android:id="@+id/cc_adobe_asset_one_up_view_comments_menu"
+        android:orderInCategory="200"
+        app:showAsAction="ifRoom"
+        android:title="@string/IDS_ACTION_VIEW_COMMENT"></item>
+
+
+    <item
+        android:id="@+id/cc_adobe_asset_one_up_view_publish_to_behance_menu"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/IDS_ACTION_VIEW_PUBLISH_TO_BEHANCE"></item>
+
+
+</menu><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/menu/adobe_files_one_up_view_menu.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/menu/adobe_files_one_up_view_menu.xml -->

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/values-pt-rBR/strings.xml -->
+    <eat-comment/>
+    <string name="Analogus">Análogo</string>
+    <string name="Complementary">Complementar</string>
+    <string name="Compound">Composto</string>
+    <string name="Custom">Personalizado</string>
+    <string name="Monochromatic">Monocromático</string>
+    <string name="OK">OK</string>
+    <string name="Shades">Sombras</string>
+    <string name="Triad">Tríade</string>
+    <string name="add_color">Adicionar cor</string>
+    <string name="add_theme">Adicionar tema</string>
+    <string name="all_colors">Todas as cores</string>
+    <string name="by">Por: </string>
+    <string name="cancel">CANCELAR</string>
+    <string name="clear_history">LIMPAR</string>
+    <string name="color_component_activity_actionbar_title">Cor</string>
+    <string name="color_picker_actionbar_title">Seletor de cores</string>
+    <string name="copy_themes">Copiar temas</string>
+    <string name="copy_to">Copiar para</string>
+    <string name="create">Criar</string>
+    <string name="create_library">Criar biblioteca</string>
+    <string name="delete">Excluir</string>
+    <string name="edit">EDITAR</string>
+    <string name="edit_camel">Editar</string>
+    <string name="edit_color">Editar cor</string>
+    <string name="edit_name">Editar nome</string>
+    <string name="edit_theme">Editar tema </string>
+    <string name="empty_color_list_line1">Iniciar a coleta de cores e temas nesta</string>
+    <string name="empty_color_list_line2">biblioteca para usá-las em outros</string>
+    <string name="empty_color_list_line3">aplicativos para dispositivos móveis  desktop </string>
+    <string name="hello_blank_fragment">Fragmento em branco</string>
+    <string name="hex">Hex</string>
+    <string name="history">Histórico</string>
+    <string name="history_cleared">Histórico limpo</string>
+    <string name="lib_row_desc_p_p">%1$d Cores, %2$d Temas</string>
+    <string name="lib_row_desc_p_s">%1$d Cores, 1 Tema</string>
+    <string name="lib_row_desc_s_p">1 Cor, %1$d Temas</string>
+    <string name="lib_row_desc_s_s">1 Cor, 1 Tema</string>
+    <string name="libraries_tab_heading">MINHAS BIBLIOTECAS</string>
+    <string name="loading">Carregando…</string>
+    <string name="my_library">Minha biblioteca</string>
+    <string name="new_name">Novo nome</string>
+    <string name="no_colors">Nenhuma cor</string>
+    <string name="picker_tab_heading">SELETOR</string>
+    <string name="remove">REMOVER</string>
+    <string name="remove_camel">Remover</string>
+    <string name="remove_confirmation">Tem certeza de que deseja remover?</string>
+    <string name="rename">RENOMEAR</string>
+    <string name="rename_library">Renomear a biblioteca</string>
+    <string name="rgb">RGB</string>
+    <string name="select_a_color">Selecionar uma cor</string>
+    <string name="select_library">Selecionar Biblioteca</string>
+    <string name="syncing_library">Sincronizando bibliotecas…</string>
+    <string name="theme_picker_actionbar_title">Seletor de tema</string>
+    <string name="themes_tab_heading">TEMAS</string>
+    <string name="wheel">Roda</string>
+</resources>

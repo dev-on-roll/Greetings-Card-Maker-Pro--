@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bsdk_image_cropper_bg_color"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/bsdkCropImageControlsWrapper"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:visibility="gone" >
+
+        <ImageView
+            android:id="@+id/bsdkCropImageCancel"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/bsdk_generic_image_content_desc"
+            android:paddingLeft="@dimen/bsdk_image_cropper_icon_side_padding"
+            android:paddingRight="@dimen/bsdk_image_cropper_icon_side_padding"
+            android:src="@drawable/bsdk_icon_action_cancel" />
+
+        <ImageView
+            android:id="@+id/bsdkCropImageOk"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/bsdk_generic_image_content_desc"
+            android:paddingLeft="@dimen/bsdk_image_cropper_icon_side_padding"
+            android:paddingRight="@dimen/bsdk_image_cropper_icon_side_padding"
+            android:src="@drawable/bsdk_icon_action_accept" />
+    </RelativeLayout>
+
+    <com.behance.sdk.edmodo.cropper.CropImageView
+        android:id="@+id/crop_image_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"/>
+
+</LinearLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_dialog_fragment_image_cropper.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/layout/bsdk_dialog_fragment_image_cropper.xml -->

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <size
+        android:height="@dimen/vbar_thumb_height"
+        android:width="@dimen/vbar_thumb_width"/>
+    <corners
+        android:radius="2dp"/>
+    <solid
+        android:color="#fff"/>
+</shape><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/drawable/creativesdkcolor_vbar_thumb.xml -->

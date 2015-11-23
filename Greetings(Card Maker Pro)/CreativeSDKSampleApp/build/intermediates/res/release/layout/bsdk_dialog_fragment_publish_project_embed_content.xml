@@ -1,0 +1,90 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="@dimen/bsdk_generic_alert_dialog_width"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bsdk_shape_generic_alert_dialog_content_bg" >
+
+    <com.behance.sdk.ui.customviews.BehanceSDKTextView
+        android:id="@+id/bsdkAddProjectEmbedContentDialogHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bsdk_shape_generic_alert_dialog_title_bg"
+        android:maxLines="2"
+        android:paddingBottom="@dimen/bsdk_generic_alert_dialog_title_top_bottom_padding"
+        android:paddingLeft="@dimen/bsdk_generic_alert_dialog_title_left_right_padding"
+        android:paddingRight="@dimen/bsdk_generic_alert_dialog_title_left_right_padding"
+        android:paddingTop="@dimen/bsdk_generic_alert_dialog_title_top_bottom_padding"
+        android:text="@string/bsdk_add_project_embed_content_title"
+        android:textColor="@color/bsdk_generic_alert_dialog_title_text_color"
+        android:textSize="@dimen/bsdk_generic_alert_dialog_title_txt_size" />
+
+         <com.behance.sdk.ui.customviews.BehanceSDKEditText
+            android:id="@+id/bsdkAddProjectEmbedContentDialogContentTxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_below="@id/bsdkAddProjectEmbedContentDialogHeader"
+            android:layout_marginBottom="@dimen/bsdk_add_project_embed_content_dialog_edit_txt_bottom_margin"
+            android:layout_marginLeft="@dimen/bsdk_add_project_embed_content_dialog_edit_txt_left_margin"
+            android:layout_marginRight="@dimen/bsdk_add_project_embed_content_dialog_edit_txt_right_margin"
+            android:background="@drawable/bsdk_selector_edit_text_behance_blue"
+            android:hint="@string/bsdk_add_project_embed_content_edit_text_hint"
+            android:paddingBottom="@dimen/bsdk_add_project_embed_content_dialog_edit_txt_bottom_padding"
+            android:paddingTop="@dimen/bsdk_add_project_embed_content_dialog_edit_txt_top_padding"
+            android:singleLine="true"
+            android:imeOptions="flagNoFullscreen"
+            android:textColor="@color/bsdk_generic_alert_dialog_content_text_color"
+            android:textColorHint="@color/bsdk_add_project_embed_content_dialog_embed_content_text_hint_color"
+            android:textSize="@dimen/bsdk_generic_alert_dialog_content_txt_size" />
+        
+        
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bsdk_generic_alert_dialog_buttons_container_height"
+        android:layout_below="@id/bsdkAddProjectEmbedContentDialogContentTxt"
+        android:orientation="horizontal" >
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dip"
+            android:layout_alignParentTop="true"
+            android:background="?android:attr/dividerVertical" />
+
+        <View
+            android:id="@+id/bsdkAddProjectEmbedContentDialogDividerForTransparentButton"
+            android:layout_width="1dip"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="?android:attr/dividerVertical" />
+
+        <com.behance.sdk.ui.customviews.BehanceSDKButton
+            android:id="@+id/bsdkAddProjectEmbedContentDialogNotOKBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_toLeftOf="@id/bsdkAddProjectEmbedContentDialogDividerForTransparentButton"
+            android:background="@drawable/bsdk_selector_app_default_selection_bg"
+            android:text="@string/bsdk_generic_alert_dialog_cancel_btn_label"
+            android:textColor="@color/bsdk_generic_alert_dialog_buttons_text_color"
+            android:textSize="@dimen/bsdk_generic_alert_dialog_buttons_txt_size" />
+
+        <com.behance.sdk.ui.customviews.BehanceSDKButton
+            android:id="@+id/bsdkAddProjectEmbedContentDialogOKBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@id/bsdkAddProjectEmbedContentDialogDividerForTransparentButton"
+            android:background="@drawable/bsdk_selector_app_default_selection_bg"
+            android:text="@string/bsdk_generic_alert_dialog_ok_btn_label"
+            android:textColor="@color/bsdk_generic_alert_dialog_buttons_text_color"
+            android:textSize="@dimen/bsdk_generic_alert_dialog_buttons_txt_size" />
+    </RelativeLayout>
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_dialog_fragment_publish_project_embed_content.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/layout/bsdk_dialog_fragment_publish_project_embed_content.xml -->

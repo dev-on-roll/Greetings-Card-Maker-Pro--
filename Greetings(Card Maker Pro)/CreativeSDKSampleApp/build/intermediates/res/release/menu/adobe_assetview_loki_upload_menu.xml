@@ -1,0 +1,44 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/asset_browser_adobe_notification"
+        app:showAsAction="always"
+        android:title="@string/notification_title"
+        android:orderInCategory="1"></item>
+    <item
+        android:id="@+id/asset_browser_add_collaborator"
+        android:icon="@drawable/ic_people_black_24dp"
+        app:showAsAction="always"
+        android:title="@string/add_collaborator"
+        android:orderInCategory="1"></item>
+
+
+
+	<item
+		android:id="@+id/adobe_uxassetbrowser_loki_createnewfolder"
+		android:orderInCategory="200"
+		app:showAsAction="never"
+		android:title="@string/adobe_uxassetbrowser_create_new_folder" />
+
+    <item
+        android:id="@+id/adobe_uxassetbrowser_assets_view_edit_asset"
+        android:orderInCategory="200"
+        app:showAsAction="never"
+        android:title="@string/adobe_uxassetbrowser_action_edit_asset" />
+
+	<item
+		android:id="@+id/adobe_uxassetbrowser_loki_upload_btn"
+		android:orderInCategory="300"
+		app:showAsAction="never"
+		android:title="@string/UPLOAD_ASSET_BROWSER_BUTTON" />
+
+    <item
+        android:id="@+id/adobe_uxassetbrowser_loki_upload_from_camera"
+        android:orderInCategory="300"
+        app:showAsAction="never"
+        android:title="@string/UPLOAD_ASSET_FROM_CAMERA_BUTTON" />
+
+
+</menu><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/menu/adobe_assetview_loki_upload_menu.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/menu/adobe_assetview_loki_upload_menu.xml -->

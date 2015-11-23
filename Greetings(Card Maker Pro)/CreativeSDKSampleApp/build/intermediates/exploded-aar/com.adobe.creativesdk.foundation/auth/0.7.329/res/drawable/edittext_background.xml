@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        >
+        <shape>
+            <solid android:color="#D9DBDD" />
+        </shape>
+    </item>
+    <item android:bottom="1dp">
+        <shape>
+            <solid android:color="@color/actionbar_background" />
+        </shape>
+    </item>
+
+    <!-- main color  -->
+
+    <!-- draw another block to cut-off the left and right bars -->
+
+</layer-list><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/drawable/edittext_background.xml -->

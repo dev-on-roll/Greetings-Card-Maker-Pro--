@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values-ko-rKR/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">모든 앱</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">모든 범주가 제외되었습니다.</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">받기</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">범주</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">정렬</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">Creative Cloud와 호환 및 연결되는 앱 라이브러리에서 여러 다양하고 창의적인 앱을 만나보십시오</string>
+    <string name="IDS_APPLIBRARY_ERROR">앱 라이브러리를 현재 사용할 수 없습니다. 나중에 다시 확인하여 여러 다양하고 창의적인 앱을 살펴보십시오.</string>
+    <string name="IDS_APPLIBRARY_FEATURED">추천 항목</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">가장 높은 등급</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">가장 최근</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">이 카테고리에서 발견된 앱이 없습니다.</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">응용 프로그램을 찾을 수 없습니다.</string>
+    <string name="IDS_APPLIBRARY_TITLE">앱 라이브러리</string>
+    <string name="IDS_APP_GET">설치</string>
+    <string name="IDS_APP_OPEN">열기</string>
+    <string name="IDS_BY">작성자</string>
+    <string name="IDS_CATEGORY_AUDIO">오디오</string>
+    <string name="IDS_CATEGORY_CAPTURE">캡처</string>
+    <string name="IDS_CATEGORY_COMMUNITY">커뮤니티</string>
+    <string name="IDS_CATEGORY_DESIGN">디자인</string>
+    <string name="IDS_CATEGORY_DRAWING">그림</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">일러스트레이션</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">이미지 편집</string>
+    <string name="IDS_CATEGORY_PHOTOS">개의 사진</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">사진 및 비디오</string>
+    <string name="IDS_CATEGORY_PRESENTATION">프레젠테이션</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">생산성</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">프로토타입</string>
+    <string name="IDS_CATEGORY_SOCIAL">소셜</string>
+    <string name="IDS_CATEGORY_STORAGE">저장 용량</string>
+    <string name="IDS_CATEGORY_STORY">스토리텔링</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">UI/UX 디자인</string>
+    <string name="IDS_CATEGORY_UTILITY">유틸리티</string>
+    <string name="IDS_CATEGORY_VIDEO">비디오</string>
+    <string name="IDS_PLEASE_WAIT">기다리십시오…</string>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">커뮤니케이션</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">컴필레이션</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">컨테스트</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">그림</string>
+    <string name="IDS_SUBCATEGORY_EDITING">편집</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">전자 메일</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">피드백</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">파일 공유</string>
+    <string name="IDS_SUBCATEGORY_FONTS">글꼴</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">유료</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">생성</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">패턴</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">사진 편집</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">사진</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">포트폴리오</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">인쇄</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">프로토타입</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">소셜 네트워크</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">스토리텔링</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">벡터</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">웹 사이트</string>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">다음에서 편집</string>
+    <string name="action_settings">설정</string>
+    <string name="adobe_360_capture">캡처</string>
+    <string name="adobe_360_edit">편집</string>
+    <string name="adobe_360_embed">포함</string>
+    <string name="hello_world">Hello world!</string>
+</resources>

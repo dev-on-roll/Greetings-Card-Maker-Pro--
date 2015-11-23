@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/copy_themes"
+        android:title="@string/copy_themes"
+        app:showAsAction="never" />
+    <item android:id="@+id/copy_to"
+        android:title="@string/copy_to"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/kuler_themes"
+        android:title="@string/kuler_themes"
+        app:showAsAction="never" />
+    <item android:id="@+id/app_themes"
+        android:title="@string/app_themes"
+        app:showAsAction="never" />
+</menu><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/menu/fragment_kuler_themes.xml -->

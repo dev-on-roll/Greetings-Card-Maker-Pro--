@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_enabled="true" android:state_window_focused="false">
+        <nine-patch android:src="@drawable/bsdk_bg_material_edittext"
+                    android:tint="@color/bsdk_edit_text_material_design_line_color"/>
+    </item>
+    <item android:state_enabled="false" android:state_window_focused="false">
+        <nine-patch android:src="@drawable/bsdk_bg_material_edittext"
+                    android:tint="@color/bsdk_edit_text_material_design_line_color"
+                    android:alpha=".5"/>
+    </item>
+    <item android:state_enabled="true" android:state_focused="true">
+        <nine-patch android:src="@drawable/bsdk_bg_material_edittext"
+                    android:tint="@color/bsdk_edit_text_material_design_line_focused_color"/>
+    </item>
+    <item android:state_activated="true" android:state_enabled="true">
+        <nine-patch android:src="@drawable/bsdk_bg_material_edittext"
+                    android:tint="@color/bsdk_edit_text_material_design_line_focused_color"/>
+    </item>
+    <item android:state_enabled="true">
+        <nine-patch android:src="@drawable/bsdk_bg_material_edittext"
+                    android:tint="@color/bsdk_edit_text_material_design_line_color"/>
+    </item>
+    <item android:state_focused="true">
+        <nine-patch android:src="@drawable/bsdk_bg_material_edittext"
+                    android:tint="@color/bsdk_edit_text_material_design_line_color"
+                    android:alpha=".5"/>
+    </item>
+    <item>
+        <nine-patch android:src="@drawable/bsdk_bg_material_edittext"
+                    android:tint="@color/bsdk_edit_text_material_design_line_color"
+                    android:alpha=".5"/>
+    </item>
+</selector><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/drawable-v21/bsdk_selector_layout_behance_blue.xml -->

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-es/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_add_content_project_cover_selection_title">Seleccione una portada</string>
+    <string name="bsdk_add_content_project_publish_adult_content_text">Incluye contenido para adultos</string>
+    <string name="bsdk_add_content_project_publish_creative_field_hint">Seleccione un campo creativo</string>
+    <string name="bsdk_add_content_project_publish_creative_tags_hint">etiquetas separadas por comas</string>
+    <string name="bsdk_add_content_project_publish_initiated_msg">Se está publicando su proyecto.</string>
+    <string name="bsdk_add_content_project_publish_invalid_tag_msg">Las etiquetas solo deben incluir caracteres alfanuméricos con o sin espacios</string>
+    <string name="bsdk_add_content_project_publish_project_description_hint">Descripción del proyecto</string>
+    <string name="bsdk_add_content_project_publish_project_name_hint">Asigne un nombre al proyecto</string>
+    <string name="bsdk_add_content_project_publish_right_navigation">Publicar</string>
+    <string name="bsdk_add_content_project_publish_service_initialize_error_msg">Se ha producido un problema al iniciar el servicio. Vuelva a intentarlo más tarde.</string>
+    <string name="bsdk_add_content_project_publish_share_on">COMPARTIR EN:</string>
+    <string name="bsdk_add_content_project_publish_title">Información</string>
+    <string name="bsdk_add_project_copyright_settings_dialog_title_label">Configuración de Copyright</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_message_txt">Su proyecto está vacío</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_use_action_below_msg">Comience utilizando las siguientes opciones</string>
+    <string name="bsdk_add_project_edit_project_fragment_right_navigation">Hecho</string>
+    <string name="bsdk_add_project_edit_project_fragment_title">Editar</string>
+    <string name="bsdk_add_project_embed_content_edit_text_hint">Pegue su código incrustado</string>
+    <string name="bsdk_add_project_embed_content_error">Su código no es válido. Vuelva a intentarlo más tarde.</string>
+    <string name="bsdk_add_project_embed_content_title">Incrustar contenido multimedia</string>
+    <string name="bsdk_add_project_preview_project_fragment_edit_action">Editar</string>
+    <string name="bsdk_add_project_preview_project_fragment_title">Vista previa</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-es/strings_add_wip.xml -->
+    <eat-comment/>
+    <string name="bsdk_add_wip_new_wip_dialog_desc">Introduzca el título del trabajo en curso</string>
+    <string name="bsdk_add_wip_new_wip_dialog_title">Añadir título</string>
+    <string name="bsdk_add_wip_pick_source_view_camera_launch_error">Se ha producido un problema al ejecutar la cámara para sacar fotografías. Vuelva a intentarlo más tarde.</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_action_btn_create_wip_label">Nuevo</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_title_select_wip_label">Seleccionar</string>
+    <string name="bsdk_add_wip_view_connection_error_msg">Se ha producido un problema al conectarse. Compruebe su conexión de red y vuelva a intentarlo.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-es/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_addproject_creative_field_filter_dialog_done_btn_label">Hecho</string>
+    <string name="bsdk_addproject_creative_field_filter_dialog_title_label">Campos</string>
+    <string name="bsdk_addproject_creative_fields_popular_category">POPULAR</string>
+    <string name="bsdk_addproject_custom_actionbar_forward_nav_default_txt">Siguiente</string>
+    <string name="bsdk_addproject_project_cover_selection_right_nav_crop_txt">Aplicar</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-es/strings_cc_asset_browser_launcher.xml -->
+    <eat-comment/>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_text">Sus activos se están descargando de Creative Cloud. ¿Seguro que quiere cancelar la operación?</string>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_title">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_file_download_error">Se ha producido un problema al descargar el archivo %1$s. Vuelva a intentarlo más tarde.</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_back_nav_content_desc">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_title_label">Creative Cloud</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-es/strings_adobe_cloud_selection_view.xml -->
+    <eat-comment/>
+    <string name="bsdk_cloud_selection_view_back_nav_content_desc">Atrás</string>
+    <string name="bsdk_cloud_selection_view_loading_error_msg">Se ha producido un problema al cargar las cuentas. Vuelva a intentarlo más tarde.</string>
+    <string name="bsdk_cloud_selection_view_title">Elegir cuenta</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="bsdk_connection_error_msg">Se ha producido un problema al conectarse. Compruebe su conexión de red y vuelva a intentarlo.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-es/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_copyright_cc_by">Reconocimiento</string>
+    <string name="bsdk_copyright_cc_by_nc">Reconocimiento-NoComercial</string>
+    <string name="bsdk_copyright_cc_by_nc_nd">Reconocimiento-NoComercial-SinObraDerivada</string>
+    <string name="bsdk_copyright_cc_by_nc_sa">Reconocimiento-NoComercial-CompartirIgual</string>
+    <string name="bsdk_copyright_cc_by_nd">Reconocimiento-SinObraDerivada</string>
+    <string name="bsdk_copyright_cc_by_sa">Reconocimiento-CompartirIgual</string>
+    <string name="bsdk_copyright_creative_commons_header">CREATIVE COMMONS</string>
+    <string name="bsdk_copyright_no_license_header">SIN LICENCIA</string>
+    <string name="bsdk_copyright_no_use_at_all">Uso no permitido sin permiso explícito</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-es/strings_edit_profile.xml -->
+    <eat-comment/>
+    <string name="bsdk_edit_profile_ab_save">Guardar</string>
+    <string name="bsdk_edit_profile_ab_title">Editar perfil</string>
+    <string name="bsdk_edit_profile_avatar_first_name_field_missing_msg">El nombre es obligatorio</string>
+    <string name="bsdk_edit_profile_avatar_last_name_field_missing_msg">El apellido es obligatorio</string>
+    <string name="bsdk_edit_profile_avatar_required_fields_missing_msg">Los campos nombre y apellidos son obligatorios</string>
+    <string name="bsdk_edit_profile_avatar_saving_error">Se han guardado los detalles del perfil, pero ocurrió un problema al guardar la imagen del mismo. Vuelva a intentarlo más tarde.</string>
+    <string name="bsdk_edit_profile_editing_error">Se ha producido un problema al guardar los detalles del perfil. Vuelva a intentarlo más tarde.</string>
+    <string name="bsdk_edit_profile_hint_company">Empresa</string>
+    <string name="bsdk_edit_profile_hint_first_name">Nombre</string>
+    <string name="bsdk_edit_profile_hint_last_name">Apellidos</string>
+    <string name="bsdk_edit_profile_hint_location">Ubicación</string>
+    <string name="bsdk_edit_profile_hint_occupation">Ocupación/puesto de trabajo</string>
+    <string name="bsdk_edit_profile_hint_website">URL del sitio web</string>
+    <string name="bsdk_edit_profile_loading_error">Se ha producido un problema al cargar los detalles del perfil. Vuelva a intentarlo más tarde.</string>
+    <string name="bsdk_edit_profile_unsaved_changes_body">Se perderán todos los cambios, ¿seguro que quiere salir?</string>
+    <string name="bsdk_edit_profile_unsaved_changes_title">Cambios no guardados</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-es/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_enterprise_login_warning_actionbar_title">Publicar</string>
+    <string name="bsdk_enterprise_login_warning_cancel_button_text">Cancelar</string>
+    <string name="bsdk_enterprise_login_warning_continue_button_text">CONTINUAR</string>
+    <string name="bsdk_enterprise_login_warning_text_content">Puede utilizar Behance para publicar trabajo \ncomo parte de un equipo, pero no podrá acceder \na su portafolio si abandona la organización.</string>
+    <string name="bsdk_enterprise_login_warning_text_header">Ha iniciado\nsesión con un Enterprise ID</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="bsdk_generic_alert_dialog_cancel_btn_label">Cancelar</string>
+    <string name="bsdk_generic_alert_dialog_ok_btn_label">OK</string>
+    <string name="bsdk_generic_image_content_desc">Imagen</string>
+    <string name="bsdk_image_cropper_crop_failed_msg">Error al recortar la imagen. Vuelva a intentarlo.</string>
+    <string name="bsdk_image_cropper_failed_to_open_msg">No se encuentra la imagen. Vuelva a intentarlo.</string>
+    <string name="bsdk_image_selector_view_empty_album_msg">El álbum %1$s está vacío. Pruebe con un álbum diferente.</string>
+    <string name="bsdk_image_selector_view_error_loading_albums_msg">Se ha producido un problema al cargar los álbumes. Vuelva a intentarlo más tarde.</string>
+    <string name="bsdk_image_selector_view_image_dimensions_invalid_msg">Las dimensiones de la imagen seleccionada no cumplen los requisitos de tamaño</string>
+    <string name="bsdk_image_selector_view_image_dimensions_less_than_min_required_msg">La imagen debe tener unas dimensiones mínimas de %1$s x %2$s. La imagen seleccionada es de %3$s x %4$s.</string>
+    <string name="bsdk_image_selector_view_image_dimensions_more_than_max_allowed_msg">La imagen no debe tener unas dimensiones mayores de %1$s x %2$s. La imagen seleccionada es de %3$s x %4$s.</string>
+    <string name="bsdk_image_selector_view_image_file_type_allowed_msg">%1$s no es un tipo de archivo válido. Solo se permiten los archivos %2$s.</string>
+    <string name="bsdk_image_selector_view_image_file_type_invalid_msg">%1$s no es un tipo de archivo válido.</string>
+    <string name="bsdk_image_selector_view_image_file_type_not_allowed_msg">%1$s no es un tipo de archivo válido. No se permiten los archivos %2$s.</string>
+    <string name="bsdk_image_selector_view_image_size_invalid_msg">La imagen seleccionada no cumple los requisitos de tamaño.</string>
+    <string name="bsdk_image_selector_view_image_size_less_than_min_required_msg">La imagen es demasiado pequeña. El tamaño mínimo de los archivos es de %1$s.</string>
+    <string name="bsdk_image_selector_view_image_size_more_than_max_allowed_msg">La imagen es demasiado grande. El tamaño máximo de los archivos es de %1$s.</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_cancel_label">Cancelar</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_cancel_label">Omitir</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_done_label">Hecho</string>
+    <string name="bsdk_image_selector_view_titlebar_back_nav_content_desc">Atrás</string>
+    <string name="bsdk_image_selector_view_titlebar_title_albums_txt">Álbumes</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_photos_txt">Seleccionar imágenes</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_single_photo_txt">Seleccionar imagen</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-es/strings_search.xml -->
+    <eat-comment/>
+    <string name="bsdk_license_cc_by">Reconocimiento</string>
+    <string name="bsdk_license_cc_by_nc">Reconocimiento-No comercial</string>
+    <string name="bsdk_license_cc_by_nc_nd">Reconocimiento-No comercial-Sin obra derivada</string>
+    <string name="bsdk_license_cc_by_nc_sa">Reconocimiento-No comercial-Compartir igual</string>
+    <string name="bsdk_license_cc_by_nd">Reconocimiento-Sin obra derivada</string>
+    <string name="bsdk_license_cc_by_sa">Reconocimiento-Compartir igual</string>
+    <string name="bsdk_license_no_use_at_all">No se permite su uso sin el permiso explícito del propietario</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-es/strings_location_filter_dialog.xml -->
+    <eat-comment/>
+    <string name="bsdk_location_filter_dialog_city_empty_error">Seleccione una ciudad válida</string>
+    <string name="bsdk_location_filter_dialog_city_label">Ciudad</string>
+    <string name="bsdk_location_filter_dialog_country_label">País</string>
+    <string name="bsdk_location_filter_dialog_done_btn_label">Hecho</string>
+    <string name="bsdk_location_filter_dialog_failed_to_load_error">Error al cargar los datos de ubicación. Vuelva a intentarlo más tarde.</string>
+    <string name="bsdk_location_filter_dialog_state_label">Estado</string>
+    <string name="bsdk_location_filter_dialog_title_label">Ubicación</string>
+    <string name="bsdk_location_filter_dialog_type_city_name_label">Escriba el nombre de la ciudad</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-es/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_msg_image_missing">msg_image_missing-behance-addcontent</string>
+    <string name="bsdk_publish_project_from_cc_invalid_file_type">%1$s no es un tipo de archivo válido. Solo se permiten los archivos %2$s.</string>
+    <string name="bsdk_publish_project_from_cc_invalid_image_size">%1$s no cumple los requisitos de tamaño. El tamaño máximo de los archivos es de %2$s.</string>
+    <string name="bsdk_publish_project_service_failure_notification_msg">No se puede cargar el proyecto. %1$s. Compruebe la conexión a la red y vuelva a intentarlo.</string>
+    <string name="bsdk_publish_project_service_failure_notification_ticker">Error al publicar su proyecto en Behance.</string>
+    <string name="bsdk_publish_project_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_text">Se está publicando su proyecto.</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_publish_on_twitter_msg">Vea mi nuevo proyecto en mi portafolio de \@Behance: %1$s</string>
+    <string name="bsdk_publish_project_service_success_notification_text">Toque para ver su proyecto publicado</string>
+    <string name="bsdk_publish_project_service_success_notification_ticker">Su proyecto se ha publicado en Behance</string>
+    <string name="bsdk_publish_project_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_unknown_failure_notification_msg">No se puede cargar el proyecto en este momento. Compruebe la conexión a la red y vuelva a intentarlo.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-es/strings_publish_results.xml -->
+    <eat-comment/>
+    <string name="bsdk_publish_results_view_behance_btn_label">VER EN BEHANCE</string>
+    <string name="bsdk_publish_results_view_desc_label">Visite Behance para ver comentarios sobre\n su trabajo y compártalos en Twitter, Facebook y más.</string>
+    <string name="bsdk_publish_results_view_title_label">¡Se ha publicado su trabajo!</string>
+    <string name="bsdk_publish_results_view_titlebar_back_nav_content_desc">Atrás</string>
+    <string name="bsdk_publish_results_view_titlebar_title_label">Publicar</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-es/strings_add_wip.xml -->
+    <eat-comment/>
+    <string name="bsdk_publish_wip_image_required_error_msg">Se ha producido un problema al cargar la imagen que quiere publicar. Vuelva a intentarlo.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_msg">No se puede cargar el trabajo en curso. %1$s. Compruebe la conexión a la red y vuelva a intentarlo.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_ticker">Error al publicar el trabajo en Behance.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_text">Se está publicando su trabajo en curso.</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_publish_on_twitter_msg">Vea mi nuevo trabajo en mi portafolio de \@Behance: %1$s</string>
+    <string name="bsdk_publish_wip_service_success_notification_text">Toque para ver su trabajo publicado.</string>
+    <string name="bsdk_publish_wip_service_success_notification_ticker">Se ha publicado su trabajo en curso en Behance.</string>
+    <string name="bsdk_publish_wip_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_unknown_failure_notification_msg">No se puede cargar el trabajo en curso en este momento. Compruebe la conexión a la red y vuelva a intentarlo.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-es/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_search_filters_dialog_custom_actionbar_back_nav_default_txt">Atrás</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-es/strings_social_account_management.xml -->
+    <eat-comment/>
+    <string name="bsdk_social_account_facebook_login_confirmation_body">Inicie sesión en Facebook para continuar.</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_cancel_btn_label">Cancelar</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_title">Iniciar sesión en Facebook</string>
+    <string name="bsdk_social_account_fb_auth_failure">Se ha producido un error con la autenticación en Facebook. Vuelva a intentarlo más tarde.</string>
+    <string name="bsdk_social_account_fb_auth_permissions_failure">No se tienen los permisos necesarios para compartir en Facebook.</string>
+    <string name="bsdk_social_account_twitter_login_authentication_failure">Se ha producido un error con la autenticación en Twitter. Vuelva a intentarlo más tarde.</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_body">Inicie sesión en Twitter para continuar.</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_cancel_btn_label">Cancelar</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_title">Iniciar sesión en Twitter</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_body">¿Seguro que desea desvincular la cuenta de Facebook?</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_cancel_btn_label">Cancelar</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_title">Desvincular cuenta de Facebook</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_body">¿Seguro que desea desvincular la cuenta de Twitter?</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_cancel_btn_label">Cancelar</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_title">Desvincular cuenta de Twitter</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-es/strings_search.xml -->
+    <eat-comment/>
+    <string name="bsdk_sort_option_featured">Incluido</string>
+    <string name="bsdk_sort_option_most_appreciated">Más valorados</string>
+    <string name="bsdk_sort_option_most_discussed">Más comentados</string>
+    <string name="bsdk_sort_option_most_followed">Más seguidos</string>
+    <string name="bsdk_sort_option_most_recent">Más recientes</string>
+    <string name="bsdk_sort_option_most_relevant">Más relevantes</string>
+    <string name="bsdk_sort_option_most_viewed">Más vistos</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-es/strings_add_wip.xml -->
+    <eat-comment/>
+    <string name="bsdk_wip_publish_view_adult_content_text">Incluye contenido para adultos</string>
+    <string name="bsdk_wip_publish_view_publish_initiated_msg">Se está publicando su trabajo en curso. Para consultar el progreso, observe la barra de estado.</string>
+    <string name="bsdk_wip_publish_view_publish_invalid_tag_msg">Las etiquetas solo deben incluir caracteres alfanuméricos con o sin espacios</string>
+    <string name="bsdk_wip_publish_view_publish_required_fields_missing_msg">Rellene todos los campos necesarios.</string>
+    <string name="bsdk_wip_publish_view_publish_service_initialize_error_msg">Se ha producido un problema al iniciar el servicio. Vuelva a intentarlo más tarde.</string>
+    <string name="bsdk_wip_publish_view_share_on_fb_content_desc">Compartir en Facebook</string>
+    <string name="bsdk_wip_publish_view_share_on_twitter_content_desc">Compartir en Twitter</string>
+    <string name="bsdk_wip_publish_view_share_on_txt">COMPARTIR EN:</string>
+    <string name="bsdk_wip_publish_view_titlebar_action_btn_publish_label">Publicar</string>
+    <string name="bsdk_wip_publish_view_titlebar_back_nav_content_desc">Atrás</string>
+    <string name="bsdk_wip_publish_view_titlebar_title_publish_label">Información</string>
+    <string name="bsdk_wip_publish_view_wip_desc_hint">Solicitar comentarios</string>
+    <string name="bsdk_wip_publish_view_wip_name_hint">Añadir título</string>
+    <string name="bsdk_wip_publish_view_wip_tags_hint">etiquetas separadas por comas</string>
+    <string name="bsdk_wip_publish_view_wips_loading_label">Cargando…</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-es/strings_fb_sdk.xml -->
+    <eat-comment/>
+    <string name="com_facebook_internet_permission_error_message">El inicio de sesión en WebView necesita permisos en INTERNET</string>
+    <string name="com_facebook_internet_permission_error_title">Se ha producido un error de AndroidManifest</string>
+    <string name="com_facebook_loading">Cargando…</string>
+    <string name="com_facebook_requesterror_password_changed">Su contraseña de Facebook ha cambiado. Vuelva a iniciar sesión en esta aplicación para volver a conectar su cuenta de Facebook.</string>
+    <string name="com_facebook_requesterror_permissions">Esta aplicación no tiene los permisos necesarios para llevar a cabo esta tarea. Para cambiar los permisos, intente volver a iniciar sesión en la aplicación.</string>
+    <string name="com_facebook_requesterror_reconnect">Vuelva a iniciar sesión en esta aplicación para volver a conectar su cuenta de Facebook.</string>
+    <string name="com_facebook_requesterror_relogin">Vuelva a iniciar sesión en esta aplicación para volver a conectar su cuenta de Facebook.</string>
+    <string name="com_facebook_requesterror_web_login">Su cuenta de Facebook se ha bloqueado. Inicie sesión en www.facebook.com para continuar.</string>
+</resources>

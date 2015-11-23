@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\com.adobe.creativesdk.foundation\auth\0.7.329\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e0cf78151d0b309f54a7be57e16be6f76a45726">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\classes-c0db4485a578ca7ab22b4a293bd6a00a16bcae1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\com.adobe.creativesdk.foundation\assetux\0.7.329\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ef4dae7570d850403b3a05b9ed848d2682a16a6b">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\classes-e6f274da284134b01d02734b10fc6852f6d95af1.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\classes-23b80b5e1da59aedd18f4e7ec66fe6012743a0b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\com.adobe.creativesdk.foundation\assetcore\0.7.329\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe08d326520816bebae902798682df63fecee11f">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\classes-4650402afa7b30f31a529adfef119a9f2ba97e35.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\classes-56b04055f6ef97fa53cc155cb08fa847d6822c6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-8338e700d2f49eaf425b67a8284c91f2ff2a6b19.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\library-2.4.0-74a674e00e965eb817894bb04124aa883e099cdd.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\.gradle\caches\modules-2\files-2.1\oauth.signpost\signpost-commonshttp4\1.2.1.2\731e05de30cfeb1f41d417f886277f9597fe0f36\signpost-commonshttp4-1.2.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="731e05de30cfeb1f41d417f886277f9597fe0f36">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\signpost-commonshttp4-1.2.1.2-25d3826ed4f41ba8485b56c48cf1c28b4e82f1ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\uk.co.chrisjenx\calligraphy\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e653e15e62e8a59ddd76cc7f827bf8bce38ae7bb">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\classes-83b8e407f72e310050d35c6c342a19a3c0e5f58e.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\.gradle\caches\modules-2\files-2.1\oauth.signpost\signpost-core\1.2.1.2\bf95955dcf3d5a78c201e49b0c336787ea73f161\signpost-core-1.2.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bf95955dcf3d5a78c201e49b0c336787ea73f161">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\signpost-core-1.2.1.2-f200680085b134cfde95f27327fc06ec7ffbaa26.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.2\9e025bc5b84968e7d6ac765e660a70b3e5a87432\universal-image-loader-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.2-237e94859f3110251f2ca23bdca5845b5ace00db.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\classes-0896cf76585189659181fae17a68e6f0b0b8cf6f.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpclient-android\4.3.3\39ba75b570e5f1535356e8a1bf920b1c6cc83a9a\httpclient-android-4.3.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="39ba75b570e5f1535356e8a1bf920b1c6cc83a9a">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\httpclient-android-4.3.3-59220b3ddb53d8f88593dc60e0580fbf5eae6265.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2b8a750df2a5d485d0c40b379b44371c5e6d98d">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\classes-4f8cac127a71f5b18c8a101591a9a2c45377f946.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-740dc95206e64ba1d0ef486bd82d30ad206e0011.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\com.adobe.creativesdk.foundation\assetcore\0.7.329\jars\libs\XMPCore.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="949d60502c93b6831f022e6d0d0d3946c98e92d7">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\XMPCore-a668bec363189a1a3cb9ed88b8ae179f47c0a92b.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\com.adobe.creativesdk\behance\0.7.329\jars\libs\android-behance-sdk.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e0d11e9dfa3db860ef3ba7cb94e454e417e4bf1">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\android-behance-sdk-76dc87e1ef2223027626e83109cff9dc83b0d974.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\com.github.fengdai\alertdialogpro-core\0.2.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e06255ce1023c60f103bbca1e8fe6981c849058d">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\classes-63f37e387b14137e8434add1ea8168147f0b5c3c.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\com.adobe.creativesdk\color\0.7.329\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="80db63a1d2661c82d8dc6baf686ae84f813e9a58">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\classes-6e23e388eeb9af6fbd049c918a70e4755f938a71.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\com.adobe.creativesdk.foundation\applibrary\0.7.329\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4919bab07eb35b3b0c7a962b6ceaf22469a8f511">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\classes-32e15450a092a5d97f1a5fdfbdb93a5356fe94de.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\.gradle\caches\modules-2\files-2.1\com.path\android-priority-jobqueue\1.1.2\b3549df66f71fb135bce3300eecb1a88fd45d86f\android-priority-jobqueue-1.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b3549df66f71fb135bce3300eecb1a88fd45d86f">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\android-priority-jobqueue-1.1.2-8b79a303436506d92640e4bd75bd971aae26da7e.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\com.sothree.slidinguppanel\library\3.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c1200ab3b93b8f42c0878b00eb79a84c1f112cf7">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\classes-f2fab439ec8615ab1caef33ceb86447feeebd273.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\com.github.fengdai\alertdialogpro-theme-material\0.2.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="87973a148a7113f9a4eef799f22d0341d150ea33">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\classes-76f03e78ad8be589bbd90bbc79d2173639bde2e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\com.adobe.creativesdk\behance\0.7.329\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5841842f8ecced276d41122edf1d7565a35c6d10">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\classes-28db364fa577a3798b5fa61ae78c066549722cb4.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\classes-b4df0093d02b56865055524fc3de83a8fae313e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpmime\4.3.1\f7899276dddd01d8a42ecfe27e7031fcf9824422\httpmime-4.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f7899276dddd01d8a42ecfe27e7031fcf9824422">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\httpmime-4.3.1-5e27d8e2dcd598e5baa64eeada6c6ec86dc6b751.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\classes-750f459ab8f7e3593f23bf0db246955a1305613d.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-d9a9459a4d620c9c949c403096aa36dc29747cb4.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\com.timehop.stickyheadersrecyclerview\library\0.4.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="770f09fb9faeba814a0376954ec3c3db3e2f877e">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\classes-e8b3d5bcc24368deeb3afacd8fbfa0ff0e92dc95.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.4\b1b6ea3b7e4aa4f492509a4952029cd8e48019ad\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\commons-io-2.4-b59d659ab3eef144f0173c1092099c9088c6931f.jar" />
+    </item>
+    <item
+        jar="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="C:\Users\jagota\CreativeSDKSampleApp\build\intermediates\pre-dexed\debug\classes-fba896d0e47d758772e1548c337c67b280e6be5d.jar" />
+    </item>
+
+</items>

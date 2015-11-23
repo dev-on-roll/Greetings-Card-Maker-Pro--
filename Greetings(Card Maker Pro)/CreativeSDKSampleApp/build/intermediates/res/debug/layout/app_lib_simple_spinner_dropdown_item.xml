@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+/* //device/apps/common/assets/res/any/layout/simple_spinner_item.xml
+**
+** Copyright 2008, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License")
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+--><!-- taken from simple_spinner_dropdown_item of android code base and background
+   modified. -->
+<CheckedTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    style="?android:attr/spinnerDropDownItemStyle"
+    android:layout_width="128.33dp"
+    android:layout_height="50dp"
+    android:background="@color/actionbar_background"
+    android:ellipsize="marquee"
+    android:paddingLeft="22.33dp"
+    android:singleLine="true"
+    android:textColor="@color/list_dropdown_foreground_color"
+    android:textSize="@dimen/creative_sdk_actionbar_text_size" />
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/layout/app_lib_simple_spinner_dropdown_item.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/layout/app_lib_simple_spinner_dropdown_item.xml -->

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Creative SDK</string>
+    <string name="action_login">oturum aç</string>
+    <string name="action_logout">oturumu kapat</string>
+    <string name="asset_browser">Varlık Tarayıcı</string>
+    <string name="behance_publish">Behance’te Yayınlama</string>
+	<string name="launch_header">BİLEŞENLERİ BAŞLAT</string>
+    <string name="selection_header">Seçilen Dosyalar</string>
+
+    <string name="IDS_WELCOME">Creative Cloud’a Hoş Geldiniz</string>
+    <string name="IDS_GET_STARTED">Giriş yaparak veya yeni bir Adobe ID oluşturarak başlayın.</string>
+    <string name="IDS_SIGN_IN">ADOBE ID’NİZLE GİRİŞ YAPIN</string>
+    <string name="IDS_SIGN_UP">ADOBE ID İÇİN KAYDOLUN</string>
+    <string name="app_library">Uygulama Kitaplığı</string>
+    <string name="title_activity_display_message">My Message</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.behance.sdk"
+    android:versionCode="1"
+    android:versionName="1.0.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="21"
+        tools:overrideLibrary="com.facebook" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application>
+        <activity
+            android:name="com.behance.sdk.ui.activities.BehanceSDKPublishProjectActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/BsdkAddProjectActivityTheme" >
+        </activity>
+        <activity
+            android:name="com.behance.sdk.ui.activities.BehanceSDKCreateProjectWFActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/BsdkAddProjectActivityTheme" >
+        </activity>
+        <activity
+            android:name="com.behance.sdk.ui.activities.BehanceSDKCreateWIPWorkflowActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/BsdkAddWIPActivityTheme" >
+        </activity>
+        <activity
+            android:name="com.behance.sdk.ui.activities.BehanceSDKPublishWIPActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/BsdkAddWIPActivityTheme" >
+        </activity>
+        <activity
+            android:name="com.behance.sdk.ui.activities.BehanceSDKPublishResultsActivity"
+            android:theme="@style/BsdkPublishResultsActivityTheme" >
+        </activity>
+        <activity
+            android:name="com.behance.sdk.ui.activities.BehanceSDKEditProfileActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/BsdkEditProfileActivityTheme" >
+        </activity>
+        <activity
+            android:name="com.facebook.LoginActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/BsdkFacebookLoginActivityTheme" >
+        </activity>
+        <activity
+            android:name="com.behance.sdk.ui.activities.BehanceSDKLoginToTwitterActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.behance.sdk.ui.activities.BehanceSDKUnlinkSocialAccountActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/BsdkUnlinkSocialAccountActivityTheme" >
+        </activity>
+        <activity
+            android:name="com.behance.sdk.ui.activities.BehanceSDKAdobeCloudSelectionActivity"
+            android:theme="@style/BsdkAdobeCloudSelectionViewTheme" >
+        </activity>
+        <activity
+            android:name="com.behance.sdk.ui.activities.BehanceSDKCCLauncherActivity"
+            android:theme="@style/BsdkAdobeCCLauncherActivityTheme" >
+        </activity>
+
+        <service android:name="com.behance.sdk.services.BehanceSDKPublishProjectService" />
+        <service android:name="com.behance.sdk.services.BehanceSDKPublishWIPService" />
+    </application>
+
+</manifest>

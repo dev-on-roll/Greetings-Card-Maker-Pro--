@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sw820dp/values-sw820dp.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <item name="assetview_staggeredgrid_land_column_count" type="integer">4</item>
+    <item name="assetview_staggeredgrid_portrait_column_count" type="integer">3</item>
+</resources>

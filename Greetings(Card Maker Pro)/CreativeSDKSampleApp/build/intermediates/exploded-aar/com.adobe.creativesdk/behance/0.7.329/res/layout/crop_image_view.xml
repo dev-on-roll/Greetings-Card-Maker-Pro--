@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+    <!-- Use PhotoView because it handles scaling properly -->
+    <com.behance.sdk.senab.photoview.PhotoView
+        android:id="@+id/ImageView_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="contentDescription" />
+
+    <com.behance.sdk.edmodo.cropper.cropwindow.CropOverlayView
+        android:id="@+id/CropOverlayView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</merge><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/crop_image_view.xml -->

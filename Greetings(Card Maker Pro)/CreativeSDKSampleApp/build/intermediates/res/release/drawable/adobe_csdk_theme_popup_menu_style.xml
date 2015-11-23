@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item>
+        <shape
+            android:dither="true"
+            android:shape="rectangle" >
+            <padding
+                android:bottom="1px"
+                android:left="1px"
+                android:right="1px" />
+
+            <solid android:color="@color/adobe_csdk_theme_color_actionbar_background" />
+            <stroke
+                android:width="1px"
+                android:color="#eceff0" />
+        </shape>
+    </item>
+    <item
+        android:left="-2px"
+        android:right="-2px"
+        android:top="-2px">
+        <shape
+            android:dither="true"
+            android:shape="rectangle" >
+            <padding android:bottom="1px" />
+
+            <stroke
+                android:width="1px"
+                android:color="#dbdedf" />
+        </shape>
+    </item>
+
+</layer-list><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/drawable/adobe_csdk_theme_popup_menu_style.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/drawable/adobe_csdk_theme_popup_menu_style.xml -->

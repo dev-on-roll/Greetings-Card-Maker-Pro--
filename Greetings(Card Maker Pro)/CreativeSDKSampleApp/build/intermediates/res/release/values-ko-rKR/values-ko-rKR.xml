@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="ASSET_BROWSER_COLLABORATION_ACCEPT">승인</string>
+    <string name="ASSET_BROWSER_COLLABORATION_REJECT">거부</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="Analogus">유사색</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="CANCEL_UPLOAD_ASSET_BROWSER_BUTTON">업로드 취소</string>
+    <string name="COLLABORATE_INVITE_EDIT_TEXT_HINT">전자 메일 주소 추가</string>
+    <string name="COLLABORATION_ALREADY_USED">이미 등록된 전자 메일 주소</string>
+    <string name="COLLABORATION_DELETE_MESSAGE">이 공동 작업자를 삭제하시겠습니까?</string>
+    <string name="COLLABORATION_INVALID_EMAIL">잘못된 전자 메일 주소</string>
+    <string name="COLLABORATION_INVITATION_DELETE_ERROR">초대장을 삭제 할 수 없음</string>
+    <string name="COLLABORATION_INVITATION_DELETE_MESSAGE">이 초대장을 삭제하시겠습니까?</string>
+    <string name="COLLABORATION_INVITE">추가</string>
+    <string name="COLLABORATION_INVITEE">(초대됨)</string>
+    <string name="COLLABORATION_INVITE_CANCEL">취소</string>
+    <string name="COLLABORATION_INVITE_ERROR_MESSAGE">초대를 완료할 수 없음</string>
+    <string name="COLLABORATION_OWNER">(소유자)</string>
+    <string name="COLLABORATION_SELF_DELETE_MESSAGE">이 폴더에서 나가시겠습니까?</string>
+    <string name="COLLABORATOR_DELETE_NEGATIVE_BUTTON">취소</string>
+    <string name="COLLABORATOR_DELETE_POSITIVE_BUTTON">삭제</string>
+    <string name="CREATE_NEW_FOLDER_BUTTON_CANCEL">취소</string>
+    <string name="CREATE_NEW_FOLDER_BUTTON_CREATE">만들기</string>
+    <string name="CREATE_NEW_FOLDER_DIALOG_TITLE">새 폴더 만들기</string>
+    <string name="CREATE_NEW_FOLDER_EDIT_TEXT_HINT">폴더 이름</string>
+    <string name="CREATE_NEW_FOLDER_TITLE">새 폴더 만들기</string>
+    <string name="CREATE_NEW_INVITE_TITLE">공동 작업자 추가</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="Complementary">보색</string>
+    <string name="Compound">혼합</string>
+    <string name="Custom">사용자 정의</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="IDS_ACTION_VIEW_COMMENT">댓글</string>
+    <string name="IDS_ACTION_VIEW_EDIT_ANNOTATION">주석 펹집</string>
+    <string name="IDS_ACTION_VIEW_FILE_DETAILS">정보</string>
+    <string name="IDS_ACTION_VIEW_PUBLISH_TO_BEHANCE">Behance에 게시</string>
+    <string name="IDS_ACTION_VIEW_SHARE">공유</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">모든 앱</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">모든 범주가 제외되었습니다.</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">받기</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">범주</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">정렬</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">Creative Cloud와 호환 및 연결되는 앱 라이브러리에서 여러 다양하고 창의적인 앱을 만나보십시오</string>
+    <string name="IDS_APPLIBRARY_ERROR">앱 라이브러리를 현재 사용할 수 없습니다. 나중에 다시 확인하여 여러 다양하고 창의적인 앱을 살펴보십시오.</string>
+    <string name="IDS_APPLIBRARY_FEATURED">추천 항목</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">가장 높은 등급</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">가장 최근</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">이 카테고리에서 발견된 앱이 없습니다.</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">응용 프로그램을 찾을 수 없습니다.</string>
+    <string name="IDS_APPLIBRARY_TITLE">앱 라이브러리</string>
+    <string name="IDS_APP_GET">설치</string>
+    <string name="IDS_APP_OPEN">열기</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="IDS_ASSET_DETAILS_FILE_DETAILS">파일 세부 사항</string>
+    <string name="IDS_ASSET_DETAILS_HEIGHT">높이</string>
+    <string name="IDS_ASSET_DETAILS_KB">KB</string>
+    <string name="IDS_ASSET_DETAILS_MB">MB</string>
+    <string name="IDS_ASSET_DETAILS_MODIFIED">수정됨</string>
+    <string name="IDS_ASSET_DETAILS_PX">px</string>
+    <string name="IDS_ASSET_DETAILS_SIZE">크기</string>
+    <string name="IDS_ASSET_DETAILS_UPLOADED">업로드됨</string>
+    <string name="IDS_ASSET_DETAILS_WIDTH">너비</string>
+    <string name="IDS_ASSET_DETAILS_ZERO_MB">0MB</string>
+    <string name="IDS_ASSET_DETAILS_ZERO_PX">0px</string>
+    <string name="IDS_ASSET_VIEWER_NO_PREVIEW_AVAILABLE">미리보기를 사용할 수 없음</string>
+    <string name="IDS_ASSET_VIEWER_OF">/</string>
+    <string formatted="false" name="IDS_ASSET_VIEWER_OF_2">%s/%s</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="IDS_BY">작성자</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="IDS_CAPTION_COLLATION_FOLDERS_HEADER">폴더</string>
+    <string name="IDS_CAPTION_COLLATION_UNKNOWN_DATE">알 수 없음</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_DATE">%s 업데이트됨</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_LAST_WEEK">지난 주에 업데이트됨</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_THIS_MONTH">이번 달에 업데이트됨</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_THIS_WEEK">이번 주에 업데이트됨</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_TODAY">오늘 업데이트됨</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="IDS_CATEGORY_AUDIO">오디오</string>
+    <string name="IDS_CATEGORY_CAPTURE">캡처</string>
+    <string name="IDS_CATEGORY_COMMUNITY">커뮤니티</string>
+    <string name="IDS_CATEGORY_DESIGN">디자인</string>
+    <string name="IDS_CATEGORY_DRAWING">그림</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">일러스트레이션</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">이미지 편집</string>
+    <string name="IDS_CATEGORY_PHOTOS">개의 사진</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">사진 및 비디오</string>
+    <string name="IDS_CATEGORY_PRESENTATION">프레젠테이션</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">생산성</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">프로토타입</string>
+    <string name="IDS_CATEGORY_SOCIAL">소셜</string>
+    <string name="IDS_CATEGORY_STORAGE">저장 용량</string>
+    <string name="IDS_CATEGORY_STORY">스토리텔링</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">UI/UX 디자인</string>
+    <string name="IDS_CATEGORY_UTILITY">유틸리티</string>
+    <string name="IDS_CATEGORY_VIDEO">비디오</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="IDS_COMMENT_ERROR_MSG">%s개 댓글을 삭제할 수 없음</string>
+    <string name="IDS_COMMENT_INSERTION_ERROR_MSG">댓글을 추가할 수 없음</string>
+    <string name="IDS_COMMENT_SINGLE_ERROR_MSG">%s개 댓글을 삭제할 수 없음</string>
+    <string name="IDS_COMMENT_SINGLE_SUCCESS_MSG">%s개 댓글이 삭제됨</string>
+    <string name="IDS_COMMENT_SUCCESS_MSG">%s개 댓글이 삭제됨</string>
+    <string name="IDS_COMMENT_UPDATE_MSG">%d개 댓글 삽입됨</string>
+    <string name="IDS_COMMENT_UPDATE_MSG_SINGLE">%d개 댓글 삽입됨</string>
+    <string name="IDS_DELETE_ERROR_MSG">%s개 항목을 삭제할 수 없음</string>
+    <string name="IDS_DELETE_SINGLE_ERROR_MSG">%s개 항목을 삭제할 수 없음</string>
+    <string name="IDS_DELETE_SINGLE_SUCCESS_MSG">%s개 항목이 삭제됨</string>
+    <string name="IDS_DELETE_SUCCESS_MSG">%s개 항목이 삭제됨</string>
+    <string name="IDS_EDIT_ERROR_DGL_TITLE">편집 오류</string>
+    <string name="IDS_EDIT_ERROR_MSG">%s개 파일을 편집할 수 없음</string>
+    <string name="IDS_EDIT_SINGLE_ERROR_MSG">%s개 항목을 편집할 수 없음</string>
+    <string name="IDS_EDIT_SINGLE_SUCCESS_MSG">%s개 항목이 편집됨</string>
+    <string name="IDS_EDIT_SUCCESS_MSG">%s개 항목이 편집됨</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ko-rKR/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_GET_STARTED">로그인하여 시작하기 또는 새 Adobe ID 만들기</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="IDS_INVITATION_ERROR_MSG">%s개 초대를 처리할 수 없음</string>
+    <string name="IDS_INVITATION_SINGLE_ERROR_MSG">%s개 초대를 처리할 수 없음</string>
+    <string name="IDS_INVITATION_SINGLE_SUCCESS_MSG">%s개 초대가 처리됨</string>
+    <string name="IDS_INVITATION_SUCCESS_MSG">%s개 초대가 처리됨</string>
+    <string name="IDS_MOVE_ERROR_MSG">%s개 항목을 이동할 수 없음</string>
+    <string name="IDS_MOVE_SINGLE_ERROR_MSG">%s개 항목을 이동할 수 없음</string>
+    <string name="IDS_MOVE_SINGLE_SUCCESS_MSG">%s개 항목이 이동됨</string>
+    <string name="IDS_MOVE_SUCCESS_MSG">%s개 항목이 이동됨</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="IDS_PLEASE_WAIT">기다리십시오…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="IDS_SAVE_TO_DEVICE_CANCELLED_NOTIFICATION_TEXT">%d 파일 취소됨</string>
+    <string name="IDS_SAVE_TO_DEVICE_CANCELLED_NOTIFICATION_TITLE">다운로드 취소됨</string>
+    <string name="IDS_SAVE_TO_DEVICE_CANCEL_TEXT">취소</string>
+    <string name="IDS_SAVE_TO_DEVICE_COMPLETE_NOTIFICATION_TEXT">%d 파일 다운로드됨</string>
+    <string name="IDS_SAVE_TO_DEVICE_COMPLETE_NOTIFICATION_TITLE">다운로드 완료</string>
+    <string name="IDS_SAVE_TO_DEVICE_ERROR_NOTIFICATION_TEXT">%d개 파일을 다운로드할 수 없음</string>
+    <string name="IDS_SAVE_TO_DEVICE_ERROR_NOTIFICATION_TITLE">다운로드 중 오류 발생</string>
+    <string formatted="false" name="IDS_SAVE_TO_DEVICE_NOTIFICATION_TEXT">%d개 파일 남음</string>
+    <string name="IDS_SAVE_TO_DEVICE_NOTIFICATION_TITLE">장치에 저장</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ko-rKR/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_SIGN_IN">Adobe ID를 사용하여 로그인</string>
+    <string name="IDS_SIGN_UP">Adobe ID 등록</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">커뮤니케이션</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">컴필레이션</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">컨테스트</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">그림</string>
+    <string name="IDS_SUBCATEGORY_EDITING">편집</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">전자 메일</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">피드백</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">파일 공유</string>
+    <string name="IDS_SUBCATEGORY_FONTS">글꼴</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">유료</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">생성</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">패턴</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">사진 편집</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">사진</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">포트폴리오</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">인쇄</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">프로토타입</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">소셜 네트워크</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">스토리텔링</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">벡터</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">웹 사이트</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="IDS_UPLOAD_ERROR_DGL_TITLE">업로드 오류</string>
+    <string name="IDS_UPLOAD_ERROR_MSG">%s개 파일을 업로드할 수 없음</string>
+    <string name="IDS_UPLOAD_SINGLE_ERROR_MSG">%s개 파일을 업로드할 수 없습니다.</string>
+    <string name="IDS_UPLOAD_SINGLE_SUCCESS_MSG">%s개 파일이 업로드되었습니다.</string>
+    <string name="IDS_UPLOAD_SUCCESS_MSG">%s개 파일이 업로드됨</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ko-rKR/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_WELCOME">Creative Cloud 시작</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="Monochromatic">단색</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="NOTIFICATION_ACCEPT_FAILURE">승인 프로세스를 완료할 수 없음</string>
+    <string name="NOTIFICATION_INVITATION">공유 폴더로 초대됨 </string>
+    <string name="NOTIFICATION_JOINED">참여함 </string>
+    <string name="NOTIFICATION_NOT_FOUND">알림 없음</string>
+    <string name="NOTIFICATION_REJECTED">다음에 대한 초대를 거부함 </string>
+    <string name="NOTIFICATION_REJECT_FAILURE">거부 프로세스를 완료할 수 없음</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="OK">확인</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="SHARE_WITH_OPTIONS_TITLE">공유</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="Shades">음영</string>
+    <string name="Triad">삼각형</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="UPLOAD_ASSET_BROWSER_BUTTON">파일 업로드</string>
+    <string name="UPLOAD_ASSET_FROM_CAMERA_BUTTON">사진 찍기</string>
+    <string name="UPLOAD_IMAGE_TO_LIBRARY_MENU_TITLE">이미지 업로드</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">다음에서 편집</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ko-rKR/strings.xml -->
+    <eat-comment/>
+    <string name="action_login">로그인</string>
+    <string name="action_logout">로그아웃</string>
+    <string name="action_settings">Settings</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="add_collaborator">공동 작업자 추가</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="add_color">색상 추가</string>
+    <string name="add_theme">테마 추가</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="adobe_360_capture">캡처</string>
+    <string name="adobe_360_edit">편집</string>
+    <string name="adobe_360_embed">포함</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="adobe_asset_edit_in_progress">편집 진행 중</string>
+    <string name="adobe_asset_edit_rename_button">이름 바꾸기</string>
+    <string name="adobe_asset_move_error_same_location">오류:- 대상의 현재 위치와 이동할 위치가 동일함</string>
+    <string name="adobe_asset_view_add_annotation_dialog_hint_text">댓글 작성</string>
+    <string name="adobe_asset_view_add_annotation_dialog_negative_button">취소</string>
+    <string name="adobe_asset_view_add_annotation_dialog_positive_button">전송</string>
+    <string name="adobe_asset_view_add_annotation_dialog_title">주석 추가</string>
+    <string name="adobe_asset_view_add_comments_dialog_error_message">주석 추가 중 오류 발생</string>
+    <string name="adobe_asset_view_add_comments_dialog_hint_text">댓글 작성</string>
+    <string name="adobe_asset_view_add_comments_dialog_negative_button">취소</string>
+    <string name="adobe_asset_view_add_comments_dialog_positive_button">전송</string>
+    <string name="adobe_asset_view_add_comments_dialog_title">댓글 추가</string>
+    <string name="adobe_asset_view_comments_title">댓글</string>
+    <string name="adobe_asset_view_dialog_fetch_link">링크 가져오기...</string>
+    <string name="adobe_asset_view_edit_delete_button">삭제</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_file">이 파일을 삭제하시겠습니까?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_folder">이 폴더를 삭제하시겠습니까?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_multi_select">%d개 항목을 삭제하시겠습니까?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_negative_button">취소</string>
+    <string name="adobe_asset_view_edit_delete_dialog_positive_button">삭제</string>
+    <string name="adobe_asset_view_edit_download_button">장치에 저장</string>
+    <string name="adobe_asset_view_edit_fragment_edit_button">편집</string>
+    <string name="adobe_asset_view_edit_fragment_erase_button">삭제</string>
+    <string name="adobe_asset_view_edit_fragment_move_button">이동</string>
+    <string name="adobe_asset_view_edit_fragment_title">항목 선택</string>
+    <string name="adobe_asset_view_edit_move_button">이동</string>
+    <string name="adobe_asset_view_edit_rename_dialog_error_message">이름 편집 중 오류 발생</string>
+    <string name="adobe_asset_view_edit_rename_dialog_hint_text">새 이름</string>
+    <string name="adobe_asset_view_edit_rename_dialog_negative_button">취소</string>
+    <string name="adobe_asset_view_edit_rename_dialog_positive_button">편집</string>
+    <string name="adobe_asset_view_edit_rename_dialog_title">이름 편집</string>
+    <string name="adobe_asset_view_error_fetch_link">링크를 가져올 수 없음</string>
+    <string name="adobe_asset_view_move_fragment_title">폴더 선택</string>
+    <string name="adobe_asset_view_multi_page_count">%d페이지</string>
+    <string formatted="false" name="adobe_asset_view_multi_page_numbering">%d/%d </string>
+    <string name="adobe_asset_view_no_comments_found">댓글을 찾을 수 없음</string>
+    <string name="adobe_asset_view_send_link_button">링크 보내기</string>
+    <string name="adobe_asset_view_show_annotation_dialog_button">확인</string>
+    <string name="adobe_assetbrowser_edit_delete_confirm">이 파일을 삭제하시겠습니까?</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="adobe_auth_sign_in_close">닫기</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="adobe_cloud_not_reachable_no_internet_connection">Unable to connect to the Creative Cloud.\n Please check your internet connection and try again</string>
+    <string name="adobe_cloud_not_reachable_private_cloud">액세스하려는 Creative Cloud 서비스를 사용할 수 없습니다.\nVPN 연결을 확인하고 다시 시도하십시오.</string>
+    <string name="adobe_cloud_not_reachable_public_cloud">액세스하려는 Creative Cloud 서비스를 사용할 수 없습니다.\n다시 시도하십시오.</string>
+    <string name="adobe_cloud_not_reachable_retry">다시 시도</string>
+    <string name="adobe_common_error_folder_invalid_chars">잘못된 폴더 이름</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="adobe_common_error_view_no_internet_connection">인터넷에 연결되지 않음</string>
+    <string name="adobe_common_error_view_unknown_authenticate_error">인증하는 동안 오류가 발생했습니다.\n나중에 다시 시도 하십시오.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="adobe_common_error_while_creating_folder">폴더를 만들 수 없음</string>
+    <string name="adobe_composition_collection_plural">컴포지션</string>
+    <string name="adobe_composition_collection_singular">컴포지션</string>
+    <string name="adobe_comps_empty_collection">아직 컴포지션이 없습니다.</string>
+    <string name="adobe_design_library_collection_count">자산 %s개</string>
+    <string name="adobe_design_library_collection_count_single">자산 1개</string>
+    <string name="adobe_design_library_empty_collection">이 Creative Cloud Library는 비어 있습니다</string>
+    <string name="adobe_design_library_header_brushes">브러시(%s)</string>
+    <string name="adobe_design_library_header_color">색상(%s)</string>
+    <string name="adobe_design_library_header_colortheme">색상 테마(%s)</string>
+    <string name="adobe_design_library_header_graphics">그래픽(%s)</string>
+    <string name="adobe_design_library_header_layoutstyle">레이어 스타일 (%s)</string>
+    <string name="adobe_design_library_header_looks">LOOK (%s)</string>
+    <string name="adobe_design_library_header_textstyle">텍스트 스타일(%s)</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="adobe_error_not_entitled_to_video">"비디오를 미리 볼 수 있는 권한이 없는 사용자에 대한 메시지입니다."</string>
+    <string name="adobe_id_authenticator_accesslabel">Adobe ID 계정 전체 액세스</string>
+    <string name="adobe_id_authenticator_add_account_error_onlyone">하나의 Adobe ID만 지원됨</string>
+    <string name="adobe_id_authenticator_settings_label">Adobe</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="adobe_lineordrawcollection_plural">개의 그림</string>
+    <string name="adobe_lineordrawcollection_singular">개의 그림</string>
+    <string name="adobe_mobilecreation_item_download">다운로드</string>
+    <string name="adobe_mobilecreations_empty_collection">아직 그림이 없습니다.</string>
+    <string name="adobe_mobilecreations_package_count">자산 %s개</string>
+    <string name="adobe_mobilecreations_sort">가져온 날짜순 정렬</string>
+    <string name="adobe_my_libraries_empty_collection">아직 라이브러리가 없습니다.</string>
+    <string formatted="false" name="adobe_notification_activities_comments">%s 댓글을 남김 %s</string>
+    <string name="adobe_notification_activities_comments_self">%s에 대한 댓글을 작성함</string>
+    <string formatted="false" name="adobe_notification_activities_invitation_accept">%s 참여함 %s</string>
+    <string name="adobe_notification_activities_invitation_accept_single">%s에 참여함</string>
+    <string name="adobe_notification_activities_section_header_single">활동</string>
+    <string name="adobe_notification_activities_self">귀하</string>
+    <string name="adobe_notification_activity_timestamp_day_single">1일 전</string>
+    <string name="adobe_notification_activity_timestamp_days_multiple">%d일 전</string>
+    <string name="adobe_notification_activity_timestamp_hour_single">1시간 전</string>
+    <string name="adobe_notification_activity_timestamp_hours_multiple">%d시간 전</string>
+    <string name="adobe_notification_activity_timestamp_less_than_minute">방금 전</string>
+    <string name="adobe_notification_activity_timestamp_minute">%d분 전</string>
+    <string name="adobe_notification_activity_timestamp_year_multiple">%d년 전</string>
+    <string name="adobe_notification_activity_timestamp_year_single">1년 전</string>
+    <string name="adobe_notification_invitation_message">공유된 폴더로 초대되었습니다. \"%s\"</string>
+    <string name="adobe_notification_invitation_section_header">초대(%d)</string>
+    <string name="adobe_notification_invitation_section_header_single">초대(1)</string>
+    <string name="adobe_notification_operation_collaborated_folder_error">컬렉션을 불러올 수 없음</string>
+    <string name="adobe_notification_operation_comment_error">에셋을 불러올 수 없음</string>
+    <string name="adobe_psmix_collection_plural">사진 컴포지션</string>
+    <string name="adobe_psmix_collection_singular">사진 컴포지션</string>
+    <string name="adobe_sdk_main_root_collection">파일</string>
+    <string name="adobe_sketchCollection_plural">스케치</string>
+    <string name="adobe_sketchCollection_singular">개의 스케치</string>
+    <string name="adobe_sketches_empty_collection">아직 스케치가 없습니다.</string>
+    <string name="adobe_storage_no_folders_found">폴더를 찾을 수 없음</string>
+    <string name="adobe_uxassetbrowser_action_asgrid">격자로 보기</string>
+    <string name="adobe_uxassetbrowser_action_aslist">목록으로 보기</string>
+    <string name="adobe_uxassetbrowser_action_collaborate">공동 작업</string>
+    <string name="adobe_uxassetbrowser_action_edit_asset">편집</string>
+    <string name="adobe_uxassetbrowser_action_sort_alpha">사전순 정렬</string>
+    <string name="adobe_uxassetbrowser_action_sort_date">날짜별 정렬</string>
+    <string name="adobe_uxassetbrowser_comps">COMP CC</string>
+    <string name="adobe_uxassetbrowser_create_new_folder">새 폴더 만들기</string>
+    <string name="adobe_uxassetbrowser_csdk_myassets_main">내 에셋</string>
+    <string name="adobe_uxassetbrowser_csdk_mylibraries">내 라이브러리</string>
+    <string name="adobe_uxassetbrowser_designlibrary">라이브러리</string>
+    <string name="adobe_uxassetbrowser_download_cancelled">다운로드 취소됨 %s</string>
+    <string name="adobe_uxassetbrowser_download_description">Adobe Creative Cloud</string>
+    <string name="adobe_uxassetbrowser_download_directory">Creative Cloud</string>
+    <string name="adobe_uxassetbrowser_download_error">다운로드 중 오류 발생 %s</string>
+    <string name="adobe_uxassetbrowser_download_io_failure"> IO 오류로 인해 %s 다운로드 실패</string>
+    <string name="adobe_uxassetbrowser_download_successful"> %s 다운로드됨</string>
+    <string name="adobe_uxassetbrowser_drawings">ILLUSTRATOR DRAW</string>
+    <string name="adobe_uxassetbrowser_file_download_assert_exception">에셋 파일이 유효하지 않음</string>
+    <string name="adobe_uxassetbrowser_files">파일</string>
+    <string name="adobe_uxassetbrowser_library_image_download_assert_exception">라이브러리 이미지가 유효하지 않음</string>
+    <string name="adobe_uxassetbrowser_lines">ILLUSTRATOR LINE</string>
+    <string name="adobe_uxassetbrowser_myacount">내 계정</string>
+    <string name="adobe_uxassetbrowser_photo_download_assert_exception">사진 에셋이 유효하지 않음</string>
+    <string name="adobe_uxassetbrowser_photos">사진</string>
+    <string name="adobe_uxassetbrowser_psmix">PHOTOSHOP MIX</string>
+    <string name="adobe_uxassetbrowser_sdk_myaccount">내 계정</string>
+    <string name="adobe_uxassetbrowser_selectfolder_upload">폴더 선택</string>
+    <string name="adobe_uxassetbrowser_sketches">PHOTOSHOP SKETCH</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="all_colors">모든 색상</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ko-rKR/strings.xml -->
+    <eat-comment/>
+    <string name="app_library">앱 라이브러리</string>
+    <string name="app_name">Creative SDK</string>
+    <string name="asset_browser">자산 브라우저</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="auth_required">Authentication Required</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ko-rKR/strings.xml -->
+    <eat-comment/>
+    <string name="behance_publish">Behance에 게시</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="by">작성자: </string>
+    <string name="cancel">취소</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="cancelLogIn">CANCEL</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="cc_title">Creative Cloud</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="clear_history">지우기</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="collaboration_create_invite_error">초대를 작성할 수 없음</string>
+    <string name="collaboration_create_invite_error_network">네트워크에 연결할 수 없음</string>
+    <string name="collaboration_delete_failure">공동 작업자를 삭제할 수 없음</string>
+    <string formatted="false" name="collaboration_delete_prompt">%s을(를) 삭제하시겠습니까? </string>
+    <string name="collaboration_error">공동 작업자를 불러오는 도중 오류 발생</string>
+    <string name="collaboration_leave_failure">해당 폴더를 나갈 수 없음</string>
+    <string formatted="false" name="collaboration_leave_prompt">%s을(를) 나가시겠습니까? </string>
+    <string name="collaborator">공동 작업자</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="color_component_activity_actionbar_title">색상</string>
+    <string name="color_picker_actionbar_title">색상 피커</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="comments_error">댓글을 가져오는 도중 오류 발생</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="copy_themes">테마 복사</string>
+    <string name="copy_to">복사 위치</string>
+    <string name="create">만들기</string>
+    <string name="create_library">라이브러리 만들기</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="creative_cloud">Creative Cloud</string>
+    <string name="creative_sdk">Creative SDK</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="delete">삭제</string>
+    <string name="edit">편집</string>
+    <string name="edit_camel">편집</string>
+    <string name="edit_color">색상 편집</string>
+    <string name="edit_name">이름 편집</string>
+    <string name="edit_theme">테마 편집</string>
+    <string name="empty_color_list_line1">이 라이브러리에서 색상 및 테마를</string>
+    <string name="empty_color_list_line2">수집하여 다른 모바일 및 데스크탑</string>
+    <string name="empty_color_list_line3">앱에서 사용하십시오.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ko-rKR/strings.xml -->
+    <eat-comment/>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="hex">Hex</string>
+    <string name="history">내역</string>
+    <string name="history_cleared">내역 지워짐</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ko-rKR/strings.xml -->
+    <eat-comment/>
+    <string name="launch_header">구성 요소 실행</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="lib_row_desc_p_p">색상 %1$d개, 테마 %2$d개</string>
+    <string name="lib_row_desc_p_s">색상 %1$d개, 테마 1개</string>
+    <string name="lib_row_desc_s_p">색상 1개, 테마 %1$d개</string>
+    <string name="lib_row_desc_s_s">색상 1개, 테마 1개</string>
+    <string name="libraries_tab_heading">내 라이브러리</string>
+    <string name="loading">로드 중…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="logIn">LOGIN</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="my_library">내 라이브러리</string>
+    <string name="new_name">새 이름</string>
+    <string name="no_colors">색상 없음</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="notification_title">알림</string>
+    <string name="photo_asset_browser_empty_folder">아직 사진이 없습니다.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="picker_tab_heading">피커</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="proxy_passwd_label">PASSWORD</string>
+    <string name="proxy_username_label">USER NAME</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="psmix_download_statement">Adobe Photoshop Mix 다운로드</string>
+    <string name="psmix_files_empty">Adobe Photoshop의 강력한 기능에 모바일의 편의성이 결합된 Photoshop\r\nMix를 사용하면, Android에서 창의적으로 손쉽고 재미있게 사진 편집 작업을 수행할 수 있습니다.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="remove">제거</string>
+    <string name="remove_camel">제거</string>
+    <string name="remove_confirmation">제거하시겠습니까?</string>
+    <string name="rename">이름 바꾸기</string>
+    <string name="rename_library">라이브러리 이름 바꾸기</string>
+    <string name="rgb">RGB</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="search_query_hint">검색…</string>
+    <string name="search_title">검색</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="select_a_color">색상 선택</string>
+    <string name="select_library">라이브러리 선택</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ko-rKR/strings.xml -->
+    <eat-comment/>
+    <string name="selection_header">선택된 파일</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="storage_asset_browser_empty_folder">아직 파일이 없습니다.</string>
+    <string name="storage_cancel_selection">취소</string>
+    <string name="storage_create_folder_already_exists_error">폴더가 이미 있음</string>
+    <string name="storage_create_folder_authention_requires_error">인증 필요.</string>
+    <string name="storage_create_folder_no_error">""</string>
+    <string name="storage_empty_folder_upload_files_title">파일 업로드</string>
+    <string name="storage_open">열기</string>
+    <string name="storage_open_files">열기</string>
+    <string name="storage_open_multiple_files">열기(%s)</string>
+    <string name="storage_open_multiple_files_99">열기(99+)</string>
+    <string name="storage_settigs_usuage_calculating">(사용률 계산 중)</string>
+    <string name="storage_settings_edit_cc_settings">Creative Cloud 설정 편집</string>
+    <string name="storage_settings_get_more_storage">저장 용량 추가하기</string>
+    <string formatted="false" name="storage_settings_storage_usage">%s 사용됨(%s / %sGB)</string>
+    <string name="storage_settings_switch_accounts">계정 바꾸기</string>
+    <string name="storage_upload_btn_title">업로드(%s)</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="syncing_library">라이브러리 동기화 중…</string>
+    <string name="theme_picker_actionbar_title">테마 피커</string>
+    <string name="themes_tab_heading">테마</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ko-rKR/strings.xml -->
+    <eat-comment/>
+    <string name="title_activity_display_message">My Message</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string formatted="false" name="warning_msg">The server http://%s requires a username and password. The server says : %s</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ko-rKR/values-ko-rKR.xml -->
+    <eat-comment/>
+    <string name="wheel">휠</string>
+</resources>

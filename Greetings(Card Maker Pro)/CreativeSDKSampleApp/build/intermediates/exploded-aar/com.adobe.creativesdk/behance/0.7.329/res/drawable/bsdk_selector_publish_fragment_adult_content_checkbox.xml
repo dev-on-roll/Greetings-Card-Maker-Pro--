@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/bsdk_publish_project_publish_fragment_adult_content_off" android:state_checked="false"/>
+    <item android:drawable="@drawable/bsdk_publish_project_publish_fragment_adult_content_on" android:state_checked="true"/>
+
+</selector><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/drawable/bsdk_selector_publish_fragment_adult_content_checkbox.xml -->

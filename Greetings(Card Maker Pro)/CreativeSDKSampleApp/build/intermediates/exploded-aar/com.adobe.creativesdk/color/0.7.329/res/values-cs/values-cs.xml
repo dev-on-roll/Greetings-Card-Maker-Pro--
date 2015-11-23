@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/values-cs/strings.xml -->
+    <eat-comment/>
+    <string name="Analogus">Analogické</string>
+    <string name="Complementary">Doplňkové</string>
+    <string name="Compound">Složené</string>
+    <string name="Custom">Vlastní</string>
+    <string name="Monochromatic">Monochromatické</string>
+    <string name="OK">OK</string>
+    <string name="Shades">Odstíny</string>
+    <string name="Triad">Trojice</string>
+    <string name="add_color">Přidat barvu</string>
+    <string name="add_theme">Přidat motiv</string>
+    <string name="all_colors">Všechny barvy</string>
+    <string name="by">Autor: </string>
+    <string name="cancel">ZRUŠIT</string>
+    <string name="clear_history">VYMAZAT</string>
+    <string name="color_component_activity_actionbar_title">Barva</string>
+    <string name="color_picker_actionbar_title">Výběr barvy</string>
+    <string name="copy_themes">Kopírovat motivy</string>
+    <string name="copy_to">Kopírovat do</string>
+    <string name="create">Vytvořit</string>
+    <string name="create_library">Vytvořit knihovnu</string>
+    <string name="delete">Odstranit</string>
+    <string name="edit">UPRAVIT</string>
+    <string name="edit_camel">Upravit</string>
+    <string name="edit_color">Upravit barvu</string>
+    <string name="edit_name">Upravit název</string>
+    <string name="edit_theme">Upravit motiv</string>
+    <string name="empty_color_list_line1">Začněte shromažďovat barvy a motivy</string>
+    <string name="empty_color_list_line2">v této knihovně, abyste je mohli používat v jiných</string>
+    <string name="empty_color_list_line3">mobilních a počítačových aplikacích.</string>
+    <string name="hello_blank_fragment">Ahoj – prázdná část</string>
+    <string name="hex">Šestnáctkově</string>
+    <string name="history">Historie</string>
+    <string name="history_cleared">Historie vymazána</string>
+    <string name="lib_row_desc_p_p">Barvy: %1$d, motivy: %2$d</string>
+    <string name="lib_row_desc_p_s">Barvy: %1$d, 1 motiv</string>
+    <string name="lib_row_desc_s_p">1 barva, motivy: %1$d</string>
+    <string name="lib_row_desc_s_s">1 barva, 1 motiv</string>
+    <string name="libraries_tab_heading">MOJE KNIHOVNY</string>
+    <string name="loading">Načítání…</string>
+    <string name="my_library">Moje knihovna</string>
+    <string name="new_name">Nový název</string>
+    <string name="no_colors">Žádné barvy</string>
+    <string name="picker_tab_heading">VÝBĚR</string>
+    <string name="remove">ODEBRAT</string>
+    <string name="remove_camel">Odebrat</string>
+    <string name="remove_confirmation">Opravdu chcete položku odebrat?</string>
+    <string name="rename">PŘEJMENOVAT</string>
+    <string name="rename_library">Přejmenovat knihovnu</string>
+    <string name="rgb">RGB</string>
+    <string name="select_a_color">Vybrat barvu</string>
+    <string name="select_library">Vybrat knihovnu</string>
+    <string name="syncing_library">Synchronizace knihoven…</string>
+    <string name="theme_picker_actionbar_title">Výběr motivu</string>
+    <string name="themes_tab_heading">MOTIVY</string>
+    <string name="wheel">Kolečko</string>
+</resources>

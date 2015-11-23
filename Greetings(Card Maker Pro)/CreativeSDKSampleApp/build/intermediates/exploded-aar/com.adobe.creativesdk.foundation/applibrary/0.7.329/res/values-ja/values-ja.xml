@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">すべてのアプリ</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">すべてのカテゴリを除外しました</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">取得</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">カテゴリー</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">ソート</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">ますます充実するクリエイティブなアプリのライブラリを検索しましょう。Creative Cloud に接続され互換性があります</string>
+    <string name="IDS_APPLIBRARY_ERROR">App ライブラリは現在利用できません。また後ほど、増え続けるクリエイティブなアプリのライブラリを再チェックしてください</string>
+    <string name="IDS_APPLIBRARY_FEATURED">おすすめ</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">最高評価</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">最も新しい</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">このカテゴリのアプリは見つかりませんでした</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">アプリケーションは見つかりませんでした。</string>
+    <string name="IDS_APPLIBRARY_TITLE">App ライブラリ</string>
+    <string name="IDS_APP_GET">インストール</string>
+    <string name="IDS_APP_OPEN">開く</string>
+    <string name="IDS_BY">作成者</string>
+    <string name="IDS_CATEGORY_AUDIO">オーディオ</string>
+    <string name="IDS_CATEGORY_CAPTURE">キャプチャ</string>
+    <string name="IDS_CATEGORY_COMMUNITY">コミュニティ</string>
+    <string name="IDS_CATEGORY_DESIGN">デザイン</string>
+    <string name="IDS_CATEGORY_DRAWING">描画</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">イラストレーション</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">画像編集</string>
+    <string name="IDS_CATEGORY_PHOTOS">写真</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">写真とビデオ</string>
+    <string name="IDS_CATEGORY_PRESENTATION">プレゼンテーション</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">生産性</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">プロトタイピング</string>
+    <string name="IDS_CATEGORY_SOCIAL">ソーシャル</string>
+    <string name="IDS_CATEGORY_STORAGE">ストレージ</string>
+    <string name="IDS_CATEGORY_STORY">ストーリーテリング</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">UI/UX デザイン</string>
+    <string name="IDS_CATEGORY_UTILITY">ユーティリティ</string>
+    <string name="IDS_CATEGORY_VIDEO">ビデオ</string>
+    <string name="IDS_PLEASE_WAIT">お待ちください…</string>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">通信</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">コンパイル</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">コンテスト</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">描画</string>
+    <string name="IDS_SUBCATEGORY_EDITING">編集</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">電子メール</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">フィードバック</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">ファイルの共有</string>
+    <string name="IDS_SUBCATEGORY_FONTS">フォント</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">レンタル</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">生成</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">パターン</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">写真の編集</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">写真</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">ポートフォリオ</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">印刷</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">プロトタイピング</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">ソーシャルネットワーク</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">ストーリーテリング</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">ベクトル</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">Web サイト</string>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">次で編集</string>
+    <string name="action_settings">設定</string>
+    <string name="adobe_360_capture">キャプチャ</string>
+    <string name="adobe_360_edit">編集</string>
+    <string name="adobe_360_embed">埋め込む</string>
+    <string name="hello_world">Hello World!</string>
+</resources>

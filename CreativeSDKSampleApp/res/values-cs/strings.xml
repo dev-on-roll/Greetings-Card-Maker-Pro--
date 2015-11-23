@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Creative SDK</string>
+    <string name="action_login">přihlášení</string>
+    <string name="action_logout">odhlášení</string>
+    <string name="asset_browser">Prohlížeč prostředků</string>
+    <string name="behance_publish">Publikování ve službě Behance</string>
+	<string name="launch_header">KOMPONENTY SPUŠTĚNÍ</string>
+    <string name="selection_header">Vybrané soubory</string>
+
+    <string name="IDS_WELCOME">Vítá vás služba Creative Cloud</string>
+    <string name="IDS_GET_STARTED">Začněte tím, že se přihlásíte nebo vytvoříte nové Adobe ID.</string>
+    <string name="IDS_SIGN_IN">PŘIHLÁSIT SE POMOCÍ ADOBE ID</string>
+    <string name="IDS_SIGN_UP">ZAREGISTROVAT ADOBE ID</string>
+    <string name="app_library">Knihovna aplikací</string>
+    <string name="title_activity_display_message">My Message</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

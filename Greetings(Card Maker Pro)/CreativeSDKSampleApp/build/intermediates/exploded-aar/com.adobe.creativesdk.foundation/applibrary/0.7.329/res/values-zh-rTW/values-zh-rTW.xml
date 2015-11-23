@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values-zh-rTW/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">所有應用程式</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">所有類別都已排除</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">獲取</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">類別</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">排序</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">瀏覽不斷成長的創意應用程式庫，這些應用程式不僅與 Creative Cloud 相容還連接在一起。</string>
+    <string name="IDS_APPLIBRARY_ERROR">應用程式庫目前無法使用。請稍後再試以探索不斷成長的創意應用庫。</string>
+    <string name="IDS_APPLIBRARY_FEATURED">精選</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">最高評分</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">最新動態</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">此類別找不到應用程式。</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">未找到應用程式。</string>
+    <string name="IDS_APPLIBRARY_TITLE">應用程式庫</string>
+    <string name="IDS_APP_GET">安裝</string>
+    <string name="IDS_APP_OPEN">開啟</string>
+    <string name="IDS_BY">由</string>
+    <string name="IDS_CATEGORY_AUDIO">音訊</string>
+    <string name="IDS_CATEGORY_CAPTURE">擷取</string>
+    <string name="IDS_CATEGORY_COMMUNITY">社群</string>
+    <string name="IDS_CATEGORY_DESIGN">設計</string>
+    <string name="IDS_CATEGORY_DRAWING">繪圖</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">繪圖</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">影像編輯</string>
+    <string name="IDS_CATEGORY_PHOTOS">相片</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">相片與視訊</string>
+    <string name="IDS_CATEGORY_PRESENTATION">簡報</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">生產力</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">製作原型</string>
+    <string name="IDS_CATEGORY_SOCIAL">社交</string>
+    <string name="IDS_CATEGORY_STORAGE">儲存空間</string>
+    <string name="IDS_CATEGORY_STORY">說故事</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">UI/UX 設計</string>
+    <string name="IDS_CATEGORY_UTILITY">工具</string>
+    <string name="IDS_CATEGORY_VIDEO">視訊</string>
+    <string name="IDS_PLEASE_WAIT">請稍候…</string>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">通訊</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">合輯</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">比賽</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">繪圖</string>
+    <string name="IDS_SUBCATEGORY_EDITING">編輯</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">電子郵件</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">回饋</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">檔案共用</string>
+    <string name="IDS_SUBCATEGORY_FONTS">字體</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">供聘用</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">產生</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">圖樣</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">相片編輯</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">攝影</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">產品組合</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">印刷</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">製作原型</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">社交網路</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">講故事</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">向量圖</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">網站</string>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">在 中編輯</string>
+    <string name="action_settings">設定</string>
+    <string name="adobe_360_capture">擷取</string>
+    <string name="adobe_360_edit">編輯</string>
+    <string name="adobe_360_embed">嵌入</string>
+    <string name="hello_world">世界你好！</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <solid android:color="@color/bsdk_album_image_grid_adapter_selected_indicator_bg_color" />
+
+</shape><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/drawable/bsdk_shape_album_image_selection_indicator_bg.xml -->

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/adobe_asset_view_long_click_main_container"
+    android:tag="LARGE"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/adobe_asset_view_edit_dialog_shape">
+    <LinearLayout
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="@dimen/adobe_asset_edit_dialog_fragment_margin_left"
+        android:layout_marginBottom="8dp">
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            android:id="@+id/asset_long_click_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="@color/asset_browser_light_text"
+            />
+    </LinearLayout>
+        <LinearLayout
+            android:id="@+id/long_click_menu_container"
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/adobe_asset_edit_dialog_fragment_margin_left"
+            android:orientation="vertical">
+
+        </LinearLayout>
+</LinearLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout-sw600dp/adobe_asset_long_click_banner_dialogview.xml -->

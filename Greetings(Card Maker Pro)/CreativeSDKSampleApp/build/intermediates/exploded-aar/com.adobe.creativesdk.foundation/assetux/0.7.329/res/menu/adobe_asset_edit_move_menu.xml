@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/adobe_uxassetbrowser_loki_assets_view_move_asset"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/adobe_asset_edit_move_check_button"
+        android:title="@string/adobe_asset_view_edit_move_button" />
+</menu><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/menu/adobe_asset_edit_move_menu.xml -->

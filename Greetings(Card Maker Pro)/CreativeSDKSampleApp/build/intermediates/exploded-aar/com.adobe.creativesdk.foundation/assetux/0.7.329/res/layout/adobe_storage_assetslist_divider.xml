@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <View xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/storage_assetlist_assetcell_divider"
+            android:layout_width="match_parent"
+            android:layout_height="0.75dp"
+            android:background="@color/storage_assetslist_divider_color"
+          	
+ />
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_storage_assetslist_divider.xml -->

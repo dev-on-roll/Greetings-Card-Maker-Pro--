@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/mobilepackage_item_fragment_content_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    </RelativeLayout>
+
+    <include layout="@layout/asset_viewer_no_internet_connection" android:id="@+id/mobilepackage_item_no_internet_connection"/>
+    <include layout="@layout/asset_viewer_no_preview" android:id="@+id/mobilepackage_item_no_preview"/>
+
+    <ProgressBar
+        android:id="@+id/mobilepackage_item_progressbar_new"
+        android:background="@drawable/spinner_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" />
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/mobilepackage_item_fragment.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/layout/mobilepackage_item_fragment.xml -->

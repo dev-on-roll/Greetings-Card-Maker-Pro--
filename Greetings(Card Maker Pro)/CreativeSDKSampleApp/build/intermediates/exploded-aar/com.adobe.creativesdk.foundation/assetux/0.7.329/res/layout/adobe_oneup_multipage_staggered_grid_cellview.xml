@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/multipage_assetgrid_assetcell_imageContainer"
+        android:layout_width="@dimen/asset_multipage_gridview_column_width"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+    >
+    <!--        android:background="@drawable/storage_assetcell_background_card"-->
+
+    <com.adobe.creativesdk.foundation.internal.grid.utils.DynamicHeightImageView
+        android:id="@+id/multipage_assetgrid_assetcell_imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        />
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_oneup_multipage_staggered_grid_cellview.xml -->

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Creative SDK</string>
+    <string name="action_login">kirjaudu sisään</string>
+    <string name="action_logout">kirjaudu ulos</string>
+    <string name="asset_browser">Resurssien selain</string>
+    <string name="behance_publish">Julkaise Behancessa</string>
+	<string name="launch_header">KÄYNNISTÄ KOMPONENTIT</string>
+    <string name="selection_header">Valitut tiedostot</string>
+
+    <string name="IDS_WELCOME">Tervetuloa Creative Cloudiin</string>
+    <string name="IDS_GET_STARTED">Aloita kirjautumalla sisään Adobe ID -tunnuksellasi tai luo uusi tunnus.</string>
+    <string name="IDS_SIGN_IN">KIRJAUDU SISÄÄN ADOBE ID -TUNNUKSELLASI</string>
+    <string name="IDS_SIGN_UP">REKISTERÖIDY ADOBE ID -TUNNUSTA VARTEN</string>
+    <string name="app_library">Sovelluskirjasto</string>
+    <string name="title_activity_display_message">My Message</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

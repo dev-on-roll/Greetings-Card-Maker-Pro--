@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Creative SDK</string>
+    <string name="action_login">login</string>
+    <string name="action_logout">logout</string>
+    <string name="asset_browser">Navegador do ativo</string>
+    <string name="behance_publish">Publicação no Behance</string>
+	<string name="launch_header">INICIAR COMPONENTES</string>
+    <string name="selection_header">Arquivos selecionados</string>
+
+    <string name="IDS_WELCOME">Bem-vindo ao Creative Cloud</string>
+    <string name="IDS_GET_STARTED">Comece efetuando login ou criando uma nova Adobe ID.</string>
+    <string name="IDS_SIGN_IN">EFETUE LOGIN COM SUA ADOBE ID</string>
+    <string name="IDS_SIGN_UP">INSCREVA-SE PARA OBTER UMA ADOBE ID</string>
+    <string name="app_library">Biblioteca de aplicativos</string>
+    <string name="title_activity_display_message">My Message</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

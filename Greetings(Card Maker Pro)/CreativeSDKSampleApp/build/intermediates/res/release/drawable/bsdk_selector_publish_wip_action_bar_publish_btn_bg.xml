@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/bsdk_wip_publish_view_titlebar_publish_btn_bg_disabled_color" android:state_enabled="false"/>
+    <item android:drawable="@color/bsdk_wip_publish_view_titlebar_publish_btn_bg_pressed_color" android:state_pressed="true"/>
+    <item android:drawable="@color/bsdk_wip_publish_view_titlebar_publish_btn_bg_enabled_color"/>
+
+</selector><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/drawable/bsdk_selector_publish_wip_action_bar_publish_btn_bg.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/drawable/bsdk_selector_publish_wip_action_bar_publish_btn_bg.xml -->

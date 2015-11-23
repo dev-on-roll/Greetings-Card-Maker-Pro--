@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">Kaikki sovellukset</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">Kaikki luokat on jätetty toiminnon ulkopuolelle</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">HAE</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">LUOKAT</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">LAJITTELE</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">Tutustu Creative Cloudin kanssa yhteensopivien luovien sovellusten alati kasvavaan kirjastoon</string>
+    <string name="IDS_APPLIBRARY_ERROR">Sovelluskirjasto ei ole tällä hetkellä käytettävissä. Kokeile myöhemmin uudelleen, niin voit tutustua kasvavaan luovien sovellusten kirjastoon.</string>
+    <string name="IDS_APPLIBRARY_FEATURED">Esittelyssä</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">Parhaan luokituksen saaneet</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">Viimeisimmät</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">Tästä luokasta ei löytynyt sovelluksia.</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">Sovelluksia ei löytynyt.</string>
+    <string name="IDS_APPLIBRARY_TITLE">Sovelluskirjasto</string>
+    <string name="IDS_APP_GET">ASENNA</string>
+    <string name="IDS_APP_OPEN">AVAA</string>
+    <string name="IDS_BY">luonut</string>
+    <string name="IDS_CATEGORY_AUDIO">Ääni</string>
+    <string name="IDS_CATEGORY_CAPTURE">Taltiointi</string>
+    <string name="IDS_CATEGORY_COMMUNITY">Yhteisö</string>
+    <string name="IDS_CATEGORY_DESIGN">Suunnittelu</string>
+    <string name="IDS_CATEGORY_DRAWING">Piirustus</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">Kuvitus</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">Kuvanmuokkaus</string>
+    <string name="IDS_CATEGORY_PHOTOS">Valokuvat</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">Valokuva ja video</string>
+    <string name="IDS_CATEGORY_PRESENTATION">Esitys</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">Tuottavuus</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">Prototyyppi</string>
+    <string name="IDS_CATEGORY_SOCIAL">Sosiaalinen</string>
+    <string name="IDS_CATEGORY_STORAGE">Tallennus</string>
+    <string name="IDS_CATEGORY_STORY">Tarinankerronta</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">Käyttöliittymän/käyttökokemuksen suunnittelu</string>
+    <string name="IDS_CATEGORY_UTILITY">Apuohjelma</string>
+    <string name="IDS_CATEGORY_VIDEO">Video</string>
+    <string name="IDS_PLEASE_WAIT">Odota…</string>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">Viestintä</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">Kokoelmat</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">Kilpailut</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">Piirustus</string>
+    <string name="IDS_SUBCATEGORY_EDITING">Muokkaus</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">Sähköposti</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">Palaute</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">Tiedostonjako</string>
+    <string name="IDS_SUBCATEGORY_FONTS">Kirjasimet</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">Vuokrataan</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">Sukupolvi</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">Kuviot</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">Valokuvien muokkaus</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">Valokuvaus</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">Portfolio</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">Tulostus</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">Prototyyppi</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">Sosiaalinen verkosto</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">Tarinankerronta</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">Vektorit</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">Sivustot</string>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">Muokkaa kohteessa</string>
+    <string name="action_settings">Asetukset</string>
+    <string name="adobe_360_capture">Taltiointi</string>
+    <string name="adobe_360_edit">Muokkaa</string>
+    <string name="adobe_360_embed">Upota</string>
+    <string name="hello_world">Hei maailma!</string>
+</resources>

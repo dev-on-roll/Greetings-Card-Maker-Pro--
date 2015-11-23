@@ -1,0 +1,13 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shareInterpolator="false"
+    android:zAdjustment="top">
+
+    <translate
+        android:duration="@android:integer/config_mediumAnimTime"
+        android:fromXDelta="0%"
+        android:fromYDelta="0%"
+        android:interpolator="@android:interpolator/decelerate_quint"
+        android:toXDelta="-100%"
+        android:toYDelta="0%"/>
+
+</set><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/anim/bsdk_slide_out_to_left.xml -->

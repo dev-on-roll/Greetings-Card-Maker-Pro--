@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/values-ko-rKR/strings.xml -->
+    <eat-comment/>
+    <string name="adobe_auth_sign_in_close">닫기</string>
+    <string name="adobe_common_error_view_no_internet_connection">인터넷에 연결되지 않음</string>
+    <string name="adobe_common_error_view_unknown_authenticate_error">인증하는 동안 오류가 발생했습니다.\n나중에 다시 시도 하십시오.</string>
+    <string name="adobe_error_not_entitled_to_video">"비디오를 미리 볼 수 있는 권한이 없는 사용자에 대한 메시지입니다."</string>
+    <string name="adobe_id_authenticator_accesslabel">Adobe ID 계정 전체 액세스</string>
+    <string name="adobe_id_authenticator_add_account_error_onlyone">하나의 Adobe ID만 지원됨</string>
+    <string name="adobe_id_authenticator_settings_label">Adobe</string>
+    <string name="auth_required">Authentication Required</string>
+    <string name="cancelLogIn">CANCEL</string>
+    <string name="creative_cloud">Creative Cloud</string>
+    <string name="creative_sdk">Creative SDK</string>
+    <string name="logIn">LOGIN</string>
+    <string name="proxy_passwd_label">PASSWORD</string>
+    <string name="proxy_username_label">USER NAME</string>
+    <string formatted="false" name="warning_msg">The server http://%s requires a username and password. The server says : %s</string>
+</resources>

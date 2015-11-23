@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include
+        layout="@layout/actionbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <FrameLayout
+            android:id="@+id/edit_frame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="visible">
+        </FrameLayout>
+        <FrameLayout
+            android:id="@+id/move_frame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone">
+        </FrameLayout>
+        <FrameLayout
+            android:id="@+id/transparent_frame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#48000000"
+            android:visibility="gone"
+            />
+        <RelativeLayout
+            android:id="@+id/adobe_edit_float_action_menu_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/transparent"
+            android:visibility="gone">
+        <com.getbase.floatingactionbutton.FloatingActionsMenu
+            android:id="@+id/adobe_edit_floating_action_menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            fab:fab_addButtonColorNormal="#03A9F4"
+            fab:fab_labelStyle="@style/AdobeFloatingButtonLabelStyle"
+            android:layout_marginBottom="6dp"
+            android:layout_marginRight="7dp">
+
+            <com.getbase.floatingactionbutton.FloatingActionButton
+                android:id="@+id/adobe_edit_delete_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:scaleType="center"
+                android:padding="20dp"
+                fab:fab_title="@string/adobe_asset_view_edit_fragment_erase_button"
+                fab:fab_colorNormal="@color/asset_browser_edit_button_background"
+                fab:fab_icon="@drawable/ic_delete_black_24dp_multi_select"
+                fab:fab_size="mini" />
+
+            <com.getbase.floatingactionbutton.FloatingActionButton
+                android:id="@+id/adobe_edit_move_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                fab:fab_icon="@drawable/ic_move_black_24dp_multi_select"
+                android:scaleType="center"
+                fab:fab_colorNormal="@color/asset_browser_edit_button_background"
+                fab:fab_title="@string/adobe_asset_view_edit_fragment_move_button"
+                android:padding="20dp"
+
+                fab:fab_size="mini" />
+
+            <com.getbase.floatingactionbutton.FloatingActionButton
+                android:id="@+id/adobe_edit_rename_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                fab:fab_icon="@drawable/ic_edit_black_24dp_multi_select"
+                fab:fab_colorNormal="@color/asset_browser_edit_button_background"
+                fab:fab_title="@string/adobe_asset_view_edit_fragment_edit_button"
+                android:scaleType="center"
+                android:padding="20dp"
+                fab:fab_size="mini" />
+
+        </com.getbase.floatingactionbutton.FloatingActionsMenu>
+        </RelativeLayout>
+    </FrameLayout>
+
+
+</LinearLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/activity_edit_asset.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/layout/activity_edit_asset.xml -->

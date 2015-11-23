@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/Analogus"
+        android:title="@string/Analogus"
+        app:showAsAction="never" />
+    <item android:id="@+id/Monochromatic"
+        android:title="@string/Monochromatic"
+        app:showAsAction="never" />
+    <item android:id="@+id/Triad"
+        android:title="@string/Triad"
+        app:showAsAction="never" />
+    <item android:id="@+id/Complementary"
+        android:title="@string/Complementary"
+        app:showAsAction="never" />
+    <item android:id="@+id/Compound"
+        android:title="@string/Compound"
+        app:showAsAction="never" />
+    <item android:id="@+id/Shades"
+        android:title="@string/Shades"
+        app:showAsAction="never" />
+    <item android:id="@+id/Custom"
+        android:title="@string/Custom"
+        app:showAsAction="never" />
+</menu><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/menu/fragment_color_wheel.xml -->

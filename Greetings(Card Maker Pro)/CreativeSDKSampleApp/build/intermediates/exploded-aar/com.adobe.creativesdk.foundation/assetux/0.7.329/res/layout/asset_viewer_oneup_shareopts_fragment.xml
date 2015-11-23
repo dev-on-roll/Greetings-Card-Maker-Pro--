@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/move_target"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/gridHolder"
+        android:background="@color/creative_sdk_background_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dip"
+            android:paddingLeft="15dip"
+            android:paddingRight="15dip"
+            android:paddingTop="10dip"
+            android:text="@string/SHARE_WITH_OPTIONS_TITLE"
+            android:textSize="17sp" />
+
+        <ListView
+            android:id="@+id/shareList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/text1"
+            android:choiceMode="singleChoice"
+            android:gravity="center"
+            android:dividerHeight="0dp"
+            android:divider="@null"
+            android:numColumns="2"
+            android:paddingLeft="5dip"
+            android:paddingRight="5dip"
+            android:verticalSpacing="0dp" />
+
+    </RelativeLayout>
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/asset_viewer_oneup_shareopts_fragment.xml -->

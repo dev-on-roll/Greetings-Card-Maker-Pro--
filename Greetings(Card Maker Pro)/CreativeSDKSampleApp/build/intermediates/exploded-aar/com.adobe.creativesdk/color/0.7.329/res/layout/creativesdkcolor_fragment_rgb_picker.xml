@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rgb_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/rgb_textbar_height"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="43" />
+
+
+        <TextView
+            android:id="@+id/RVal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="72"
+            android:gravity="center"
+            android:textColor="@color/rgb_value_color"
+            android:textSize="@dimen/rgb_font_size" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="65" />
+
+
+        <TextView
+            android:id="@+id/GVal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="72"
+            android:gravity="center"
+            android:textColor="@color/rgb_value_color"
+            android:textSize="@dimen/rgb_font_size" />
+
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="65" />
+
+        <TextView
+            android:id="@+id/BVal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="72"
+            android:gravity="center"
+            android:textColor="@color/rgb_value_color"
+            android:textSize="@dimen/rgb_font_size" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="43" />
+
+
+    </LinearLayout>
+
+
+    <com.adobe.creativesdk.color.internal.ui.view.RGBPicker
+        android:id="@+id/RGBPicker"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+</LinearLayout>
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/layout/creativesdkcolor_fragment_rgb_picker.xml -->

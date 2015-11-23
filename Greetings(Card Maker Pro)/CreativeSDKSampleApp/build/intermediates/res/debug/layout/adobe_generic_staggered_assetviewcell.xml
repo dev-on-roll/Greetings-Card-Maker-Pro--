@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/assetview_assetgrid_assetcell_root"
+    android:layout_width="@dimen/assetbrowser_grid_item_width"
+    android:layout_height="match_parent"
+    android:background="@drawable/storage_assetcell_background_card"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/assetview_assetgrid_assetcell_imageContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <com.adobe.creativesdk.foundation.internal.storage.controllers.utils.AdobeDynamicHeightImageView
+            android:id="@+id/assetview_assetgrid_assetcell_imageView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:minHeight="@dimen/storage_assetslist_selector_btn_width"
+            />
+
+            <!--
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/creative_sdk_blue_color"
+                android:alpha="0.7"
+                android:gravity="center"
+                android:id="@+id/assetview_assetgrid_assetcell_selectionframe"
+                android:layout_alignLeft="@+id/assetview_assetgrid_assetcell_imageView"
+                android:layout_alignRight="@+id/assetview_assetgrid_assetcell_imageView"
+                android:layout_alignBottom="@+id/assetview_assetgrid_assetcell_imageView"
+                android:layout_alignTop="@+id/assetview_assetgrid_assetcell_imageView"
+                >
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/asset_selection_checkmark"/>
+
+            </RelativeLayout>
+            -->
+
+
+            <ImageButton
+                android:id="@+id/assetview_assetgrid_assetcell_selectbtn"
+                android:layout_width="@dimen/storage_assetslist_selector_btn_width"
+                android:layout_height="@dimen/storage_assetslist_selector_btn_width"
+                android:layout_alignBottom="@+id/assetview_assetgrid_assetcell_imageView"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/storage_grid_assetcell_select_btn_selector"
+                android:background="@null"
+                android:scaleType="center"
+                android:visibility="gone" />
+
+            <!--
+            <FrameLayout
+                android:id="@+id/assetview_assetgrid_assetcell_selectionframe"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:visibility="gone"
+                android:background="@color/storage_assetgrid_assetcell_selectionframe_background_color" >
+            </FrameLayout>
+            -->
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/assetview_assetgrid_assetcell_bottom_title_section"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/assetbrowser_photo_catalog_gridview_textview_height"
+            android:orientation="horizontal"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="@dimen/assetbrowser_photo_catalog_gridview_textview_margin_left"
+            android:layout_marginRight="@dimen/assetbrowser_photo_catalog_gridview_textview_margin_right"
+            android:background="@color/creative_sdk_transparent_color">
+
+            <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+                android:id="@+id/assetview_assetgrid_assetcell_title"
+                android:layout_width="0dp"
+                android:layout_weight="55"
+                android:layout_height="match_parent"
+                android:background="@color/creative_sdk_transparent_color"
+                android:ellipsize="middle"
+                android:gravity="center_vertical"
+                android:singleLine="true"
+                android:text="@color/asset_browser_dark_text"
+                android:textSize="@dimen/assetbrowser_grid_text_size"
+                android:paddingRight="4dp">
+            </com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView>
+
+
+            <ImageView
+                android:id="@+id/assetview_assetgrid_assetcell_video_indicator"
+                android:layout_width="0dp"
+                android:layout_weight="10"
+                android:layout_height="wrap_content"
+                android:src="@drawable/video_indicator"
+                android:paddingRight="4dp"
+                android:visibility="gone" />
+
+            <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+                android:id="@+id/assetview_assetgrid_assetcell_video_duration"
+                android:layout_width="0dp"
+                android:layout_weight="15"
+                android:layout_height="wrap_content"
+                android:gravity="end"
+                android:text="@color/asset_browser_light_text"
+                android:ellipsize="marquee"
+                android:singleLine="true"
+                android:textSize="12sp"
+                android:visibility="gone">
+            </com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_generic_staggered_assetviewcell.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/layout/adobe_generic_staggered_assetviewcell.xml -->

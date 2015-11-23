@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Creative SDK</string>
+    <string name="action_login">로그인</string>
+    <string name="action_logout">로그아웃</string>
+    <string name="asset_browser">자산 브라우저</string>
+    <string name="behance_publish">Behance에 게시</string>
+	<string name="launch_header">구성 요소 실행</string>
+    <string name="selection_header">선택된 파일</string>
+
+    <string name="IDS_WELCOME">Creative Cloud 시작</string>
+    <string name="IDS_GET_STARTED">로그인하여 시작하기 또는 새 Adobe ID 만들기</string>
+    <string name="IDS_SIGN_IN">Adobe ID를 사용하여 로그인</string>
+    <string name="IDS_SIGN_UP">Adobe ID 등록</string>
+    <string name="app_library">앱 라이브러리</string>
+    <string name="title_activity_display_message">My Message</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/actionBarSize"
+    android:background="@drawable/bsdk_bg_image_actionbar"
+    android:gravity="center_vertical" >
+
+
+    <RelativeLayout
+        android:id="@+id/bsdkCCAssetBrowserLauncherTitleBarLeftNavLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true" >
+
+        <LinearLayout
+            android:id="@+id/bsdkCCAssetBrowserLauncherTitlebarIconLayout"
+            android:background="@drawable/bsdk_selector_app_default_selection_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/bsdkCCAssetBrowserLauncherTitlebarIconImageView"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:contentDescription="@string/bsdk_cc_asset_browser_launcher_titlebar_back_nav_content_desc"
+                android:paddingLeft="@dimen/bsdk_titlebar_left_margin"
+                android:paddingRight="@dimen/bsdk_titlebar_back_button_right_margin"
+                android:scaleType="center"
+                android:src="@drawable/bsdk_icon_add_project_edit_fragment_cloud" />
+        </LinearLayout>
+
+        <com.behance.sdk.ui.customviews.BehanceSDKTextView
+            android:id="@+id/bsdkCCAssetBrowserLauncherTitlebarTitleTxtView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/bsdkCCAssetBrowserLauncherTitlebarIconLayout"
+            android:textColor="@color/bsdk_titlebar_txt_color"
+            android:textSize="@dimen/bsdk_titlebar_txt_size" android:text="@string/bsdk_cc_asset_browser_launcher_titlebar_title_label" />
+    </RelativeLayout>
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_actionbar_custom_cc_asset_browser_launcher_activity.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/layout/bsdk_actionbar_custom_cc_asset_browser_launcher_activity.xml -->

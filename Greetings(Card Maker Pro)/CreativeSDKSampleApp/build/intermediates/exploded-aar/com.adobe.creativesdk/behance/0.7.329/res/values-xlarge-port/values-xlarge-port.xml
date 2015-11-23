@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-xlarge-port/layouts.xml -->
+    <eat-comment/>
+    <item name="bsdk_show_view_full_screen" type="bool">false</item>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-xlarge-port/dimens_publish_project.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_add_project_preview_project_fragment_list_item_top_padding">23dp</dimen>
+    <dimen name="bsdk_add_project_preview_project_fragment_listview_top_bottom_padding">33dp</dimen>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/values-pl/strings.xml -->
+    <eat-comment/>
+    <string name="Analogus">Analogiczne</string>
+    <string name="Complementary">Dopełniające</string>
+    <string name="Compound">Złożone</string>
+    <string name="Custom">Niestandardowe</string>
+    <string name="Monochromatic">Monochromatyczne</string>
+    <string name="OK">OK</string>
+    <string name="Shades">Odcienie</string>
+    <string name="Triad">Triada</string>
+    <string name="add_color">Dodaj kolor</string>
+    <string name="add_theme">Dodaj motyw</string>
+    <string name="all_colors">Wszystkie kolory</string>
+    <string name="by">Autor: </string>
+    <string name="cancel">ANULUJ</string>
+    <string name="clear_history">USUŃ</string>
+    <string name="color_component_activity_actionbar_title">Kolor</string>
+    <string name="color_picker_actionbar_title">Próbnik kolorów</string>
+    <string name="copy_themes">Kopiuj motywy</string>
+    <string name="copy_to">Kopiuj do</string>
+    <string name="create">Utwórz</string>
+    <string name="create_library">Utwórz bibliotekę</string>
+    <string name="delete">Usuń</string>
+    <string name="edit">EDYTUJ</string>
+    <string name="edit_camel">Edytuj</string>
+    <string name="edit_color">Edytuj kolor</string>
+    <string name="edit_name">Edytuj nazwę</string>
+    <string name="edit_theme">Edytuj motyw</string>
+    <string name="empty_color_list_line1">Rozpocznij kolekcjonowanie kolorów i motywów</string>
+    <string name="empty_color_list_line2">w tej bibliotece do wykorzystania w innych</string>
+    <string name="empty_color_list_line3">aplikacjach mobilnych i komputerowych.</string>
+    <string name="hello_blank_fragment">Witaj (pusty fragment)</string>
+    <string name="hex">Hex</string>
+    <string name="history">Historia</string>
+    <string name="history_cleared">Wyczyszczono historię</string>
+    <string name="lib_row_desc_p_p">Liczba kolorów: %1$d, liczba motywów: %2$d</string>
+    <string name="lib_row_desc_p_s">Liczba kolorów: %1$d, 1 motyw</string>
+    <string name="lib_row_desc_s_p">1 kolor, liczba motywów: %1$d</string>
+    <string name="lib_row_desc_s_s">1 kolor, 1 motyw</string>
+    <string name="libraries_tab_heading">MOJE BIBLIOTEKI</string>
+    <string name="loading">Wczytywanie…</string>
+    <string name="my_library">Moja biblioteka</string>
+    <string name="new_name">Nowa nazwa</string>
+    <string name="no_colors">Brak kolorów</string>
+    <string name="picker_tab_heading">PRÓBNIK</string>
+    <string name="remove">USUŃ</string>
+    <string name="remove_camel">Usuń</string>
+    <string name="remove_confirmation">Czy na pewno chcesz usunąć?</string>
+    <string name="rename">ZMIEŃ NAZWĘ</string>
+    <string name="rename_library">Zmień nazwę biblioteki</string>
+    <string name="rgb">RGB</string>
+    <string name="select_a_color">Wybierz kolor</string>
+    <string name="select_library">Wybierz bibliotekę</string>
+    <string name="syncing_library">Synchronizowanie bibliotek…</string>
+    <string name="theme_picker_actionbar_title">Paleta motywów</string>
+    <string name="themes_tab_heading">MOTYWY</string>
+    <string name="wheel">Paleta</string>
+</resources>

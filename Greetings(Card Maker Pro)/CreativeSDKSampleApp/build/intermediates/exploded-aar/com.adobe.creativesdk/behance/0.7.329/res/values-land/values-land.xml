@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-land/layouts.xml -->
+    <eat-comment/>
+    <item name="bsdk_big_screen" type="bool">false</item>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-land/dimens_publish_project.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_add_project_preview_project_fragment_list_item_top_padding">16dp</dimen>
+    <dimen name="bsdk_add_project_preview_project_fragment_listview_top_bottom_padding">25dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-land/dimens_add_wip.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_add_wip_new_wip_dialog_width">350dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-land/layouts.xml -->
+    <eat-comment/>
+    <item name="bsdk_album_selector_fragment_grid_col_count" type="integer">3</item>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-land/dimens_edit_profile.xml -->
+    <eat-comment/>
+    <integer name="bsdk_edit_profile_content_weight">8</integer>
+    <integer name="bsdk_edit_profile_margin_weight">1</integer>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-land/layouts.xml -->
+    <eat-comment/>
+    <item name="bsdk_image_selection_fragment_grid_col_count" type="integer">3</item>
+</resources>

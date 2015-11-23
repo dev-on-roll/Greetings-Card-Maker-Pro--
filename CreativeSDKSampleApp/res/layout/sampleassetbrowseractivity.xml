@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/creative_sdk_background_color">
+
+    <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:background="@color/creative_sdk_background_color"
+                    android:id="@+id/assetbrowsercontainer">
+
+         <TextView
+                    android:id="@+id/ic_launchHeaderText"
+                    android:layout_marginLeft="@dimen/assetbrowser_list_view_text_left_padding"
+                    android:layout_marginTop="@dimen/assetbrowser_list_view_text_left_padding"
+                    android:singleLine="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="24dp"
+                    android:background="@color/creative_sdk_transparent_color"
+                    android:textColor="@color/asset_browser_light_text"
+                    android:textSize="@dimen/assetbrowser_grid_text_size"
+                    android:text="@string/launch_header"/>
+
+            <ListView
+                    android:id="@+id/ic_listview"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:orientation="horizontal">
+            </ListView>
+
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/sdk_sample_app_busy_spinner"
+        android:background="@drawable/spinner_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="false"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="gone" />
+
+
+</RelativeLayout>

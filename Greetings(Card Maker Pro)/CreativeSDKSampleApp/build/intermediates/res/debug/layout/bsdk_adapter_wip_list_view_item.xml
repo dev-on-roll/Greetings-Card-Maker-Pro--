@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="@dimen/bsdk_add_wip_adapter_left_right_padding"
+    android:paddingRight="@dimen/bsdk_add_wip_adapter_left_right_padding"
+    android:paddingTop="@dimen/bsdk_add_wip_adapter_top_bottom_padding" >
+
+    <ImageView
+        android:id="@+id/bsdkWIPItemAdapterWIPThumbnailImageView"
+        android:layout_width="@dimen/bsdk_add_wip_adapter_thumbnail_width_height"
+        android:layout_height="@dimen/bsdk_add_wip_adapter_thumbnail_width_height"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:contentDescription="@string/bsdk_generic_image_content_desc"
+        android:scaleType="centerCrop" />
+
+    <ImageView
+        android:id="@+id/bsdkWIPItemAdapterWIPSelectedIndicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:contentDescription="@string/bsdk_generic_image_content_desc"
+        android:src="@drawable/bsdk_icon_adapter_list_item_selected_indicator"
+        android:visibility="invisible" />
+
+    <com.behance.sdk.ui.customviews.BehanceSDKTextView
+        android:id="@+id/bsdkWIPItemAdapterWIPNameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:layout_toLeftOf="@id/bsdkWIPItemAdapterWIPSelectedIndicator"
+        android:layout_toRightOf="@id/bsdkWIPItemAdapterWIPThumbnailImageView"
+        android:ellipsize="end"
+        android:lines="1"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:textColor="@color/bsdk_add_wip_adapter_txt_color"
+        android:textSize="@dimen/bsdk_add_wip_adapter_txt_size" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/bsdkWIPItemAdapterWIPThumbnailImageView"
+        android:layout_marginTop="@dimen/bsdk_add_wip_adapter_top_bottom_padding"
+        android:background="@color/bsdk_add_wip_adapter_divider_color" />
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_adapter_wip_list_view_item.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/layout/bsdk_adapter_wip_list_view_item.xml -->

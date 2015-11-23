@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/storage_assetcell_background_card"
+    android:orientation="vertical"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/adobe_library_items_color_height"
+        android:id="@+id/adobe_library_items_color_cell_background"
+        >
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/adobe_library_items_color_textcontainer_height"
+        android:background="@color/adobe_library_items_cell_background"
+        >
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            android:id="@+id/adobe_library_items_color_rgb_text"
+            style="@style/AdobeDesignLibraryItemText"
+            />
+
+    </RelativeLayout>
+
+</LinearLayout>
+
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_library_items_colorcell.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/layout/adobe_library_items_colorcell.xml -->

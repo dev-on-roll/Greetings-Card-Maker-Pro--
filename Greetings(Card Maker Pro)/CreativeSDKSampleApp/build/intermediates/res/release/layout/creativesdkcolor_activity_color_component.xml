@@ -1,0 +1,99 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/global_background_color"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/tab_bar_height"
+            android:background="@color/tabs_background_color"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/tab1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/picker_tab_heading"
+                    android:textColor="@color/active_tab_text_and_underline_color"
+                    android:textSize="@dimen/tab_text_size" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/tab_underline_width"
+                    android:background="@color/active_tab_text_and_underline_color" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/tab2"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/themes_tab_heading"
+                    android:textColor="@color/tab_text_color"
+                    android:textSize="@dimen/tab_text_size" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/tab_underline_width"
+                    android:background="@color/active_tab_text_and_underline_color"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/tab3"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/libraries_tab_heading"
+                    android:textColor="@color/tab_text_color"
+                    android:textSize="@dimen/tab_text_size" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/tab_underline_width"
+                    android:background="@color/active_tab_text_and_underline_color"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <include layout="@layout/creativesdkcolor_toolbar_shadow"/>
+
+    </LinearLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+</LinearLayout>
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/layout/creativesdkcolor_activity_color_component.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/layout/creativesdkcolor_activity_color_component.xml -->

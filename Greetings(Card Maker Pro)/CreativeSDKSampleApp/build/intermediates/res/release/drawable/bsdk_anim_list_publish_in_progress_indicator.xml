@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+
+    <item
+        android:drawable="@drawable/bsdk_publish_in_progress_anim0"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/bsdk_publish_in_progress_anim1"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/bsdk_publish_in_progress_anim2"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/bsdk_publish_in_progress_anim3"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/bsdk_publish_in_progress_anim4"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/bsdk_publish_in_progress_anim5"
+        android:duration="200"/>
+
+</animation-list><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/drawable/bsdk_anim_list_publish_in_progress_indicator.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/drawable/bsdk_anim_list_publish_in_progress_indicator.xml -->

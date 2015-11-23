@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <stroke
+        android:width="@dimen/bsdk_image_selector_view_adapter_bg_stroke_width"
+        android:color="@color/bsdk_image_selector_view_adapter_bg_stroke_color" />
+
+    <solid android:color="@color/bsdk_album_grid_adapter_bg_color" />
+
+</shape><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/drawable/bsdk_shape_album_grid_item_adapter_bg.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/drawable/bsdk_shape_album_grid_item_adapter_bg.xml -->

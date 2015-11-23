@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<account-authenticator xmlns:android="http://schemas.android.com/apk/res/android"
+                       android:accountType="com.adobe.creativesdk.foundation.auth.adobeID"
+                       android:icon="@drawable/adobeid_account_settings_img"
+                       android:smallIcon="@drawable/adobeid_account_settings_img"
+                       android:label="@string/adobe_id_authenticator_settings_label"
+                       android:customTokens="true"
+                       />
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/xml/adobeid_authenticator_description.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/xml/adobeid_authenticator_description.xml -->

@@ -1,0 +1,94 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:civ="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bsdk_publish_project_view_bg_color"
+    android:orientation="vertical" >
+
+    <include layout="@layout/bsdk_actionbar_custom_publish_project" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <RelativeLayout
+            android:id="@+id/add_project_cover_selection_fragment_cover_image_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/add_project_cover_selection_fragment_selected_images_scrollview"
+            android:background="#000000" >
+
+            <com.behance.sdk.edmodo.cropper.CropImageView
+                xmlns:civ="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/add_project_cover_selection_fragment_cover_image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                civ:aspectRatioX="404"
+                civ:aspectRatioY="316"
+                civ:fixAspectRatio="true"
+                civ:guidelines="off" />
+
+            <ImageView
+                android:id="@+id/add_project_cover_selection_fragment_cropped_cover_Image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:contentDescription="@string/bsdk_generic_image_content_desc"
+                android:scaleType="fitCenter"
+                android:visibility="gone" />
+
+            <ProgressBar
+                android:id="@+id/bsdkPublishProjectCoverPrgressBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <HorizontalScrollView
+            android:id="@+id/add_project_cover_selection_fragment_selected_images_scrollview"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/bsdk_add_project_cover_selection_fragment_filmstrip_height"
+            android:layout_alignParentBottom="true"
+            android:background="@color/bsdk_add_project_cover_image_fragment_filmstrip_backgound_color" >
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" >
+
+                <LinearLayout
+                    android:id="@+id/add_project_cover_selection_fragment_selected_images"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingLeft="@dimen/bsdk_add_project_cover_selection_fragment_filmstrip_image_left_right_padding" >
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/add_project_cover_selection_fragment_add_btn"
+                    android:layout_width="@dimen/bsdk_add_project_cover_selection_fragment_add_button_width"
+                    android:layout_height="@dimen/bsdk_add_project_cover_selection_fragment_add_button_height"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/bsdk_add_project_cover_selection_fragment_filmstrip_image_left_right_padding"
+                    android:layout_toRightOf="@id/add_project_cover_selection_fragment_selected_images"
+                    android:background="@drawable/bsdk_shape_add_project_add_cover_image"
+                    android:gravity="center"
+                    android:orientation="vertical" >
+
+                    <ImageView
+                        android:id="@+id/add_project_cover_selection_fragment_add_btn_image"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:contentDescription="@string/bsdk_generic_image_content_desc"
+                        android:src="@drawable/bsdk_icon_add_project_cover_image_selection" />
+                </LinearLayout>
+            </RelativeLayout>
+        </HorizontalScrollView>
+    </RelativeLayout>
+
+</LinearLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_dialog_fragment_publish_project_select_cover.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/layout/bsdk_dialog_fragment_publish_project_select_cover.xml -->

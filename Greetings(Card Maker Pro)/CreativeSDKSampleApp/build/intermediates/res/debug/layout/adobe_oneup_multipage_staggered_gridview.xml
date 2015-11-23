@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/creative_sdk_background_color">
+
+    <com.adobe.creativesdk.foundation.internal.grid.StaggeredGridView
+        xmlns:sgv="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/multipage_StaggeredGridView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        sgv:column_count_landscape="@integer/assetview_staggeredgrid_land_column_count"
+        sgv:column_count_portrait="@integer/assetview_staggeredgrid_portrait_column_count"
+        sgv:item_margin="@dimen/assetbrowser_grid_item_margin"
+        android:longClickable="true"
+
+        android:paddingTop="@dimen/assetbrowser_grid_padding_top" />
+
+    <RelativeLayout
+        android:id="@+id/asset_one_up_multi_page_grid_section_container"
+        android:layout_width="wrap_content"
+        android:layout_height="34dp"
+        android:background="@drawable/rounded_rectangle"
+       android:paddingRight="7dp"
+        android:alpha="0.5"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="5dp"
+        android:visibility="gone">
+        <ImageView
+            android:id="@+id/page_indicator_grid_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/page_numbering_header_grid"
+            android:layout_centerVertical="true"
+            android:paddingTop="1dp"
+            android:paddingLeft="19dp"
+            android:paddingRight="7dp"/>
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            android:layout_toRightOf="@id/page_indicator_grid_view"
+            android:id="@+id/asset_one_up_multi_page_grid_section_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:textSize="16sp"
+            android:text="12 pages"
+            android:textColor="@android:color/white"
+            android:visibility="visible"/>
+    </RelativeLayout>
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_oneup_multipage_staggered_gridview.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/layout/adobe_oneup_multipage_staggered_gridview.xml -->

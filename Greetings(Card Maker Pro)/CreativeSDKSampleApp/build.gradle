@@ -1,0 +1,102 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    repositories {
+    	mavenCentral()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.2.3'
+    }
+}
+
+allprojects {
+    apply plugin: 'maven'
+
+    tasks.withType(JavaCompile) {
+        options.incremental = true
+    }
+
+    repositories {
+        mavenCentral()
+        jcenter()
+        maven {
+            url "${project.rootDir}/creativesdk-repo/release"  //ADD THE CORRECT LOCATION OF THE CREATIVESDK LIBRARY FILES
+        }
+    }
+}
+
+apply plugin: 'android'
+
+dependencies {
+    compile fileTree(include: '*.jar', dir: 'libs')
+    compile ('com.adobe.creativesdk:behance:0.7.329')
+    {
+        exclude module: 'httpcore'
+        exclude module: 'commons-codec'
+    }
+
+
+    compile 'com.adobe.creativesdk.foundation:auth:0.7.329'
+    compile 'com.adobe.creativesdk.foundation:assetcore:0.7.329'
+    compile 'com.adobe.creativesdk.foundation:assetux:0.7.329'
+    compile 'com.adobe.creativesdk:color:0.7.329'
+    compile 'com.adobe.creativesdk.foundation:applibrary:0.7.329'
+
+}
+
+
+Properties properties = new Properties()
+properties.load(project.rootProject.file('local.properties').newDataInputStream())
+def KEYSTORE = properties.getProperty('KEYSTORE')
+
+
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+
+    defaultConfig {
+        applicationId "com.adobe.creativesdk.sample"
+        minSdkVersion 14
+        targetSdkVersion 21
+        versionName "0.7.329"
+        versionCode 329
+    }
+
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+        }
+
+    }
+
+
+    buildTypes {
+        release {
+            debuggable false
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+        exclude 'AndroidManifest.xml'
+    }
+
+    lintOptions {
+        abortOnError false
+    }
+
+    dexOptions {
+        javaMaxHeapSize "4g"
+    }
+}

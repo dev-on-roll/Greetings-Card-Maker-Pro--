@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/storage_assetcell_background_card"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/adobe_library_items_colortheme_container"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/adobe_library_items_colortheme_height"
+        android:background="@color/adobe_library_items_cell_background"
+        android:orientation="horizontal"
+        >
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/adobe_library_items_colortheme_text_height"
+        android:background="@color/adobe_library_items_cell_background"
+        >
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            android:id="@+id/adobe_library_items_colortheme_text"
+            style="@style/AdobeDesignLibraryItemText"
+            />
+    </RelativeLayout>
+
+</LinearLayout>
+
+
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_library_items_colorthemecell.xml -->

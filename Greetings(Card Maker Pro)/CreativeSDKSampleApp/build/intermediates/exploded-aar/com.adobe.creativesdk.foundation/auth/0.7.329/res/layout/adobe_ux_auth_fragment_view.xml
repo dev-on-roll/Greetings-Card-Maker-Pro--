@@ -1,0 +1,26 @@
+<com.adobe.creativesdk.foundation.internal.utils.DrawShadowRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	tools:context="com.adobe.creativesdk.foundation.internal.auth.AdobeAuthSignInActivity">
+
+	<ProgressBar
+		android:id="@+id/creativesdk_foundation_auth_progressBar"
+		android:background="@drawable/spinner_bar"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_centerInParent="true" />
+
+	<RelativeLayout
+		android:id="@+id/creativesdk_foundation_auth_webview_container"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent" />
+
+	<FrameLayout
+		android:id="@+id/creativesdk_foundation_auth_signin_error"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:visibility="invisible" />
+
+</com.adobe.creativesdk.foundation.internal.utils.DrawShadowRelativeLayout>
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/layout/adobe_ux_auth_fragment_view.xml -->

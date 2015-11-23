@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.adobe.creativesdk.foundation.internal.utils.DrawShadowRelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/creative_sdk_background_color"
+    android:paddingLeft="@dimen/adobe_storage_setting_padding_left"
+    android:paddingRight="@dimen/adobe_storage_setting_padding_left">
+    
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="@dimen/adobe_storage_setting_item_height"
+		android:background="@color/creative_sdk_background_color"
+		android:gravity="center_vertical"
+		android:orientation="vertical" >
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical" >
+	
+			<com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+				android:id="@+id/storage_settings_userName"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:textColor="@color/asset_browser_dark_text"
+				android:textSize="@dimen/adobe_storage_setting_text_size" />
+	
+			<com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+				android:id="@+id/storage_settings_userEmailId"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:textColor="@color/asset_browser_light_text"
+				android:textSize="@dimen/assetbrowser_grid_text_size" />
+		</LinearLayout>
+		
+	</LinearLayout>
+	
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="@dimen/adobe_storage_setting_item_height"
+		android:background="@drawable/storage_settings_item_divider"
+		android:gravity="center_vertical"
+		android:orientation="vertical" >
+
+		<com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+			android:id="@+id/storage_settings_storageUsage"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center_vertical"
+            android:text="@string/storage_settigs_usuage_calculating"
+			android:textColor="@color/asset_browser_dark_text"
+			android:textSize="@dimen/adobe_storage_setting_text_size" />
+	</LinearLayout>
+	<!-- 
+	<LinearLayout
+	    android:id="@+id/storage_settings_getMoreStorage"
+		android:layout_width="match_parent"
+		android:layout_height="@dimen/adobe_storage_setting_item_height"
+		android:background="@drawable/storage_settings_item_divider"
+		android:gravity="center_vertical"
+		android:orientation="vertical" >
+
+		<com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+			
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/storage_settings_get_more_storage"
+			android:layout_gravity="center_vertical"
+			android:textColor="@color/asset_browser_dark_text"
+			android:textSize="@dimen/adobe_storage_setting_text_size" />
+	</LinearLayout>
+	 -->
+	 
+	<LinearLayout
+	    android:id="@+id/storage_settings_editCCSettings"
+		android:layout_width="match_parent"
+		android:layout_height="@dimen/adobe_storage_setting_item_height"
+		android:background="@drawable/storage_settings_item_divider"
+		android:gravity="center_vertical"
+		android:orientation="vertical" >
+
+		<com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/storage_settings_edit_cc_settings"
+			android:layout_gravity="center_vertical"
+			android:textColor="@color/asset_browser_dark_text"
+			android:textSize="@dimen/adobe_storage_setting_text_size" />
+	</LinearLayout>
+	
+
+    <LinearLayout
+        android:id="@+id/storage_settings_switchAccounts"
+		android:layout_width="match_parent"
+		android:layout_height="@dimen/adobe_storage_setting_item_height"
+		android:background="@drawable/storage_settings_item_divider"
+		android:gravity="center_vertical"
+		android:orientation="vertical" >
+
+		<com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+			
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="@string/storage_settings_switch_accounts"
+			android:layout_gravity="center_vertical"
+			android:textColor="@color/asset_browser_dark_text"
+			android:textSize="@dimen/adobe_storage_setting_text_size" />
+	</LinearLayout>
+    
+    
+</LinearLayout>
+</com.adobe.creativesdk.foundation.internal.utils.DrawShadowRelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_storage_settings_fragment.xml -->

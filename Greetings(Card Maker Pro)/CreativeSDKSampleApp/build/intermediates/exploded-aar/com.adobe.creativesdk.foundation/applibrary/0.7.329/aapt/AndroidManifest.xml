@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.adobe.creativesdk.foundation.applibrary"
+    android:versionCode="1"
+    android:versionName="0.1.100" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22" />
+
+    <application android:allowBackup="true" >
+        <activity
+            android:name="com.adobe.creativesdk.foundation.applibrary.internal.AppLibraryActivity"
+            android:theme="@style/AppLibraryTheme" />
+        <activity
+            android:name="com.adobe.creativesdk.foundation.applibrary.internal.ActionResolverActivity"
+            android:documentLaunchMode="never"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:finishOnCloseSystemDialogs="true"
+            android:relinquishTaskIdentity="true"
+            android:theme="@style/BottomSheet.Light" />
+    </application>
+
+</manifest>

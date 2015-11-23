@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="49dp"
+    android:background="@drawable/tab_indicator"
+    >
+
+    <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+        android:id="@+id/creativesdk_tab_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/asset_browser_dark_text"
+        android:textSize="14sp"
+        android:layout_centerInParent="true"
+        android:scrollHorizontally="true"
+        android:gravity="center"
+        android:ellipsize="marquee"
+        android:singleLine="true"
+        />
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/tab_layout.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/layout/tab_layout.xml -->

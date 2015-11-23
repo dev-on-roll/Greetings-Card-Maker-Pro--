@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+   >
+
+    <item 
+        android:id="@+id/adobe_uxassetbrowser_myaccount"
+        android:orderInCategory="1000"
+        android:showAsAction="never"
+        android:visible="true"
+        android:title="@string/adobe_uxassetbrowser_myacount"/>
+
+</menu><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/menu/adobe_ux_asset_browser_main_menu.xml -->

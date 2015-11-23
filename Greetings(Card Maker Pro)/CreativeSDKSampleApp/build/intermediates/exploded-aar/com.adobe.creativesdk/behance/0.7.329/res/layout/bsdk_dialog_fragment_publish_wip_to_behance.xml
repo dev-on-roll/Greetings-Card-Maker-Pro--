@@ -1,0 +1,325 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bsdk_add_wip_view_bg_color"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/bsdkPublishWipTitlebarContainer"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:background="@drawable/bsdk_bg_image_actionbar"
+        android:gravity="center_vertical" >
+
+        <RelativeLayout
+            android:id="@+id/bsdkPublishWipTitlebarBackBtnContainer"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true" >
+
+            <ImageView
+                android:id="@+id/bsdkPublishWipTitlebarBackBtnImageView"
+                android:background="@drawable/bsdk_selector_app_default_selection_bg"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:contentDescription="@string/bsdk_wip_publish_view_titlebar_back_nav_content_desc"
+                android:paddingLeft="@dimen/bsdk_titlebar_left_margin"
+                android:paddingRight="@dimen/bsdk_titlebar_back_button_right_margin"
+                android:scaleType="center"
+                android:src="@drawable/bsdk_icon_actionbar_back_button" />
+
+            <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                android:id="@+id/bsdkPublishWipTitlebarTitleTxtView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@id/bsdkPublishWipTitlebarBackBtnImageView"
+                android:paddingRight="10dp"
+                android:text="@string/bsdk_wip_publish_view_titlebar_title_publish_label"
+                android:textColor="@color/bsdk_titlebar_txt_color"
+                android:textSize="@dimen/bsdk_titlebar_txt_size" />
+        </RelativeLayout>
+
+        <com.behance.sdk.ui.customviews.BehanceSDKTextView
+            android:id="@+id/bsdkPublishWipTitlebarNewWIPBtnTxtView"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/bsdk_titlebar_right_margin"
+            android:paddingRight="@dimen/bsdk_titlebar_right_margin"
+            android:text="@string/bsdk_add_wip_pick_wip_view_titlebar_action_btn_create_wip_label"
+            android:textColor="@drawable/bsdk_selector_titlebar_action_btn_color"
+            android:textSize="@dimen/bsdk_titlebar_action_btn_txt_size" />
+
+        <com.behance.sdk.ui.customviews.BehanceSDKTextView
+            android:id="@+id/bsdkPublishWipTitlebarPublishBtnTxtView"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom=".5dp"
+            android:background="@drawable/bsdk_selector_publish_wip_action_bar_publish_btn_bg"
+            android:gravity="center"
+            android:paddingLeft="14dp"
+            android:paddingRight="14dp"
+            android:text="@string/bsdk_wip_publish_view_titlebar_action_btn_publish_label"
+            android:textColor="@color/bsdk_wip_publish_view_titlebar_publish_btn_txt_color"
+            android:textSize="@dimen/bsdk_titlebar_action_btn_txt_size" />
+    </RelativeLayout>
+
+    <ViewFlipper
+        android:id="@+id/bsdkPublishWipViewFlipper"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <!-- publish screen -->
+
+        <ScrollView
+            android:id="@+id/bsdkPublishWipPublishViewRootContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:scrollbarStyle="outsideOverlay" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <LinearLayout
+                    android:id="@+id/bsdkPublishWipPublishViewDetailsContainer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingBottom="@dimen/bsdk_wip_publish_view_padding_bottom"
+                    android:paddingLeft="@dimen/bsdk_wip_publish_view_padding_left"
+                    android:paddingRight="@dimen/bsdk_wip_publish_view_padding_right" >
+
+                    <LinearLayout
+                        android:id="@+id/bsdkPublishWipPublishViewWIPNameContainer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        style="@style/BsdkLayoutWithEditTextBackgroundStyle" >
+
+                        <ImageView
+                            android:id="@+id/bsdkPublishWipPublishViewWIPThumbnailImageView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="@dimen/bsdk_wip_publish_view_wip_thumbnail_image_height"
+                            android:layout_marginBottom="@dimen/bsdk_wip_publish_view_wip_thumbnail_image_margin_top_bottom"
+                            android:layout_marginLeft="@dimen/bsdk_wip_publish_view_wip_thumbnail_image_margin_left"
+                            android:layout_marginTop="@dimen/bsdk_wip_publish_view_wip_thumbnail_image_margin_top_bottom"
+                            android:contentDescription="@string/bsdk_generic_image_content_desc"
+                            android:adjustViewBounds="true"
+                            android:scaleType="centerInside" />
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent" >
+
+                            <com.behance.sdk.ui.customviews.BehanceSDKEditText
+                                android:id="@+id/bsdkPublishWipPublishViewWIPNameEditTxt"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:layout_marginLeft="@dimen/bsdk_wip_publish_view_wip_name_txt_view_margin_left"
+                                android:background="@null"
+                                android:hint="@string/bsdk_wip_publish_view_wip_name_hint"
+                                android:imeOptions="flagNoExtractUi"
+                                android:lines="1"
+                                android:maxLength="@integer/bsdk_wip_publish_view_title_max_chars"
+                                android:maxLines="1"
+                                android:paddingBottom="10dp"
+                                android:paddingTop="10dp"
+                                android:singleLine="true"
+                                android:textColor="@color/bsdk_wip_publish_view_wip_details_txt_color"
+                                android:textColorHint="@color/bsdk_wip_publish_view_wip_details_txt_hint_color"
+                                android:textSize="@dimen/bsdk_publish_info_views_field_text_size" />
+
+                            <RelativeLayout
+                                android:id="@+id/bsdkPublishWipPublishViewShowPickWIPsViewBtn"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginLeft="@dimen/bsdk_wip_publish_view_wip_name_txt_view_margin_left" >
+
+                                <ImageView
+                                    android:id="@+id/bsdkPublishWipPublishViewShowPickWIPsViewBtnRightImage"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignParentRight="true"
+                                    android:layout_centerVertical="true"
+                                    android:contentDescription="@string/bsdk_generic_image_content_desc"
+                                    android:src="@drawable/bsdk_icon_select_wip_right_arrow_indicator" />
+
+                                <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                                    android:id="@+id/bsdkPublishWipPublishViewSelectedWIPNameTxtView"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerVertical="true"
+                                    android:layout_marginRight="10dp"
+                                    android:layout_toLeftOf="@id/bsdkPublishWipPublishViewShowPickWIPsViewBtnRightImage"
+                                    android:background="@null"
+                                    android:ellipsize="end"
+                                    android:maxLines="2"
+                                    android:text="@string/bsdk_wip_publish_view_wips_loading_label"
+                                    android:textColor="@color/bsdk_wip_publish_view_wip_details_txt_color"
+                                    android:textColorHint="@color/bsdk_wip_publish_view_wip_details_txt_hint_color"
+                                    android:textSize="@dimen/bsdk_publish_info_views_field_text_size" />
+                            </RelativeLayout>
+                        </RelativeLayout>
+                    </LinearLayout>
+
+                    <com.behance.sdk.ui.customviews.BehanceSDKEditText
+                        android:id="@+id/bsdkPublishWipPublishViewWIPDescriptionEditTxt"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="left"
+                        android:hint="@string/bsdk_wip_publish_view_wip_desc_hint"
+                        android:imeOptions="flagNoExtractUi"
+                        android:lineSpacingExtra="@dimen/bsdk_wip_publish_view_wip_desc_line_spacing_extra"
+                        android:lines="3"
+                        android:maxLength="@integer/bsdk_wip_publish_view_desc_max_chars"
+                        android:maxLines="3"
+                        android:paddingBottom="@dimen/bsdk_wip_publish_view_wip_desc_padding_bottom"
+                        android:paddingTop="@dimen/bsdk_wip_publish_view_wip_desc_padding_top"
+                        style="@style/BsdkPublishWipEditTextStyle"/>
+
+                    <com.behance.sdk.ui.customviews.BehanceSDKEditText
+                        android:id="@+id/bsdkPublishWipPublishViewWIPTagsEditTxt"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:drawableLeft="@drawable/bsdk_icon_add_project_publish_fragment_tags"
+                        android:drawablePadding="@dimen/bsdk_wip_publish_view_wip_tags_icon_margin_right"
+                        android:hint="@string/bsdk_wip_publish_view_wip_tags_hint"
+                        android:imeOptions="flagNoExtractUi"
+                        android:paddingBottom="@dimen/bsdk_wip_publish_view_wip_tags_padding_bottom"
+                        android:paddingLeft="@dimen/bsdk_wip_publish_view_wip_tags_padding_left"
+                        android:paddingTop="@dimen/bsdk_wip_publish_view_wip_tags_padding_top"
+                        android:singleLine="true"
+                        style="@style/BsdkPublishWipEditTextStyle" />
+
+                    <RelativeLayout
+                        android:id="@+id/bsdkPublishWIPPublishViewAdultContentContainer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:paddingBottom="@dimen/bsdk_wip_publish_view_adult_content_padding_bottom"
+                        android:paddingTop="@dimen/bsdk_wip_publish_view_adult_content_padding_top" >
+
+                        <CheckBox
+                            android:id="@+id/bsdkPublishWIPPublishViewAdultContentCheckbox"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:button="@drawable/bsdk_selector_publish_fragment_adult_content_checkbox"
+                            android:checked="false"
+                            android:paddingLeft="@dimen/bsdk_wip_publish_view_adult_content_checkbox_padding_right"
+                            android:paddingRight="@dimen/bsdk_wip_publish_view_adult_content_checkbox_padding_right" />
+
+                        <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:layout_toLeftOf="@id/bsdkPublishWIPPublishViewAdultContentCheckbox"
+                            android:layout_centerVertical="true"
+                            android:background="@null"
+                            android:ellipsize="end"
+                            android:maxLines="1"
+                            android:drawableLeft="@drawable/bsdk_icon_add_project_publish_fragment_adult"
+                            android:drawablePadding="@dimen/bsdk_wip_publish_view_adult_content_icon_margin_right"
+                            android:paddingLeft="@dimen/bsdk_wip_publish_view_adult_content_txt_padding_left"
+                            android:text="@string/bsdk_wip_publish_view_adult_content_text"
+                            android:textColor="@color/bsdk_wip_publish_view_wip_details_txt_color"
+                            android:textSize="@dimen/bsdk_publish_info_views_field_text_size" />
+                    </RelativeLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/bsdk_wip_publish_view_adult_content_divider_height"
+                        android:layout_marginLeft="@dimen/bsdk_wip_publish_view_adult_content_divider_left_right_margin"
+                        android:layout_marginRight="@dimen/bsdk_wip_publish_view_adult_content_divider_left_right_margin"
+                        android:background="@color/bsdk_wip_publish_view_divider_color" />
+
+                    <LinearLayout
+                        android:id="@+id/bsdkPublishWipPublishViewShareOptionsContainer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/bsdk_wip_publish_view_share_options_container_margin_left"
+                        android:layout_marginTop="@dimen/bsdk_wip_publish_view_share_options_container_padding_top_bottom"
+                        android:orientation="horizontal"
+                        android:paddingBottom="@dimen/bsdk_wip_publish_view_share_options_container_padding_top_bottom" >
+
+                        <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginRight="@dimen/bsdk_wip_publish_view_share_on_txt_margin_right"
+                            android:text="@string/bsdk_wip_publish_view_share_on_txt"
+                            android:textColor="@color/bsdk_wip_publish_view_share_on_txt_color"
+                            android:textSize="@dimen/bsdk_publish_info_views_share_on_lbl_text_size" />
+
+                        <ImageView
+                            android:id="@+id/bsdkPublishWipPublishViewTwitterShareImageView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginRight="@dimen/bsdk_wip_publish_view_share_on_icons_spacing"
+                            android:contentDescription="@string/bsdk_wip_publish_view_share_on_twitter_content_desc"
+                            android:scaleType="centerInside"
+                            android:src="@drawable/bsdk_icon_addcontent_publish_shareon_twitter_off" />
+
+                        <ImageView
+                            android:id="@+id/bsdkPublishWipPublishViewFacebookShareImageView"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:contentDescription="@string/bsdk_wip_publish_view_share_on_fb_content_desc"
+                            android:scaleType="centerInside"
+                            android:src="@drawable/bsdk_icon_addcontent_publish_shareon_facebook_off" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/bsdkPublishWipPublishViewProgressBar"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_alignBottom="@id/bsdkPublishWipPublishViewDetailsContainer"
+                    android:layout_alignTop="@id/bsdkPublishWipPublishViewDetailsContainer"
+                    android:background="@color/bsdk_add_wip_view_bg_color"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:visibility="gone" >
+
+                    <ProgressBar
+                        style="?android:attr/progressBarStyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+            </RelativeLayout>
+        </ScrollView>
+        <!-- End of publish screen -->
+
+
+        <!-- Pick WIP screen -->
+
+        <RelativeLayout
+            android:id="@+id/bsdkPublishWipPickWIPRootContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal" >
+
+            <ListView
+                android:id="@+id/bsdkPublishWipPickWIPListView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:divider="@null"
+                android:scrollbarStyle="outsideOverlay" >
+            </ListView>
+        </RelativeLayout>
+        <!-- End of Pick WIP screen -->
+
+    </ViewFlipper>
+
+</LinearLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_dialog_fragment_publish_wip_to_behance.xml -->

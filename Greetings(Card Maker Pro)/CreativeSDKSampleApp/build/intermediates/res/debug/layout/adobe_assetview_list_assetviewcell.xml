@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/assetview_assetlist_assetcell_root"
+    android:descendantFocusability="blocksDescendants">
+    <!--  adding  blocksDescendants as listview doesnt seem to publish onItemClick when we have a imagebutton inside an item.
+     -->
+
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical|center_horizontal"
+        android:descendantFocusability="blocksDescendants"
+        >
+
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent"
+            android:layout_height="@dimen/assetbrowser_list_view_item_height"
+            android:layout_gravity="center_vertical" android:gravity="center_vertical"
+            android:id="@+id/assetview_assetlist_assetcell_container"
+            android:background="@android:color/white"
+            android:descendantFocusability="blocksDescendants"
+            >
+
+            <ImageButton android:id="@+id/assetview_assetlist_assetcell_selectbtn"
+                android:src="@drawable/storage_list_assetcell_select_btn_selector"
+                android:layout_width="@dimen/storage_assetslist_selector_btn_width"
+                android:layout_height="@dimen/storage_assetslist_selector_btn_width"
+                android:background="@null"
+                android:scaleType="center"
+                android:visibility="gone"
+                />
+            <RelativeLayout
+                android:id="@+id/assetview_assetlist_assetcell_imagecontainer"
+                android:layout_width="@dimen/assetbrowser_list_view_image_dimension"
+                android:layout_height="@dimen/assetbrowser_list_view_image_dimension"
+                android:layout_marginLeft="@dimen/assetbrowser_list_view_image_left_padding">
+                <ImageView android:id="@+id/assetview_assetlist_assetcell_imageView"
+                    android:layout_width="@dimen/assetbrowser_list_view_image_dimension"
+                    android:layout_height="@dimen/assetbrowser_list_view_image_dimension"
+                    android:scaleType="center"
+
+                    />
+            </RelativeLayout>
+
+
+            <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+                android:id="@+id/assetview_assetlist_assetcell_title"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:layout_marginLeft="@dimen/assetbrowser_list_view_text_left_padding"
+                android:layout_marginRight="@dimen/assetbrowser_list_view_text_right_padding"
+                android:textSize="@dimen/assetbrowser_list_view_text_size"
+                android:textColor="@color/asset_browser_dark_text"
+                android:singleLine="true"
+                android:background="@color/creative_sdk_transparent_color"
+                android:ellipsize="middle"
+                />
+
+        </LinearLayout>
+
+        <ProgressBar android:layout_width="match_parent" android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:id="@+id/assetlist_upload_progress_bar"
+            android:max="100"
+            android:layout_height="@dimen/assetbrowser_list_view_progress_bar_height"
+            android:indeterminate="false"
+            android:minHeight="@dimen/assetbrowser_list_view_progress_bar_height"
+            style="@android:style/Widget.ProgressBar.Horizontal"
+            android:progressDrawable="@drawable/asset_upload_progress_bar"
+            android:visibility="gone"
+            android:singleLine="true"
+            android:ellipsize="middle"
+            />
+    </LinearLayout>
+
+
+</RelativeLayout>
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_assetview_list_assetviewcell.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/layout/adobe_assetview_list_assetviewcell.xml -->

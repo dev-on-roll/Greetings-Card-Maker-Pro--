@@ -1,0 +1,97 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bsdk_location_filter_dialog_bg_color" >
+
+    <!-- Main View -->
+
+    <RelativeLayout
+        android:id="@+id/bsdkPublishProjectcreativeFieldFilterDialogHeader"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/bsdk_bg_image_actionbar"
+        android:gravity="center_vertical"
+        android:paddingRight="@dimen/bsdk_add_project_custom_actionbar_right_padding" >
+
+        <LinearLayout
+            android:id="@+id/bsdkPublishProjectcreativeFieldFilterDialogHeaderLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            tools:ignore="UselessParent" >
+
+            <ImageView
+                android:id="@+id/bsdkPublishProjectcreativeFieldFilterDialogCloseDialogBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/bsdk_selector_app_default_selection_bg"
+                android:contentDescription="@string/bsdk_search_filters_dialog_custom_actionbar_back_nav_default_txt"
+                android:paddingLeft="@dimen/bsdk_dialog_back_left_padding"
+                android:paddingRight="@dimen/bsdk_dialog_back_right_padding"
+                android:scaleType="center"
+                android:src="@drawable/bsdk_icon_actionbar_back_button" />
+
+            <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                xmlns:behanceSDK="http://schemas.android.com/apk/com.behance.sdk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="@string/bsdk_addproject_creative_field_filter_dialog_title_label"
+                android:textColor="@color/bsdk_titlebar_txt_color"
+                android:textSize="@dimen/bsdk_titlebar_txt_size"
+                behanceSDK:fontSyle="light" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <com.behance.sdk.ui.customviews.BehanceSDKTextView
+        xmlns:behanceSDK="http://schemas.android.com/apk/com.behance.sdk"
+        android:id="@+id/bsdkPublishProjectcreativeFieldFilterDialogCloseDialogBtnBottom"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/bsdk_selector_app_default_selection_bg"
+        android:gravity="center"
+        android:text="@string/bsdk_addproject_creative_field_filter_dialog_done_btn_label"
+        android:textColor="@color/bsdk_search_filter_view_dialog_done_btn_color"
+        android:textSize="@dimen/bsdk_generic_alert_dialog_buttons_txt_size"
+        behanceSDK:fontSyle="light" />
+
+    <View
+        android:id="@+id/bsdkPublishProjectcreativeFieldFilterDialogCloseDialogBtn_divider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_above="@id/bsdkPublishProjectcreativeFieldFilterDialogCloseDialogBtnBottom"
+        android:background="@color/bsdk_location_filter_dialog_divider_color" />
+
+    <LinearLayout
+        android:id="@+id/bsdkPublishProjectcreativeFieldFilterDialogSectionalListViewLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/bsdkPublishProjectcreativeFieldFilterDialogCloseDialogBtn_divider"
+        android:layout_below="@id/bsdkPublishProjectcreativeFieldFilterDialogHeader"
+        android:background="@android:color/background_light"
+        android:orientation="vertical" >
+
+        <com.behance.sdk.google.listview.SectionalListView
+            android:id="@+id/bsdkPublishProjectcreativeFieldFilterDialogSectionalListView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="@null"
+            android:fastScrollAlwaysVisible="true"
+            android:fastScrollEnabled="true"
+            android:scrollbarStyle="outsideOverlay" />
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/bsdkPublishProjectcreativeFieldFilterDialogProgressSpinner"
+        style="?android:attr/progressBarStyleInverse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="invisible" />
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_dialog_fragment_creative_field_filter.xml -->

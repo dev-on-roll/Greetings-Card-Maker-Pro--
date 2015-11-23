@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.adobe.creativesdk.foundation.internal.storage.controllers.AdobeDesignLibraryCollectionViewCell xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/designlibrary_collection_grid_assetcell_root"
+    android:orientation="vertical"
+    android:layout_width="@dimen/assetbrowser_designlibrary_collection_gridview_width"
+    android:layout_height="@dimen/assetbrowser_designlibrary_collection_gridview_height"
+    android:background="@drawable/storage_assetcell_background_card">
+    <ImageView
+        android:id="@+id/designlibrary_collection_assetcell_rendition"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/assetbrowser_designlibrary_collection_gridview_rendition_height"
+        android:scaleType="centerCrop"
+        android:background="@color/creative_sdk_transparent_color"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/assetbrowser_designlibrary_collection_gridview_textview_height"
+        android:orientation="horizontal"
+        android:layout_marginLeft="@dimen/assetbrowser_designlibrary_collection_gridview_textview_margin_left"
+        android:layout_marginRight="@dimen/assetbrowser_designlibrary_collection_gridview_textview_margin_right"
+        android:layout_gravity="center_vertical"
+        android:background="@color/creative_sdk_transparent_color">
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            android:id="@+id/designlibrary_collection_assetcell_title"
+            android:layout_width="@dimen/assetbrowser_designlibrary_collection_gridview_textview_width"
+            android:layout_height="@dimen/assetbrowser_grid_text_height"
+            android:background="@color/creative_sdk_transparent_color"
+            android:ellipsize="middle"
+            android:gravity="center_vertical"
+            android:singleLine="true"
+            android:textColor="@color/asset_browser_dark_text"
+            android:textSize="@dimen/assetbrowser_grid_text_size"
+            >
+        </com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/folder_forward_icon"
+            android:layout_gravity="center_vertical"
+            android:background="@color/creative_sdk_transparent_color"/>
+    </LinearLayout>
+
+</com.adobe.creativesdk.foundation.internal.storage.controllers.AdobeDesignLibraryCollectionViewCell><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_designlibrary_grid_collectionviewcell.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/layout/adobe_designlibrary_grid_collectionviewcell.xml -->

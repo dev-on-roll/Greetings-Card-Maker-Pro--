@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/creative_sdk_background_color">
+
+    <ImageView
+        android:id="@+id/adobe_photo_asset_browser_empty_state_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/adobe_photo_asset_browser_empty_state_message"
+        android:src="@drawable/no_photo" />
+
+    <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+        android:id="@+id/adobe_photo_asset_browser_empty_state_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:paddingTop="@dimen/storage_empty_state_view_padding"
+        android:text="@string/photo_asset_browser_empty_folder"
+        android:textColor="@color/asset_browser_light_text"
+        android:textSize="@dimen/storage_empty_state_view_textSize" />
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_photo_assetbrowser_empty_state_view.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/layout/adobe_photo_assetbrowser_empty_state_view.xml -->

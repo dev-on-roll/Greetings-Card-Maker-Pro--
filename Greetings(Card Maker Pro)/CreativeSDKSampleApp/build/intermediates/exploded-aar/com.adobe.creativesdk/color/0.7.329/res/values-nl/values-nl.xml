@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/values-nl/strings.xml -->
+    <eat-comment/>
+    <string name="Analogus">Analoog</string>
+    <string name="Complementary">Complementair</string>
+    <string name="Compound">Samengesteld</string>
+    <string name="Custom">Aangepast</string>
+    <string name="Monochromatic">Monochroom</string>
+    <string name="OK">OK</string>
+    <string name="Shades">Schaduwen</string>
+    <string name="Triad">Driehoek</string>
+    <string name="add_color">Kleur toevoegen</string>
+    <string name="add_theme">Thema toevoegen</string>
+    <string name="all_colors">Alle kleuren</string>
+    <string name="by">Door: </string>
+    <string name="cancel">ANNULEREN</string>
+    <string name="clear_history">WISSEN</string>
+    <string name="color_component_activity_actionbar_title">Kleur</string>
+    <string name="color_picker_actionbar_title">Kleurkiezer</string>
+    <string name="copy_themes">Thema\'s kopiëren</string>
+    <string name="copy_to">Kopiëren naar</string>
+    <string name="create">Maken</string>
+    <string name="create_library">Bibliotheek maken</string>
+    <string name="delete">Verwijderen</string>
+    <string name="edit">BEWERKEN</string>
+    <string name="edit_camel">Bewerken</string>
+    <string name="edit_color">Kleur bewerken</string>
+    <string name="edit_name">Naam bewerken</string>
+    <string name="edit_theme">Thema bewerken</string>
+    <string name="empty_color_list_line1">Begin kleuren en thema\'s te verzamelen in</string>
+    <string name="empty_color_list_line2">deze bibliotheek om in andere</string>
+    <string name="empty_color_list_line3">mobiele- en desktopapps te gebruiken</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hex">Hex</string>
+    <string name="history">Geschiedenis</string>
+    <string name="history_cleared">Geschiedenis gewist</string>
+    <string name="lib_row_desc_p_p">%1$d kleuren, %2$d thema\'s</string>
+    <string name="lib_row_desc_p_s">%1$d kleuren, 1 thema</string>
+    <string name="lib_row_desc_s_p">1 kleur, %1$d thema\'s</string>
+    <string name="lib_row_desc_s_s">1 kleur, 1 thema</string>
+    <string name="libraries_tab_heading">MIJN BIBLIOTHEKEN</string>
+    <string name="loading">Laden…</string>
+    <string name="my_library">Mijn bibliotheek</string>
+    <string name="new_name">Nieuwe naam</string>
+    <string name="no_colors">Geen kleuren</string>
+    <string name="picker_tab_heading">KIEZER</string>
+    <string name="remove">VERWIJDEREN</string>
+    <string name="remove_camel">Verwijderen</string>
+    <string name="remove_confirmation">Weet u zeker dat u dit wilt verwijderen?</string>
+    <string name="rename">NAAM WIJZIGEN</string>
+    <string name="rename_library">Naam van bibliotheek wijzigen</string>
+    <string name="rgb">RGB</string>
+    <string name="select_a_color">Selecteer een kleur</string>
+    <string name="select_library">Bibliotheek selecteren</string>
+    <string name="syncing_library">Bibliotheken synchroniseren…</string>
+    <string name="theme_picker_actionbar_title">Themakiezer</string>
+    <string name="themes_tab_heading">THEMA\'S</string>
+    <string name="wheel">Wiel</string>
+</resources>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout android:id="@+id/storage_assetbrowser_main_content_view" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:orientation="vertical">
+
+	    <FrameLayout
+	        android:id="@+id/storage_container_main_assets_view"
+	        android:layout_width="match_parent"
+	        android:layout_height="@dimen/storage_container_main_assets_view_height" android:layout_weight="1"  >
+	    </FrameLayout>
+
+	    <LinearLayout
+	        android:id="@+id/storage_container_bottom_bar"
+	        android:layout_width="match_parent"
+	        android:layout_height="@dimen/storage_container_main_bottom_bar_height"
+	        android:orientation="horizontal"
+            android:background="@drawable/multi_select_container_background"
+	        android:visibility="gone"
+            android:gravity="center_vertical">
+
+            <LinearLayout android:orientation="horizontal" android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="49dp" android:gravity="center" android:background="@drawable/multi_select_cancel_button"
+               android:layout_marginLeft="13dp"
+                android:layout_marginRight="4dp"
+                android:id="@+id/storage_selection_cancel_btn">
+
+                <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+                    android:text="@string/storage_cancel_selection" android:layout_width="wrap_content" android:layout_height="match_parent"
+                    android:gravity="center_vertical" android:textColor="#848F95"
+                    android:textSize="@dimen/asset_browser_upload_btn_title_size"/>
+            </LinearLayout>
+	         <LinearLayout android:orientation="horizontal" android:layout_width="0dp"
+                    android:layout_weight="1"
+             	    android:layout_height="49dp" android:gravity="center" android:background="@drawable/multi_select_open_button"
+                    android:layout_marginRight="13dp"
+                 android:layout_marginLeft="4dp"
+             		android:id="@+id/storage_selection_open_file_btn">
+
+	     		 <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+                     android:id="@+id/storage_selection_open_file_btn_title" android:text="@string/storage_open_files"
+                     android:layout_width="wrap_content" android:layout_height="match_parent"
+                     android:gravity="center_vertical"
+	     		     android:textColor="@android:color/white"
+	     		     android:textSize="@dimen/asset_browser_upload_btn_title_size"/>
+	     	</LinearLayout>
+	     
+	       
+   		 </LinearLayout>
+
+	    
+	     <RelativeLayout android:layout_width="match_parent"  android:layout_height="@dimen/storage_container_main_upload_btn_height"
+       			 android:background="@color/asset_browser_upload_btn_background" android:gravity="center" 
+       			 android:id="@+id/asset_browser_upload_btn_frame"
+       			 android:visibility="gone">
+	        
+	        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="match_parent" android:gravity="center_vertical"
+	            >
+	             <ImageView  android:src="@drawable/upload_cc_logo" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+	             <View android:layout_width="8dp" android:layout_height="match_parent"></View>
+	     		 <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView android:id="@+id/storage_upload_btn_title" android:text="@string/storage_upload_btn_title" android:layout_width="wrap_content" android:layout_height="match_parent" android:gravity="center_vertical" android:textColor="@android:color/white"
+	     		     android:textSize="@dimen/asset_browser_upload_btn_title_size"/>
+	        </LinearLayout>
+       
+   		 </RelativeLayout>
+    
+	    
+    </LinearLayout>
+    
+    <include layout="@layout/adobe_storage_assetbrowser_empty_state_view" android:id="@+id/storage_assetbrowser_empty_state_view" android:visibility="gone"/>
+    <include layout="@layout/adobe_psmix_empty_state_view" android:id="@+id/adobe_psmix_empty_state_view" android:visibility="gone"/>
+    <include layout="@layout/adobe_photo_assetbrowser_empty_state_view" android:id="@+id/photo_assetbrowser_empty_state_view" android:visibility="gone"/>
+
+    <include layout="@layout/adobe_common_popup_bannerview" android:id="@+id/storage_container_no_network_notification_bar" android:visibility="gone"/>
+        
+    <include layout="@layout/adobe_common_errorview" android:id="@+id/storage_container_no_network" android:visibility="gone" />
+    
+    <ProgressBar
+        android:id="@+id/creativesdk_foundation_assetbrowser_progressBar"
+        android:background="@drawable/spinner_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="false"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="gone" />
+
+    
+
+</RelativeLayout>
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_storage_container_main.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/layout/adobe_storage_container_main.xml -->

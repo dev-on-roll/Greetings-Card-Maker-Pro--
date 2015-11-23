@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string name="Analogus">Аналог.</string>
+    <string name="Complementary">Дополнительный</string>
+    <string name="Compound">Составной</string>
+    <string name="Custom">Польз.</string>
+    <string name="Monochromatic">Монохромный</string>
+    <string name="OK">ОК</string>
+    <string name="Shades">Тени</string>
+    <string name="Triad">Триада</string>
+    <string name="add_color">Добавить цвет</string>
+    <string name="add_theme">Добавить тему</string>
+    <string name="all_colors">Все цвета</string>
+    <string name="by">Автор: </string>
+    <string name="cancel">ОТМЕНА</string>
+    <string name="clear_history">ОЧИСТИТЬ</string>
+    <string name="color_component_activity_actionbar_title">Цвет</string>
+    <string name="color_picker_actionbar_title">Палитра цветов</string>
+    <string name="copy_themes">Копировать темы</string>
+    <string name="copy_to">Копировать в</string>
+    <string name="create">Создать</string>
+    <string name="create_library">Создать библиотеку</string>
+    <string name="delete">Удалить</string>
+    <string name="edit">ИЗМЕНИТЬ</string>
+    <string name="edit_camel">Изменить</string>
+    <string name="edit_color">Изменить цвет</string>
+    <string name="edit_name">Изменить название</string>
+    <string name="edit_theme">Изменить тему</string>
+    <string name="empty_color_list_line1">Собирайте цвета и темы в этой</string>
+    <string name="empty_color_list_line2">библиотеке и используйте их</string>
+    <string name="empty_color_list_line3">в других приложениях</string>
+    <string name="hello_blank_fragment">Привет! пустой фрагмент</string>
+    <string name="hex">Шст</string>
+    <string name="history">Хронология</string>
+    <string name="history_cleared">Хронология очищена</string>
+    <string name="lib_row_desc_p_p">Цветов: %1$d, тем: %2$d</string>
+    <string name="lib_row_desc_p_s">Цветов: %1$d, тема: 1</string>
+    <string name="lib_row_desc_s_p">Цвет: 1, тем: %1$d</string>
+    <string name="lib_row_desc_s_s">Цвет: 1, тема: 1</string>
+    <string name="libraries_tab_heading">МОИ БИБЛИОТЕКИ</string>
+    <string name="loading">Загрузка…</string>
+    <string name="my_library">Моя библиотека</string>
+    <string name="new_name">Новое имя</string>
+    <string name="no_colors">Нет цветов</string>
+    <string name="picker_tab_heading">ПАЛИТРА</string>
+    <string name="remove">УДАЛИТЬ</string>
+    <string name="remove_camel">Удалить</string>
+    <string name="remove_confirmation">Действительно удалить?</string>
+    <string name="rename">ПЕРЕИМЕНОВАТЬ</string>
+    <string name="rename_library">Переименовать библиотеку</string>
+    <string name="rgb">RGB</string>
+    <string name="select_a_color">Выбрать цвет</string>
+    <string name="select_library">Выбрать библиотеку</string>
+    <string name="syncing_library">Синхронизация библиотек…</string>
+    <string name="theme_picker_actionbar_title">Палитра тем</string>
+    <string name="themes_tab_heading">ТЕМЫ</string>
+    <string name="wheel">Колесо</string>
+</resources>

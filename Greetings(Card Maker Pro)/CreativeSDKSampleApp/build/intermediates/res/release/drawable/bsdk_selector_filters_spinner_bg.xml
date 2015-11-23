@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/bsdk_bg_filter_spinner_pressed" android:state_focused="true" android:state_pressed="false"/>
+    <item android:drawable="@drawable/bsdk_bg_filter_spinner_pressed" android:state_focused="true" android:state_pressed="true"/>
+    <item android:drawable="@drawable/bsdk_bg_filter_spinner_pressed" android:state_focused="false" android:state_pressed="true"/>
+    <item android:drawable="@drawable/bsdk_bg_filter_spinner_default"/>
+
+</selector><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/drawable/bsdk_selector_filters_spinner_bg.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/drawable/bsdk_selector_filters_spinner_bg.xml -->

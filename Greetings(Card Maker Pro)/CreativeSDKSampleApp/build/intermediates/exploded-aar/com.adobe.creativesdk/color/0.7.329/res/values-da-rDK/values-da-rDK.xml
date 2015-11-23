@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/values-da-rDK/strings.xml -->
+    <eat-comment/>
+    <string name="Analogus">Analogus</string>
+    <string name="Complementary">Supplerende</string>
+    <string name="Compound">Blandet</string>
+    <string name="Custom">Brugerdefineret</string>
+    <string name="Monochromatic">Sort-hvid</string>
+    <string name="OK">OK</string>
+    <string name="Shades">Skygger</string>
+    <string name="Triad">Samling af tre</string>
+    <string name="add_color">Tilføj farve</string>
+    <string name="add_theme">Tilføj tema</string>
+    <string name="all_colors">Alle farver</string>
+    <string name="by">Efter: </string>
+    <string name="cancel">ANNULLER</string>
+    <string name="clear_history">FJERN</string>
+    <string name="color_component_activity_actionbar_title">Farve</string>
+    <string name="color_picker_actionbar_title">Farvevælger</string>
+    <string name="copy_themes">Kopiér temaer</string>
+    <string name="copy_to">Kopiér til</string>
+    <string name="create">Opret</string>
+    <string name="create_library">Opret bibliotek</string>
+    <string name="delete">Slet</string>
+    <string name="edit">REDIGER</string>
+    <string name="edit_camel">Rediger</string>
+    <string name="edit_color">Rediger farve</string>
+    <string name="edit_name">Rediger navn</string>
+    <string name="edit_theme">Rediger tema</string>
+    <string name="empty_color_list_line1">Begynd på at samle farver og temaer i</string>
+    <string name="empty_color_list_line2">dette bibliotek, så du kan bruge dem på andre</string>
+    <string name="empty_color_list_line3">apps på mobilen og programmer på pc´en</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hex">Hex</string>
+    <string name="history">Oversigt</string>
+    <string name="history_cleared">Oversigt slettet</string>
+    <string name="lib_row_desc_p_p">%1$d farver, %2$d temaer</string>
+    <string name="lib_row_desc_p_s">%1$d farver, 1 tema</string>
+    <string name="lib_row_desc_s_p">1 farve, %1$d temaer</string>
+    <string name="lib_row_desc_s_s">1 farve, 1 tema</string>
+    <string name="libraries_tab_heading">MINE BIBLIOTEKER</string>
+    <string name="loading">Indlæser…</string>
+    <string name="my_library">Mit bibliotek</string>
+    <string name="new_name">Nyt navn</string>
+    <string name="no_colors">Ingen farver</string>
+    <string name="picker_tab_heading">VÆLGER</string>
+    <string name="remove">FJERN</string>
+    <string name="remove_camel">Fjern</string>
+    <string name="remove_confirmation">Er du sikker på, at du vil fjerne?</string>
+    <string name="rename">OMDØB</string>
+    <string name="rename_library">Omdøb bibliotek</string>
+    <string name="rgb">RGB</string>
+    <string name="select_a_color">Vælg en farve</string>
+    <string name="select_library">Vælg bibliotek</string>
+    <string name="syncing_library">Synkroniserer biblioteker…</string>
+    <string name="theme_picker_actionbar_title">Temavælger</string>
+    <string name="themes_tab_heading">TEMAER</string>
+    <string name="wheel">Hjul</string>
+</resources>

@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="ASSET_BROWSER_COLLABORATION_ACCEPT">ПРИНЯТЬ</string>
+    <string name="ASSET_BROWSER_COLLABORATION_REJECT">ОТКЛОНИТЬ</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="Analogus">Аналог.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="CANCEL_UPLOAD_ASSET_BROWSER_BUTTON">Отменить загрузку</string>
+    <string name="COLLABORATE_INVITE_EDIT_TEXT_HINT">Введите адрес электронной почты</string>
+    <string name="COLLABORATION_ALREADY_USED">Адрес электронной почты уже зарегистрирован</string>
+    <string name="COLLABORATION_DELETE_MESSAGE">Удалить этого участника?</string>
+    <string name="COLLABORATION_INVALID_EMAIL">Недопустимый адрес электронной почты</string>
+    <string name="COLLABORATION_INVITATION_DELETE_ERROR">Не удалось удалить приглашение</string>
+    <string name="COLLABORATION_INVITATION_DELETE_MESSAGE">Удалить это приглашение?</string>
+    <string name="COLLABORATION_INVITE">ДОБАВИТЬ</string>
+    <string name="COLLABORATION_INVITEE">(Приглашенный пользователь)</string>
+    <string name="COLLABORATION_INVITE_CANCEL">ОТМЕНА</string>
+    <string name="COLLABORATION_INVITE_ERROR_MESSAGE">Не удалось завершить приглашение</string>
+    <string name="COLLABORATION_OWNER">(Организатор)</string>
+    <string name="COLLABORATION_SELF_DELETE_MESSAGE">Выполнить выход из этой папки?</string>
+    <string name="COLLABORATOR_DELETE_NEGATIVE_BUTTON">ОТМЕНА</string>
+    <string name="COLLABORATOR_DELETE_POSITIVE_BUTTON">УДАЛИТЬ</string>
+    <string name="CREATE_NEW_FOLDER_BUTTON_CANCEL">ОТМЕНА</string>
+    <string name="CREATE_NEW_FOLDER_BUTTON_CREATE">СОЗДАТЬ</string>
+    <string name="CREATE_NEW_FOLDER_DIALOG_TITLE">Создать новую папку</string>
+    <string name="CREATE_NEW_FOLDER_EDIT_TEXT_HINT">Имя папки</string>
+    <string name="CREATE_NEW_FOLDER_TITLE">Создать новую папку</string>
+    <string name="CREATE_NEW_INVITE_TITLE">Добавить участника</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="Complementary">Дополнительный</string>
+    <string name="Compound">Составной</string>
+    <string name="Custom">Польз.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="IDS_ACTION_VIEW_COMMENT">Комментарии</string>
+    <string name="IDS_ACTION_VIEW_EDIT_ANNOTATION">Изменить комментарии</string>
+    <string name="IDS_ACTION_VIEW_FILE_DETAILS">Информация</string>
+    <string name="IDS_ACTION_VIEW_PUBLISH_TO_BEHANCE">Опубликовать в Behance</string>
+    <string name="IDS_ACTION_VIEW_SHARE">Общий доступ</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">Все приложения</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">Все категории исключены</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">ПОЛУЧ.</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">КАТЕГОРИИ</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">СОРТ.</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">Просмотрите библиотеку приложений, совместимых и подключенных к Creative Cloud</string>
+    <string name="IDS_APPLIBRARY_ERROR">Библиотека приложений недоступна. Откройте библиотеку позднее, чтобы просмотреть приложения</string>
+    <string name="IDS_APPLIBRARY_FEATURED">Популярное</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">С наивысшим рейтингом</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">Самые недавние</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">В категории нет ни одного приложения</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">Приложения не найдены.</string>
+    <string name="IDS_APPLIBRARY_TITLE">Библ. приложений</string>
+    <string name="IDS_APP_GET">УСТАНОВИТЬ</string>
+    <string name="IDS_APP_OPEN">ОТКРЫТЬ</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="IDS_ASSET_DETAILS_FILE_DETAILS">Сведения о файле</string>
+    <string name="IDS_ASSET_DETAILS_HEIGHT">Высота</string>
+    <string name="IDS_ASSET_DETAILS_KB">КБ</string>
+    <string name="IDS_ASSET_DETAILS_MB">МБ</string>
+    <string name="IDS_ASSET_DETAILS_MODIFIED">Изменено</string>
+    <string name="IDS_ASSET_DETAILS_PX">пикс.</string>
+    <string name="IDS_ASSET_DETAILS_SIZE">Размер</string>
+    <string name="IDS_ASSET_DETAILS_UPLOADED">Загружено</string>
+    <string name="IDS_ASSET_DETAILS_WIDTH">Ширина</string>
+    <string name="IDS_ASSET_DETAILS_ZERO_MB">0 MБ</string>
+    <string name="IDS_ASSET_DETAILS_ZERO_PX">0 пикс.</string>
+    <string name="IDS_ASSET_VIEWER_NO_PREVIEW_AVAILABLE">Просмотр недоступен</string>
+    <string name="IDS_ASSET_VIEWER_OF">из</string>
+    <string formatted="false" name="IDS_ASSET_VIEWER_OF_2">%s из %s</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="IDS_BY">от</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="IDS_CAPTION_COLLATION_FOLDERS_HEADER">ПАПКИ</string>
+    <string name="IDS_CAPTION_COLLATION_UNKNOWN_DATE">НЕИЗВЕСТНО</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_DATE">ОБНОВЛЕНО %s</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_LAST_WEEK">ОБНОВЛЕНО НА ПРОШЛОЙ НЕДЕЛЕ</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_THIS_MONTH">ОБНОВЛЕНО В ЭТОМ МЕСЯЦЕ</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_THIS_WEEK">ОБНОВЛЕНО НА ЭТОЙ НЕДЕЛЕ</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_TODAY">ОБНОВЛЕНО СЕГОДНЯ</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="IDS_CATEGORY_AUDIO">Аудио</string>
+    <string name="IDS_CATEGORY_CAPTURE">Захват</string>
+    <string name="IDS_CATEGORY_COMMUNITY">Сообщество</string>
+    <string name="IDS_CATEGORY_DESIGN">Дизайн</string>
+    <string name="IDS_CATEGORY_DRAWING">Рисунок</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">Иллюстрация</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">Редактирование</string>
+    <string name="IDS_CATEGORY_PHOTOS">Фотографии</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">Фото и видео</string>
+    <string name="IDS_CATEGORY_PRESENTATION">Презентация</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">Производительность</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">Прототип</string>
+    <string name="IDS_CATEGORY_SOCIAL">Социальные</string>
+    <string name="IDS_CATEGORY_STORAGE">Хранилище</string>
+    <string name="IDS_CATEGORY_STORY">Репортаж</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">Дизайн интерфейса</string>
+    <string name="IDS_CATEGORY_UTILITY">Утилита</string>
+    <string name="IDS_CATEGORY_VIDEO">Видео</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="IDS_COMMENT_ERROR_MSG">Невозможно удалить комментарии: %s</string>
+    <string name="IDS_COMMENT_INSERTION_ERROR_MSG">Не удалось добавить комментарий</string>
+    <string name="IDS_COMMENT_SINGLE_ERROR_MSG">Невозможно удалить комментарии: %s</string>
+    <string name="IDS_COMMENT_SINGLE_SUCCESS_MSG">Комментарии успешно удалены: %s</string>
+    <string name="IDS_COMMENT_SUCCESS_MSG">Комментарии успешно удалены: %s</string>
+    <string name="IDS_COMMENT_UPDATE_MSG">Добавлено комментариев: %d</string>
+    <string name="IDS_COMMENT_UPDATE_MSG_SINGLE">Вставлено комментариев: %d</string>
+    <string name="IDS_DELETE_ERROR_MSG">Неудаленных элементов: %s</string>
+    <string name="IDS_DELETE_SINGLE_ERROR_MSG">Неудаленных элементов: %s</string>
+    <string name="IDS_DELETE_SINGLE_SUCCESS_MSG">Удаленных элементов: %s</string>
+    <string name="IDS_DELETE_SUCCESS_MSG">Удаленных элементов: %s</string>
+    <string name="IDS_EDIT_ERROR_DGL_TITLE">Ошибки правки</string>
+    <string name="IDS_EDIT_ERROR_MSG">Не удалось отредактировать файлы: %s</string>
+    <string name="IDS_EDIT_SINGLE_ERROR_MSG">Не удалось отредактировать файлы: %s</string>
+    <string name="IDS_EDIT_SINGLE_SUCCESS_MSG">Успешно отредактированные файлы: %s</string>
+    <string name="IDS_EDIT_SUCCESS_MSG">Успешно отредактированные файлы: %s</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_GET_STARTED">Войдите в систему или создайте новый Adobe ID.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="IDS_INVITATION_ERROR_MSG">Необработанных приглашений: %s</string>
+    <string name="IDS_INVITATION_SINGLE_ERROR_MSG">Необработанных приглашений: %s</string>
+    <string name="IDS_INVITATION_SINGLE_SUCCESS_MSG">Обработанных приглашений: %s</string>
+    <string name="IDS_INVITATION_SUCCESS_MSG">Обработанных приглашений: %s</string>
+    <string name="IDS_MOVE_ERROR_MSG">Не удалось переместить элементов: %s</string>
+    <string name="IDS_MOVE_SINGLE_ERROR_MSG">Не удалось переместить элементов: %s</string>
+    <string name="IDS_MOVE_SINGLE_SUCCESS_MSG">Перемещенных элементов: %s</string>
+    <string name="IDS_MOVE_SUCCESS_MSG">Перемещенных элементов: %s</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="IDS_PLEASE_WAIT">Подождите…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="IDS_SAVE_TO_DEVICE_CANCELLED_NOTIFICATION_TEXT">Файлов отменено: %d</string>
+    <string name="IDS_SAVE_TO_DEVICE_CANCELLED_NOTIFICATION_TITLE">Загрузка отменена</string>
+    <string name="IDS_SAVE_TO_DEVICE_CANCEL_TEXT">Отмена</string>
+    <string name="IDS_SAVE_TO_DEVICE_COMPLETE_NOTIFICATION_TEXT">Файлов загружено: %d</string>
+    <string name="IDS_SAVE_TO_DEVICE_COMPLETE_NOTIFICATION_TITLE">Загрузка выполнена</string>
+    <string name="IDS_SAVE_TO_DEVICE_ERROR_NOTIFICATION_TEXT">Файлов не удалось загрузить: %d</string>
+    <string name="IDS_SAVE_TO_DEVICE_ERROR_NOTIFICATION_TITLE">Ошибка при загрузке</string>
+    <string formatted="false" name="IDS_SAVE_TO_DEVICE_NOTIFICATION_TEXT">Файлов осталось: %d</string>
+    <string name="IDS_SAVE_TO_DEVICE_NOTIFICATION_TITLE">Сохранение на устройстве</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_SIGN_IN">ВХОД С ПОМОЩЬЮ ADOBE ID</string>
+    <string name="IDS_SIGN_UP">ЗАРЕГИСТРИРОВАТЬСЯ И ПОЛУЧИТЬ ADOBE ID</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">Коммуникация</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">Сборники</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">Конкурсы</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">Рисунок</string>
+    <string name="IDS_SUBCATEGORY_EDITING">Редактирование</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">Эл. почта</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">Отзыв</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">Обмен файлами</string>
+    <string name="IDS_SUBCATEGORY_FONTS">Шрифты</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">Сдается</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">Создание</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">Узоры</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">Редактирование фото</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">Фотографирование</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">Портфолио</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">Печать</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">Прототип</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">Социальные сети</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">Истории</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">Векторы</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">Веб-сайты</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="IDS_UPLOAD_ERROR_DGL_TITLE">Ошибки загрузки</string>
+    <string name="IDS_UPLOAD_ERROR_MSG">Не удалось загрузить файлы: %s</string>
+    <string name="IDS_UPLOAD_SINGLE_ERROR_MSG">Невозможно отправить файлы: %s</string>
+    <string name="IDS_UPLOAD_SINGLE_SUCCESS_MSG">Файлы успешно отправлены: %s</string>
+    <string name="IDS_UPLOAD_SUCCESS_MSG">Успешно загруженные файлы: %s</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_WELCOME">Добро пожаловать в Creative Cloud!</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="Monochromatic">Монохромный</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="NOTIFICATION_ACCEPT_FAILURE">Не удалось принять</string>
+    <string name="NOTIFICATION_INVITATION">предоставил вам доступ к общей папке </string>
+    <string name="NOTIFICATION_JOINED">Вы присоединились </string>
+    <string name="NOTIFICATION_NOT_FOUND">Уведомления не обнаружены</string>
+    <string name="NOTIFICATION_REJECTED">Вы отклонили приглашение в </string>
+    <string name="NOTIFICATION_REJECT_FAILURE">Не удалось отклонить</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="OK">ОК</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="SHARE_WITH_OPTIONS_TITLE">Поделиться:</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="Shades">Тени</string>
+    <string name="Triad">Триада</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="UPLOAD_ASSET_BROWSER_BUTTON">Загрузить файлы</string>
+    <string name="UPLOAD_ASSET_FROM_CAMERA_BUTTON">Сделать снимок</string>
+    <string name="UPLOAD_IMAGE_TO_LIBRARY_MENU_TITLE">Отправить изображения</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">Изменить в</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string name="action_login">вход</string>
+    <string name="action_logout">выход</string>
+    <string name="action_settings">Settings</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="add_collaborator">Добавить участника</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="add_color">Добавить цвет</string>
+    <string name="add_theme">Добавить тему</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="adobe_360_capture">Захват</string>
+    <string name="adobe_360_edit">Изменить</string>
+    <string name="adobe_360_embed">Встроить</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="adobe_asset_edit_in_progress">Выполняется редактирование</string>
+    <string name="adobe_asset_edit_rename_button">Переименовать</string>
+    <string name="adobe_asset_move_error_same_location">Ошибка: местоположение исходного и целевого объекта совпадает при операции перемещения.</string>
+    <string name="adobe_asset_view_add_annotation_dialog_hint_text">Напишите комментарий</string>
+    <string name="adobe_asset_view_add_annotation_dialog_negative_button">ОТМЕНА</string>
+    <string name="adobe_asset_view_add_annotation_dialog_positive_button">ОТПР.</string>
+    <string name="adobe_asset_view_add_annotation_dialog_title">Добавить комментарий</string>
+    <string name="adobe_asset_view_add_comments_dialog_error_message">Ошибка при добавлении комментария</string>
+    <string name="adobe_asset_view_add_comments_dialog_hint_text">Добавьте комментарий</string>
+    <string name="adobe_asset_view_add_comments_dialog_negative_button">ОТМЕНА</string>
+    <string name="adobe_asset_view_add_comments_dialog_positive_button">ОТПР.</string>
+    <string name="adobe_asset_view_add_comments_dialog_title">Добавить комментарий</string>
+    <string name="adobe_asset_view_comments_title">Комментарии</string>
+    <string name="adobe_asset_view_dialog_fetch_link">Получение ссылки...</string>
+    <string name="adobe_asset_view_edit_delete_button">Удалить</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_file">Удалить этот файл?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_folder">Удалить эту папку?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_multi_select">Удалить элементы: %d?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_negative_button">ОТМЕНА</string>
+    <string name="adobe_asset_view_edit_delete_dialog_positive_button">УДАЛИТЬ</string>
+    <string name="adobe_asset_view_edit_download_button">Сохранить на устройстве</string>
+    <string name="adobe_asset_view_edit_fragment_edit_button">Правка</string>
+    <string name="adobe_asset_view_edit_fragment_erase_button">Удалить</string>
+    <string name="adobe_asset_view_edit_fragment_move_button">Переместить</string>
+    <string name="adobe_asset_view_edit_fragment_title">Выбрать элементы</string>
+    <string name="adobe_asset_view_edit_move_button">Переместить</string>
+    <string name="adobe_asset_view_edit_rename_dialog_error_message">При правке названия произошла ошибка</string>
+    <string name="adobe_asset_view_edit_rename_dialog_hint_text">Новое название</string>
+    <string name="adobe_asset_view_edit_rename_dialog_negative_button">ОТМЕНА</string>
+    <string name="adobe_asset_view_edit_rename_dialog_positive_button">ПРАВКА</string>
+    <string name="adobe_asset_view_edit_rename_dialog_title">Изменить название</string>
+    <string name="adobe_asset_view_error_fetch_link">Не удалось извлечь ссылку</string>
+    <string name="adobe_asset_view_move_fragment_title">Выбрать папку</string>
+    <string name="adobe_asset_view_multi_page_count">%d стр.</string>
+    <string formatted="false" name="adobe_asset_view_multi_page_numbering">%d из %d </string>
+    <string name="adobe_asset_view_no_comments_found">Комментарии отсутствуют</string>
+    <string name="adobe_asset_view_send_link_button">Отправить ссылку</string>
+    <string name="adobe_asset_view_show_annotation_dialog_button">OK</string>
+    <string name="adobe_assetbrowser_edit_delete_confirm">Удалить этот файл?</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="adobe_auth_sign_in_close">Закрыть</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="adobe_cloud_not_reachable_no_internet_connection">Unable to connect to the Creative Cloud.\n Please check your internet connection and try again</string>
+    <string name="adobe_cloud_not_reachable_private_cloud">Службы Creative Cloud, к которым вы пытаетесь получить доступ, недоступны.\nПроверьте наличие виртуальной частной сети (VPN) и повторите попытку позднее.</string>
+    <string name="adobe_cloud_not_reachable_public_cloud">Службы Creative Cloud, к которым вы пытаетесь получить доступ, недоступны.\nПовторите попытку позднее.</string>
+    <string name="adobe_cloud_not_reachable_retry">ПОВТОРИТЬ</string>
+    <string name="adobe_common_error_folder_invalid_chars">Недопустимое имя папки</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="adobe_common_error_view_no_internet_connection">Отсутствует подключение к Интернету</string>
+    <string name="adobe_common_error_view_unknown_authenticate_error">Ошибка во время аутентификации.\nПовторите попытку позже.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="adobe_common_error_while_creating_folder">Не удалось создать папку</string>
+    <string name="adobe_composition_collection_plural">композиции</string>
+    <string name="adobe_composition_collection_singular">композиция</string>
+    <string name="adobe_comps_empty_collection">Нет добавленных композиций</string>
+    <string name="adobe_design_library_collection_count">Ресурсы: %s</string>
+    <string name="adobe_design_library_collection_count_single">Ресурсы 1</string>
+    <string name="adobe_design_library_empty_collection">Creative Cloud Library пуста</string>
+    <string name="adobe_design_library_header_brushes">КИСТИ (%s)</string>
+    <string name="adobe_design_library_header_color">ЦВЕТА (%s)</string>
+    <string name="adobe_design_library_header_colortheme">ЦВЕТОВЫЕ ТЕМЫ (%s)</string>
+    <string name="adobe_design_library_header_graphics">ГРАФИЧЕСКИЕ ИЗОБРАЖЕНИЯ (%s)</string>
+    <string name="adobe_design_library_header_layoutstyle">СТИЛИ СЛОЕВ (%s)</string>
+    <string name="adobe_design_library_header_looks">LOOKS (%s)</string>
+    <string name="adobe_design_library_header_textstyle">СТИЛИ ТЕКСТА (%s)</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="adobe_error_not_entitled_to_video">Сообщение о том, что пользователь не имеет права просмотреть видео.</string>
+    <string name="adobe_id_authenticator_accesslabel">Полный доступ к учетной записи Adobe ID</string>
+    <string name="adobe_id_authenticator_add_account_error_onlyone">Поддерживается только один Adobe ID</string>
+    <string name="adobe_id_authenticator_settings_label">Adobe</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="adobe_lineordrawcollection_plural">Рисунки</string>
+    <string name="adobe_lineordrawcollection_singular">Рисунок</string>
+    <string name="adobe_mobilecreation_item_download">Загрузка</string>
+    <string name="adobe_mobilecreations_empty_collection">У вас еще нет рисунков</string>
+    <string name="adobe_mobilecreations_package_count">Ресурсы: %s</string>
+    <string name="adobe_mobilecreations_sort">Сортировать по дате импорта</string>
+    <string name="adobe_my_libraries_empty_collection">У вас еще нет библиотек</string>
+    <string formatted="false" name="adobe_notification_activities_comments">%s: комментарий о %s</string>
+    <string name="adobe_notification_activities_comments_self">Вы прокомментировали %s</string>
+    <string formatted="false" name="adobe_notification_activities_invitation_accept">%s присоединяется к %s</string>
+    <string name="adobe_notification_activities_invitation_accept_single">Вы присоединились к %s</string>
+    <string name="adobe_notification_activities_section_header_single">ДЕЙСТВИЯ</string>
+    <string name="adobe_notification_activities_self">Вы</string>
+    <string name="adobe_notification_activity_timestamp_day_single">Дней назад: 1</string>
+    <string name="adobe_notification_activity_timestamp_days_multiple">Дней назад: %d</string>
+    <string name="adobe_notification_activity_timestamp_hour_single">Часов назад: 1</string>
+    <string name="adobe_notification_activity_timestamp_hours_multiple">Часов назад: %d</string>
+    <string name="adobe_notification_activity_timestamp_less_than_minute">Менее минуты назад</string>
+    <string name="adobe_notification_activity_timestamp_minute">Минут назад: %d</string>
+    <string name="adobe_notification_activity_timestamp_year_multiple">Лет назад: %d</string>
+    <string name="adobe_notification_activity_timestamp_year_single">Лет назад: 1</string>
+    <string name="adobe_notification_invitation_message">предоставил(а) вам доступ к общей папке “%s”</string>
+    <string name="adobe_notification_invitation_section_header">ПРИГЛАШЕНИЯ: (%d)</string>
+    <string name="adobe_notification_invitation_section_header_single">ПРИГЛАШЕНИЯ: (1)</string>
+    <string name="adobe_notification_operation_collaborated_folder_error">Не удалось загрузить коллекцию</string>
+    <string name="adobe_notification_operation_comment_error">Не удалось загрузить ресурс</string>
+    <string name="adobe_psmix_collection_plural">Фотокомпозиции</string>
+    <string name="adobe_psmix_collection_singular">Фотокомпозиция</string>
+    <string name="adobe_sdk_main_root_collection">Файлы</string>
+    <string name="adobe_sketchCollection_plural">эскизы</string>
+    <string name="adobe_sketchCollection_singular">Эскиз</string>
+    <string name="adobe_sketches_empty_collection">Нет добавленных эскизов</string>
+    <string name="adobe_storage_no_folders_found">Папки не найдены</string>
+    <string name="adobe_uxassetbrowser_action_asgrid">Просмотр в виде таблицы</string>
+    <string name="adobe_uxassetbrowser_action_aslist">Просмотр в виде списка</string>
+    <string name="adobe_uxassetbrowser_action_collaborate">Совместная работа</string>
+    <string name="adobe_uxassetbrowser_action_edit_asset">Правка</string>
+    <string name="adobe_uxassetbrowser_action_sort_alpha">Сортировать по алфавиту</string>
+    <string name="adobe_uxassetbrowser_action_sort_date">Сортировать по дате</string>
+    <string name="adobe_uxassetbrowser_comps">COMP CC</string>
+    <string name="adobe_uxassetbrowser_create_new_folder">Создать новую папку</string>
+    <string name="adobe_uxassetbrowser_csdk_myassets_main">Мои ресурсы</string>
+    <string name="adobe_uxassetbrowser_csdk_mylibraries">Мои библиотеки</string>
+    <string name="adobe_uxassetbrowser_designlibrary">Библиотека</string>
+    <string name="adobe_uxassetbrowser_download_cancelled">Загрузка отменена %s</string>
+    <string name="adobe_uxassetbrowser_download_description">Adobe Creative Cloud</string>
+    <string name="adobe_uxassetbrowser_download_directory">Creative Cloud</string>
+    <string name="adobe_uxassetbrowser_download_error">Ошибка при загрузке %s</string>
+    <string name="adobe_uxassetbrowser_download_io_failure"> не удалось загрузить %s. Ошибка ввода-вывода.</string>
+    <string name="adobe_uxassetbrowser_download_successful"> Загружено: %s</string>
+    <string name="adobe_uxassetbrowser_drawings">ILLUSTRATOR DRAW</string>
+    <string name="adobe_uxassetbrowser_file_download_assert_exception">Недопустимый файл ресурса</string>
+    <string name="adobe_uxassetbrowser_files">ФАЙЛЫ</string>
+    <string name="adobe_uxassetbrowser_library_image_download_assert_exception">Недопустимое изображение из библиотеки</string>
+    <string name="adobe_uxassetbrowser_lines">ILLUSTRATOR LINE</string>
+    <string name="adobe_uxassetbrowser_myacount">Моя учетная запись</string>
+    <string name="adobe_uxassetbrowser_photo_download_assert_exception">Недопустимый фоторесурс</string>
+    <string name="adobe_uxassetbrowser_photos">ФОТОГРАФИИ</string>
+    <string name="adobe_uxassetbrowser_psmix">PHOTOSHOP MIX</string>
+    <string name="adobe_uxassetbrowser_sdk_myaccount">Моя учетная запись</string>
+    <string name="adobe_uxassetbrowser_selectfolder_upload">Выбрать папку</string>
+    <string name="adobe_uxassetbrowser_sketches">PHOTOSHOP SKETCH</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="all_colors">Все цвета</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string name="app_library">Библ. приложений</string>
+    <string name="app_name">Creative SDK</string>
+    <string name="asset_browser">Браузер ресурсов</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="auth_required">Authentication Required</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string name="behance_publish">Публикация в Behance</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="bsdk_add_content_project_cover_selection_title">Выберите обложку</string>
+    <string name="bsdk_add_content_project_publish_adult_content_text">Содержит контент для взрослых</string>
+    <string name="bsdk_add_content_project_publish_creative_field_hint">Выберите область творческой деятельности</string>
+    <string name="bsdk_add_content_project_publish_creative_tags_hint">теги, через, запятую</string>
+    <string name="bsdk_add_content_project_publish_initiated_msg">Выполняется публикация проекта.</string>
+    <string name="bsdk_add_content_project_publish_invalid_tag_msg">Теги могут содержать только буквенно-цифровые символы, с пробелами или без пробелов</string>
+    <string name="bsdk_add_content_project_publish_project_description_hint">Описание проекта</string>
+    <string name="bsdk_add_content_project_publish_project_name_hint">Назовите проект</string>
+    <string name="bsdk_add_content_project_publish_right_navigation">Публикация</string>
+    <string name="bsdk_add_content_project_publish_service_initialize_error_msg">Возникла проблема при запуске службы. Повторите попытку позже.</string>
+    <string name="bsdk_add_content_project_publish_share_on">ОПУБЛИКОВАТЬ В:</string>
+    <string name="bsdk_add_content_project_publish_title">Инфо</string>
+    <string name="bsdk_add_project_copyright_settings_dialog_title_label">Параметры авторского права</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_message_txt">Ваш проект пуст</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_use_action_below_msg">Начните прямо сейчас — воспользуйтесь вариантами ниже</string>
+    <string name="bsdk_add_project_edit_project_fragment_right_navigation">Готово</string>
+    <string name="bsdk_add_project_edit_project_fragment_title">Правка</string>
+    <string name="bsdk_add_project_embed_content_edit_text_hint">Вставьте встраиваемый код</string>
+    <string name="bsdk_add_project_embed_content_error">Код недействителен. Повторите попытку.</string>
+    <string name="bsdk_add_project_embed_content_title">Встроенное мультимедийное соединение</string>
+    <string name="bsdk_add_project_preview_project_fragment_edit_action">Правка</string>
+    <string name="bsdk_add_project_preview_project_fragment_title">Просмотр</string>
+    <string name="bsdk_add_wip_new_wip_dialog_desc">Введите заголовок незаверш. проекта</string>
+    <string name="bsdk_add_wip_new_wip_dialog_title">Добавить заголовок</string>
+    <string name="bsdk_add_wip_pick_source_view_camera_launch_error">Возникла проблема при запуске камеры для создания снимка. Повторите попытку позже.</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_action_btn_create_wip_label">Создать</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_title_select_wip_label">Выбрать</string>
+    <string name="bsdk_add_wip_view_connection_error_msg">Возникла проблема при подключении. Проверьте сетевое подключение и повторите попытку.</string>
+    <string name="bsdk_addproject_creative_field_filter_dialog_done_btn_label">Готово</string>
+    <string name="bsdk_addproject_creative_field_filter_dialog_title_label">Области</string>
+    <string name="bsdk_addproject_creative_fields_popular_category">ПОПУЛЯРНЫЕ</string>
+    <string name="bsdk_addproject_custom_actionbar_forward_nav_default_txt">Далее</string>
+    <string name="bsdk_addproject_project_cover_selection_right_nav_crop_txt">Применить</string>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_text">Выполняется загрузка ресурсов из Creative Cloud. Отменить?</string>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_title">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_file_download_error">Проблема при загрузке файла %1$s. Повторите попытку позже.</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_back_nav_content_desc">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_title_label">Creative Cloud</string>
+    <string name="bsdk_cloud_selection_view_back_nav_content_desc">Назад</string>
+    <string name="bsdk_cloud_selection_view_loading_error_msg">Возникла проблема при загрузке учетных записей. Повторите попытку позже.</string>
+    <string name="bsdk_cloud_selection_view_title">Выбор учетной записи</string>
+    <string name="bsdk_connection_error_msg">Возникла проблема при подключении. Проверьте сетевое подключение и повторите попытку.</string>
+    <string name="bsdk_copyright_cc_by">С указанием авторства</string>
+    <string name="bsdk_copyright_cc_by_nc">С указанием авторства — некоммерческие</string>
+    <string name="bsdk_copyright_cc_by_nc_nd">С указанием авторства-Некоммерческие-Без производных</string>
+    <string name="bsdk_copyright_cc_by_nc_sa">С указанием авторства-Некоммерческие-На тех же условиях</string>
+    <string name="bsdk_copyright_cc_by_nd">С указанием авторства-Без производных</string>
+    <string name="bsdk_copyright_cc_by_sa">С указанием авторства-На тех же условиях</string>
+    <string name="bsdk_copyright_creative_commons_header">CREATIVE COMMONS</string>
+    <string name="bsdk_copyright_no_license_header">БЕЗ ЛИЦЕНЗИИ</string>
+    <string name="bsdk_copyright_no_use_at_all">Использование только с явного разрешения</string>
+    <string name="bsdk_edit_profile_ab_save">Сохр.</string>
+    <string name="bsdk_edit_profile_ab_title">Изм. профиль</string>
+    <string name="bsdk_edit_profile_avatar_first_name_field_missing_msg">Необходимо указать имя</string>
+    <string name="bsdk_edit_profile_avatar_last_name_field_missing_msg">Необходимо указать фамилию</string>
+    <string name="bsdk_edit_profile_avatar_required_fields_missing_msg">Необходимо указать имя и фамилию</string>
+    <string name="bsdk_edit_profile_avatar_saving_error">Сведения профиля сохранены, но при сохранении изображения профиля произошла ошибка. Повторите попытку позже.</string>
+    <string name="bsdk_edit_profile_editing_error">Ошибка при сохранении сведений профиля. Повторите попытку позже.</string>
+    <string name="bsdk_edit_profile_hint_company">Компания</string>
+    <string name="bsdk_edit_profile_hint_first_name">Имя</string>
+    <string name="bsdk_edit_profile_hint_last_name">Фамилия</string>
+    <string name="bsdk_edit_profile_hint_location">Расположение</string>
+    <string name="bsdk_edit_profile_hint_occupation">Профессия / должность</string>
+    <string name="bsdk_edit_profile_hint_website">URL-адрес веб-сайта</string>
+    <string name="bsdk_edit_profile_loading_error">Ошибка при загрузке сведений профиля. Повторите попытку позже.</string>
+    <string name="bsdk_edit_profile_unsaved_changes_body">Все изменения будут утеряны. Выйти?</string>
+    <string name="bsdk_edit_profile_unsaved_changes_title">Несохраненные изменения</string>
+    <string name="bsdk_enterprise_login_warning_actionbar_title">Публикация</string>
+    <string name="bsdk_enterprise_login_warning_cancel_button_text">Отмена</string>
+    <string name="bsdk_enterprise_login_warning_continue_button_text">ПРОДОЛЖИТЬ</string>
+    <string name="bsdk_enterprise_login_warning_text_content">С помощью Behance вы можете публиковать работы\nв составе рабочей группы, однако при выходе\nиз организации вы потеряете доступ к\nсвоему портфолио.</string>
+    <string name="bsdk_enterprise_login_warning_text_header">В настоящее время вход\n выполнен с Enterprise ID</string>
+    <string name="bsdk_generic_alert_dialog_cancel_btn_label">Отмена</string>
+    <string name="bsdk_generic_alert_dialog_ok_btn_label">ОК</string>
+    <string name="bsdk_generic_image_content_desc">Снимок</string>
+    <string name="bsdk_image_cropper_crop_failed_msg">Не удалось кадрировать снимок. Повторите попытку.</string>
+    <string name="bsdk_image_cropper_failed_to_open_msg">Снимок не найден. Повторите попытку.</string>
+    <string name="bsdk_image_selector_view_empty_album_msg">Альбом %1$s пуст. Выберите другой альбом.</string>
+    <string name="bsdk_image_selector_view_error_loading_albums_msg">Возникла проблема при загрузке альбомов. Повторите попытку позже.</string>
+    <string name="bsdk_image_selector_view_image_dimensions_invalid_msg">Размеры выбранного снимка не соответствуют требованиям</string>
+    <string name="bsdk_image_selector_view_image_dimensions_less_than_min_required_msg">Минимальный размер снимка: %1$s x %2$s. Размер выбранного снимка: %3$s x %4$s</string>
+    <string name="bsdk_image_selector_view_image_dimensions_more_than_max_allowed_msg">Максимальный размер снимка: %1$s x %2$s. Размер выбранного снимка: %3$s x %4$s</string>
+    <string name="bsdk_image_selector_view_image_file_type_allowed_msg">%1$s — недопустимый тип файла. Поддерживается только %2$s.</string>
+    <string name="bsdk_image_selector_view_image_file_type_invalid_msg">%1$s — недопустимый тип файла.</string>
+    <string name="bsdk_image_selector_view_image_file_type_not_allowed_msg">%1$s — недопустимый тип файла. %2$s не поддерживается.</string>
+    <string name="bsdk_image_selector_view_image_size_invalid_msg">Размер выбранного снимка не соответствует требованиям.</string>
+    <string name="bsdk_image_selector_view_image_size_less_than_min_required_msg">Снимок слишком мал. Минимальный размер файла: %1$s</string>
+    <string name="bsdk_image_selector_view_image_size_more_than_max_allowed_msg">Снимок слишком велик. Максимальный размер файла: %1$s</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_cancel_label">Отмена</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_cancel_label">Пропустить</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_done_label">Готово</string>
+    <string name="bsdk_image_selector_view_titlebar_back_nav_content_desc">Назад</string>
+    <string name="bsdk_image_selector_view_titlebar_title_albums_txt">Альбомы</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_photos_txt">Выбрать снимки</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_single_photo_txt">Выбрать снимок...</string>
+    <string name="bsdk_license_cc_by">С указанием авторства</string>
+    <string name="bsdk_license_cc_by_nc">С указанием авторства — Некоммерческие</string>
+    <string name="bsdk_license_cc_by_nc_nd">С указанием авторства — Некоммерческие — Без производных</string>
+    <string name="bsdk_license_cc_by_nc_sa">С указанием авторства — Некоммерческие — На тех же условиях</string>
+    <string name="bsdk_license_cc_by_nd">С указанием авторства — Без производных</string>
+    <string name="bsdk_license_cc_by_sa">С указанием авторства — На тех же условиях</string>
+    <string name="bsdk_license_no_use_at_all">Использование только с явного разрешения владельца</string>
+    <string name="bsdk_location_filter_dialog_city_empty_error">Выберите допустимый город</string>
+    <string name="bsdk_location_filter_dialog_city_label">Город</string>
+    <string name="bsdk_location_filter_dialog_country_label">Страна</string>
+    <string name="bsdk_location_filter_dialog_done_btn_label">Готово</string>
+    <string name="bsdk_location_filter_dialog_failed_to_load_error">Не удалось загрузить данные местоположения. Повторите попытку позже.</string>
+    <string name="bsdk_location_filter_dialog_state_label">Регион</string>
+    <string name="bsdk_location_filter_dialog_title_label">Расположение</string>
+    <string name="bsdk_location_filter_dialog_type_city_name_label">Введите название города</string>
+    <string name="bsdk_msg_image_missing">msg_image_missing-behance-addcontent</string>
+    <string name="bsdk_publish_project_from_cc_invalid_file_type">%1$s — недопустимый тип файла. Поддерживается только %2$s.</string>
+    <string name="bsdk_publish_project_from_cc_invalid_image_size">Файл %1$s не соответствует требованиям по размеру. Максимальный размер файла: %2$s.</string>
+    <string name="bsdk_publish_project_service_failure_notification_msg">Невозможно загрузить проект. %1$s. Проверьте подключение к сети и повторите попытку.</string>
+    <string name="bsdk_publish_project_service_failure_notification_ticker">Ошибка публикации проекта на портале Behance</string>
+    <string name="bsdk_publish_project_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_text">Выполняется публикация проекта</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_publish_on_twitter_msg">Оцените наш новый проект в моем портфолио \@Behance: %1$s</string>
+    <string name="bsdk_publish_project_service_success_notification_text">Нажмите для просмотра опубликованного проекта</string>
+    <string name="bsdk_publish_project_service_success_notification_ticker">Проект опубликован на портале Behance</string>
+    <string name="bsdk_publish_project_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_unknown_failure_notification_msg">В настоящий момент загрузить проект не удается. Проверьте подключение к сети и повторите попытку.</string>
+    <string name="bsdk_publish_results_view_behance_btn_label">ПРОСМОТР В BEHANCE</string>
+    <string name="bsdk_publish_results_view_desc_label">Смотрите отзывы на свои проекты в Behance\nи публикуйте их в Твиттере, Facebook и других сетях.</string>
+    <string name="bsdk_publish_results_view_title_label">Ваша работа опубликована!</string>
+    <string name="bsdk_publish_results_view_titlebar_back_nav_content_desc">Назад</string>
+    <string name="bsdk_publish_results_view_titlebar_title_label">Публикация</string>
+    <string name="bsdk_publish_wip_image_required_error_msg">Не удается загрузить изображение для публикации. Проверьте изображение и повторите попытку.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_msg">Невозможно загрузить незаконченную работу. %1$s. Проверьте подключение к сети и повторите попытку.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_ticker">Ошибка публикации незаконченной работы на портале Behance</string>
+    <string name="bsdk_publish_wip_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_text">Выполняется публикация незаконченной работы</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_publish_on_twitter_msg">Оцените нашу новую работу в моем портфолио \@Behance: %1$s</string>
+    <string name="bsdk_publish_wip_service_success_notification_text">Нажмите для просмотра опубликованной незаконченной работы</string>
+    <string name="bsdk_publish_wip_service_success_notification_ticker">Незаконченная работа опубликована на портале Behance</string>
+    <string name="bsdk_publish_wip_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_unknown_failure_notification_msg">В данный момент не удается загрузить незавершенную работу. Проверьте подключение к сети и повторите попытку.</string>
+    <string name="bsdk_search_filters_dialog_custom_actionbar_back_nav_default_txt">Назад</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_body">Для продолжения войдите в Facebook.</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_cancel_btn_label">Отмена</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_ok_btn_label">ОК</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_title">Вход в Facebook</string>
+    <string name="bsdk_social_account_fb_auth_failure">Ошибка проверки подлинности пользователя на Facebook. Повторите попытку позже.</string>
+    <string name="bsdk_social_account_fb_auth_permissions_failure">Права на публикацию на Facebook не предоставлены.</string>
+    <string name="bsdk_social_account_twitter_login_authentication_failure">Ошибка проверки подлинности пользователя в Twitter. Повторите попытку позже.</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_body">Для продолжения войдите в Twitter.</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_cancel_btn_label">Отмена</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_ok_btn_label">ОК</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_title">Вход в Twitter</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_body">Отменить связь с учетной записью Facebook?</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_cancel_btn_label">Отмена</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_ok_btn_label">ОК</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_title">Отменить связь с учетной записью Facebook</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_body">Отменить связь с учетной записью Twitter?</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_cancel_btn_label">Отмена</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_ok_btn_label">ОК</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_title">Отменить связь с учетной записью Twitter</string>
+    <string name="bsdk_sort_option_featured">Выставлено</string>
+    <string name="bsdk_sort_option_most_appreciated">С высшими оценками</string>
+    <string name="bsdk_sort_option_most_discussed">Самые обсуждаемые</string>
+    <string name="bsdk_sort_option_most_followed">Самые часто отслеживаемые</string>
+    <string name="bsdk_sort_option_most_recent">Самые недавние</string>
+    <string name="bsdk_sort_option_most_relevant">Самые важные</string>
+    <string name="bsdk_sort_option_most_viewed">Самые популярные</string>
+    <string name="bsdk_wip_publish_view_adult_content_text">Содержит контент для взрослых</string>
+    <string name="bsdk_wip_publish_view_publish_initiated_msg">Выполняется публикация незаконченной работы. Ход выполнения отражает строка состояния.</string>
+    <string name="bsdk_wip_publish_view_publish_invalid_tag_msg">Теги могут содержать только буквенно-цифровые символы, с пробелами или без пробелов</string>
+    <string name="bsdk_wip_publish_view_publish_required_fields_missing_msg">Заполните все обязательные поля</string>
+    <string name="bsdk_wip_publish_view_publish_service_initialize_error_msg">Возникла проблема при запуске службы. Повторите попытку позже.</string>
+    <string name="bsdk_wip_publish_view_share_on_fb_content_desc">Опубликовать на Facebook</string>
+    <string name="bsdk_wip_publish_view_share_on_twitter_content_desc">Опубликовать в Twitter</string>
+    <string name="bsdk_wip_publish_view_share_on_txt">ОПУБЛИКОВАТЬ В:</string>
+    <string name="bsdk_wip_publish_view_titlebar_action_btn_publish_label">Публикация</string>
+    <string name="bsdk_wip_publish_view_titlebar_back_nav_content_desc">Назад</string>
+    <string name="bsdk_wip_publish_view_titlebar_title_publish_label">Информация</string>
+    <string name="bsdk_wip_publish_view_wip_desc_hint">Попросить отзыв</string>
+    <string name="bsdk_wip_publish_view_wip_name_hint">Добавить заголовок</string>
+    <string name="bsdk_wip_publish_view_wip_tags_hint">теги, через, запятую</string>
+    <string name="bsdk_wip_publish_view_wips_loading_label">Загрузка …</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="by">Автор: </string>
+    <string name="cancel">ОТМЕНА</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="cancelLogIn">CANCEL</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="cc_title">Creative Cloud</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="clear_history">ОЧИСТИТЬ</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="collaboration_create_invite_error">Не удается создать приглашение</string>
+    <string name="collaboration_create_invite_error_network">Ошибка подключения к сети</string>
+    <string name="collaboration_delete_failure">Не удалось удалить коллегу</string>
+    <string formatted="false" name="collaboration_delete_prompt">Удалить %s? </string>
+    <string name="collaboration_error">Ошибка при получении информации об участниках</string>
+    <string name="collaboration_leave_failure">Не удалось выйти из папки.</string>
+    <string formatted="false" name="collaboration_leave_prompt">Выйти из %s? </string>
+    <string name="collaborator">Участники</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="color_component_activity_actionbar_title">Цвет</string>
+    <string name="color_picker_actionbar_title">Палитра цветов</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="com_facebook_image_download_unknown_error">При загрузке изображения возникла неожиданная ошибка.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="com_facebook_internet_permission_error_message">Для входа в систему WebView необходимо право на доступ в ИНТЕРНЕТ</string>
+    <string name="com_facebook_internet_permission_error_title">Ошибка AndroidManifest</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="com_facebook_like_button_liked">Понравилось</string>
+    <string name="com_facebook_like_button_not_liked">Нравится</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="com_facebook_loading">Загрузка …</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="com_facebook_loginview_cancel_action">Отменить</string>
+    <string name="com_facebook_loginview_log_in_button">Вход</string>
+    <string name="com_facebook_loginview_log_in_button_long">Вход через Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Выход</string>
+    <string name="com_facebook_loginview_log_out_button">Выход</string>
+    <string name="com_facebook_loginview_logged_in_as">Вы вошли как: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Выполнен вход с помощью Facebook</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="com_facebook_requesterror_password_changed">Пароль Facebook изменен. Войдите в это приложение еще раз, чтобы повторно подключить учетную запись Facebook.</string>
+    <string name="com_facebook_requesterror_permissions">Это приложение не обладает правами на выполнение данного действия. Чтобы изменить права, попробуйте еще раз войти в приложение.</string>
+    <string name="com_facebook_requesterror_reconnect">Войдите в это приложение еще раз, чтобы повторно подключить учетную запись Facebook.</string>
+    <string name="com_facebook_requesterror_relogin">Войдите в это приложение еще раз, чтобы повторно подключить учетную запись Facebook.</string>
+    <string name="com_facebook_requesterror_web_login">Учетная запись Facebook заблокирована. Для продолжения войдите на веб-сайт www.facebook.com.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="com_facebook_send_button_text">Отправить</string>
+    <string name="com_facebook_share_button_text">Поделиться</string>
+    <string name="com_facebook_tooltip_default">Новинка! У вас все под контролем — выбирайте, какой информацией вы хотите поделиться с приложениями.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="comments_error">Ошибка при извлечении комментариев</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="copy_themes">Копировать темы</string>
+    <string name="copy_to">Копировать в</string>
+    <string name="create">Создать</string>
+    <string name="create_library">Создать библиотеку</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="creative_cloud">Creative Cloud</string>
+    <string name="creative_sdk">Creative SDK</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="delete">Удалить</string>
+    <string name="edit">ИЗМЕНИТЬ</string>
+    <string name="edit_camel">Изменить</string>
+    <string name="edit_color">Изменить цвет</string>
+    <string name="edit_name">Изменить название</string>
+    <string name="edit_theme">Изменить тему</string>
+    <string name="empty_color_list_line1">Собирайте цвета и темы в этой</string>
+    <string name="empty_color_list_line2">библиотеке и используйте их</string>
+    <string name="empty_color_list_line3">в других приложениях</string>
+    <string name="hello_blank_fragment">Привет! пустой фрагмент</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="hex">Шст</string>
+    <string name="history">Хронология</string>
+    <string name="history_cleared">Хронология очищена</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string name="launch_header">ЗАПУСК КОМПОНЕНТОВ</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="lib_row_desc_p_p">Цветов: %1$d, тем: %2$d</string>
+    <string name="lib_row_desc_p_s">Цветов: %1$d, тема: 1</string>
+    <string name="lib_row_desc_s_p">Цвет: 1, тем: %1$d</string>
+    <string name="lib_row_desc_s_s">Цвет: 1, тема: 1</string>
+    <string name="libraries_tab_heading">МОИ БИБЛИОТЕКИ</string>
+    <string name="loading">Загрузка…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="logIn">LOGIN</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="messenger_send_button_text">Отпр</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="my_library">Моя библиотека</string>
+    <string name="new_name">Новое имя</string>
+    <string name="no_colors">Нет цветов</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="notification_title">Уведомления</string>
+    <string name="photo_asset_browser_empty_folder">У вас пока нет фотографий</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="picker_tab_heading">ПАЛИТРА</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="proxy_passwd_label">PASSWORD</string>
+    <string name="proxy_username_label">USER NAME</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="psmix_download_statement">Загрузка Adobe Photoshop Mix</string>
+    <string name="psmix_files_empty">Сочетание функциональности Adobe Photoshop и удобства, присущего\r\n мобильным устройствам, делает Photoshop Mix простым и эффективным фоторедактором для устройств Android.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="remove">УДАЛИТЬ</string>
+    <string name="remove_camel">Удалить</string>
+    <string name="remove_confirmation">Действительно удалить?</string>
+    <string name="rename">ПЕРЕИМЕНОВАТЬ</string>
+    <string name="rename_library">Переименовать библиотеку</string>
+    <string name="rgb">RGB</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="search_query_hint">Поиск…</string>
+    <string name="search_title">Поиск</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="select_a_color">Выбрать цвет</string>
+    <string name="select_library">Выбрать библиотеку</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string name="selection_header">Выбранные файлы</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="storage_asset_browser_empty_folder">У вас пока нет файлов</string>
+    <string name="storage_cancel_selection">ОТМЕНА</string>
+    <string name="storage_create_folder_already_exists_error">Папка уже существует</string>
+    <string name="storage_create_folder_authention_requires_error">Требуется аутентификация.</string>
+    <string name="storage_create_folder_no_error">""</string>
+    <string name="storage_empty_folder_upload_files_title">ЗАГРУЗИТЬ ФАЙЛЫ</string>
+    <string name="storage_open">ОТКРЫТЬ</string>
+    <string name="storage_open_files">ОТКРЫТЬ</string>
+    <string name="storage_open_multiple_files">ОТКРЫТЬ (%s)</string>
+    <string name="storage_open_multiple_files_99">ОТКРЫТЬ (99+)</string>
+    <string name="storage_settigs_usuage_calculating">(Оценка использования)</string>
+    <string name="storage_settings_edit_cc_settings">Изменить настройки Creative Cloud</string>
+    <string name="storage_settings_get_more_storage">Расширить хранилище</string>
+    <string formatted="false" name="storage_settings_storage_usage">Использовано: %s (%s из %s ГБ)</string>
+    <string name="storage_settings_switch_accounts">Переключить учетные записи</string>
+    <string name="storage_upload_btn_title">ЗАГРУЗИТЬ (%s)</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="syncing_library">Синхронизация библиотек…</string>
+    <string name="theme_picker_actionbar_title">Палитра тем</string>
+    <string name="themes_tab_heading">ТЕМЫ</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string name="title_activity_display_message">My Message</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string formatted="false" name="warning_msg">The server http://%s requires a username and password. The server says : %s</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ru/values-ru.xml -->
+    <eat-comment/>
+    <string name="wheel">Колесо</string>
+</resources>

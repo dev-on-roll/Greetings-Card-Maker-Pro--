@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item>
+        <shape
+            android:dither="true"
+            android:shape="rectangle" >
+            <padding
+                android:bottom="3px"
+                android:left="3px"
+                android:right="3px" />
+
+            <solid android:color="@color/actionbar_background" />
+            <stroke
+                android:width="3px"
+                android:color="#eceff0" />
+        </shape>
+    </item>
+    <item
+        android:left="-3px"
+        android:right="-3px"
+        android:top="-3px">
+        <shape
+            android:dither="true"
+            android:shape="rectangle" >
+            <solid android:color="@color/actionbar_background"/>
+            <padding android:bottom="1px"/>
+
+            <stroke
+                android:width="1px"
+                android:color="#dbdedf" />
+        </shape>
+    </item>
+</layer-list>

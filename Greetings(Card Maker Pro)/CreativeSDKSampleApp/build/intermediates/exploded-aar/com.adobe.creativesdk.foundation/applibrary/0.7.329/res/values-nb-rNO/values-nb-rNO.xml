@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values-nb-rNO/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">Alle apper</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">Alle kategorier har blitt ekskludert</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">FÅ</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">KATEGORIER</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">SORTER</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">Utforsk det voksende biblioteket av kreative apper, som er kompatible med, og koblet til, Creative Cloud</string>
+    <string name="IDS_APPLIBRARY_ERROR">Appen er for tiden ikke tilgjengelig. Kom tilbake senere for å utforske det voksende biblioteket av kreative apper</string>
+    <string name="IDS_APPLIBRARY_FEATURED">Utvalgt</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">Høyest karakter</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">Nylige</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">Ingen apper funnet i denne kategorien</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">Ingen programmer funnet.</string>
+    <string name="IDS_APPLIBRARY_TITLE">App-bibliotek</string>
+    <string name="IDS_APP_GET">INSTALLER</string>
+    <string name="IDS_APP_OPEN">ÅPNE</string>
+    <string name="IDS_BY">av</string>
+    <string name="IDS_CATEGORY_AUDIO">Lyd</string>
+    <string name="IDS_CATEGORY_CAPTURE">Fang</string>
+    <string name="IDS_CATEGORY_COMMUNITY">Fellesskap</string>
+    <string name="IDS_CATEGORY_DESIGN">Design</string>
+    <string name="IDS_CATEGORY_DRAWING">Tegning</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">Illustrasjon</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">Bilderedigering</string>
+    <string name="IDS_CATEGORY_PHOTOS">Fotografier</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">Foto og video</string>
+    <string name="IDS_CATEGORY_PRESENTATION">Presentasjon</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">Produktivitet</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">Prototyper</string>
+    <string name="IDS_CATEGORY_SOCIAL">Sosiale</string>
+    <string name="IDS_CATEGORY_STORAGE">Lagringsplass</string>
+    <string name="IDS_CATEGORY_STORY">Historiefortelling</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">UI/UX Design</string>
+    <string name="IDS_CATEGORY_UTILITY">Verktøy</string>
+    <string name="IDS_CATEGORY_VIDEO">Video</string>
+    <string name="IDS_PLEASE_WAIT">Vent litt …</string>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">Kommunikasjon</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">Samlinger</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">Konkurranser</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">Tegning</string>
+    <string name="IDS_SUBCATEGORY_EDITING">Redigering</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">E-post</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">Tilbakemelding</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">Fildeling</string>
+    <string name="IDS_SUBCATEGORY_FONTS">Fonter</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">Til salgs</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">Generering</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">Mønster</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">Bilderedigering</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">Fotografering</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">Portefølje</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">Utskrift</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">Prototyper</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">Sosiale nettverk</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">Historiefortelling</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">Vektorer</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">Nettsteder</string>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">Rediger i</string>
+    <string name="action_settings">Innstillinger</string>
+    <string name="adobe_360_capture">Fang</string>
+    <string name="adobe_360_edit">Rediger</string>
+    <string name="adobe_360_embed">Bygg inn</string>
+    <string name="hello_world">Hei!</string>
+</resources>

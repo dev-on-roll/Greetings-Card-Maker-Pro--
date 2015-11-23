@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/adobe_uxassetbrowser_upload_image_to_photo"
+        app:showAsAction="never"
+        android:visible="true"
+        android:title="@string/UPLOAD_ASSET_BROWSER_BUTTON" />
+
+    <item
+        android:id="@+id/adobe_uxassetbrowser_upload_image_to_photocollection_from_camera"
+        app:showAsAction="never"
+        android:title="@string/UPLOAD_ASSET_FROM_CAMERA_BUTTON" />
+</menu><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/menu/adobe_assetview_photocollection_container_menu.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/menu/adobe_assetview_photocollection_container_menu.xml -->

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/color_item_height"
+    android:paddingBottom="@dimen/color_item_top_bottom_padding"
+    android:paddingTop="@dimen/color_item_top_bottom_padding">
+
+    <LinearLayout
+        android:id="@+id/selection_mode_theme_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:id="@+id/theme_item_check_container"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/check_container_left_margin"
+            android:layout_weight="1"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/theme_item_tick"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/creativesdkcolor_ic_check_inactive" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/small_theme_view"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="horizontal" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/theme_name_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/color_item_name_left_padding"
+                android:singleLine="true"
+                android:textColor="@color/color_item_name_text_color"
+                android:textSize="@dimen/color_item_name_text_size" />
+
+            <TextView
+                android:id="@+id/theme_by_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/color_item_name_left_padding"
+                android:singleLine="true"
+                android:textColor="@color/color_item_name_text_color"
+                android:textSize="@dimen/theme_by_textsize"
+                android:visibility="gone" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/theme_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal" />
+
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/layout/creativesdkcolor_theme_item_view.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/layout/creativesdkcolor_theme_item_view.xml -->

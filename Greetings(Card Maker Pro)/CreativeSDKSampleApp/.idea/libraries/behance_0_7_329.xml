@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="behance-0.7.329">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/jars/libs/android-behance-sdk.jar!/" />
+      <root url="file://$PROJECT_DIR$/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.adobe.creativesdk.foundation.applibrary.internal.AppLibraryActivity">
+
+<item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search_black_24dp"
+    android:orderInCategory="101"
+    android:title="@string/action_settings"
+        app:showAsAction="ifRoom" />
+
+</menu>
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/menu/menu_app_library.xml -->

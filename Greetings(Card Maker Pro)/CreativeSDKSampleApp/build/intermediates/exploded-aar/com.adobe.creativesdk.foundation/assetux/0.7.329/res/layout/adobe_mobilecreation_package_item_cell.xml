@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/storage_assetcell_background_card"
+    android:orientation="vertical"
+    >
+
+
+        <ImageView
+            android:id="@+id/mobilecreation_item_mainImage"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            >
+        </ImageView>
+
+
+
+
+</LinearLayout>
+
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_mobilecreation_package_item_cell.xml -->

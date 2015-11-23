@@ -1,0 +1,18 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bsdk_add_wip_view_bg_color" >
+
+    <WebView
+        android:id="@+id/bsdkLoginUserToSocialClientWebView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+	
+    <ProgressBar 
+        android:id="@+id/bsdkLoginUserToSocialClientProgressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:layout_centerInParent="true"/>
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_dialog_fragment_login_user_to_social_client.xml -->

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-large-land/layouts.xml -->
+    <eat-comment/>
+    <item name="bsdk_show_view_full_screen" type="bool">false</item>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-large-land/dimens_publish_project.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_add_project_preview_project_fragment_list_item_top_padding">20dp</dimen>
+    <dimen name="bsdk_add_project_preview_project_fragment_listview_top_bottom_padding">30dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-large-land/dimens.xml -->
+    <eat-comment/>
+    <dimen name="global_filter_dialog_height">530dp</dimen>
+    <dimen name="global_filter_dialog_width">348.5dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-large-land/layouts.xml -->
+    <eat-comment/>
+    <item name="bsdk_add_project_preview_fragment_screen_width_percentage" type="fraction">62.5%</item>
+    <item name="bsdk_album_selector_fragment_grid_col_count" type="integer">4</item>
+    <item name="bsdk_image_selection_fragment_grid_col_count" type="integer">4</item>
+</resources>

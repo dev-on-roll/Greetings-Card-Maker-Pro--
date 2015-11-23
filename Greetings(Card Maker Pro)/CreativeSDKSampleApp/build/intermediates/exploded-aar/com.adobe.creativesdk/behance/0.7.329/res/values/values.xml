@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/attrs.xml -->
+    <eat-comment/>
+    <attr name="fontSyle">
+        <enum name="regular" value="0"/>
+        <enum name="bold" value="1"/>
+        <enum name="light" value="2"/>
+    </attr>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/layouts.xml -->
+    <eat-comment/>
+    <item name="bsdk_big_screen" type="bool">false</item>
+    <item name="bsdk_show_view_full_screen" type="bool">true</item>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/colors_publish_project.xml -->
+    <eat-comment/>
+    <color name="bsdk_add_project_cover_image_fragment_add_button_border_color">@color/bsdk_adobe_blue</color>
+    <color name="bsdk_add_project_cover_image_fragment_done_state_background">#f6f9fa</color>
+    <color name="bsdk_add_project_cover_image_fragment_filmstrip_backgound_color">#e7e7e7</color>
+    <color name="bsdk_add_project_cover_image_fragment_filmstrip_selected_image_background_color">#802098f5</color>
+    <color name="bsdk_add_project_cover_image_fragment_filmstrip_selected_image_border_color">@color/bsdk_adobe_blue</color>
+    <color name="bsdk_add_project_cover_image_fragment_inprogress_state_background">#000000</color>
+    <color name="bsdk_add_project_custom_actionbar_right_navigation_txt_background_disabled_color">#0c285b</color>
+    <color name="bsdk_add_project_custom_actionbar_right_navigation_txt_background_enabled_color">#005cff</color>
+    <color name="bsdk_add_project_custom_actionbar_right_navigation_txt_disabled_color">#7a7a7a</color>
+    <color name="bsdk_add_project_custom_actionbar_right_navigation_txt_enabled_color">#005cff</color>
+    <color name="bsdk_add_project_custom_actionbar_right_navigation_txt_pressed_state_color">#AEC4EB</color>
+    <color name="bsdk_add_project_custom_actionbar_right_navigation_txt_publish_disabled_color">#707a92</color>
+    <color name="bsdk_add_project_custom_actionbar_right_navigation_txt_publish_enabled_color">#ffffff</color>
+    <color name="bsdk_add_project_custom_actionbar_title_text_color">#FFFFFF</color>
+    <color name="bsdk_add_project_edit_fragment_background_color">#f5f9fa</color>
+    <color name="bsdk_add_project_edit_fragment_empty_project_background_color">#f6f9fa</color>
+    <color name="bsdk_add_project_edit_fragment_empty_project_message_txt_color">#a3aeb7</color>
+    <color name="bsdk_add_project_edit_fragment_empty_project_use_action_below_msg_txt_color">#3f4c56</color>
+    <color name="bsdk_add_project_edit_fragment_list_item_background_color">#ffffff</color>
+    <color name="bsdk_add_project_edit_fragment_list_item_divider_color">#cecece</color>
+    <color name="bsdk_add_project_edit_fragment_options_backgroud">#CCFFFFFF</color>
+    <color name="bsdk_add_project_edit_fragment_options_divider_color">#d6d6d6</color>
+    <color name="bsdk_add_project_edit_preview_fragment_embed_content_icon_background_color">#edf0f1</color>
+    <color name="bsdk_add_project_edit_preview_fragment_embed_content_icon_txt_color">#b8bdc0</color>
+    <color name="bsdk_add_project_edit_preview_fragment_viewflipper_background_color">#000000</color>
+    <color name="bsdk_add_project_embed_content_btn_txt_color">#087af7</color>
+    <color name="bsdk_add_project_embed_content_dialog_background_color">#e6e6e6</color>
+    <color name="bsdk_add_project_embed_content_dialog_btn_bg_color">#e6e6e6</color>
+    <color name="bsdk_add_project_embed_content_dialog_btn_selected_bg_color">#e6e6e6</color>
+    <color name="bsdk_add_project_embed_content_dialog_divider_color">#b5b5b5</color>
+    <color name="bsdk_add_project_embed_content_dialog_edittext_background_color">#FFFFFF</color>
+    <color name="bsdk_add_project_embed_content_dialog_edittext_border_color">#a2a2a2</color>
+    <color name="bsdk_add_project_embed_content_dialog_embed_content_text_hint_color">#BBBBBB</color>
+    <color name="bsdk_add_project_image_selection_grid_view_selected_background">#70529ecc</color>
+    <color name="bsdk_add_project_image_selection_grid_view_selected_border">#529ecc</color>
+    <color name="bsdk_add_project_image_selection_grid_view_selected_border_backgroud">#FFFFFF</color>
+    <color name="bsdk_add_project_publish_fragment_background_coclor">#fdfdfd</color>
+    <color name="bsdk_add_project_publish_fragment_hint_txt_color">#c5c9cd</color>
+    <color name="bsdk_add_project_publish_fragment_txt_color">@color/bsdk_default_txt_color</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/colors_add_wip.xml -->
+    <eat-comment/>
+    <color name="bsdk_add_wip_adapter_divider_color">#edf0f1</color>
+    <color name="bsdk_add_wip_adapter_txt_color">@color/bsdk_default_txt_color</color>
+    <color name="bsdk_add_wip_new_wip_dialog_content_text_hint_color">#BBBBBB</color>
+    <color name="bsdk_add_wip_view_bg_color">#FFFFFF</color>
+    <color name="bsdk_add_wip_view_workflow_controller_bg_color">#000000</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="bsdk_adobe_blue">#2098f5</color>
+    <color name="bsdk_adobe_blue_disabled">#502098f5</color>
+    <color name="bsdk_adobe_blue_pressed">#802098f5</color>
+    <color name="bsdk_album_grid_adapter_album_name_bar_bg_color">#ffffff</color>
+    <color name="bsdk_album_grid_adapter_album_name_txt_color">@color/bsdk_default_txt_color</color>
+    <color name="bsdk_album_grid_adapter_bg_color">#ffffff</color>
+    <color name="bsdk_album_image_grid_adapter_selected_indicator_bg_color">#08000000</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/colors_cc_asset_browser_launcher.xml -->
+    <eat-comment/>
+    <color name="bsdk_cc_asset_browser_launcher_background_color">#FFFFFF</color>
+    <color name="bsdk_cc_asset_browser_launcher_title_text_color">@color/bsdk_titlebar_txt_color</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/colors_adobe_cloud_selection_view.xml -->
+    <eat-comment/>
+    <color name="bsdk_cloud_selection_adapter_divider_color">#edf0f1</color>
+    <color name="bsdk_cloud_selection_adapter_txt_color">@color/bsdk_default_txt_color</color>
+    <color name="bsdk_cloud_selection_view_bg_color">#FFFFFF</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="bsdk_default_divider_color">#c5c9cd</color>
+    <color name="bsdk_default_hint_txt_color">#cacaca</color>
+    <color name="bsdk_default_txt_color">#3f4c56</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/colors_edit_profile.xml -->
+    <eat-comment/>
+    <color name="bsdk_edit_profile_avatar_overlay_bg">#44ffffff</color>
+    <color name="bsdk_edit_profile_background_color">#f6f9fa</color>
+    <color name="bsdk_edit_profile_hint_color">#a3aeb7</color>
+    <color name="bsdk_edit_profile_text_color">#3f4c56</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="bsdk_edit_text_material_design_line_color">#ccd1d5</color>
+    <color name="bsdk_edit_text_material_design_line_focused_color">@color/bsdk_adobe_blue</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/colors_publish_project.xml -->
+    <eat-comment/>
+    <color name="bsdk_enterprise_login_warning_bg_color">#ffffff</color>
+    <color name="bsdk_enterprise_login_warning_cancel_button_text_color">#2099f6</color>
+    <color name="bsdk_enterprise_login_warning_content_text_color">#bac3c8</color>
+    <color name="bsdk_enterprise_login_warning_continue_button_bg_color">@color/bsdk_adobe_blue</color>
+    <color name="bsdk_enterprise_login_warning_continue_button_selected_bg_color">@color/bsdk_adobe_blue_pressed</color>
+    <color name="bsdk_enterprise_login_warning_continue_button_text_color">#FFFFFF</color>
+    <color name="bsdk_enterprise_login_warning_header_text_color">#3f4c55</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="bsdk_facebook_login_bg_color">#95000000</color>
+    <color name="bsdk_generic_alert_dialog_buttons_text_color">#3f4c56</color>
+    <color name="bsdk_generic_alert_dialog_content_bg_color">#f6f9fa</color>
+    <color name="bsdk_generic_alert_dialog_content_text_color">#3f4c56</color>
+    <color name="bsdk_generic_alert_dialog_title_bg_color">#ffffff</color>
+    <color name="bsdk_generic_alert_dialog_title_text_color">#3f4c56</color>
+    <color name="bsdk_image_cropper_bg_color">#000000</color>
+    <color name="bsdk_image_selector_view_adapter_bg_stroke_color">#dadada</color>
+    <color name="bsdk_image_selector_view_bg_color">#FDFDFD</color>
+    <color name="bsdk_image_selector_view_titlebar_action_btn_txt_color">@color/bsdk_titlebar_action_btn_txt_color</color>
+    <color name="bsdk_image_selector_view_titlebar_action_btn_txt_disabled_color">@color/bsdk_titlebar_action_btn_txt_disabled_color</color>
+    <color name="bsdk_image_selector_view_titlebar_action_btn_txt_pressed_color">@color/bsdk_titlebar_action_btn_txt_pressed_color</color>
+    <color name="bsdk_image_selector_view_titlebar_txt_color">@color/bsdk_titlebar_txt_color</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/colors_edit_profile.xml -->
+    <eat-comment/>
+    <color name="bsdk_image_view_before_loading_bg_light_color">#f0f0f0</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/colors_publish_project.xml -->
+    <eat-comment/>
+    <color name="bsdk_location_filter_dialog_bg_color">#FFFFFF</color>
+    <color name="bsdk_location_filter_dialog_display_item_bg_color">#FFFFFF</color>
+    <color name="bsdk_location_filter_dialog_divider_color">#edf0f1</color>
+    <color name="bsdk_location_filter_dialog_location_item_txt_color">#626365</color>
+    <color name="bsdk_location_filter_dialog_location_selected_item_txt_color">#4169E1</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/colors_location_filter_dialog.xml -->
+    <eat-comment/>
+    <color name="bsdk_location_filter_search_txt_view_hint_color">#bbbbbb</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/colors_publish_project.xml -->
+    <eat-comment/>
+    <color name="bsdk_manage_selected_grey">#ffdedede</color>
+    <color name="bsdk_project_publish_view_divider_color">@color/bsdk_default_divider_color</color>
+    <color name="bsdk_project_publish_view_titlebar_publish_btn_bg_disabled_color">@color/bsdk_adobe_blue_disabled</color>
+    <color name="bsdk_project_publish_view_titlebar_publish_btn_bg_enabled_color">@color/bsdk_adobe_blue</color>
+    <color name="bsdk_project_publish_view_titlebar_publish_btn_bg_pressed_color">@color/bsdk_adobe_blue_pressed</color>
+    <color name="bsdk_project_publish_view_titlebar_publish_btn_txt_color">#ffffff</color>
+    <color name="bsdk_publish_project_activity_background_color">#000000</color>
+    <color name="bsdk_publish_project_view_bg_color">#FFFFFF</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/colors_publish_results.xml -->
+    <eat-comment/>
+    <color name="bsdk_publish_results_view_behance_btn_bg_color">@color/bsdk_adobe_blue</color>
+    <color name="bsdk_publish_results_view_behance_btn_bg_pressed_color">@color/bsdk_adobe_blue_pressed</color>
+    <color name="bsdk_publish_results_view_behance_btn_txt_color">#ffffff</color>
+    <color name="bsdk_publish_results_view_bg_color">#f6f9fa</color>
+    <color name="bsdk_publish_results_view_desc_txt_color">#3f4c56</color>
+    <color name="bsdk_publish_results_view_image_bg_color">#FFFFFF</color>
+    <color name="bsdk_publish_results_view_image_bg_stroke_color">#dadada</color>
+    <color name="bsdk_publish_results_view_title_txt_color">#3f4c56</color>
+    <color name="bsdk_publish_results_view_url_txt_color">#889198</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/colors_publish_project.xml -->
+    <eat-comment/>
+    <color name="bsdk_search_filter_creative_fields_dialog_header_text_color">#9fafb3</color>
+    <color name="bsdk_search_filter_creative_fields_dialog_selected_text_color">@color/bsdk_adobe_blue</color>
+    <color name="bsdk_search_filter_creative_fields_dialog_text_color">#3f4c56</color>
+    <color name="bsdk_search_filter_creative_fields_header_bg_color">#f2f6f7</color>
+    <color name="bsdk_search_filter_view_dialog_done_btn_color">@color/bsdk_adobe_blue</color>
+    <color name="bsdk_search_filter_view_filters_view_text_color">#4b4d4f</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="bsdk_status_bar_bg_color">#3f4c56</color>
+    <color name="bsdk_titlebar_action_btn_txt_color">@color/bsdk_adobe_blue</color>
+    <color name="bsdk_titlebar_action_btn_txt_disabled_color">@color/bsdk_adobe_blue_disabled</color>
+    <color name="bsdk_titlebar_action_btn_txt_pressed_color">@color/bsdk_adobe_blue_pressed</color>
+    <color name="bsdk_titlebar_txt_color">@color/bsdk_default_txt_color</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/colors_publish_project.xml -->
+    <eat-comment/>
+    <color name="bsdk_transparent">#00FFFFFF</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/colors_add_wip.xml -->
+    <eat-comment/>
+    <color name="bsdk_wip_publish_view_divider_color">@color/bsdk_default_divider_color</color>
+    <color name="bsdk_wip_publish_view_share_on_txt_color">@color/bsdk_default_txt_color</color>
+    <color name="bsdk_wip_publish_view_titlebar_publish_btn_bg_disabled_color">@color/bsdk_adobe_blue_disabled</color>
+    <color name="bsdk_wip_publish_view_titlebar_publish_btn_bg_enabled_color">@color/bsdk_adobe_blue</color>
+    <color name="bsdk_wip_publish_view_titlebar_publish_btn_bg_pressed_color">@color/bsdk_adobe_blue_pressed</color>
+    <color name="bsdk_wip_publish_view_titlebar_publish_btn_txt_color">#ffffff</color>
+    <color name="bsdk_wip_publish_view_wip_details_txt_color">@color/bsdk_default_txt_color</color>
+    <color name="bsdk_wip_publish_view_wip_details_txt_hint_color">#c5c9cd</color>
+    <declare-styleable name="BehanceSDKButton"><attr name="fontSyle"/></declare-styleable>
+    <declare-styleable name="BehanceSDKEditText"><attr name="fontSyle"/></declare-styleable>
+    <declare-styleable name="BehanceSDKTextView"><attr name="fontSyle"/></declare-styleable>
+    <declare-styleable name="CropImageView"><attr name="guidelines"><enum name="on" value="2"/><enum name="onTouch" value="1"/><enum name="off" value="0"/></attr><attr format="boolean" name="fixAspectRatio"/><attr format="integer" name="aspectRatioX"/><attr format="integer" name="aspectRatioY"/><attr format="reference" name="imageResource"/></declare-styleable>
+    <declare-styleable name="DragSortListView"><attr format="dimension" name="collapsed_height"/><attr format="float" name="drag_scroll_start"/><attr format="float" name="max_drag_scroll_speed"/><attr format="color" name="float_background_color"/><attr name="remove_mode"><enum name="clickRemove" value="0"/><enum name="flingRemove" value="1"/></attr><attr format="boolean" name="track_drag_sort"/><attr format="float" name="float_alpha"/><attr format="float" name="slide_shuffle_speed"/><attr format="integer" name="remove_animation_duration"/><attr format="integer" name="drop_animation_duration"/><attr format="boolean" name="drag_enabled"/><attr format="boolean" name="sort_enabled"/><attr format="boolean" name="remove_enabled"/><attr name="drag_start_mode"><enum name="onDown" value="0"/><enum name="onMove" value="1"/><enum name="onLongPress" value="2"/></attr><attr format="integer" name="drag_handle_id"/><attr format="integer" name="fling_handle_id"/><attr format="integer" name="click_remove_id"/><attr format="boolean" name="use_default_controller"/></declare-styleable>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens_publish_project.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_add_project_actionbar_right_menu_option_right_padding">38dp</dimen>
+    <dimen name="bsdk_add_project_cover_image_fragment_filmstrip_selected_image_border_size">1dp</dimen>
+    <dimen name="bsdk_add_project_cover_selection_fragment_add_button_border_size">1dp</dimen>
+    <dimen name="bsdk_add_project_cover_selection_fragment_add_button_height">56dp</dimen>
+    <dimen name="bsdk_add_project_cover_selection_fragment_add_button_width">72dp</dimen>
+    <dimen name="bsdk_add_project_cover_selection_fragment_add_dialog_txt_size">20sp</dimen>
+    <dimen name="bsdk_add_project_cover_selection_fragment_add_image_dialog_btn_height">50dp</dimen>
+    <dimen name="bsdk_add_project_cover_selection_fragment_filmstrip_height">73dp</dimen>
+    <dimen name="bsdk_add_project_cover_selection_fragment_filmstrip_image_height">56dp</dimen>
+    <dimen name="bsdk_add_project_cover_selection_fragment_filmstrip_image_left_right_padding">10dp</dimen>
+    <dimen name="bsdk_add_project_cover_selection_fragment_filmstrip_image_width">84.5dp</dimen>
+    <dimen name="bsdk_add_project_cover_selection_fragment_filmstrip_portrait_image_width">37.5dp</dimen>
+    <dimen name="bsdk_add_project_custom_actionbar_edit_button_right_margin">4dp</dimen>
+    <dimen name="bsdk_add_project_custom_actionbar_left_padding">15dp</dimen>
+    <dimen name="bsdk_add_project_custom_actionbar_right_padding">15dp</dimen>
+    <dimen name="bsdk_add_project_edit_fragment_delete_icon_padding">10dp</dimen>
+    <dimen name="bsdk_add_project_edit_fragment_delete_icon_right_margin">27dp</dimen>
+    <dimen name="bsdk_add_project_edit_fragment_edit_options_icon_height">23dp</dimen>
+    <dimen name="bsdk_add_project_edit_fragment_edit_options_icon_width">35dp</dimen>
+    <dimen name="bsdk_add_project_edit_fragment_embed_content_icon_image_bottom_margin">6dp</dimen>
+    <dimen name="bsdk_add_project_edit_fragment_embed_content_icon_txt_size">11sp</dimen>
+    <dimen name="bsdk_add_project_edit_fragment_empty_project_message_txt_size">19sp</dimen>
+    <dimen name="bsdk_add_project_edit_fragment_empty_project_use_action_below_msg_txt_size">13sp</dimen>
+    <dimen name="bsdk_add_project_edit_fragment_layout_bottom_padding">7dp</dimen>
+    <dimen name="bsdk_add_project_edit_fragment_layout_top_padding">7dp</dimen>
+    <dimen name="bsdk_add_project_edit_fragment_list_embed_view_height_width">65dp</dimen>
+    <dimen name="bsdk_add_project_edit_fragment_list_image_height">75dp</dimen>
+    <dimen name="bsdk_add_project_edit_fragment_list_image_width">75dp</dimen>
+    <dimen name="bsdk_add_project_edit_fragment_list_item_padding">5dp</dimen>
+    <dimen name="bsdk_add_project_edit_fragment_option_height">50dp</dimen>
+    <dimen name="bsdk_add_project_edit_fragment_option_padding">58dp</dimen>
+    <dimen name="bsdk_add_project_edit_fragment_reorder_icon_margin_left">17dp</dimen>
+    <dimen name="bsdk_add_project_edit_fragment_reorder_icon_margin_right">22.5dp</dimen>
+    <dimen name="bsdk_add_project_edit_fragment_rotate_icon_padding">10dp</dimen>
+    <dimen name="bsdk_add_project_edit_fragment_rotate_icon_right_margin">30dp</dimen>
+    <dimen name="bsdk_add_project_embed_content_dialog_edit_txt_bottom_margin">13dp</dimen>
+    <dimen name="bsdk_add_project_embed_content_dialog_edit_txt_bottom_padding">16.5dp</dimen>
+    <dimen name="bsdk_add_project_embed_content_dialog_edit_txt_left_margin">10dp</dimen>
+    <dimen name="bsdk_add_project_embed_content_dialog_edit_txt_right_margin">10dp</dimen>
+    <dimen name="bsdk_add_project_embed_content_dialog_edit_txt_top_padding">28.5dp</dimen>
+    <dimen name="bsdk_add_project_preview_project_fragment_embed_content_icon_bottom_margin">27dp</dimen>
+    <dimen name="bsdk_add_project_preview_project_fragment_embed_content_icon_sub_desc_txt_size">13sp</dimen>
+    <dimen name="bsdk_add_project_preview_project_fragment_embed_content_icon_txt_bottom_margin">5dp</dimen>
+    <dimen name="bsdk_add_project_preview_project_fragment_embed_content_icon_txt_size">17sp</dimen>
+    <dimen name="bsdk_add_project_preview_project_fragment_list_embed_content_layout_height">227dp</dimen>
+    <dimen name="bsdk_add_project_preview_project_fragment_list_item_top_padding">10dp</dimen>
+    <dimen name="bsdk_add_project_preview_project_fragment_listview_top_bottom_padding">16dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_adultContent_checkbox_padding_right">5dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_adultContent_padding_bottom">10.5dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_adultContent_padding_top">10.5dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_adult_content_icon_margin_right">11dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_adult_content_txt_padding_left">15dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_copyright_icon_margin_right">11.5dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_copyright_padding_bottom">15.5dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_copyright_padding_left">11dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_copyright_padding_top">11.5dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_cover_image_height">36dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_cover_image_margin_left">5dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_cover_image_margin_top_bottom">8dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_cover_image_width">46dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_creative_field_icon_margin_right">9.5dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_creative_field_margin_bottom">15.5dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_creative_field_margin_left">11dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_creative_field_margin_top">11dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_desc_line_spacing_extra">3.5dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_desc_padding_bottom">7dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_desc_padding_top">7dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_divider_height">1dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_divider_left_right_margin">4dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_padding_bottom">11dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_padding_left">11dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_padding_left_extra">4dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_padding_right">11dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_project_title_margin_left">12dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_shareon_icon_spacing">17dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_shareon_layout_margin_left">16dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_shareon_layout_padding_top_bottom">15dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_shareon_txt_margin_right">14dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_tags_icon_margin_right">11.5dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_tags_padding_bottom">20dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_tags_padding_left">15dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_tags_padding_top">15dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_txt_size">@dimen/bsdk_publish_info_views_field_text_size</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens_add_wip.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_add_wip_adapter_left_right_padding">15dp</dimen>
+    <dimen name="bsdk_add_wip_adapter_thumbnail_width_height">50dp</dimen>
+    <dimen name="bsdk_add_wip_adapter_top_bottom_padding">10dp</dimen>
+    <dimen name="bsdk_add_wip_adapter_txt_size">@dimen/bsdk_publish_info_views_field_text_size</dimen>
+    <dimen name="bsdk_add_wip_new_wip_dialog_edit_txt_bottom_margin">13dp</dimen>
+    <dimen name="bsdk_add_wip_new_wip_dialog_edit_txt_bottom_padding">16.5dp</dimen>
+    <dimen name="bsdk_add_wip_new_wip_dialog_edit_txt_left_margin">10dp</dimen>
+    <dimen name="bsdk_add_wip_new_wip_dialog_edit_txt_right_margin">10dp</dimen>
+    <dimen name="bsdk_add_wip_new_wip_dialog_edit_txt_top_padding">28.5dp</dimen>
+    <dimen name="bsdk_add_wip_new_wip_dialog_width">330dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_album_grid_adapter_album_name_txt_size">14sp</dimen>
+    <dimen name="bsdk_cc_asset_browser_launcher_title_text_size">19sp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens_adobe_cloud_selection_view.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_cloud_selection_adapter_left_right_padding">20dp</dimen>
+    <dimen name="bsdk_cloud_selection_adapter_top_bottom_padding">19dp</dimen>
+    <dimen name="bsdk_cloud_selection_adapter_txt_size">@dimen/bsdk_publish_info_views_field_text_size</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens_publish_project.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_copyright_settings_dialog_selector_imageView_left_padding">15dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_creative_field_dialog_horizontal_padding">30dp</dimen>
+    <dimen name="bsdk_creative_field_dialog_vertical_padding">50dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens_publish_project.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_custom_actionbar_back_btn_title_gap">16dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens_location_filter_dialog.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_custom_actionbar_right_left_margin">15dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_dialog_back_left_padding">@dimen/bsdk_titlebar_left_margin</dimen>
+    <dimen name="bsdk_dialog_back_right_padding">@dimen/bsdk_titlebar_back_button_right_margin</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens_edit_profile.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_edit_profile_avatar_height_width">100dp</dimen>
+    <dimen name="bsdk_edit_profile_avatar_margin_left">4.3dp</dimen>
+    <dimen name="bsdk_edit_profile_avatar_name_spacing">10dp</dimen>
+    <dimen name="bsdk_edit_profile_avatar_overlay_height_width">20dp</dimen>
+    <dimen name="bsdk_edit_profile_avatar_overlay_margin">2dp</dimen>
+    <dimen name="bsdk_edit_profile_button_padding_bottom">10.5dp</dimen>
+    <dimen name="bsdk_edit_profile_field_height">50dp</dimen>
+    <dimen name="bsdk_edit_profile_field_text_size">20sp</dimen>
+    <dimen name="bsdk_edit_profile_padding">15dp</dimen>
+    <dimen name="bsdk_edit_profile_titlebar_right_margin">14dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_edit_text_material_design_spinner_bg_right_margin">8dp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_button_corner_radius">2.5dp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_button_height">50dp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_button_text_size">16sp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_content_text_bottom_margin">40dp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_content_text_line_spacing_extra">3dp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_content_text_size">15sp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_continue_button_left_right_padding">13.5dp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_continue_button_margin_bottom">20dp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_header_text_bottom_margin">19dp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_header_text_line_spacing_extra">3.5dp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_header_text_size">23sp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_icon_top_bottom_margin">47dp</dimen>
+    <dimen name="bsdk_generic_alert_dialog_buttons_container_height">52dp</dimen>
+    <dimen name="bsdk_generic_alert_dialog_buttons_txt_size">15sp</dimen>
+    <dimen name="bsdk_generic_alert_dialog_content_left_right_padding">19dp</dimen>
+    <dimen name="bsdk_generic_alert_dialog_content_top_bottom_padding">18.5dp</dimen>
+    <dimen name="bsdk_generic_alert_dialog_content_txt_size">18sp</dimen>
+    <dimen name="bsdk_generic_alert_dialog_corner_radius">4dp</dimen>
+    <dimen name="bsdk_generic_alert_dialog_material_design_padding">12dp</dimen>
+    <dimen name="bsdk_generic_alert_dialog_title_left_right_padding">17.5dp</dimen>
+    <dimen name="bsdk_generic_alert_dialog_title_top_bottom_padding">12dp</dimen>
+    <dimen name="bsdk_generic_alert_dialog_title_txt_size">20sp</dimen>
+    <dimen name="bsdk_generic_alert_dialog_width">300dp</dimen>
+    <dimen name="bsdk_image_cropper_icon_side_padding">5dp</dimen>
+    <dimen name="bsdk_image_selection_fragment_grid_bottom_padding">3.5dp</dimen>
+    <dimen name="bsdk_image_selection_fragment_grid_item_hrozontal_spacing">5dp</dimen>
+    <dimen name="bsdk_image_selection_fragment_grid_item_vertical_spacing">6dp</dimen>
+    <dimen name="bsdk_image_selection_fragment_grid_left_right_padding">2.5dp</dimen>
+    <dimen name="bsdk_image_selection_fragment_grid_selected_item_border_size">3dp</dimen>
+    <dimen name="bsdk_image_selection_fragment_grid_top_padding">3.5dp</dimen>
+    <dimen name="bsdk_image_selector_view_adapter_bg_stroke_width">.5dp</dimen>
+    <dimen name="bsdk_image_selector_view_album_grid_bottom_padding">17dp</dimen>
+    <dimen name="bsdk_image_selector_view_album_grid_item_margin">14dp</dimen>
+    <dimen name="bsdk_image_selector_view_album_grid_left_right_padding">14dp</dimen>
+    <dimen name="bsdk_image_selector_view_album_grid_top_padding">17dp</dimen>
+    <dimen name="bsdk_image_selector_view_album_image_grid_bottom_padding">17dp</dimen>
+    <dimen name="bsdk_image_selector_view_album_image_grid_item_margin">14dp</dimen>
+    <dimen name="bsdk_image_selector_view_album_image_grid_left_right_padding">14dp</dimen>
+    <dimen name="bsdk_image_selector_view_album_image_grid_top_padding">17dp</dimen>
+    <dimen name="bsdk_image_selector_view_titlebar_action_btn_txt_size">@dimen/bsdk_titlebar_action_btn_txt_size</dimen>
+    <dimen name="bsdk_image_selector_view_titlebar_back_button_right_margin">@dimen/bsdk_titlebar_back_button_right_margin</dimen>
+    <dimen name="bsdk_image_selector_view_titlebar_left_margin">@dimen/bsdk_titlebar_left_margin</dimen>
+    <dimen name="bsdk_image_selector_view_titlebar_right_margin">@dimen/bsdk_titlebar_right_margin</dimen>
+    <dimen name="bsdk_image_selector_view_titlebar_txt_size">@dimen/bsdk_titlebar_txt_size</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens_location_filter_dialog.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_location_filter_dialog_location_item_txt_size">16sp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens_publish_project.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_location_filter_dialog_selector_imageView_left_padding">5dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens_location_filter_dialog.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_location_filter_dialog_title_txt_size">18sp</dimen>
+    <dimen name="bsdk_location_filter_edittext_top_bottom_padding">8dp</dimen>
+    <dimen name="bsdk_location_filter_item_top_bottom_padding">18dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_publish_info_views_field_text_size">17sp</dimen>
+    <dimen name="bsdk_publish_info_views_share_on_lbl_text_size">15sp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens_publish_results.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_publish_results_view_behance_btn_corner_radius">1.5dp</dimen>
+    <dimen name="bsdk_publish_results_view_behance_btn_height">43dp</dimen>
+    <dimen name="bsdk_publish_results_view_behance_btn_margin_top">35dp</dimen>
+    <dimen name="bsdk_publish_results_view_behance_btn_txt_size">13sp</dimen>
+    <dimen name="bsdk_publish_results_view_behance_btn_width">149dp</dimen>
+    <dimen name="bsdk_publish_results_view_desc_line_spacing_extra">2sp</dimen>
+    <dimen name="bsdk_publish_results_view_desc_txt_size">15sp</dimen>
+    <dimen name="bsdk_publish_results_view_image_bg_corner_radius">1.5dp</dimen>
+    <dimen name="bsdk_publish_results_view_image_bg_padding">3dp</dimen>
+    <dimen name="bsdk_publish_results_view_image_height">144dp</dimen>
+    <dimen name="bsdk_publish_results_view_image_margin_bottom">35dp</dimen>
+    <dimen name="bsdk_publish_results_view_image_margin_top">35dp</dimen>
+    <dimen name="bsdk_publish_results_view_image_width">184dp</dimen>
+    <dimen name="bsdk_publish_results_view_padding_bottom">25dp</dimen>
+    <dimen name="bsdk_publish_results_view_padding_left_right">20dp</dimen>
+    <dimen name="bsdk_publish_results_view_padding_top">20dp</dimen>
+    <dimen name="bsdk_publish_results_view_title_txt_size">30sp</dimen>
+    <dimen name="bsdk_publish_results_view_url_margin_top">9dp</dimen>
+    <dimen name="bsdk_publish_results_view_url_txt_size">13sp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens_publish_project.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_search_filter_creative_field_dialog_header_txt_padding">7dp</dimen>
+    <dimen name="bsdk_search_filter_creative_field_dialog_header_txt_size">12sp</dimen>
+    <dimen name="bsdk_search_filter_creative_field_dialog_item_txt_size">16sp</dimen>
+    <dimen name="bsdk_search_filter_creative_field_left_padding">24dp</dimen>
+    <dimen name="bsdk_search_filter_creative_field_right_padding">24dp</dimen>
+    <dimen name="bsdk_search_filter_creative_field_scroll_view_height">45dp</dimen>
+    <dimen name="bsdk_search_filter_dialog_adapter_item_image_padding">10dp</dimen>
+    <dimen name="bsdk_search_filter_dialog_adapter_item_txt_padding">14dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens_location_filter_dialog.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_search_filter_list_view_right_left_padding">24dp</dimen>
+    <dimen name="bsdk_search_filter_view_filters_txt_size">16sp</dimen>
+    <dimen name="bsdk_search_filter_view_right_left_padding">24dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_titlebar_action_btn_txt_size">19sp</dimen>
+    <dimen name="bsdk_titlebar_back_button_right_margin">16dp</dimen>
+    <dimen name="bsdk_titlebar_left_margin">15dp</dimen>
+    <dimen name="bsdk_titlebar_right_margin">25dp</dimen>
+    <dimen name="bsdk_titlebar_txt_size">19sp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens_add_wip.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_wip_publish_view_adult_content_checkbox_padding_right">5dp</dimen>
+    <dimen name="bsdk_wip_publish_view_adult_content_divider_height">1dp</dimen>
+    <dimen name="bsdk_wip_publish_view_adult_content_divider_left_right_margin">4dp</dimen>
+    <dimen name="bsdk_wip_publish_view_adult_content_icon_margin_right">11dp</dimen>
+    <dimen name="bsdk_wip_publish_view_adult_content_padding_bottom">10.5dp</dimen>
+    <dimen name="bsdk_wip_publish_view_adult_content_padding_top">10.5dp</dimen>
+    <dimen name="bsdk_wip_publish_view_adult_content_txt_padding_left">15dp</dimen>
+    <dimen name="bsdk_wip_publish_view_padding_bottom">10dp</dimen>
+    <dimen name="bsdk_wip_publish_view_padding_left">10dp</dimen>
+    <dimen name="bsdk_wip_publish_view_padding_right">10dp</dimen>
+    <dimen name="bsdk_wip_publish_view_share_on_icons_spacing">17dp</dimen>
+    <dimen name="bsdk_wip_publish_view_share_on_txt_margin_right">14dp</dimen>
+    <dimen name="bsdk_wip_publish_view_share_options_container_margin_left">16dp</dimen>
+    <dimen name="bsdk_wip_publish_view_share_options_container_padding_top_bottom">15dp</dimen>
+    <dimen name="bsdk_wip_publish_view_wip_desc_line_spacing_extra">3.5dp</dimen>
+    <dimen name="bsdk_wip_publish_view_wip_desc_padding_bottom">7dp</dimen>
+    <dimen name="bsdk_wip_publish_view_wip_desc_padding_top">7dp</dimen>
+    <dimen name="bsdk_wip_publish_view_wip_name_txt_view_margin_left">12dp</dimen>
+    <dimen name="bsdk_wip_publish_view_wip_tags_icon_margin_right">11.5dp</dimen>
+    <dimen name="bsdk_wip_publish_view_wip_tags_padding_bottom">20dp</dimen>
+    <dimen name="bsdk_wip_publish_view_wip_tags_padding_left">15dp</dimen>
+    <dimen name="bsdk_wip_publish_view_wip_tags_padding_top">15dp</dimen>
+    <dimen name="bsdk_wip_publish_view_wip_thumbnail_image_height">36dp</dimen>
+    <dimen name="bsdk_wip_publish_view_wip_thumbnail_image_margin_left">4dp</dimen>
+    <dimen name="bsdk_wip_publish_view_wip_thumbnail_image_margin_top_bottom">8dp</dimen>
+    <dimen name="bsdk_wip_publish_view_wip_thumbnail_image_width">36dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/layouts.xml -->
+    <eat-comment/>
+    <item name="bsdk_add_project_preview_fragment_screen_width_percentage" type="fraction">83%</item>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/ids.xml -->
+    <eat-comment/>
+    <item name="click_remove" type="id"/>
+    <item name="drag_handle" type="id"/>
+    <item name="selected_view" type="id"/>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens_publish_project.xml -->
+    <eat-comment/>
+    <item name="bsdk_add_project_publish_fragment_desc_max_chars" type="integer">65535</item>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/layouts.xml -->
+    <eat-comment/>
+    <item name="bsdk_add_project_publish_fragment_project_desc_line_count" type="integer">3</item>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens_publish_project.xml -->
+    <eat-comment/>
+    <item name="bsdk_add_project_publish_fragment_title_max_chars" type="integer">55</item>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/layouts.xml -->
+    <eat-comment/>
+    <item name="bsdk_album_selector_fragment_grid_col_count" type="integer">2</item>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/bsdk_configs.xml -->
+    <eat-comment/>
+    <integer name="bsdk_config_activityDefaultDur">220</integer>
+    <integer name="bsdk_config_activityShortDur">150</integer>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens_edit_profile.xml -->
+    <eat-comment/>
+    <integer name="bsdk_edit_profile_content_weight">1</integer>
+    <integer name="bsdk_edit_profile_margin_weight">0</integer>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/layouts.xml -->
+    <eat-comment/>
+    <item name="bsdk_image_selection_fragment_grid_col_count" type="integer">2</item>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/publish_project_configs.xml -->
+    <eat-comment/>
+    <integer name="bsdk_publish_project_close_anim_duration">300</integer>
+    <integer name="bsdk_publish_project_edit_preview_anim_duration">300</integer>
+    <integer name="bsdk_publish_project_open_anim_duration">400</integer>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens_add_wip.xml -->
+    <eat-comment/>
+    <item name="bsdk_wip_publish_view_desc_max_chars" type="integer">1024</item>
+    <item name="bsdk_wip_publish_view_title_max_chars" type="integer">55</item>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/dimens_drag_sort_gridview.xml -->
+    <eat-comment/>
+    <item name="dragged_item_fade_out_duration" type="integer">150</item>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/layouts.xml -->
+    <eat-comment/>
+    <item name="bsdk_dialog_generic_alert" type="layout">@layout/bsdk_dialog_generic_alert_halo_theme_style</item>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_add_content_project_cover_selection_title">Select a Cover</string>
+    <string name="bsdk_add_content_project_publish_adult_content_text">Contains adult content</string>
+    <string name="bsdk_add_content_project_publish_creative_field_hint">Select a creative field</string>
+    <string name="bsdk_add_content_project_publish_creative_tags_hint">comma, separated, tags</string>
+    <string name="bsdk_add_content_project_publish_initiated_msg">Publishing your project.</string>
+    <string name="bsdk_add_content_project_publish_invalid_tag_msg">Tags must contain only alphanumeric characters with or without spaces</string>
+    <string name="bsdk_add_content_project_publish_project_description_hint">Project Description</string>
+    <string name="bsdk_add_content_project_publish_project_name_hint">Name Your Project</string>
+    <string name="bsdk_add_content_project_publish_right_navigation">Publish</string>
+    <string name="bsdk_add_content_project_publish_service_initialize_error_msg">Problem starting service. Please try again later.</string>
+    <string name="bsdk_add_content_project_publish_share_on">SHARE ON:</string>
+    <string name="bsdk_add_content_project_publish_title">Info</string>
+    <string name="bsdk_add_project_copyright_settings_dialog_title_label">Copyright Settings</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_message_txt">Your Project is Empty</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_use_action_below_msg">Get started using the options below</string>
+    <string name="bsdk_add_project_edit_project_fragment_right_navigation">Done</string>
+    <string name="bsdk_add_project_edit_project_fragment_title">Edit</string>
+    <string name="bsdk_add_project_embed_content_edit_text_hint">Paste your embed code</string>
+    <string name="bsdk_add_project_embed_content_error">Your code is invalid. Please try again.</string>
+    <string name="bsdk_add_project_embed_content_title">Embed Media Content</string>
+    <string name="bsdk_add_project_preview_project_fragment_edit_action">Edit</string>
+    <string name="bsdk_add_project_preview_project_fragment_title">Preview</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/strings_add_wip.xml -->
+    <eat-comment/>
+    <string name="bsdk_add_wip_new_wip_dialog_desc">Enter a title for your work in progress</string>
+    <string name="bsdk_add_wip_new_wip_dialog_title">Add Title</string>
+    <string name="bsdk_add_wip_pick_source_view_camera_launch_error">Problem launching camera to capture picture. Please try again later.</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_action_btn_create_wip_label">New</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_title_select_wip_label">Select</string>
+    <string name="bsdk_add_wip_view_connection_error_msg">There was a problem connecting. Please check your network connection and try again.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_addproject_creative_field_filter_dialog_done_btn_label">Done</string>
+    <string name="bsdk_addproject_creative_field_filter_dialog_title_label">Fields</string>
+    <string name="bsdk_addproject_creative_fields_popular_category">POPULAR</string>
+    <string name="bsdk_addproject_custom_actionbar_forward_nav_default_txt">Next</string>
+    <string name="bsdk_addproject_project_cover_selection_right_nav_crop_txt">Apply</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/strings_cc_asset_browser_launcher.xml -->
+    <eat-comment/>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_text">Your assets are being downloaded from Creative Cloud. Are you sure you would like to cancel?</string>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_title">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_file_download_error">Problem downloading file %1$s. Please try again later.</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_back_nav_content_desc">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_title_label">Creative Cloud</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/strings_adobe_cloud_selection_view.xml -->
+    <eat-comment/>
+    <string name="bsdk_cloud_selection_view_back_nav_content_desc">Back</string>
+    <string name="bsdk_cloud_selection_view_loading_error_msg">Problem loading Accounts. Please try again later.</string>
+    <string name="bsdk_cloud_selection_view_title">Choose Account</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="bsdk_connection_error_msg">There was a problem connecting. Please check your network connection and try again.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_copyright_cc_by">Attribution</string>
+    <string name="bsdk_copyright_cc_by_nc">Attribution-Noncommercial</string>
+    <string name="bsdk_copyright_cc_by_nc_nd">Attribution-Noncommercial-No Derivatives</string>
+    <string name="bsdk_copyright_cc_by_nc_sa">Attribution-Noncommercial-Share Alike</string>
+    <string name="bsdk_copyright_cc_by_nd">Attribution-No Derivatives</string>
+    <string name="bsdk_copyright_cc_by_sa">Attribution-Share Alike</string>
+    <string name="bsdk_copyright_creative_commons_header">CREATIVE COMMONS</string>
+    <string name="bsdk_copyright_no_license_header">NO LICENSE</string>
+    <string name="bsdk_copyright_no_use_at_all">No use without explicit permission</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/strings_edit_profile.xml -->
+    <eat-comment/>
+    <string name="bsdk_edit_profile_ab_save">Save</string>
+    <string name="bsdk_edit_profile_ab_title">Edit Profile</string>
+    <string name="bsdk_edit_profile_avatar_first_name_field_missing_msg">First name is required</string>
+    <string name="bsdk_edit_profile_avatar_last_name_field_missing_msg">Last name is required</string>
+    <string name="bsdk_edit_profile_avatar_required_fields_missing_msg">First and last name is required</string>
+    <string name="bsdk_edit_profile_avatar_saving_error">Profile details are saved, but there was a problem saving profile image. Please try again later.</string>
+    <string name="bsdk_edit_profile_editing_error">Problem saving profile details. Please try again later.</string>
+    <string name="bsdk_edit_profile_hint_company">Company</string>
+    <string name="bsdk_edit_profile_hint_first_name">First Name</string>
+    <string name="bsdk_edit_profile_hint_last_name">Last Name</string>
+    <string name="bsdk_edit_profile_hint_location">Location</string>
+    <string name="bsdk_edit_profile_hint_occupation">Occupation / Job Title</string>
+    <string name="bsdk_edit_profile_hint_website">Website URL</string>
+    <string name="bsdk_edit_profile_loading_error">Problem loading profile details. Please try again later.</string>
+    <string name="bsdk_edit_profile_unsaved_changes_body">All changes will be lost, are you sure you want to quit?</string>
+    <string name="bsdk_edit_profile_unsaved_changes_title">Unsaved Changes</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_enterprise_login_warning_actionbar_title">Publish</string>
+    <string name="bsdk_enterprise_login_warning_cancel_button_text">Cancel</string>
+    <string name="bsdk_enterprise_login_warning_continue_button_text">CONTINUE</string>
+    <string name="bsdk_enterprise_login_warning_text_content">You can use Behance to publish work as part of \na team, but will lose access to your portfolio \nif you leave your organization</string>
+    <string name="bsdk_enterprise_login_warning_text_header">You are currently signed\nin with an Enterprise ID</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="bsdk_generic_alert_dialog_cancel_btn_label">Cancel</string>
+    <string name="bsdk_generic_alert_dialog_ok_btn_label">OK</string>
+    <string name="bsdk_generic_image_content_desc">Image</string>
+    <string name="bsdk_image_cropper_crop_failed_msg">Failed to crop image, please try again.</string>
+    <string name="bsdk_image_cropper_failed_to_open_msg">Image not found, please try again.</string>
+    <string name="bsdk_image_selector_view_empty_album_msg">%1$s Album is empty. Please try different album.</string>
+    <string name="bsdk_image_selector_view_error_loading_albums_msg">Problem loading Albums. Please try again later.</string>
+    <string name="bsdk_image_selector_view_image_dimensions_invalid_msg">Selected image dimensions don\'t match requirements</string>
+    <string name="bsdk_image_selector_view_image_dimensions_less_than_min_required_msg">Image must be at least %1$s x %2$s. Selected image is %3$s x %4$s</string>
+    <string name="bsdk_image_selector_view_image_dimensions_more_than_max_allowed_msg">Image must not be more than %1$s x %2$s. Selected image is %3$s x %4$s</string>
+    <string name="bsdk_image_selector_view_image_file_type_allowed_msg">%1$s is an invalid file type. Only %2$s are allowed.</string>
+    <string name="bsdk_image_selector_view_image_file_type_invalid_msg">%1$s is an invalid file type.</string>
+    <string name="bsdk_image_selector_view_image_file_type_not_allowed_msg">%1$s is an invalid file type. %2$s are not allowed.</string>
+    <string name="bsdk_image_selector_view_image_size_invalid_msg">Selected image doesn\'t match size requirements</string>
+    <string name="bsdk_image_selector_view_image_size_less_than_min_required_msg">Image is too small. Minimum file size is %1$s</string>
+    <string name="bsdk_image_selector_view_image_size_more_than_max_allowed_msg">Image is too large. Maximum file size is %1$s</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_cancel_label">Cancel</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_cancel_label">Skip</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_done_label">Done</string>
+    <string name="bsdk_image_selector_view_titlebar_back_nav_content_desc">Back</string>
+    <string name="bsdk_image_selector_view_titlebar_title_albums_txt">Albums</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_photos_txt">Select Images</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_single_photo_txt">Select Image</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/strings_search.xml -->
+    <eat-comment/>
+    <string name="bsdk_license_cc_by">Attribution</string>
+    <string name="bsdk_license_cc_by_nc">Attribution Non-commercial</string>
+    <string name="bsdk_license_cc_by_nc_nd">Attribution Non-commercial No Derivatives</string>
+    <string name="bsdk_license_cc_by_nc_sa">Attribution Non-commercial Share Alike</string>
+    <string name="bsdk_license_cc_by_nd">Attribution No Derivatives</string>
+    <string name="bsdk_license_cc_by_sa">Attribution Share Alike</string>
+    <string name="bsdk_license_no_use_at_all">No use is allowed without explicit permission from owner</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/strings_location_filter_dialog.xml -->
+    <eat-comment/>
+    <string name="bsdk_location_filter_dialog_city_empty_error">Please select a valid city</string>
+    <string name="bsdk_location_filter_dialog_city_label">City</string>
+    <string name="bsdk_location_filter_dialog_country_label">Country</string>
+    <string name="bsdk_location_filter_dialog_done_btn_label">Done</string>
+    <string name="bsdk_location_filter_dialog_failed_to_load_error">Failed to load location data. Please try again later.</string>
+    <string name="bsdk_location_filter_dialog_state_label">State</string>
+    <string name="bsdk_location_filter_dialog_title_label">Location</string>
+    <string name="bsdk_location_filter_dialog_type_city_name_label">Type City name</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_msg_image_missing">msg_image_missing-behance-addcontent</string>
+    <string name="bsdk_publish_project_from_cc_invalid_file_type">%1$s is an invalid file type. Only %2$s are allowed.</string>
+    <string name="bsdk_publish_project_from_cc_invalid_image_size">%1$s doesn\'t match size requirements. Maximum file size is %2$s.</string>
+    <string name="bsdk_publish_project_service_failure_notification_msg">Cannot upload project. %1$s. Please check your network connection and try again.</string>
+    <string name="bsdk_publish_project_service_failure_notification_ticker">Error publishing your project on Behance</string>
+    <string name="bsdk_publish_project_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_text">Publishing your project</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_publish_on_twitter_msg">Check out new project on my \@Behance portfolio: %1$s</string>
+    <string name="bsdk_publish_project_service_success_notification_text">Tap to view your published project</string>
+    <string name="bsdk_publish_project_service_success_notification_ticker">Published your project on Behance</string>
+    <string name="bsdk_publish_project_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_unknown_failure_notification_msg">Your project cannot be uploaded at this time. Please check your network connection and try again.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/strings_publish_results.xml -->
+    <eat-comment/>
+    <string name="bsdk_publish_results_view_behance_btn_label">VIEW ON BEHANCE</string>
+    <string name="bsdk_publish_results_view_desc_label">Visit Behance to view feedback on your work\n and share on Twitter, Facebook, and more.</string>
+    <string name="bsdk_publish_results_view_title_label">Your Work Is Live!</string>
+    <string name="bsdk_publish_results_view_titlebar_back_nav_content_desc">Back</string>
+    <string name="bsdk_publish_results_view_titlebar_title_label">Publish</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/strings_add_wip.xml -->
+    <eat-comment/>
+    <string name="bsdk_publish_wip_image_required_error_msg">Problem loading image to publish. Please check and try again.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_msg">Cannot upload work in progress. %1$s. Please check your network connection and try again.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_ticker">Error publishing your work in progress on Behance</string>
+    <string name="bsdk_publish_wip_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_text">Publishing your work in progress</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_publish_on_twitter_msg">Check out new work on my \@Behance portfolio: %1$s</string>
+    <string name="bsdk_publish_wip_service_success_notification_text">Tap to view your published work in progress</string>
+    <string name="bsdk_publish_wip_service_success_notification_ticker">Published your work in progress on Behance</string>
+    <string name="bsdk_publish_wip_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_unknown_failure_notification_msg">Your work in progress cannot be uploaded at this time. Please check your network connection and try again.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_search_filters_dialog_custom_actionbar_back_nav_default_txt">Back</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/strings_social_account_management.xml -->
+    <eat-comment/>
+    <string name="bsdk_social_account_facebook_login_confirmation_body">Please Login To Facebook to proceed.</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_cancel_btn_label">Cancel</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_title">Login To Facebook</string>
+    <string name="bsdk_social_account_fb_auth_failure">Error authenticating with Facebook. Please try again later.</string>
+    <string name="bsdk_social_account_fb_auth_permissions_failure">Insufficent permissions to share on Facebook.</string>
+    <string name="bsdk_social_account_twitter_login_authentication_failure">Error Authenticating with Twitter. Please try again later.</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_body">Please Login To Twitter to proceed.</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_cancel_btn_label">Cancel</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_title">Login To Twitter</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_body">Are your sure you want to unlink Facebook account?</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_cancel_btn_label">Cancel</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_title">Unlink Facebook Account</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_body">Are your sure you want to unlink Twitter account?</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_cancel_btn_label">Cancel</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_title">Unlink Twitter Account</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/strings_search.xml -->
+    <eat-comment/>
+    <string name="bsdk_sort_option_featured">Featured</string>
+    <string name="bsdk_sort_option_most_appreciated">Most Appreciated</string>
+    <string name="bsdk_sort_option_most_discussed">Most Discussed</string>
+    <string name="bsdk_sort_option_most_followed">Most Followed</string>
+    <string name="bsdk_sort_option_most_recent">Most Recent</string>
+    <string name="bsdk_sort_option_most_relevant">Most Relevant</string>
+    <string name="bsdk_sort_option_most_viewed">Most Viewed</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/strings_add_wip.xml -->
+    <eat-comment/>
+    <string name="bsdk_wip_publish_view_adult_content_text">Contains adult content</string>
+    <string name="bsdk_wip_publish_view_publish_initiated_msg">Publishing your work in progress. Check status bar for progress.</string>
+    <string name="bsdk_wip_publish_view_publish_invalid_tag_msg">Tags must contain only alphanumeric characters with or without spaces</string>
+    <string name="bsdk_wip_publish_view_publish_required_fields_missing_msg">Please fill all required fields</string>
+    <string name="bsdk_wip_publish_view_publish_service_initialize_error_msg">Problem starting service. Please try again later.</string>
+    <string name="bsdk_wip_publish_view_share_on_fb_content_desc">Share on Facebook</string>
+    <string name="bsdk_wip_publish_view_share_on_twitter_content_desc">Share on Twitter</string>
+    <string name="bsdk_wip_publish_view_share_on_txt">SHARE ON:</string>
+    <string name="bsdk_wip_publish_view_titlebar_action_btn_publish_label">Publish</string>
+    <string name="bsdk_wip_publish_view_titlebar_back_nav_content_desc">Back</string>
+    <string name="bsdk_wip_publish_view_titlebar_title_publish_label">Info</string>
+    <string name="bsdk_wip_publish_view_wip_desc_hint">Ask for feedback</string>
+    <string name="bsdk_wip_publish_view_wip_name_hint">Add Title</string>
+    <string name="bsdk_wip_publish_view_wip_tags_hint">comma, separated, tags</string>
+    <string name="bsdk_wip_publish_view_wips_loading_label">Loading …</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/strings_fb_sdk.xml -->
+    <eat-comment/>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_loading">Loading …</string>
+    <string name="com_facebook_requesterror_password_changed">Your Facebook password has changed. Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_permissions">This app doesn’t have permission to do this. To change permissions, try logging into the app again.</string>
+    <string name="com_facebook_requesterror_reconnect">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_relogin">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_web_login">Your Facebook account is locked. Please log into www.facebook.com to continue.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="AppThemeWithCustomPlainActionBar" parent="AppBaseTheme">
+        <item name="android:actionBarStyle">@style/CustomActionBarStyle_Plain</item>
+    </style>
+    <style name="BsdkAddProjectActivityTheme" parent="AppBaseTheme">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="BsdkAddWIPActivityTheme" parent="AppBaseTheme">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="BsdkAdobeCCLauncherActivityTheme" parent="AppBaseTheme">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="BsdkAdobeCloudSelectionViewTheme" parent="AppBaseTheme">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="BsdkCustomListViewStyle" parent="@android:style/Widget.Holo.Light.ListView">
+        <item name="android:listSelector">@drawable/bsdk_selector_app_default_selection_bg</item>
+    </style>
+    <style name="BsdkEditProfileActivityTheme" parent="AppBaseTheme">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/styles_components.xml -->
+    <eat-comment/>
+    <style name="BsdkEditProfileEditTextStyle" parent="BsdkEditTextStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/bsdk_edit_profile_field_height</item>
+        <item name="android:textColor">@color/bsdk_edit_profile_text_color</item>
+        <item name="android:textColorHint">@color/bsdk_edit_profile_hint_color</item>
+        <item name="android:textSize">@dimen/bsdk_edit_profile_field_text_size</item>
+        <item name="android:inputType">textCapSentences</item>
+        <item name="android:imeOptions">flagNoFullscreen</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="BsdkEditTextStyle">
+        <item name="android:background">@drawable/bsdk_selector_edit_text_behance_blue</item>
+    </style>
+    <style name="BsdkEditTextWithSpinnerBgStyle">
+        <item name="android:background">@drawable/bsdk_selector_filters_spinner_bg</item>
+        <item name="android:layout_marginLeft">@dimen/bsdk_add_project_publish_fragment_padding_left_extra</item>
+    </style>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="BsdkEnterpriseLoginWarningTheme" parent="@android:style/Theme.Holo.Light.NoActionBar">
+        <item name="android:windowAnimationStyle">@style/BsdkEnterpriseLoginWarningThemeWindowAnimationStyle</item>
+    </style>
+    <style name="BsdkEnterpriseLoginWarningThemeWindowAnimationStyle">
+        <item name="android:windowEnterAnimation">@anim/bsdk_publish_wip_info_view_enter</item>
+        <item name="android:windowExitAnimation">@anim/bsdk_publish_wip_info_view_exit</item>
+    </style>
+    <style name="BsdkFacebookLoginActivityTheme" parent="AppBaseTheme">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/bsdk_facebook_login_bg_color</item>
+    </style>
+    <style name="BsdkFilterDialogTheme" parent="@android:style/Theme.Holo.Light.Dialog.NoActionBar.MinWidth">
+        <item name="android:fastScrollThumbDrawable">@drawable/bsdk_selector_fastscroll_thumb_behance_blue</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:listViewStyle">@style/BsdkCustomListViewStyle</item>
+    </style>
+    <style name="BsdkImageSelectorViewTheme" parent="@android:style/Theme.Holo.Light.NoActionBar">
+        <item name="android:windowAnimationStyle">@style/BsdkImageSelectorViewWindowAnimationStyle</item>
+    </style>
+    <style name="BsdkImageSelectorViewWindowAnimationStyle">
+        <item name="android:windowEnterAnimation">@anim/bsdk_dialog_enter</item>
+        <item name="android:windowExitAnimation">@anim/bsdk_image_selector_view_exit</item>
+    </style>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/styles_components.xml -->
+    <eat-comment/>
+    <style name="BsdkLayoutWithEditTextBackgroundStyle">
+        <item name="android:background">@drawable/bsdk_selector_layout_behance_blue</item>
+    </style>
+    <style name="BsdkPublishProjectEditTextStyle" parent="BsdkEditTextStyle">
+        <item name="android:textColor">@color/bsdk_add_project_publish_fragment_txt_color</item>
+        <item name="android:textColorHint">@color/bsdk_add_project_publish_fragment_hint_txt_color</item>
+        <item name="android:textSize">@dimen/bsdk_add_project_publish_fragment_txt_size</item>
+    </style>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="BsdkPublishResultsActivityTheme" parent="@android:style/Theme.Holo.Light.NoActionBar">
+        <item name="android:windowAnimationStyle">@style/BsdkPublishWIPToBehanceViewWindowAnimationStyle</item>
+    </style>
+    <style name="BsdkPublishWIPToBehanceViewTheme" parent="@android:style/Theme.Holo.Light.NoActionBar">
+        <item name="android:windowAnimationStyle">@style/BsdkPublishWIPToBehanceViewWindowAnimationStyle</item>
+    </style>
+    <style name="BsdkPublishWIPToBehanceViewWindowAnimationStyle">
+        <item name="android:windowEnterAnimation">@anim/bsdk_publish_wip_info_view_enter</item>
+        <item name="android:windowExitAnimation">@anim/bsdk_publish_wip_info_view_exit</item>
+    </style>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/styles_components.xml -->
+    <eat-comment/>
+    <style name="BsdkPublishWipEditTextStyle" parent="BsdkEditTextStyle">
+        <item name="android:textColor">@color/bsdk_wip_publish_view_wip_details_txt_color</item>
+        <item name="android:textColorHint">@color/bsdk_wip_publish_view_wip_details_txt_hint_color</item>
+        <item name="android:textSize">@dimen/bsdk_publish_info_views_field_text_size</item>
+    </style>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="BsdkUnlinkSocialAccountActivityTheme" parent="AppBaseTheme">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="CustomActionBarStyle_Plain" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@null</item>
+        <item name="android:displayOptions">showCustom</item>
+    </style>
+</resources>

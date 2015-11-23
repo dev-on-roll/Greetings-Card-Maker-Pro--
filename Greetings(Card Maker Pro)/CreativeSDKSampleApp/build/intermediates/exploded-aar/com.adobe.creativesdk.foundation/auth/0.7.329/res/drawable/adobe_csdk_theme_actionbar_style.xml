@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Bottom Line -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/adobe_csdk_theme_color_actionbar_border" />
+        </shape>
+    </item>
+
+    <!-- Color of your action bar -->
+    <item android:bottom="@dimen/adobe_csdk_theme_actionbar_bottom_borderSize">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/adobe_csdk_theme_color_actionbar_background" />
+        </shape>
+    </item>
+</layer-list><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/drawable/adobe_csdk_theme_actionbar_style.xml -->

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="@dimen/ActionBar_Size"
+    android:id="@+id/actionbar_toolbar"
+    app:popupTheme="@style/AdobeCSDKPopUpStyle"
+    android:contentInsetStart="72dp"
+    app:contentInsetStart="72dp"
+    android:background="@color/actionbar_background"
+    app:theme="@style/AdobeCSDKThemeActionBar"
+    >
+<!-- -->
+
+    <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:singleLine="true"
+        android:ellipsize="middle"
+        android:layout_marginBottom="19dp"
+        android:gravity="left"
+        android:id="@+id/actionbar_title"
+        android:textSize="@dimen/ActionBar_Text_Size"
+        android:textColor="@color/asset_browser_dark_text"/>
+
+</android.support.v7.widget.Toolbar><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/layout-land/actionbar.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/layout-land/actionbar.xml -->

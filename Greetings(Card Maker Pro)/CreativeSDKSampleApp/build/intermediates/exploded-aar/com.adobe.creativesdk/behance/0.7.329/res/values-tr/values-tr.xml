@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-tr/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_add_content_project_cover_selection_title">Kapak Seç</string>
+    <string name="bsdk_add_content_project_publish_adult_content_text">Yetişkin içeriği bulundurur</string>
+    <string name="bsdk_add_content_project_publish_creative_field_hint">Bir yaratıcı alan seçin</string>
+    <string name="bsdk_add_content_project_publish_creative_tags_hint">virgül, ayrılmış, etiketler</string>
+    <string name="bsdk_add_content_project_publish_initiated_msg">Projeniz yayımlanıyor.</string>
+    <string name="bsdk_add_content_project_publish_invalid_tag_msg">Etiketler boşluklu veya boşluk olmadan yalnızca alfasayısal karakterler içermelidir</string>
+    <string name="bsdk_add_content_project_publish_project_description_hint">Proje Açıklaması</string>
+    <string name="bsdk_add_content_project_publish_project_name_hint">Projenize Ad Verin</string>
+    <string name="bsdk_add_content_project_publish_right_navigation">Yayınla</string>
+    <string name="bsdk_add_content_project_publish_service_initialize_error_msg">Hizmet başlatılırken bir sorun oluştu. Daha sonra tekrar deneyin.</string>
+    <string name="bsdk_add_content_project_publish_share_on">PAYLAŞ:</string>
+    <string name="bsdk_add_content_project_publish_title">Bilgi</string>
+    <string name="bsdk_add_project_copyright_settings_dialog_title_label">Telif Hakkı Ayarları</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_message_txt">Projeniz Boş</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_use_action_below_msg">Aşağıdaki seçenekleri kullanarak başlayın</string>
+    <string name="bsdk_add_project_edit_project_fragment_right_navigation">Bitti</string>
+    <string name="bsdk_add_project_edit_project_fragment_title">Düzenle</string>
+    <string name="bsdk_add_project_embed_content_edit_text_hint">Gömme kodunuzu yapıştırın</string>
+    <string name="bsdk_add_project_embed_content_error">Kodunuz geçersiz. Lütfen tekrar deneyin.</string>
+    <string name="bsdk_add_project_embed_content_title">Ortam İçeriğini Göm</string>
+    <string name="bsdk_add_project_preview_project_fragment_edit_action">Düzenle</string>
+    <string name="bsdk_add_project_preview_project_fragment_title">Önizleme</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-tr/strings_add_wip.xml -->
+    <eat-comment/>
+    <string name="bsdk_add_wip_new_wip_dialog_desc">Devam eden çalışmanıza bir başlık girin</string>
+    <string name="bsdk_add_wip_new_wip_dialog_title">Başlık Ekle</string>
+    <string name="bsdk_add_wip_pick_source_view_camera_launch_error">Fotoğraf çekmek için kamera başlatılırken bir sorun oluştu. Daha sonra tekrar deneyin.</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_action_btn_create_wip_label">Yeni</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_title_select_wip_label">Seç</string>
+    <string name="bsdk_add_wip_view_connection_error_msg">Bağlantıyla ilgili bir sorun oluştu. Ağ bağlantınızı kontrol edin ve tekrar deneyin.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-tr/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_addproject_creative_field_filter_dialog_done_btn_label">Bitti</string>
+    <string name="bsdk_addproject_creative_field_filter_dialog_title_label">Alanlar</string>
+    <string name="bsdk_addproject_creative_fields_popular_category">POPÜLER</string>
+    <string name="bsdk_addproject_custom_actionbar_forward_nav_default_txt">İleri</string>
+    <string name="bsdk_addproject_project_cover_selection_right_nav_crop_txt">Uygula</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-tr/strings_cc_asset_browser_launcher.xml -->
+    <eat-comment/>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_text">Varlıklarınız Creative Cloud\'dan indiriliyor. İptal etmek istediğinizden emin misiniz?</string>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_title">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_file_download_error">%1$s dosyası indirilirken bir sorun oluştu. Daha sonra tekrar deneyin.</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_back_nav_content_desc">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_title_label">Creative Cloud</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-tr/strings_adobe_cloud_selection_view.xml -->
+    <eat-comment/>
+    <string name="bsdk_cloud_selection_view_back_nav_content_desc">Geri</string>
+    <string name="bsdk_cloud_selection_view_loading_error_msg">Hesaplar yüklenirken bir sorun oluştu. Daha sonra tekrar deneyin.</string>
+    <string name="bsdk_cloud_selection_view_title">Hesabı Seçin</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <string name="bsdk_connection_error_msg">Bağlantıyla ilgili bir sorun oluştu. Ağ bağlantınızı kontrol edin ve tekrar deneyin.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-tr/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_copyright_cc_by">Nitelik</string>
+    <string name="bsdk_copyright_cc_by_nc">Nitelik-Ticari Olmayan</string>
+    <string name="bsdk_copyright_cc_by_nc_nd">Nitelik-Ticari Olmayan-Türevleri Yok</string>
+    <string name="bsdk_copyright_cc_by_nc_sa">Nitelik-Ticari Olmayan-Benzerlerini Paylaş</string>
+    <string name="bsdk_copyright_cc_by_nd">Nitelik-Türevleri Yok</string>
+    <string name="bsdk_copyright_cc_by_sa">Nitelik-Benzerlerini Paylaş</string>
+    <string name="bsdk_copyright_creative_commons_header">CREATIVE COMMONS</string>
+    <string name="bsdk_copyright_no_license_header">LİSANS YOK</string>
+    <string name="bsdk_copyright_no_use_at_all">Açık izin olmadan kullanılamıyor</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-tr/strings_edit_profile.xml -->
+    <eat-comment/>
+    <string name="bsdk_edit_profile_ab_save">Kaydet</string>
+    <string name="bsdk_edit_profile_ab_title">Profili Düzenle</string>
+    <string name="bsdk_edit_profile_avatar_first_name_field_missing_msg">Ad gerekiyor</string>
+    <string name="bsdk_edit_profile_avatar_last_name_field_missing_msg">Soyadı gerekiyor</string>
+    <string name="bsdk_edit_profile_avatar_required_fields_missing_msg">Ad ve soyadı gerekiyor</string>
+    <string name="bsdk_edit_profile_avatar_saving_error">Profil ayrıntıları kaydedildi ancak profil görüntüsü kaydedilirken bir sorun oluştu. Daha sonra tekrar deneyin.</string>
+    <string name="bsdk_edit_profile_editing_error">Profil ayrıntıları kaydedilirken bir sorun oluştu. Daha sonra tekrar deneyin.</string>
+    <string name="bsdk_edit_profile_hint_company">Şirket</string>
+    <string name="bsdk_edit_profile_hint_first_name">Ad</string>
+    <string name="bsdk_edit_profile_hint_last_name">Soyadı</string>
+    <string name="bsdk_edit_profile_hint_location">Konum</string>
+    <string name="bsdk_edit_profile_hint_occupation">Meslek / İş Unvanı</string>
+    <string name="bsdk_edit_profile_hint_website">Web Sitesi URL\'si</string>
+    <string name="bsdk_edit_profile_loading_error">Profil ayrıntıları yüklenirken bir sorun oluştu. Daha sonra tekrar deneyin.</string>
+    <string name="bsdk_edit_profile_unsaved_changes_body">Tüm değişiklikler kaybolacak. Çıkmak istediğinizden emin misiniz?</string>
+    <string name="bsdk_edit_profile_unsaved_changes_title">Değişiklikler Kaydedilmedi</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-tr/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_enterprise_login_warning_actionbar_title">Yayınla</string>
+    <string name="bsdk_enterprise_login_warning_cancel_button_text">İptal</string>
+    <string name="bsdk_enterprise_login_warning_continue_button_text">DEVAM</string>
+    <string name="bsdk_enterprise_login_warning_text_content">Behance\'i kullanarak çalışmanızı bir ekibin parçası\nolarak yayımlayabilirsiniz, ancak kurumunuzdan\nayrılırsanız portföyünüze erişimi kaybedeceksiniz</string>
+    <string name="bsdk_enterprise_login_warning_text_header">Şu anda bir Enterprise ID ile\ngiriş yapmış durumdasınız</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <string name="bsdk_generic_alert_dialog_cancel_btn_label">İptal</string>
+    <string name="bsdk_generic_alert_dialog_ok_btn_label">Tamam</string>
+    <string name="bsdk_generic_image_content_desc">Görüntü</string>
+    <string name="bsdk_image_cropper_crop_failed_msg">Görüntü kırpılamadı. Lütfen tekrar deneyin.</string>
+    <string name="bsdk_image_cropper_failed_to_open_msg">Görüntü bulunamadı. Lütfen tekrar deneyin.</string>
+    <string name="bsdk_image_selector_view_empty_album_msg">%1$s Albümü boş. Farklı bir albüm kullanmayı deneyin.</string>
+    <string name="bsdk_image_selector_view_error_loading_albums_msg">Albümler yüklenirken bir sorun oluştu. Daha sonra tekrar deneyin.</string>
+    <string name="bsdk_image_selector_view_image_dimensions_invalid_msg">Seçilen görüntü boyutları gereksinimleri karşılamıyor</string>
+    <string name="bsdk_image_selector_view_image_dimensions_less_than_min_required_msg">Görüntü en az %1$s x %2$s çözünürlükte olmalıdır. Seçilen görüntü %3$s x %4$s çözünürlüğe sahip</string>
+    <string name="bsdk_image_selector_view_image_dimensions_more_than_max_allowed_msg">Görüntü çözünürlüğü %1$s x %2$s üzerinde olmamalıdır. Seçilen görüntü %3$s x %4$s çözünürlüğe sahip</string>
+    <string name="bsdk_image_selector_view_image_file_type_allowed_msg">%1$s geçersiz bir dosya türü. Yalnızca %2$s dosya türlerine izin veriliyor.</string>
+    <string name="bsdk_image_selector_view_image_file_type_invalid_msg">%1$s geçersiz bir dosya türü.</string>
+    <string name="bsdk_image_selector_view_image_file_type_not_allowed_msg">%1$s geçersiz bir dosya türü. %2$s dosya türlerine izin verilmiyor.</string>
+    <string name="bsdk_image_selector_view_image_size_invalid_msg">Seçilen görüntü boyut gereksinimlerini karşılamıyor</string>
+    <string name="bsdk_image_selector_view_image_size_less_than_min_required_msg">Görüntü çok küçük. Minimum dosya boyutu %1$s olmalıdır</string>
+    <string name="bsdk_image_selector_view_image_size_more_than_max_allowed_msg">Görüntü çok büyük. Maksimum dosya boyutu %1$s olmalıdır</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_cancel_label">İptal</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_cancel_label">Atla</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_done_label">Bitti</string>
+    <string name="bsdk_image_selector_view_titlebar_back_nav_content_desc">Geri</string>
+    <string name="bsdk_image_selector_view_titlebar_title_albums_txt">Albümler</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_photos_txt">Görüntüleri Seç</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_single_photo_txt">Görüntü Seç</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-tr/strings_search.xml -->
+    <eat-comment/>
+    <string name="bsdk_license_cc_by">Nitelik</string>
+    <string name="bsdk_license_cc_by_nc">Nitelik-Ticari Olmayan</string>
+    <string name="bsdk_license_cc_by_nc_nd">Nitelik-Ticari Olmayan-Türevleri Yok</string>
+    <string name="bsdk_license_cc_by_nc_sa">Nitelik-Ticari Olmayan-Benzerlerini Paylaş</string>
+    <string name="bsdk_license_cc_by_nd">Nitelik-Türevleri Yok</string>
+    <string name="bsdk_license_cc_by_sa">Nitelik-Benzerlerini Paylaş</string>
+    <string name="bsdk_license_no_use_at_all">Sahibinin açık izni olmadan kullanımına izin verilmiyor</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-tr/strings_location_filter_dialog.xml -->
+    <eat-comment/>
+    <string name="bsdk_location_filter_dialog_city_empty_error">Lütfen geçerli bir şehir seçin</string>
+    <string name="bsdk_location_filter_dialog_city_label">Şehir</string>
+    <string name="bsdk_location_filter_dialog_country_label">Ülke</string>
+    <string name="bsdk_location_filter_dialog_done_btn_label">Bitti</string>
+    <string name="bsdk_location_filter_dialog_failed_to_load_error">Konum verileri yüklenemedi. Daha sonra tekrar deneyin.</string>
+    <string name="bsdk_location_filter_dialog_state_label">Eyalet</string>
+    <string name="bsdk_location_filter_dialog_title_label">Konum</string>
+    <string name="bsdk_location_filter_dialog_type_city_name_label">Şehir adı girin</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-tr/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_msg_image_missing">msg_image_missing-behance-addcontent</string>
+    <string name="bsdk_publish_project_from_cc_invalid_file_type">%1$s geçersiz bir dosya türü. Yalnızca %2$s dosya türlerine izin veriliyor.</string>
+    <string name="bsdk_publish_project_from_cc_invalid_image_size">%1$s boyut gereksinimlerini karşılamıyor. Maksimum dosya boyutu %2$s olmalıdır.</string>
+    <string name="bsdk_publish_project_service_failure_notification_msg">Proje yüklenemiyor. %1$s. Ağ bağlantınızı kontrol edin ve tekrar deneyin.</string>
+    <string name="bsdk_publish_project_service_failure_notification_ticker">Projeniz Behance\'te yayımlanırken bir hata oluştu</string>
+    <string name="bsdk_publish_project_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_text">Projeniz yayımlanıyor</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_publish_on_twitter_msg">\@Behance portföyümdeki yeni projeye göz atın: %1$s</string>
+    <string name="bsdk_publish_project_service_success_notification_text">Yayımlanmış projenizi görüntülemek için dokunun</string>
+    <string name="bsdk_publish_project_service_success_notification_ticker">Projeniz Behance\'te yayımlandı</string>
+    <string name="bsdk_publish_project_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_unknown_failure_notification_msg">Projeniz şu anda yüklenemiyor. Ağ bağlantınızı kontrol edin ve tekrar deneyin.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-tr/strings_publish_results.xml -->
+    <eat-comment/>
+    <string name="bsdk_publish_results_view_behance_btn_label">BEHANCE\'TE GÖRÜNTÜLE</string>
+    <string name="bsdk_publish_results_view_desc_label">Çalışmanızla ilgili geri bildirimi görüntülemek\n ve Twitter, Facebook ve daha fazlasında paylaşmak için Behance\'i ziyaret edin.</string>
+    <string name="bsdk_publish_results_view_title_label">Çalışmanız Yayınlandı!</string>
+    <string name="bsdk_publish_results_view_titlebar_back_nav_content_desc">Geri</string>
+    <string name="bsdk_publish_results_view_titlebar_title_label">Yayınla</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-tr/strings_add_wip.xml -->
+    <eat-comment/>
+    <string name="bsdk_publish_wip_image_required_error_msg">Yayımlanacak görüntü yüklenirken bir sorun oluştu. Lütfen kontrol edin ve tekrar deneyin.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_msg">Devam eden çalışma yüklenemiyor. %1$s. Ağ bağlantınızı kontrol edin ve tekrar deneyin.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_ticker">Devam eden çalışmanız Behance\'te yayımlanamadı</string>
+    <string name="bsdk_publish_wip_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_text">Devam eden çalışmanız yayımlanıyor</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_publish_on_twitter_msg">\@Behance portföyümdeki yeni çalışmaya göz atın: %1$s</string>
+    <string name="bsdk_publish_wip_service_success_notification_text">Yayımlanmış devam eden çalışmanızı görüntülemek için dokunun</string>
+    <string name="bsdk_publish_wip_service_success_notification_ticker">Devam eden çalışmanız Behance\'te yayımlandı</string>
+    <string name="bsdk_publish_wip_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_unknown_failure_notification_msg">Devam eden çalışmanız şu anda yüklenemiyor. Ağ bağlantınızı kontrol edin ve tekrar deneyin.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-tr/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_search_filters_dialog_custom_actionbar_back_nav_default_txt">Geri</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-tr/strings_social_account_management.xml -->
+    <eat-comment/>
+    <string name="bsdk_social_account_facebook_login_confirmation_body">Lütfen devam etmek için Facebook\'ta Oturum Açın.</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_cancel_btn_label">İptal</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_ok_btn_label">Tamam</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_title">Facebook\'ta Oturum Açın</string>
+    <string name="bsdk_social_account_fb_auth_failure">Facebook\'ta kimlik doğrulaması sırasında bir hata oluştu. Daha sonra tekrar deneyin.</string>
+    <string name="bsdk_social_account_fb_auth_permissions_failure">Facebook\'ta paylaşmak için yeterli izinleriniz yok.</string>
+    <string name="bsdk_social_account_twitter_login_authentication_failure">Twitter\'da kimlik doğrulaması sırasında bir hata oluştu. Daha sonra tekrar deneyin.</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_body">Lütfen devam etmek için Twitter\'da Oturum Açın.</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_cancel_btn_label">İptal</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_ok_btn_label">Tamam</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_title">Twitter\'da Oturum Açın</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_body">Facebook hesabının bağını kesmek istediğinizden emin misiniz?</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_cancel_btn_label">İptal</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_ok_btn_label">Tamam</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_title">Facebook Hesabının Bağını Kes</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_body">Twitter hesabının bağını kesmek istediğinizden emin misiniz?</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_cancel_btn_label">İptal</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_ok_btn_label">Tamam</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_title">Twitter Hesabının Bağını Kes</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-tr/strings_search.xml -->
+    <eat-comment/>
+    <string name="bsdk_sort_option_featured">Öne Çıkanlar</string>
+    <string name="bsdk_sort_option_most_appreciated">En Çok Takdir Edilen</string>
+    <string name="bsdk_sort_option_most_discussed">En Çok Tartışılan</string>
+    <string name="bsdk_sort_option_most_followed">En Çok Takip Edilen</string>
+    <string name="bsdk_sort_option_most_recent">En Son</string>
+    <string name="bsdk_sort_option_most_relevant">En Çok İlişkili</string>
+    <string name="bsdk_sort_option_most_viewed">En Çok Görüntülenen</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-tr/strings_add_wip.xml -->
+    <eat-comment/>
+    <string name="bsdk_wip_publish_view_adult_content_text">Yetişkin içeriği bulundurur</string>
+    <string name="bsdk_wip_publish_view_publish_initiated_msg">Devam eden çalışmanız yayımlanıyor. İlerlemeyi durum çubuğundan görebilirsiniz.</string>
+    <string name="bsdk_wip_publish_view_publish_invalid_tag_msg">Etiketler boşluklu veya boşluk olmadan yalnızca alfasayısal karakterler içermelidir</string>
+    <string name="bsdk_wip_publish_view_publish_required_fields_missing_msg">Lütfen tüm gerekli alanları doldurun</string>
+    <string name="bsdk_wip_publish_view_publish_service_initialize_error_msg">Hizmet başlatılırken bir sorun oluştu. Daha sonra tekrar deneyin.</string>
+    <string name="bsdk_wip_publish_view_share_on_fb_content_desc">Facebook\'ta Paylaş</string>
+    <string name="bsdk_wip_publish_view_share_on_twitter_content_desc">Twitter\'da Paylaş</string>
+    <string name="bsdk_wip_publish_view_share_on_txt">PAYLAŞ:</string>
+    <string name="bsdk_wip_publish_view_titlebar_action_btn_publish_label">Yayınla</string>
+    <string name="bsdk_wip_publish_view_titlebar_back_nav_content_desc">Geri</string>
+    <string name="bsdk_wip_publish_view_titlebar_title_publish_label">Bilgi</string>
+    <string name="bsdk_wip_publish_view_wip_desc_hint">Geri bildirim iste</string>
+    <string name="bsdk_wip_publish_view_wip_name_hint">Başlık Ekle</string>
+    <string name="bsdk_wip_publish_view_wip_tags_hint">virgül, ayrılmış, etiketler</string>
+    <string name="bsdk_wip_publish_view_wips_loading_label">Yükleniyor …</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-tr/strings_fb_sdk.xml -->
+    <eat-comment/>
+    <string name="com_facebook_internet_permission_error_message">Web İzleme\'de oturum açmak için İNTERNET izni gereklidir</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Hatası</string>
+    <string name="com_facebook_loading">Yükleniyor …</string>
+    <string name="com_facebook_requesterror_password_changed">Facebook şifreniz değişti. Lütfen Facebook hesabınıza yeniden bağlanmak için bu uygulamada tekrar oturum açın.</string>
+    <string name="com_facebook_requesterror_permissions">Bu uygulamanın bunu yapmak için izni bulunmuyor. İzinleri değiştirmek için uygulamada tekrar oturum açmayı deneyin.</string>
+    <string name="com_facebook_requesterror_reconnect">Facebook hesabınıza yeniden bağlanmak için bu uygulamada tekrar oturum açın.</string>
+    <string name="com_facebook_requesterror_relogin">Facebook hesabınıza yeniden bağlanmak için bu uygulamada tekrar oturum açın.</string>
+    <string name="com_facebook_requesterror_web_login">Facebook hesabınız kilitlendi. Devam etmek için lütfen www.facebook.com adresinde oturum açın.</string>
+</resources>

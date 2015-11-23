@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.behance.sdk.ui.customviews.BehanceSDKTextView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:behanceSDK="http://schemas.android.com/apk/com.behance.sdk"
+    android:id="@+id/bsdkCopyrightSettingsGroupHeader"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/bsdk_search_filter_creative_fields_header_bg_color"
+    android:paddingBottom="@dimen/bsdk_search_filter_creative_field_dialog_header_txt_padding"
+    android:paddingLeft="@dimen/bsdk_search_filter_creative_field_left_padding"
+    android:paddingRight="@dimen/bsdk_search_filter_creative_field_right_padding"
+    android:paddingTop="@dimen/bsdk_search_filter_creative_field_dialog_header_txt_padding"
+    android:textColor="@color/bsdk_search_filter_creative_fields_dialog_header_text_color"
+    android:textSize="@dimen/bsdk_search_filter_creative_field_dialog_header_txt_size"
+    behanceSDK:fontStyle="regular" />
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_adapter_publish_project_copyright_settings_item_header.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/layout/bsdk_adapter_publish_project_copyright_settings_item_header.xml -->

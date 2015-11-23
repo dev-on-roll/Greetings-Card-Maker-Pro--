@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Creative SDK</string>
+    <string name="action_login">登录</string>
+    <string name="action_logout">注销</string>
+    <string name="asset_browser">资源浏览器</string>
+    <string name="behance_publish">Behance 发布</string>
+	<string name="launch_header">启动组件</string>
+    <string name="selection_header">已选择的文件</string>
+
+    <string name="IDS_WELCOME">欢迎使用 Creative Cloud</string>
+    <string name="IDS_GET_STARTED">登录或创建新的 Adobe ID 以开始使用。</string>
+    <string name="IDS_SIGN_IN">使用 ADOBE ID 登录</string>
+    <string name="IDS_SIGN_UP">注册 ADOBE ID</string>
+    <string name="app_library">应用程序库</string>
+    <string name="title_activity_display_message">My Message</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

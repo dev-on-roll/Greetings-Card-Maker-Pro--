@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/creative_sdk_background_color">
+
+    <ImageView
+        android:id="@+id/adobe_common_view_error_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/no_internet_connection" />
+
+    <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKBoldTextView
+        android:id="@+id/adobe_common_view_error_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_below="@+id/adobe_common_view_error_icon"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="@dimen/common_error_view_padding"
+        android:text="@string/adobe_common_error_view_no_internet_connection"
+        android:textColor="@color/asset_browser_dark_text"
+        android:textSize="@dimen/common_error_view_textSize" />
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_common_errorview.xml -->

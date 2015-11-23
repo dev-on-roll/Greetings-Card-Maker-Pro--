@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/creative_sdk_background_color">
+
+    
+    <android.support.v4.widget.SwipeRefreshLayout
+           android:id="@+id/adobe_asset_mobilecreations_itemsview_swipe_refresh_layout"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent" >
+
+        <com.adobe.creativesdk.foundation.internal.twowayview.widget.TwoWayView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adobe_asset_mobilecreations_items_twowayview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="@dimen/adobe_library_items_view_padding"
+            android:paddingRight="@dimen/adobe_library_items_view_padding"
+            />
+
+
+	</android.support.v4.widget.SwipeRefreshLayout>
+	
+ </RelativeLayout>
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_assets_mobilecreations_items_view.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/layout/adobe_assets_mobilecreations_items_view.xml -->

@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto">
+
+	<item
+		android:id="@+id/search"
+		app:actionViewClass="android.support.v7.widget.SearchView"
+		android:icon="@drawable/ic_search_black_24dp"
+
+		app:showAsAction="collapseActionView|always"
+        android:orderInCategory="2"
+		android:title="@string/search_title" />
+	<item
+		android:id="@+id/adobe_uxassetbrowser_assets_viewtype"
+		android:orderInCategory="100"
+		app:showAsAction="never"
+		android:title="@string/adobe_uxassetbrowser_action_aslist" />
+	<item
+		android:id="@+id/adobe_uxassetbrowser_assets_view_sorttype"
+		android:orderInCategory="100"
+		app:showAsAction="never"
+		android:title="@string/adobe_uxassetbrowser_action_sort_alpha" />
+
+
+	<item
+		android:id="@+id/adobe_uxassetbrowser_assets_create_new_folder"
+		android:orderInCategory="100"
+		app:showAsAction="never"
+        android:visible="false"
+		android:title="@string/adobe_uxassetbrowser_create_new_folder" />
+
+	<item
+		android:id="@+id/adobe_uxassetbrowser_assets_upload_btn"
+		android:orderInCategory="100"
+		app:showAsAction="never"
+		android:visible="false"
+		android:title="@string/CANCEL_UPLOAD_ASSET_BROWSER_BUTTON" />
+
+</menu><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/menu/adobe_asset_browser_menu.xml -->

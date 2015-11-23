@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="@dimen/color_pickers_fragment_left_right_padding"
+    android:paddingTop="@dimen/color_pickers_fragment_left_right_padding">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/color_history_gridview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/clear_history"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:background="@drawable/creativesdkcolor_ic_clear_history_bg"
+            android:text="@string/clear_history"
+            android:paddingBottom="3dp"
+            android:textColor="@color/clear_history_button_text_color"
+            android:textSize="@dimen/clear_history_button_textsize" />
+        
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/clear_history_button_bottom_margin"
+            android:background="@android:color/transparent"/>
+
+    </LinearLayout>
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/layout/creativesdkcolor_fragment_color_history.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/layout/creativesdkcolor_fragment_color_history.xml -->

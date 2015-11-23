@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">所有应用程序</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">所有类别已被排除</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">获取</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">类别</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">排序</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">探索内容不断增加的创意应用程序库，该库可兼容并衔接 Creative Cloud</string>
+    <string name="IDS_APPLIBRARY_ERROR">应用程序库当前无法使用。请稍后查看以浏览库中层出不穷的创意应用程序</string>
+    <string name="IDS_APPLIBRARY_FEATURED">精品推荐</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">评级最高</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">最新</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">该类别中未发现应用程序</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">未发现任何应用程序。</string>
+    <string name="IDS_APPLIBRARY_TITLE">应用程序库</string>
+    <string name="IDS_APP_GET">安装</string>
+    <string name="IDS_APP_OPEN">打开</string>
+    <string name="IDS_BY">作者</string>
+    <string name="IDS_CATEGORY_AUDIO">音频</string>
+    <string name="IDS_CATEGORY_CAPTURE">捕捉</string>
+    <string name="IDS_CATEGORY_COMMUNITY">社区</string>
+    <string name="IDS_CATEGORY_DESIGN">设计</string>
+    <string name="IDS_CATEGORY_DRAWING">绘图</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">插图</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">图像编辑</string>
+    <string name="IDS_CATEGORY_PHOTOS">照片</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">照片和视频</string>
+    <string name="IDS_CATEGORY_PRESENTATION">演示</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">办公效率</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">原型</string>
+    <string name="IDS_CATEGORY_SOCIAL">社交</string>
+    <string name="IDS_CATEGORY_STORAGE">存储</string>
+    <string name="IDS_CATEGORY_STORY">故事叙述</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">UI 和 UX 设计</string>
+    <string name="IDS_CATEGORY_UTILITY">实用程序</string>
+    <string name="IDS_CATEGORY_VIDEO">视频</string>
+    <string name="IDS_PLEASE_WAIT">请稍候…</string>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">通信</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">汇编</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">竞赛</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">绘图</string>
+    <string name="IDS_SUBCATEGORY_EDITING">编辑</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">电子邮箱</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">反馈</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">文件共享</string>
+    <string name="IDS_SUBCATEGORY_FONTS">字体</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">待租</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">生成</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">图案</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">照片编辑</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">摄影</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">组合包</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">打印</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">原型</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">社交网络</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">故事讲述</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">矢量</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">网站</string>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">编辑位置</string>
+    <string name="action_settings">设置</string>
+    <string name="adobe_360_capture">捕捉</string>
+    <string name="adobe_360_edit">编辑</string>
+    <string name="adobe_360_embed">嵌入</string>
+    <string name="hello_world">你好，世界!</string>
+</resources>

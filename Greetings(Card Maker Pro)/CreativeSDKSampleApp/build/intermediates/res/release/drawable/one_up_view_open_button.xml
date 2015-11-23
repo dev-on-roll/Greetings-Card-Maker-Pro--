@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <solid android:color="@color/asset_browser_one_up_view_button_color"/>
+    <stroke android:color="@color/asset_browser_one_up_view_button_color" android:width="1dp"/>
+    <corners android:radius="4dp"/>
+
+</shape><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/drawable/one_up_view_open_button.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/drawable/one_up_view_open_button.xml -->

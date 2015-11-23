@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/values-zh-rTW/strings.xml -->
+    <eat-comment/>
+    <string name="adobe_auth_sign_in_close">關閉</string>
+    <string name="adobe_common_error_view_no_internet_connection">無網際網路連線</string>
+    <string name="adobe_common_error_view_unknown_authenticate_error">驗證時發生錯誤。\n請稍候再試。</string>
+    <string name="adobe_error_not_entitled_to_video">"關於使用者的訊息未標示在視訊裡供預覽。"</string>
+    <string name="adobe_id_authenticator_accesslabel">Adobe ID 帳號的完全存取</string>
+    <string name="adobe_id_authenticator_add_account_error_onlyone">只支援一個 Adobe ID</string>
+    <string name="adobe_id_authenticator_settings_label">Adobe</string>
+    <string name="auth_required">Authentication Required</string>
+    <string name="cancelLogIn">CANCEL</string>
+    <string name="creative_cloud">Creative Cloud</string>
+    <string name="creative_sdk">Creative SDK</string>
+    <string name="logIn">LOGIN</string>
+    <string name="proxy_passwd_label">PASSWORD</string>
+    <string name="proxy_username_label">USER NAME</string>
+    <string formatted="false" name="warning_msg">The server http://%s requires a username and password. The server says : %s</string>
+</resources>

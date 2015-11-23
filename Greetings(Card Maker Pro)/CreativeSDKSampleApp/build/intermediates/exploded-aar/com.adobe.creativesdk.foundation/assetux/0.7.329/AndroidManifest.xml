@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.adobe.creativesdk.foundation.assetux"
+    android:versionCode="1"
+    android:versionName="0.1.100" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application>
+        <activity
+            android:name="com.adobe.creativesdk.foundation.internal.storage.controllers.AdobeUXAssetOneUpViewerActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:theme="@style/AdobeAssetViewerLightTheme" />
+        <activity
+            android:name="com.adobe.creativesdk.foundation.internal.storage.controllers.AdobeUXPhotoAssetOneUpViewerActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:theme="@style/AdobeAssetViewerLightTheme" />
+        <activity
+            android:name="com.adobe.creativesdk.foundation.internal.storage.controllers.AdobeUxAssetBrowserV2Activity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:theme="@style/AdobeCSDKThemeActivity" />
+        <activity
+            android:name="com.adobe.creativesdk.foundation.internal.storage.controllers.AdobeUXAssetVideoActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:theme="@style/AdobeAssetViewerLightTheme" >
+        </activity>
+        <activity
+            android:name="com.adobe.creativesdk.foundation.internal.storage.controllers.AdobeUXLibraryItemCollectionOneUpViewerActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:theme="@style/AdobeAssetViewerLightTheme" >
+        </activity>
+        <activity
+            android:name="com.adobe.creativesdk.foundation.internal.storage.controllers.AdobeUXMobilePackageItemOneUpViewerActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:theme="@style/AdobeAssetViewerLightTheme" >
+        </activity>
+        <activity
+            android:name="com.adobe.creativesdk.foundation.internal.storage.controllers.AdobeUXCompositionOneUpViewerActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:theme="@style/AdobeAssetViewerLightTheme" >
+        </activity>
+        <activity
+            android:name="com.adobe.creativesdk.foundation.internal.storage.controllers.edit.AdobeAssetEditActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:theme="@style/AdobeEditThemeActivity" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,27 @@
+<ViewFlipper xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bsdkPublishProjectViewFlipper"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bsdk_publish_project_activity_background_color"
+    tools:context=".BehanceSDKPublishProjectActivity" >
+
+    <fragment
+        android:id="@+id/bsdkPublishProjectPreviewFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.behance.sdk.ui.fragments.BehanceSDKPublishProjectPreviewFragment" />
+
+    <fragment
+        android:id="@+id/bsdkPublishProjectCoverFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.behance.sdk.ui.fragments.BehanceSDKPublishProjectCoverFragment" />
+
+    <fragment
+        android:id="@+id/bsdkPublishProjectDetailsFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.behance.sdk.ui.fragments.BehanceSDKPublishProjectDetailsFragment" />
+
+</ViewFlipper><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_activity_publish_project.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/layout/bsdk_activity_publish_project.xml -->

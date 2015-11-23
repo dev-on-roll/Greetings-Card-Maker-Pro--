@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent">
+
+    <RelativeLayout
+        android:layout_width="@dimen/delete_confirm_popup_width"
+        android:layout_height="@dimen/delete_confirm_popup_height"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/delete_confirm_popup_top_margin"
+        android:background="@color/white"
+        android:padding="@dimen/delete_confirm_popup_padding">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:text="@string/remove_camel"
+            android:textColor="@color/black"
+            android:textSize="@dimen/delete_confirm_popup_heading_textsize" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:text="@string/remove_confirmation"
+            android:textColor="@color/delete_confirm_popup_text_color"
+            android:textSize="@dimen/delete_confirm_popup_textsize" />
+
+        <TextView
+            android:id="@+id/remove_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:paddingRight="@dimen/delete_confirm_popup_remove_button_right_padding"
+            android:text="@string/remove"
+            android:textColor="@color/delete_confirm_popup_ok_text_color"
+            android:textSize="@dimen/delete_confirm_popup_button_text_size" />
+
+
+        <TextView
+            android:id="@+id/cancel_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_toLeftOf="@id/remove_button"
+            android:paddingRight="@dimen/delete_confirm_popup_cancel_right_padding"
+            android:text="@string/cancel"
+            android:textColor="@color/delete_confirm_popup_cancel_text_color"
+            android:textSize="@dimen/delete_confirm_popup_button_text_size" />
+
+    </RelativeLayout>
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/layout/creativesdkcolor_activity_delete_color_confirm.xml -->

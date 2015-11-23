@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-xlarge/dimens_publish_project.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_add_project_preview_project_fragment_list_embed_content_layout_height">454dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_shareon_layout_margin_left">27dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-xlarge/dimens_add_wip.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_add_wip_new_wip_dialog_width">350dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-xlarge/dimens.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_album_grid_adapter_album_name_txt_size">17sp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_button_corner_radius">3dp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_button_height">70dp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_button_text_size">20sp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_content_text_bottom_margin">50dp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_content_text_line_spacing_extra">4dp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_content_text_size">19sp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_continue_button_left_right_padding">17dp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_continue_button_margin_bottom">28dp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_header_text_bottom_margin">24dp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_header_text_line_spacing_extra">4.5dp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_header_text_size">30sp</dimen>
+    <dimen name="bsdk_enterprise_login_warning_icon_top_bottom_margin">60dp</dimen>
+    <dimen name="bsdk_publish_info_views_field_text_size">19sp</dimen>
+    <dimen name="bsdk_publish_info_views_share_on_lbl_text_size">16sp</dimen>
+    <dimen name="bsdk_titlebar_action_btn_txt_size">24sp</dimen>
+    <dimen name="bsdk_titlebar_txt_size">24sp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-xlarge/dimens_add_wip.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_wip_publish_view_share_options_container_margin_left">27dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-xlarge/dimens.xml -->
+    <eat-comment/>
+    <dimen name="global_filter_dialog_height">551dp</dimen>
+    <dimen name="global_filter_dialog_width">348.5dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-xlarge/layouts.xml -->
+    <eat-comment/>
+    <item name="bsdk_add_project_preview_fragment_screen_width_percentage" type="fraction">83%</item>
+    <item name="bsdk_album_selector_fragment_grid_col_count" type="integer">4</item>
+    <item name="bsdk_image_selection_fragment_grid_col_count" type="integer">4</item>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-xlarge/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_add_content_project_publish_share_on">ALSO SHARE ON:</string>
+</resources>

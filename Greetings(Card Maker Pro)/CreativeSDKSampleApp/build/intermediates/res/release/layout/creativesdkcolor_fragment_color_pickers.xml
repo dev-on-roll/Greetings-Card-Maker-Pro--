@@ -1,0 +1,133 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/edit_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="@dimen/edit_name_top_padding"
+        android:paddingLeft="@dimen/edit_name_left_right_padding"
+        android:paddingRight="@dimen/edit_name_left_right_padding">
+        <TextView
+            android:id="@+id/edit_name_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/edit_name_text_bottom_padding"
+            android:textColor="@color/edit_name_text_color"
+            android:textSize="@dimen/edit_name_text_size"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/edit_name_underline_height"
+            android:background="@color/edit_name_underline_color"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/all_colors_options_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/all_colors_option_left_right_padding"
+        android:visibility="gone">
+
+        <RelativeLayout
+            android:id="@+id/all_colors_option"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/all_colors_option_top_bottom_padding"
+            android:paddingBottom="@dimen/all_colors_option_top_bottom_padding"
+            android:paddingRight="@dimen/all_colors_option_left_right_padding">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:text="@string/all_colors"
+                android:textColor="@color/all_colors_text_color"
+                android:textSize="@dimen/all_colors_textsize" />
+
+            <ImageView
+                android:id="@+id/all_colors_tick"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/creativesdkcolor_ic_all_color_tick" />
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/lib_row_separator_color" />
+
+        <RelativeLayout
+            android:id="@+id/select_a_color_option"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="@dimen/all_colors_option_top_bottom_padding"
+            android:paddingBottom="@dimen/all_colors_option_top_bottom_padding"
+            android:paddingRight="@dimen/all_colors_option_left_right_padding">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:text="@string/select_a_color"
+                android:textColor="@color/all_colors_text_color"
+                android:textSize="@dimen/all_colors_textsize" />
+
+            <ImageView
+                android:id="@+id/select_a_color_tick"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/creativesdkcolor_ic_all_color_tick" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/pickerContainer"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingLeft="@dimen/color_pickers_fragment_left_right_padding"
+        android:paddingRight="@dimen/color_pickers_fragment_left_right_padding"/>
+
+
+    <RelativeLayout
+        android:id="@+id/colorBlocksFragmentContainer"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/color_blocks_height"
+        android:paddingTop="@dimen/color_blocks_top_padding"
+        android:paddingBottom="@dimen/color_blocks_bottom_padding"
+        android:paddingLeft="@dimen/color_pickers_fragment_left_right_padding"
+        android:paddingRight="@dimen/color_pickers_fragment_left_right_padding"/>
+
+    <LinearLayout
+        android:id="@+id/two_colors_bar"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/two_colors_bar_height"
+        android:paddingTop="@dimen/two_colors_bar_top_padding"
+        android:paddingBottom="@dimen/two_colors_bar_bottom_padding"
+        android:paddingLeft="@dimen/color_pickers_fragment_left_right_padding"
+        android:paddingRight="@dimen/color_pickers_fragment_left_right_padding">
+        <View
+            android:id="@+id/previous_color_view"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+        <View
+            android:id="@+id/current_color_view"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/layout/creativesdkcolor_fragment_color_pickers.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/layout/creativesdkcolor_fragment_color_pickers.xml -->

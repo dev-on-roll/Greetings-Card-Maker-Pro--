@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"                
+                android:id="@+id/assetbrowsercontainer"
+                >
+
+    	<include layout="@layout/adobe_storage_assetslist_divider" />
+    
+    	<LinearLayout
+    	     	android:layout_width="fill_parent"
+                android:layout_height="@dimen/assetbrowser_list_view_item_height"
+				android:onClick="startAssetBrowser"                
+				android:layout_marginLeft="@dimen/assetbrowser_list_view_image_left_padding"
+				android:layout_marginRight="@dimen/assetbrowser_list_view_image_left_padding"			
+                android:orientation="horizontal"
+                >
+    	    	    
+		        <ImageButton
+		                android:id="@+id/imageButton1"
+		                android:layout_width="@dimen/assetbrowser_list_view_image_dimension" 
+	        	    	android:layout_height="@dimen/assetbrowser_list_view_image_dimension"
+	        	    	android:gravity="center"
+	        	    	android:layout_marginTop="@dimen/assetbrowser_list_view_image_top_padding"
+	        	    	android:background="@color/creative_sdk_transparent_color"
+		                android:src="@drawable/ic_assetlauncher"/>
+		        
+		        <TextView
+		            	android:id="@+id/ic_assetLauncherText"
+						android:layout_width="@dimen/assetbrowser_list_view_folder_text_layout_width"
+		                android:layout_marginLeft="@dimen/assetbrowser_list_view_text_left_padding"
+		                android:layout_height="match_parent"
+		                android:layout_weight="1"
+		                android:ellipsize="middle"
+		                android:gravity="center_vertical"
+		                android:singleLine="true" 
+		                android:textSize="@dimen/assetbrowser_list_view_text_size"
+					    android:textColor="@color/colorapp_black"
+		                android:background="@color/creative_sdk_transparent_color"
+						android:text="@string/asset_browser"/>		
+		                
+				<ImageView
+		                android:layout_width="wrap_content"
+		                android:layout_height="match_parent"
+		                android:gravity="center_vertical"
+		                android:layout_marginLeft="@dimen/assetbrowser_list_view_folder_forward_left_padding"
+		                android:layout_marginRight="@dimen/assetbrowser_list_view_folder_forward_right_padding"		             
+		                android:src="@drawable/folder_forward_icon" 
+		                android:background="@color/creative_sdk_transparent_color"/>
+    	</LinearLayout>
+
+        <include layout="@layout/adobe_storage_assetslist_divider" />
+    		
+    	<LinearLayout
+    	     	android:layout_width="fill_parent"
+                android:layout_height="@dimen/assetbrowser_list_view_item_height"
+				android:onClick="sendMessage"
+                android:layout_marginLeft="@dimen/assetbrowser_list_view_image_left_padding"
+				android:layout_marginRight="@dimen/assetbrowser_list_view_image_left_padding"			
+                android:orientation="horizontal"
+               >
+    	    	    	    
+		        <ImageButton
+		                android:id="@+id/imageButton2"
+		                android:layout_width="@dimen/assetbrowser_list_view_image_dimension" 
+	        	    	android:layout_height="@dimen/assetbrowser_list_view_image_dimension"
+	        	    	android:gravity="center"
+	        	    	android:layout_marginTop="@dimen/assetbrowser_list_view_image_top_padding"
+	        	    	android:background="@color/creative_sdk_transparent_color"
+		                android:src="@drawable/ic_behance_new"/>
+		        
+		        <TextView
+		            	android:id="@+id/ic_behanceText"
+						android:layout_width="@dimen/assetbrowser_list_view_folder_text_layout_width"
+		                android:layout_marginLeft="@dimen/assetbrowser_list_view_text_left_padding"
+		                android:layout_height="match_parent"
+		                android:layout_weight="1"
+		                android:ellipsize="middle"
+		                android:gravity="center_vertical"
+		                android:singleLine="true" 
+		                android:textSize="@dimen/assetbrowser_list_view_text_size"
+						android:textColor="@color/colorapp_black"
+		                android:background="@color/creative_sdk_transparent_color"
+						android:text="Behance"/>
+		        
+				<ImageView
+		                android:layout_width="wrap_content"
+		                android:layout_height="match_parent"
+		                android:gravity="center_vertical"
+		                android:layout_marginLeft="@dimen/assetbrowser_list_view_folder_forward_left_padding"
+		                android:layout_marginRight="@dimen/assetbrowser_list_view_folder_forward_right_padding"		             
+		                android:src="@drawable/folder_forward_icon" 
+		                android:background="@color/creative_sdk_transparent_color"/>		        
+    	</LinearLayout>   
+    	
+    	<include layout="@layout/adobe_storage_assetslist_divider" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/assetbrowser_list_view_item_height"
+        android:onClick="startAppLibrary"
+        android:layout_marginLeft="@dimen/assetbrowser_list_view_image_left_padding"
+        android:layout_marginRight="@dimen/assetbrowser_list_view_image_left_padding"
+        android:orientation="horizontal"
+        >
+
+        <ImageButton
+            android:id="@+id/imageButtonAppLib"
+            android:layout_width="@dimen/assetbrowser_list_view_image_dimension"
+            android:layout_height="@dimen/assetbrowser_list_view_image_dimension"
+            android:gravity="center"
+            android:layout_marginTop="@dimen/assetbrowser_list_view_image_top_padding"
+            android:background="@color/creative_sdk_transparent_color"
+            android:src="@drawable/ic_applibrary" />
+
+        <TextView
+            android:id="@+id/ic_appLibrary"
+            android:layout_width="@dimen/assetbrowser_list_view_folder_text_layout_width"
+            android:layout_marginLeft="@dimen/assetbrowser_list_view_text_left_padding"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:ellipsize="middle"
+            android:gravity="center_vertical"
+            android:singleLine="true"
+            android:textSize="@dimen/assetbrowser_list_view_text_size"
+			android:textColor="@color/colorapp_black"
+            android:background="@color/creative_sdk_transparent_color"
+            android:text="@string/app_library" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:layout_marginLeft="@dimen/assetbrowser_list_view_folder_forward_left_padding"
+            android:layout_marginRight="@dimen/assetbrowser_list_view_folder_forward_right_padding"
+            android:src="@drawable/folder_forward_icon"
+            android:background="@color/creative_sdk_transparent_color" />
+    </LinearLayout>
+
+
+
+
+    <include layout="@layout/adobe_storage_assetslist_divider" />
+
+
+	<LinearLayout
+		android:layout_width="fill_parent"
+		android:layout_height="@dimen/assetbrowser_list_view_item_height"
+		android:onClick="startColorActivity"
+		android:layout_marginLeft="@dimen/assetbrowser_list_view_image_left_padding"
+		android:layout_marginRight="@dimen/assetbrowser_list_view_image_left_padding"
+		android:orientation="horizontal"
+		>
+
+		<ImageButton
+			android:id="@+id/imageButtonColor"
+			android:layout_width="@dimen/assetbrowser_list_view_image_dimension"
+			android:layout_height="@dimen/assetbrowser_list_view_image_dimension"
+			android:gravity="center"
+			android:layout_marginTop="@dimen/assetbrowser_list_view_image_top_padding"
+			android:background="@color/creative_sdk_transparent_color"
+			android:src="@drawable/ic_color" />
+
+		<TextView
+			android:id="@+id/ic_Color"
+			android:layout_width="@dimen/assetbrowser_list_view_folder_text_layout_width"
+			android:layout_marginLeft="@dimen/assetbrowser_list_view_text_left_padding"
+			android:layout_height="match_parent"
+			android:layout_weight="1"
+			android:ellipsize="middle"
+			android:gravity="center_vertical"
+			android:singleLine="true"
+			android:textSize="@dimen/assetbrowser_list_view_text_size"
+			android:textColor="@color/colorapp_black"
+			android:background="@color/creative_sdk_transparent_color"
+			android:text="Color" />
+
+		<ImageView
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:gravity="center_vertical"
+			android:layout_marginLeft="@dimen/assetbrowser_list_view_folder_forward_left_padding"
+			android:layout_marginRight="@dimen/assetbrowser_list_view_folder_forward_right_padding"
+			android:src="@drawable/folder_forward_icon"
+			android:background="@color/creative_sdk_transparent_color" />
+	</LinearLayout>
+
+	<include layout="@layout/adobe_storage_assetslist_divider" />
+
+</LinearLayout><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/layout/sampleactions.xml -->

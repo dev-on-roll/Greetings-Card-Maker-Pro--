@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.adobe.creativesdk.foundation.internal.utils.DrawShadowRelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/library_oneup_rootview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <com.adobe.creativesdk.foundation.internal.storage.controllers.AssetViewerViewPager
+        android:id="@+id/library_item_pager"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/library_item_open_button_container"
+        android:background="@color/creative_sdk_background_color" android:paddingTop="?attr/actionBarSize">
+    </com.adobe.creativesdk.foundation.internal.storage.controllers.AssetViewerViewPager>
+
+    <ImageButton
+        android:id="@+id/library_items_image_selectbtn"
+        android:layout_width="@dimen/storage_assetslist_selector_btn_width"
+        android:layout_height="@dimen/storage_assetslist_selector_btn_width"
+        android:layout_above="@+id/library_item_open_button_container"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="18dp"
+        android:layout_marginLeft="18dp"
+        android:background="@null"
+        android:clickable="true"
+        android:scaleType="center"
+        android:src="@drawable/storage_grid_assetcell_select_btn_selector"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/library_item_open_button_container"
+        android:layout_width="match_parent"
+        android:layout_height="73dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/asset_viewer_open_container_background">
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            android:id="@+id/library_item_photo_number"
+            android:layout_height="match_parent"
+            android:layout_width="wrap_content"
+            android:textSize="16sp"
+            android:textColor="@color/asset_browser_dark_text"
+            android:layout_marginLeft="16dp"
+            android:gravity="center"
+            />
+        <LinearLayout
+            android:id="@+id/library_item_selection_open_file_btn"
+            android:layout_width="129dp"
+            android:layout_height="50dp"
+            android:background="@drawable/one_up_view_open_button"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="15dp"
+            android:layout_centerVertical="true"
+            android:clickable="true"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+                android:id="@+id/library_item_selection_open_file_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/library_item_selection_open_file_img"
+                android:text="@string/storage_open_files"
+                android:textColor="@android:color/white"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </RelativeLayout>
+    <include
+        layout="@layout/actionbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <com.sothree.slidinguppanel.SlidingUpPanelLayout
+        xmlns:sothree="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/sliding_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom"
+        sothree:umanoPanelHeight="190dp"
+        sothree:umanoShadowHeight="4dp"
+        sothree:umanoParalaxOffset="100dp"
+        sothree:umanoDragView="@+id/dragView"
+        sothree:umanoOverlay="true">
+
+        <FrameLayout
+            android:id="@+id/dummy_framelayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"/>
+
+
+        <fragment
+            android:name="com.adobe.creativesdk.foundation.internal.storage.controllers.AdobeAssetShareOptionsFragment"
+            android:id="@+id/share_options_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+    </com.sothree.slidinguppanel.SlidingUpPanelLayout>
+</com.adobe.creativesdk.foundation.internal.utils.DrawShadowRelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_library_item_collection_activity.xml -->

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/hsv_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.adobe.creativesdk.color.internal.ui.view.HSPicker
+        android:id="@+id/HSPicker"
+        custom:col_selector_active_radius="@dimen/color_theme_edit_col_selector_active_radius"
+        custom:col_selector_image="@drawable/creativesdkcolor_color_eyedropper_loupe"
+        custom:col_selector_inactive_radius="@dimen/color_theme_edit_col_selector_inactive_radius"
+        custom:no_of_colors="5"
+        custom:wheel_image="@drawable/creativesdkcolor_color_wheel"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <SeekBar
+        android:id="@+id/VPicker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:progressDrawable="@drawable/creativesdkcolor_vbar_progress"
+        android:thumb="@drawable/creativesdkcolor_vbar_thumb"
+        android:maxHeight="@dimen/vbar_progress_height"
+        android:padding="0dp"
+        android:thumbOffset="0dp"/>
+
+</LinearLayout>
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/layout/creativesdkcolor_fragment_color_wheel.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/layout/creativesdkcolor_fragment_color_wheel.xml -->

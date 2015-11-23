@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<View xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toolbar_shadow"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/toolbar_shadow_height"
+    android:background="@drawable/creativesdkcolor_toolbar_shadow" /><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/layout/creativesdkcolor_toolbar_shadow.xml -->

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/hex_bottom_padding"
+    android:orientation="vertical"
+    android:weightSum="540">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="43" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="134"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/hex_edittext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/creativesdkcolor_ic_hex_textview_bg"
+                android:gravity="center"
+                android:textSize="@dimen/hex_edittext_textsize"
+                android:textColor="@color/black"
+                android:digits="abcdefABCDEF0123456789"
+                android:inputType="textVisiblePassword"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:paddingRight="@dimen/hex_hash_right_padding"
+                android:layout_toLeftOf="@id/hex_edittext"
+                android:text="#"
+                android:textSize="@dimen/hex_hash_textsize"
+                android:textColor="@color/hex_fragment_gray_text_color"/>
+
+        </RelativeLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="left"
+        android:layout_weight="49"
+        android:paddingRight="@dimen/hex_rgb_left_right_padding"
+        android:paddingLeft="@dimen/hex_rgb_left_right_padding">
+
+
+        <TextView
+            android:id="@+id/r_lbl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="R:"
+            android:textSize="@dimen/hex_rgb_textsize"
+            android:textColor="@color/hex_fragment_gray_text_color"
+            android:layout_alignParentLeft="true"/>
+
+        <TextView
+            android:id="@+id/hex_R"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/r_lbl"
+            android:textSize="@dimen/hex_rgb_textsize"
+            android:textColor="@color/black"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="G:"
+                android:textSize="@dimen/hex_rgb_textsize"
+                android:textColor="@color/hex_fragment_gray_text_color"/>
+
+            <TextView
+                android:id="@+id/hex_G"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/hex_rgb_textsize"
+                android:textColor="@color/black"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/hex_B"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:textSize="@dimen/hex_rgb_textsize"
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/hex_B"
+            android:text="B:"
+            android:textSize="@dimen/hex_rgb_textsize"
+            android:textColor="@color/hex_fragment_gray_text_color"/>
+
+
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/hex_current_color"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="236" />
+
+    <View
+        android:id="@+id/hex_previous_color"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="78" />
+
+</LinearLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/layout/creativesdkcolor_fragment_hex.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/layout/creativesdkcolor_fragment_hex.xml -->

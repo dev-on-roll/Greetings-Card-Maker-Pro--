@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/bsdk_add_project_cover_selection_fragment_filmstrip_image_height"
+    android:layout_marginRight="@dimen/bsdk_add_project_cover_selection_fragment_filmstrip_image_left_right_padding" >
+
+    <ImageView
+        android:id="@+id/bsdkPublishProjectCoverImageFilmStripImage"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/bsdk_add_project_cover_selection_fragment_filmstrip_image_height"
+        android:contentDescription="@string/bsdk_generic_image_content_desc"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop" >
+    </ImageView>
+
+    <LinearLayout
+        android:id="@+id/bsdkPublishProjectCoverImageFilmStripImageSelector"
+        android:layout_alignLeft="@id/bsdkPublishProjectCoverImageFilmStripImage"
+        android:layout_alignRight="@id/bsdkPublishProjectCoverImageFilmStripImage"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bsdk_add_project_cover_selection_fragment_filmstrip_image_height"
+        android:background="@drawable/bsdk_shape_publish_project_cover_image_selector"
+        android:orientation="vertical"
+        android:visibility="gone" >
+    </LinearLayout>
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_adapter_publish_project_cover_image_filmstrip_list_item.xml -->

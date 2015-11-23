@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/values/color_values.xml -->
+    <eat-comment/>
+    <color name="actionbar_background">#ffffff</color>
+    <color name="actionbar_border">#e1e6ea</color>
+    <color name="adobe_csdk_theme_primary_accent">#2098f5</color>
+    <color name="adobe_library_items_cell_background">#ffffff</color>
+    <color name="asset_browser_collaborator_delete_background">#3F4C56</color>
+    <color name="asset_browser_edit_actionbar_background">#3F4C56</color>
+    <color name="asset_browser_edit_button_background">#FFFFFF</color>
+    <color name="asset_browser_one_up_view_button_color">#2099f6</color>
+    <color name="asset_browser_upload_btn_background">#2098f5</color>
+    <color name="asset_detail_balckText">#000000</color>
+    <color name="asset_detail_blackBackGround">#000000</color>
+    <color name="asset_detail_grayText">#b3b8bb</color>
+    <color name="asset_detail_white">#ffffff</color>
+    <color name="asset_detail_whiteBackGround">#ffffff</color>
+    <color name="assetbrowser_grid_view_shadow_color">#000000</color>
+    <color name="assetview_common_error_banner_background">#e6ff0000</color>
+    <color name="assetview_common_success_banner_background">#e625b00a</color>
+    <color name="collaboration_invitation_divider_color">@color/creative_sdk_transparent_color</color>
+    <color name="creative_sdk_blue_color">#2098f5</color>
+    <color name="creative_sdk_tab_indicator_color">#2098f5</color>
+    <color name="creativesdk_buttonBackgroundColor1">#ffffff</color>
+    <color name="creativesdk_buttonBackgroundColor2">#2098f5</color>
+    <color name="file_detials_fragment_background">#fafafa</color>
+    <color name="grayText">#999999</color>
+    <color name="no_preview_color">#394044</color>
+    <color name="notification_text_color">#b3b8bb</color>
+    <color name="progress_bar_secondary_color">#00ff00</color>
+    <color name="storage_assetgrid_assetcell_selectionframe_background_color">#66f9f9f9</color>
+    <color name="storage_assetslist_divider_color">#E1E6EA</color>
+    <color name="storage_assetslist_header_bg_color">#f6f9fa</color>
+    <color name="storage_assetslist_header_text_color">#626365</color>
+    <color name="tab_selected_color">#39A1F2</color>
+    <declare-styleable name="StaggeredGridView"><attr format="integer" name="column_count"/><attr format="integer" name="column_count_portrait"/><attr format="integer" name="column_count_landscape"/><attr format="dimension" name="item_margin"/><attr format="dimension" name="grid_paddingLeft"/><attr format="dimension" name="grid_paddingRight"/><attr format="dimension" name="grid_paddingTop"/><attr format="dimension" name="grid_paddingBottom"/></declare-styleable>
+    <declare-styleable name="twowayview_DividerItemDecoration"><attr ns1:ignore="ResourceName" name="android:divider"/><attr format="reference" name="twowayview_verticalDivider"/><attr format="reference" name="twowayview_horizontalDivider"/></declare-styleable>
+    <declare-styleable name="twowayview_GridLayoutManager"><attr format="integer" name="twowayview_numColumns"/><attr format="integer" name="twowayview_numRows"/></declare-styleable>
+    <declare-styleable name="twowayview_SpacingItemDecoration"><attr ns1:ignore="ResourceName" name="android:verticalSpacing"/><attr ns1:ignore="ResourceName" name="android:horizontalSpacing"/></declare-styleable>
+    <declare-styleable name="twowayview_SpannableGridViewChild"><attr format="integer" name="twowayview_colSpan"/><attr format="integer" name="twowayview_rowSpan"/></declare-styleable>
+    <declare-styleable name="twowayview_StaggeredGridViewChild"><attr format="integer" name="twowayview_span"/></declare-styleable>
+    <declare-styleable name="twowayview_TwoWayLayoutManager"><attr ns1:ignore="ResourceName" name="android:orientation"/></declare-styleable>
+    <declare-styleable name="twowayview_TwoWayView"><attr format="string" name="twowayview_layoutManager"/></declare-styleable>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="adobe_assetTabHost_tabHeight">104dp</dimen>
+    <dimen name="adobe_asset_edit_dialog_fragment_erase_margin_left">18dp</dimen>
+    <dimen name="adobe_asset_edit_dialog_fragment_erase_margin_right">22dp</dimen>
+    <dimen name="adobe_asset_edit_dialog_fragment_height">60dp</dimen>
+    <dimen name="adobe_asset_edit_dialog_fragment_image_height">24dp</dimen>
+    <dimen name="adobe_asset_edit_dialog_fragment_image_view_margin_right">16dp</dimen>
+    <dimen name="adobe_asset_edit_dialog_fragment_item_height">48dp</dimen>
+    <dimen name="adobe_asset_edit_dialog_fragment_item_margin_bottom">2dp</dimen>
+    <dimen name="adobe_asset_edit_dialog_fragment_item_margin_top">2dp</dimen>
+    <dimen name="adobe_asset_edit_dialog_fragment_item_title_height">56dp</dimen>
+    <dimen name="adobe_asset_edit_dialog_fragment_margin_bottom">8dp</dimen>
+    <dimen name="adobe_asset_edit_dialog_fragment_margin_left">16dp</dimen>
+    <dimen name="adobe_asset_edit_dialog_fragment_margin_right">16dp</dimen>
+    <dimen name="adobe_asset_edit_dialog_fragment_menu_height">25dp</dimen>
+    <dimen name="adobe_asset_edit_dialog_fragment_text_margin_left">16dp</dimen>
+    <dimen name="adobe_asset_edit_dialog_fragment_text_size">11sp</dimen>
+    <dimen name="adobe_asset_long_click_dialog_fragment_menu_text_size">20dp</dimen>
+    <dimen name="adobe_asset_view_edit_button_height">27dp</dimen>
+    <dimen name="adobe_asset_view_edit_button_margin">30dp</dimen>
+    <dimen name="adobe_asset_view_edit_button_width">75dp</dimen>
+    <dimen name="adobe_csdk_theme_actionbar_bottom_borderSize">1dp</dimen>
+    <dimen name="adobe_csdk_theme_actionbar_size">47dp</dimen>
+    <dimen name="adobe_csdk_theme_actionbar_textSize">22sp</dimen>
+    <dimen name="adobe_csdk_theme_menu_icon_minwidth">0dp</dimen>
+    <dimen name="adobe_csdk_theme_menu_icon_paddingLeft">16dp</dimen>
+    <dimen name="adobe_csdk_theme_menu_icon_paddingRight">26dp</dimen>
+    <dimen name="adobe_csdk_theme_menu_item_textSize">19sp</dimen>
+    <dimen name="adobe_library_collection_cell_color_width">80dp</dimen>
+    <dimen name="adobe_library_collection_cell_colortheme_height">70dp</dimen>
+    <dimen name="adobe_library_collection_cell_colortheme_width">120dp</dimen>
+    <dimen name="adobe_library_collection_cell_title_bar">50dp</dimen>
+    <dimen name="adobe_library_items_color_height">66dp</dimen>
+    <dimen name="adobe_library_items_color_text_left_margin">12dp</dimen>
+    <dimen name="adobe_library_items_color_text_size">13sp</dimen>
+    <dimen name="adobe_library_items_color_textcontainer_height">37dp</dimen>
+    <dimen name="adobe_library_items_color_width">101dp</dimen>
+    <dimen name="adobe_library_items_colortheme_height">42dp</dimen>
+    <dimen name="adobe_library_items_colortheme_text_height">31dp</dimen>
+    <dimen name="adobe_library_items_header_size">24dp</dimen>
+    <dimen name="adobe_library_items_header_text_size">14sp</dimen>
+    <dimen name="adobe_library_items_spacing_size">13dp</dimen>
+    <dimen name="adobe_library_items_view_padding">14dp</dimen>
+    <dimen name="adobe_library_oneup_color_size">200dp</dimen>
+    <dimen name="adobe_library_oneup_colortheme_height">60dp</dimen>
+    <dimen name="adobe_library_oneup_colortheme_width">280dp</dimen>
+    <dimen name="adobe_mobilecreation_package_cell_color_width">30dp</dimen>
+    <dimen name="adobe_mobilecreation_package_cell_colortheme_height">14dp</dimen>
+    <dimen name="adobe_mobilecreation_package_cell_title_bar">50dp</dimen>
+    <dimen name="adobe_storage_setting_item_height">66dp</dimen>
+    <dimen name="adobe_storage_setting_padding_left">16dp</dimen>
+    <dimen name="adobe_storage_setting_text_size">19sp</dimen>
+    <dimen name="asset_browser_upload_btn_title_size">18sp</dimen>
+    <dimen name="asset_edit_move_progress_bar_size">2dp</dimen>
+    <dimen name="asset_edit_progress_bar_size">1dp</dimen>
+    <dimen name="asset_multipage_gridview_column_height">101dp</dimen>
+    <dimen name="asset_multipage_gridview_column_width">162dp</dimen>
+    <dimen name="asset_multipage_gridview_horizontal_spacing">10dp</dimen>
+    <dimen name="asset_multipage_gridview_vertical_spacing">10dp</dimen>
+    <dimen name="asset_multipage_spacing">5dp</dimen>
+    <dimen name="asset_viewer_no_preview_padding">16dp</dimen>
+    <dimen name="asset_viewer_no_preview_textSize">19sp</dimen>
+    <dimen name="asset_viewer_selection_bar">50dp</dimen>
+    <dimen name="assetbrowser_designlibrary_collection_gridview_height">191dp</dimen>
+    <dimen name="assetbrowser_designlibrary_collection_gridview_rendition_height">159dp</dimen>
+    <dimen name="assetbrowser_designlibrary_collection_gridview_textview_height">32dp</dimen>
+    <dimen name="assetbrowser_designlibrary_collection_gridview_textview_margin_left">8dp</dimen>
+    <dimen name="assetbrowser_designlibrary_collection_gridview_textview_margin_right">8dp</dimen>
+    <dimen name="assetbrowser_designlibrary_collection_gridview_textview_width">135dp</dimen>
+    <dimen name="assetbrowser_designlibrary_collection_gridview_width">159dp</dimen>
+    <dimen name="assetbrowser_grid_folderViewCell_image_layout_height">0dp</dimen>
+    <dimen name="assetbrowser_grid_folderViewCell_image_margin_top">12dp</dimen>
+    <dimen name="assetbrowser_grid_folderViewCell_layout_height">120dp</dimen>
+    <dimen name="assetbrowser_grid_folderViewCell_layout_margin">1dp</dimen>
+    <dimen name="assetbrowser_grid_folderViewCell_text_layout_width">0dp</dimen>
+    <dimen name="assetbrowser_grid_item_folder_padding">8dp</dimen>
+    <dimen name="assetbrowser_grid_item_margin">14dp</dimen>
+    <dimen name="assetbrowser_grid_item_shadow_distance">1dp</dimen>
+    <dimen name="assetbrowser_grid_item_shadow_distance_pixel">1px</dimen>
+    <dimen name="assetbrowser_grid_item_shadow_size">2dp</dimen>
+    <dimen name="assetbrowser_grid_item_width">160dp</dimen>
+    <dimen name="assetbrowser_grid_padding">5dp</dimen>
+    <dimen name="assetbrowser_grid_padding_top">2dp</dimen>
+    <dimen name="assetbrowser_grid_text_height">30dp</dimen>
+    <dimen name="assetbrowser_grid_text_padding">8dp</dimen>
+    <dimen name="assetbrowser_grid_text_right_padding">5dp</dimen>
+    <dimen name="assetbrowser_grid_text_size">14sp</dimen>
+    <dimen name="assetbrowser_grid_view_image_button_dimension">30dp</dimen>
+    <dimen name="assetbrowser_grid_view_progress_bar_height">4dp</dimen>
+    <dimen name="assetbrowser_grid_view_progress_bar_margin_left">4dp</dimen>
+    <dimen name="assetbrowser_grid_view_progress_bar_margin_right">4dp</dimen>
+    <dimen name="assetbrowser_grid_view_progress_bar_min_height">2dp</dimen>
+    <dimen name="assetbrowser_list_view_divider_size">2dp</dimen>
+    <dimen name="assetbrowser_list_view_folder_forward_left_padding">8dp</dimen>
+    <dimen name="assetbrowser_list_view_folder_forward_right_padding">14dp</dimen>
+    <dimen name="assetbrowser_list_view_folder_text_layout_width">0dp</dimen>
+    <dimen name="assetbrowser_list_view_header_padding_top">16dp</dimen>
+    <dimen name="assetbrowser_list_view_image_dimension">44dp</dimen>
+    <dimen name="assetbrowser_list_view_image_left_padding">14dp</dimen>
+    <dimen name="assetbrowser_list_view_image_margin_left_margin">72dp</dimen>
+    <dimen name="assetbrowser_list_view_image_top_padding">8dp</dimen>
+    <dimen name="assetbrowser_list_view_item_decoration_height">35dp</dimen>
+    <dimen name="assetbrowser_list_view_item_height">60dp</dimen>
+    <dimen name="assetbrowser_list_view_progress_bar_height">4dp</dimen>
+    <dimen name="assetbrowser_list_view_progress_bar_min_height">2dp</dimen>
+    <dimen name="assetbrowser_list_view_text_left_padding">14dp</dimen>
+    <dimen name="assetbrowser_list_view_text_right_padding">10dp</dimen>
+    <dimen name="assetbrowser_list_view_text_size">19sp</dimen>
+    <dimen name="assetbrowser_photo_asset_cell_width">159dp</dimen>
+    <dimen name="assetbrowser_photo_catalog_gridview_height">191dp</dimen>
+    <dimen name="assetbrowser_photo_catalog_gridview_image_height">159dp</dimen>
+    <dimen name="assetbrowser_photo_catalog_gridview_textview_height">32dp</dimen>
+    <dimen name="assetbrowser_photo_catalog_gridview_textview_margin_left">8dp</dimen>
+    <dimen name="assetbrowser_photo_catalog_gridview_textview_margin_right">8dp</dimen>
+    <dimen name="assetbrowser_photo_catalog_gridview_textview_width">135dp</dimen>
+    <dimen name="assetbrowser_photo_catalog_gridview_width">159dp</dimen>
+    <dimen name="creative_sdk_actionbar_menu_item_size">19sp</dimen>
+    <dimen name="creative_sdk_spinner_bar_height">59dp</dimen>
+    <dimen name="creative_sdk_spinner_bar_width">59dp</dimen>
+    <dimen name="elevation_high">8dp</dimen>
+    <dimen name="elevation_low">1dp</dimen>
+    <dimen name="fab_button_diameter">56dp</dimen>
+    <dimen name="fab_button_edit_margin_other_buttons">4dp</dimen>
+    <dimen name="fab_button_edit_margin_right">14dp</dimen>
+    <dimen name="fab_button_margin_bottom">16dp</dimen>
+    <dimen name="fab_button_margin_right">16dp</dimen>
+    <dimen name="fab_edit_button_diameter">70dp</dimen>
+    <dimen name="fragment_asset_detail_large_text">21sp</dimen>
+    <dimen name="fragment_asset_detail_padding_left">17dp</dimen>
+    <dimen name="fragment_asset_detail_padding_right">17dp</dimen>
+    <dimen name="fragment_asset_detail_row_height">48dp</dimen>
+    <dimen name="fragment_asset_detail_small_text">16sp</dimen>
+    <dimen name="fragment_asset_spacing_normal">25dp</dimen>
+    <dimen name="fragment_detail_footer_border_left_radius">4dp</dimen>
+    <dimen name="fragment_detail_footer_border_right_radius">4dp</dimen>
+    <dimen name="fragment_detail_title_border_left_radius">4dp</dimen>
+    <dimen name="fragment_detail_title_border_right_radius">4dp</dimen>
+    <dimen name="psmix_empty_comment_textSize">10dp</dimen>
+    <dimen name="psmix_empty_text_paddingTop">20dp</dimen>
+    <dimen name="search_filter_creative_field_scroll_view_height">45dp</dimen>
+    <dimen name="search_view_icon_padding_bottom">2dp</dimen>
+    <dimen name="search_view_icon_text_padding">18dp</dimen>
+    <dimen name="search_view_padding_left">10dp</dimen>
+    <dimen name="sharing_icon_size">35dp</dimen>
+    <dimen name="standard_grid_list_bottom_padding">5dp</dimen>
+    <dimen name="storage_assetslist_header_header_txt_padding">16dp</dimen>
+    <dimen name="storage_assetslist_header_left_padding">14dp</dimen>
+    <dimen name="storage_assetslist_header_right_padding">30dp</dimen>
+    <dimen name="storage_assetslist_header_txt_size">13sp</dimen>
+    <dimen name="storage_assetslist_selector_btn_width">40dp</dimen>
+    <dimen name="storage_container_main_assets_view_height">0dp</dimen>
+    <dimen name="storage_container_main_bottom_bar_height">63dp</dimen>
+    <dimen name="storage_container_main_selection_cancel_file_btn_height">38dp</dimen>
+    <dimen name="storage_container_main_selection_cancel_file_btn_marginLeft">8dp</dimen>
+    <dimen name="storage_container_main_selection_cancel_file_btn_width">95dp</dimen>
+    <dimen name="storage_container_main_selection_file_btn_textSize">14sp</dimen>
+    <dimen name="storage_container_main_selection_open_file_btn_height">38dp</dimen>
+    <dimen name="storage_container_main_selection_open_file_btn_width">160dp</dimen>
+    <dimen name="storage_container_main_upload_btn_height">60dp</dimen>
+    <dimen name="storage_create_new_folder_error_height">20dp</dimen>
+    <dimen name="storage_create_new_folder_error_margin_down">4dp</dimen>
+    <dimen name="storage_create_new_folder_error_margin_left">10dp</dimen>
+    <dimen name="storage_create_new_folder_error_margin_right">10dp</dimen>
+    <dimen name="storage_create_new_folder_error_margin_up">5dp</dimen>
+    <dimen name="storage_empty_state_view_padding">27dp</dimen>
+    <dimen name="storage_empty_state_view_textSize">19sp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/values/ids.xml -->
+    <eat-comment/>
+    <item name="twowayview_item_click_support" type="id"/>
+    <item name="twowayview_item_selection_support" type="id"/>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/values/integers.xml -->
+    <eat-comment/>
+    <integer name="adobe_library_collections_num_columns">2</integer>
+    <integer name="adobe_library_items_color_section_columns">3</integer>
+    <integer name="adobe_library_items_colortheme_section_columns">1</integer>
+    <integer name="adobe_library_items_columns_GCM">6</integer>
+    <integer name="adobe_library_items_default_columns">2</integer>
+    <integer name="adobe_library_items_image_section_columns">2</integer>
+    <integer name="adobe_library_items_twowayview_spanGCMcount">6</integer>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/values/dimens.xml -->
+    <eat-comment/>
+    <item name="assetbrowser_grid_col_count" type="integer">2</item>
+    <item name="assetview_staggeredgrid_land_column_count" type="integer">3</item>
+    <item name="assetview_staggeredgrid_portrait_column_count" type="integer">2</item>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="ASSET_BROWSER_COLLABORATION_ACCEPT">ACCEPT</string>
+    <string name="ASSET_BROWSER_COLLABORATION_REJECT">REJECT</string>
+    <string name="CANCEL_UPLOAD_ASSET_BROWSER_BUTTON">Cancel Upload</string>
+    <string name="COLLABORATE_INVITE_EDIT_TEXT_HINT">Add email address</string>
+    <string name="COLLABORATION_ALREADY_USED">Email Address Already Registered</string>
+    <string name="COLLABORATION_DELETE_MESSAGE">Do you want to delete this collaborator ?</string>
+    <string name="COLLABORATION_INVALID_EMAIL">Invalid Email Address</string>
+    <string name="COLLABORATION_INVITATION_DELETE_ERROR">Could Not Delete The Invitation</string>
+    <string name="COLLABORATION_INVITATION_DELETE_MESSAGE">Do you want to delete this invitation ?</string>
+    <string name="COLLABORATION_INVITE">ADD</string>
+    <string name="COLLABORATION_INVITEE">(Invited)</string>
+    <string name="COLLABORATION_INVITE_CANCEL">CANCEL</string>
+    <string name="COLLABORATION_INVITE_ERROR_MESSAGE">Could Not Complete the Invitation</string>
+    <string name="COLLABORATION_OWNER">(Owner)</string>
+    <string name="COLLABORATION_SELF_DELETE_MESSAGE">Do you want to leave this folder ?</string>
+    <string name="COLLABORATOR_DELETE_NEGATIVE_BUTTON">CANCEL</string>
+    <string name="COLLABORATOR_DELETE_POSITIVE_BUTTON">DELETE</string>
+    <string name="CREATE_NEW_FOLDER_BUTTON_CANCEL">CANCEL</string>
+    <string name="CREATE_NEW_FOLDER_BUTTON_CREATE">CREATE</string>
+    <string name="CREATE_NEW_FOLDER_DIALOG_TITLE">Create New Folder</string>
+    <string name="CREATE_NEW_FOLDER_EDIT_TEXT_HINT">Folder Name</string>
+    <string name="CREATE_NEW_FOLDER_TITLE">Create A New Folder</string>
+    <string name="CREATE_NEW_INVITE_TITLE">Add a Collaborator</string>
+    <string name="IDS_ACTION_VIEW_COMMENT">Comments</string>
+    <string name="IDS_ACTION_VIEW_EDIT_ANNOTATION">Edit Annotations</string>
+    <string name="IDS_ACTION_VIEW_FILE_DETAILS">Info</string>
+    <string name="IDS_ACTION_VIEW_PUBLISH_TO_BEHANCE">Publish To Behance</string>
+    <string name="IDS_ACTION_VIEW_SHARE">Share</string>
+    <string name="IDS_ASSET_DETAILS_FILE_DETAILS">File Details</string>
+    <string name="IDS_ASSET_DETAILS_HEIGHT">Height</string>
+    <string name="IDS_ASSET_DETAILS_KB">KB</string>
+    <string name="IDS_ASSET_DETAILS_MB">MB</string>
+    <string name="IDS_ASSET_DETAILS_MODIFIED">Modified</string>
+    <string name="IDS_ASSET_DETAILS_PX">px</string>
+    <string name="IDS_ASSET_DETAILS_SIZE">Size</string>
+    <string name="IDS_ASSET_DETAILS_UPLOADED">Uploaded</string>
+    <string name="IDS_ASSET_DETAILS_WIDTH">Width</string>
+    <string name="IDS_ASSET_DETAILS_ZERO_MB">0MB</string>
+    <string name="IDS_ASSET_DETAILS_ZERO_PX">0px</string>
+    <string name="IDS_ASSET_VIEWER_NO_PREVIEW_AVAILABLE">No Preview Available</string>
+    <string name="IDS_ASSET_VIEWER_OF">of</string>
+    <string formatted="false" name="IDS_ASSET_VIEWER_OF_2">%s of %s</string>
+    <string name="IDS_CAPTION_COLLATION_FOLDERS_HEADER">FOLDERS</string>
+    <string name="IDS_CAPTION_COLLATION_UNKNOWN_DATE">UNKNOWN</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_DATE">UPDATED %s</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_LAST_WEEK">UPDATED LAST WEEK</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_THIS_MONTH">UPDATED THIS MONTH</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_THIS_WEEK">UPDATED THIS WEEK</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_TODAY">UPDATED TODAY</string>
+    <string name="IDS_COMMENT_ERROR_MSG">%s comments could not be deleted</string>
+    <string name="IDS_COMMENT_INSERTION_ERROR_MSG">Could Not Add Comment</string>
+    <string name="IDS_COMMENT_SINGLE_ERROR_MSG">%s comment could not be deleted</string>
+    <string name="IDS_COMMENT_SINGLE_SUCCESS_MSG">%s comment deleted successfully</string>
+    <string name="IDS_COMMENT_SUCCESS_MSG">%s comments deleted successfully</string>
+    <string name="IDS_COMMENT_UPDATE_MSG">%d comments inserted</string>
+    <string name="IDS_COMMENT_UPDATE_MSG_SINGLE">%d comment inserted</string>
+    <string name="IDS_DELETE_ERROR_MSG">%s items could not be deleted</string>
+    <string name="IDS_DELETE_SINGLE_ERROR_MSG">%s item could not be deleted</string>
+    <string name="IDS_DELETE_SINGLE_SUCCESS_MSG">%s item deleted successfully</string>
+    <string name="IDS_DELETE_SUCCESS_MSG">%s items deleted successfully</string>
+    <string name="IDS_EDIT_ERROR_DGL_TITLE">Edit Errors</string>
+    <string name="IDS_EDIT_ERROR_MSG">%s items could not be edited</string>
+    <string name="IDS_EDIT_SINGLE_ERROR_MSG">%s item could not be edited</string>
+    <string name="IDS_EDIT_SINGLE_SUCCESS_MSG">%s item edited successfully</string>
+    <string name="IDS_EDIT_SUCCESS_MSG">%s items edited successfully</string>
+    <string name="IDS_INVITATION_ERROR_MSG">%s invitations could not be processed</string>
+    <string name="IDS_INVITATION_SINGLE_ERROR_MSG">%s invitation could not be processed</string>
+    <string name="IDS_INVITATION_SINGLE_SUCCESS_MSG">%s invitation processed successfully</string>
+    <string name="IDS_INVITATION_SUCCESS_MSG">%s invitations processed successfully</string>
+    <string name="IDS_MOVE_ERROR_MSG">%s items could not be moved</string>
+    <string name="IDS_MOVE_SINGLE_ERROR_MSG">%s item could not be moved</string>
+    <string name="IDS_MOVE_SINGLE_SUCCESS_MSG">%s item moved successfully</string>
+    <string name="IDS_MOVE_SUCCESS_MSG">%s items moved successfully</string>
+    <string name="IDS_PLEASE_WAIT">Please Wait…</string>
+    <string name="IDS_SAVE_TO_DEVICE_CANCELLED_NOTIFICATION_TEXT">%d file cancelled</string>
+    <string name="IDS_SAVE_TO_DEVICE_CANCELLED_NOTIFICATION_TITLE">Download cancelled</string>
+    <string name="IDS_SAVE_TO_DEVICE_CANCEL_TEXT">Cancel</string>
+    <string name="IDS_SAVE_TO_DEVICE_COMPLETE_NOTIFICATION_TEXT">%d file downloaded</string>
+    <string name="IDS_SAVE_TO_DEVICE_COMPLETE_NOTIFICATION_TITLE">Download complete</string>
+    <string name="IDS_SAVE_TO_DEVICE_ERROR_NOTIFICATION_TEXT">%d file could not be downloaded</string>
+    <string name="IDS_SAVE_TO_DEVICE_ERROR_NOTIFICATION_TITLE">Error in Downloading</string>
+    <string formatted="false" name="IDS_SAVE_TO_DEVICE_NOTIFICATION_TEXT">%d file remaining</string>
+    <string name="IDS_SAVE_TO_DEVICE_NOTIFICATION_TITLE">Saving to Device</string>
+    <string name="IDS_UPLOAD_ERROR_DGL_TITLE">Upload Errors</string>
+    <string name="IDS_UPLOAD_ERROR_MSG">%s files could not be uploaded</string>
+    <string name="IDS_UPLOAD_SINGLE_ERROR_MSG">%s file could not be uploaded</string>
+    <string name="IDS_UPLOAD_SINGLE_SUCCESS_MSG">%s file uploaded successfully</string>
+    <string name="IDS_UPLOAD_SUCCESS_MSG">%s files uploaded successfully</string>
+    <string name="NOTIFICATION_ACCEPT_FAILURE">Could Not Complete the Accept Process</string>
+    <string name="NOTIFICATION_INVITATION">has invited you to the shared folder </string>
+    <string name="NOTIFICATION_JOINED">You joined </string>
+    <string name="NOTIFICATION_NOT_FOUND">No Notification Found</string>
+    <string name="NOTIFICATION_REJECTED">You rejected the invitation for </string>
+    <string name="NOTIFICATION_REJECT_FAILURE">Could Not Complete the Reject Process</string>
+    <string name="SHARE_WITH_OPTIONS_TITLE">Share With</string>
+    <string name="UPLOAD_ASSET_BROWSER_BUTTON">Upload Files</string>
+    <string name="UPLOAD_ASSET_FROM_CAMERA_BUTTON">Take a Photo</string>
+    <string name="UPLOAD_IMAGE_TO_LIBRARY_MENU_TITLE">Upload Images</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_collaborator">Add Collaborator</string>
+    <string name="adobe_asset_edit_in_progress">Edit In Progress</string>
+    <string name="adobe_asset_edit_rename_button">Rename</string>
+    <string name="adobe_asset_move_error_same_location">Error:- Target and source location for move operation are same</string>
+    <string name="adobe_asset_view_add_annotation_dialog_hint_text">Write your comment</string>
+    <string name="adobe_asset_view_add_annotation_dialog_negative_button">CANCEL</string>
+    <string name="adobe_asset_view_add_annotation_dialog_positive_button">SEND</string>
+    <string name="adobe_asset_view_add_annotation_dialog_title">Add Annotation</string>
+    <string name="adobe_asset_view_add_comments_dialog_error_message">Error Occured While Adding Comment</string>
+    <string name="adobe_asset_view_add_comments_dialog_hint_text">Write your comment</string>
+    <string name="adobe_asset_view_add_comments_dialog_negative_button">CANCEL</string>
+    <string name="adobe_asset_view_add_comments_dialog_positive_button">SEND</string>
+    <string name="adobe_asset_view_add_comments_dialog_title">Add a Comment</string>
+    <string name="adobe_asset_view_comments_title">Comments</string>
+    <string name="adobe_asset_view_dialog_fetch_link">Fetching Link...</string>
+    <string name="adobe_asset_view_edit_delete_button">Delete</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_file">Do you want to delete this file?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_folder">Do you want to delete this folder?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_multi_select">Do you want to delete this %d items?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_negative_button">CANCEL</string>
+    <string name="adobe_asset_view_edit_delete_dialog_positive_button">DELETE</string>
+    <string name="adobe_asset_view_edit_download_button">Save To Device</string>
+    <string name="adobe_asset_view_edit_fragment_edit_button">Edit</string>
+    <string name="adobe_asset_view_edit_fragment_erase_button">Delete</string>
+    <string name="adobe_asset_view_edit_fragment_move_button">Move</string>
+    <string name="adobe_asset_view_edit_fragment_title">Select Items</string>
+    <string name="adobe_asset_view_edit_move_button">Move</string>
+    <string name="adobe_asset_view_edit_rename_dialog_error_message">Error Occured While Editing Name</string>
+    <string name="adobe_asset_view_edit_rename_dialog_hint_text">New Name</string>
+    <string name="adobe_asset_view_edit_rename_dialog_negative_button">CANCEL</string>
+    <string name="adobe_asset_view_edit_rename_dialog_positive_button">EDIT</string>
+    <string name="adobe_asset_view_edit_rename_dialog_title">Edit Name</string>
+    <string name="adobe_asset_view_error_fetch_link">Link couldn\'t be fetched</string>
+    <string name="adobe_asset_view_move_fragment_title">Choose a folder</string>
+    <string name="adobe_asset_view_multi_page_count">%d pages</string>
+    <string formatted="false" name="adobe_asset_view_multi_page_numbering">%d of %d </string>
+    <string name="adobe_asset_view_no_comments_found">No Comments Found</string>
+    <string name="adobe_asset_view_send_link_button">Send link</string>
+    <string name="adobe_asset_view_show_annotation_dialog_button">GOT IT</string>
+    <string name="adobe_assetbrowser_edit_delete_confirm">Do you want to delete this file?</string>
+    <string name="adobe_cloud_not_reachable_no_internet_connection">Unable to connect to the Creative Cloud.\n Please check your internet connection and try again</string>
+    <string name="adobe_cloud_not_reachable_private_cloud">The Creative Cloud service you have attempted to access is unavailable.\n Please check your VPN connection and try again</string>
+    <string name="adobe_cloud_not_reachable_public_cloud">The Creative Cloud service you have attempted to access is unavailable.\n Please try again</string>
+    <string name="adobe_cloud_not_reachable_retry">RETRY</string>
+    <string name="adobe_common_error_folder_invalid_chars">Invalid folder name</string>
+    <string name="adobe_common_error_while_creating_folder">Unable to create folder</string>
+    <string name="adobe_composition_collection_plural">compositions</string>
+    <string name="adobe_composition_collection_singular">composition</string>
+    <string name="adobe_comps_empty_collection">You don\'t have any Compositions yet</string>
+    <string name="adobe_design_library_collection_count">Assets %s</string>
+    <string name="adobe_design_library_collection_count_single">Assets 1</string>
+    <string name="adobe_design_library_empty_collection">This Creative Cloud Library is empty</string>
+    <string name="adobe_design_library_header_brushes">BRUSHES (%s)</string>
+    <string name="adobe_design_library_header_color">COLORS (%s)</string>
+    <string name="adobe_design_library_header_colortheme">COLOR THEMES (%s)</string>
+    <string name="adobe_design_library_header_graphics">GRAPHICS (%s)</string>
+    <string name="adobe_design_library_header_layoutstyle">LAYER STYLES (%s)</string>
+    <string name="adobe_design_library_header_looks">LOOKS (%s)</string>
+    <string name="adobe_design_library_header_textstyle">TEXT STYLES (%s)</string>
+    <string name="adobe_lineordrawcollection_plural">Drawings</string>
+    <string name="adobe_lineordrawcollection_singular">Drawing</string>
+    <string name="adobe_mobilecreation_item_download">Download</string>
+    <string name="adobe_mobilecreations_empty_collection">You don\'t have any Drawings yet</string>
+    <string name="adobe_mobilecreations_package_count">%s Assets</string>
+    <string name="adobe_mobilecreations_sort">Sort by date imported</string>
+    <string name="adobe_my_libraries_empty_collection">You don\'t have any Libraries yet</string>
+    <string formatted="false" name="adobe_notification_activities_comments">%s commented on %s</string>
+    <string name="adobe_notification_activities_comments_self">You commented on %s</string>
+    <string formatted="false" name="adobe_notification_activities_invitation_accept">%s joined %s</string>
+    <string name="adobe_notification_activities_invitation_accept_single">You joined %s</string>
+    <string name="adobe_notification_activities_section_header_single">ACTIVITY</string>
+    <string name="adobe_notification_activities_self">You</string>
+    <string name="adobe_notification_activity_timestamp_day_single">1 day ago</string>
+    <string name="adobe_notification_activity_timestamp_days_multiple">%d days ago</string>
+    <string name="adobe_notification_activity_timestamp_hour_single">1 hour ago</string>
+    <string name="adobe_notification_activity_timestamp_hours_multiple">%d hours ago</string>
+    <string name="adobe_notification_activity_timestamp_less_than_minute">Less than a minute ago</string>
+    <string name="adobe_notification_activity_timestamp_minute">%d minutes ago</string>
+    <string name="adobe_notification_activity_timestamp_year_multiple">%d years ago</string>
+    <string name="adobe_notification_activity_timestamp_year_single">1 year ago</string>
+    <string name="adobe_notification_invitation_message">invited you to the shared folder \"%s\"</string>
+    <string name="adobe_notification_invitation_section_header">INVITES(%d)</string>
+    <string name="adobe_notification_invitation_section_header_single">INVITE(1)</string>
+    <string name="adobe_notification_operation_collaborated_folder_error">Could not load the collection</string>
+    <string name="adobe_notification_operation_comment_error">Could not load the asset</string>
+    <string name="adobe_psmix_collection_plural">Photo compositions</string>
+    <string name="adobe_psmix_collection_singular">Photo composition</string>
+    <string name="adobe_sdk_main_root_collection">Files</string>
+    <string name="adobe_sketchCollection_plural">sketches</string>
+    <string name="adobe_sketchCollection_singular">Sketch</string>
+    <string name="adobe_sketches_empty_collection">You don\'t have any Sketches yet</string>
+    <string name="adobe_storage_no_folders_found">No Folders Found</string>
+    <string name="adobe_uxassetbrowser_action_asgrid">View as Grid</string>
+    <string name="adobe_uxassetbrowser_action_aslist">View as List</string>
+    <string name="adobe_uxassetbrowser_action_collaborate">Collaborate</string>
+    <string name="adobe_uxassetbrowser_action_edit_asset">Edit</string>
+    <string name="adobe_uxassetbrowser_action_sort_alpha">Sort Alphabetically</string>
+    <string name="adobe_uxassetbrowser_action_sort_date">Sort by Date</string>
+    <string name="adobe_uxassetbrowser_comps">COMP CC</string>
+    <string name="adobe_uxassetbrowser_create_new_folder">Create New Folder</string>
+    <string name="adobe_uxassetbrowser_csdk_myassets_main">My Assets</string>
+    <string name="adobe_uxassetbrowser_csdk_mylibraries">My Libraries</string>
+    <string name="adobe_uxassetbrowser_designlibrary">Library</string>
+    <string name="adobe_uxassetbrowser_download_cancelled">Cancelled downloading %s</string>
+    <string name="adobe_uxassetbrowser_download_description">Adobe Creative Cloud</string>
+    <string name="adobe_uxassetbrowser_download_directory">Creative Cloud</string>
+    <string name="adobe_uxassetbrowser_download_error">Error occurred in downloading %s</string>
+    <string name="adobe_uxassetbrowser_download_io_failure"> downloading of %s failed due to IO error</string>
+    <string name="adobe_uxassetbrowser_download_successful"> %s downloaded</string>
+    <string name="adobe_uxassetbrowser_drawings">ILLUSTRATOR DRAW</string>
+    <string name="adobe_uxassetbrowser_file_download_assert_exception">Asset file is not valid</string>
+    <string name="adobe_uxassetbrowser_files">FILES</string>
+    <string name="adobe_uxassetbrowser_library_image_download_assert_exception">Library image is not valid</string>
+    <string name="adobe_uxassetbrowser_lines">ILLUSTRATOR LINE</string>
+    <string name="adobe_uxassetbrowser_myacount">My Account</string>
+    <string name="adobe_uxassetbrowser_photo_download_assert_exception">Photo asset is not valid</string>
+    <string name="adobe_uxassetbrowser_photos">PHOTOS</string>
+    <string name="adobe_uxassetbrowser_psmix">PHOTOSHOP MIX</string>
+    <string name="adobe_uxassetbrowser_sdk_myaccount">My Account</string>
+    <string name="adobe_uxassetbrowser_selectfolder_upload">Select Folder</string>
+    <string name="adobe_uxassetbrowser_sketches">PHOTOSHOP SKETCH</string>
+    <string name="cc_title">Creative Cloud</string>
+    <string name="collaboration_create_invite_error">Could not create invitation</string>
+    <string name="collaboration_create_invite_error_network">Could not connect to network</string>
+    <string name="collaboration_delete_failure">Could Not Delete The Collaborator</string>
+    <string formatted="false" name="collaboration_delete_prompt">Delete %s? </string>
+    <string name="collaboration_error">Error While Fetching Collaborators</string>
+    <string name="collaboration_leave_failure">Could Not Leave The Folder</string>
+    <string formatted="false" name="collaboration_leave_prompt">Leave %s? </string>
+    <string name="collaborator">Collaborators</string>
+    <string name="comments_error">Error While Fetching Comments</string>
+    <string name="notification_title">Notifications</string>
+    <string name="photo_asset_browser_empty_folder">You don\'t have any photos yet</string>
+    <string name="psmix_download_statement">Download Adobe Photoshop Mix</string>
+    <string name="psmix_files_empty">Delivering the power of Adobe Photoshop with the convenience of mobile,\r\nPhotoshop Mix offers creative, simple, fun photo editing on Android.</string>
+    <string name="search_query_hint">Search…</string>
+    <string name="search_title">Search</string>
+    <string name="storage_asset_browser_empty_folder">You don\'t have any files yet</string>
+    <string name="storage_cancel_selection">CANCEL</string>
+    <string name="storage_create_folder_already_exists_error">Folder already exists</string>
+    <string name="storage_create_folder_authention_requires_error">Requires Authentication.</string>
+    <string name="storage_create_folder_no_error">""</string>
+    <string name="storage_empty_folder_upload_files_title">UPLOAD FILES</string>
+    <string name="storage_open">OPEN</string>
+    <string name="storage_open_files">OPEN</string>
+    <string name="storage_open_multiple_files">OPEN (%s)</string>
+    <string name="storage_open_multiple_files_99">OPEN (99+)</string>
+    <string name="storage_settigs_usuage_calculating">(Calculating Usage)</string>
+    <string name="storage_settings_edit_cc_settings">Edit Creative Cloud Settings</string>
+    <string name="storage_settings_get_more_storage">Get More Storage</string>
+    <string formatted="false" name="storage_settings_storage_usage">%s used (%s of %s GB)</string>
+    <string name="storage_settings_switch_accounts">Switch Accounts</string>
+    <string name="storage_upload_btn_title">UPLOAD (%s)</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AdobeAssetViewerLightTheme" parent="AdobeCSDKThemeActivity">
+		<item name="windowActionBarOverlay">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+	</style>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/values/adobe_creative_sdk_activity_theme.xml -->
+    <eat-comment/>
+    <style name="AdobeCSDKTheme.ActivityForOneUpView">
+		<item name="windowActionBarOverlay">true</item>
+	</style>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AdobeCSDKTheme.AssetViewerDarkTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+	    <item name="windowActionBarOverlay">true</item>
+    </style>
+    <style name="AdobeCSDKTheme.TransparentDialog" parent="Theme.AppCompat.Light.Dialog">
+	    <item name="android:windowNoTitle">true</item>
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:background">@android:color/transparent</item>
+		<item name="android:backgroundDimEnabled">true</item>
+	</style>
+    <style name="AdobeCSDKTheme.VideoPlayerActivity" parent="@style/Theme.AppCompat.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="AdobeDesignLibraryItemText" parent="TextAppearance.AppCompat.Medium">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/adobe_library_items_cell_background</item>
+        <item name="android:textColor">@color/asset_browser_dark_text</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textSize">@dimen/adobe_library_items_color_text_size</item>
+        <item name="android:layout_marginLeft">@dimen/adobe_library_items_color_text_left_margin</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:paddingRight">3dp</item>
+
+    </style>
+    <style name="AdobeFloatingButtonLabelStyle">
+       <item name="android:background">@drawable/adobe_asset_view_edit_button_label</item>
+        <item name="android:textColor">@color/asset_browser_light_text</item>
+    </style>
+    <style name="AssetFileDetailsText" parent="TextAppearance.AppCompat.Medium">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textSize">@dimen/fragment_asset_detail_small_text</item>
+        <item name="android:minHeight">@dimen/fragment_asset_detail_row_height</item>
+    </style>
+    <style name="AssetFileDetailsText.Left">
+        <item name="android:textColor">@color/asset_browser_dark_text</item>
+    </style>
+    <style name="AssetFileDetailsText.Right">
+        <item name="android:textColor">@color/asset_browser_light_text</item>
+        <item name="android:layout_marginLeft">36dp</item>
+
+    </style>
+    <style name="Widget.AdobeCSDK.HeaderBar.Spinner" parent="Widget.AdobeCSDK.HeaderBar.Spinner.Base"/>
+    <style name="Widget.AdobeCSDK.HeaderBar.Spinner.Base" parent="Widget.AppCompat.Light.Spinner.DropDown.ActionBar">
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:dropDownSelector">?android:selectableItemBackground</item>
+        <item name="android:divider">@null</item>
+        <item name="android:dividerHeight">0dp</item>
+    </style>
+</resources>

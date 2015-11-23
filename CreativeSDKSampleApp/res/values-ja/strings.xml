@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Creative SDK</string>
+    <string name="action_login">ログイン</string>
+    <string name="action_logout">ログアウト</string>
+    <string name="asset_browser">アセットブラウザー</string>
+    <string name="behance_publish">Behance で公開</string>
+	<string name="launch_header">起動コンポーネント</string>
+    <string name="selection_header">選択したファイル</string>
+
+    <string name="IDS_WELCOME">Creative Cloud にようこそ</string>
+    <string name="IDS_GET_STARTED">ログインするか新しい Adobe ID を作成して開始します。</string>
+    <string name="IDS_SIGN_IN">ADOBE ID でログイン</string>
+    <string name="IDS_SIGN_UP">ADOBE ID を新規登録</string>
+    <string name="app_library">App ライブラリ</string>
+    <string name="title_activity_display_message">My Message</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

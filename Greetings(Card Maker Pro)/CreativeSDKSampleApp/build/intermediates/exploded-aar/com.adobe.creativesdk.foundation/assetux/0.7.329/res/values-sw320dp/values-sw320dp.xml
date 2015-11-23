@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/values-sw320dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="asset_multipage_gridview_column_width">140dp</dimen>
+</resources>

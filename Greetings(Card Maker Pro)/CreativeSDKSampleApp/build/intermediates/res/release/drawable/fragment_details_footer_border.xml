@@ -1,0 +1,9 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item><shape android:shape="rectangle">
+            <solid android:color="@color/file_detials_fragment_background" />
+
+            <corners android:bottomLeftRadius="@dimen/fragment_detail_footer_border_left_radius" android:bottomRightRadius="@dimen/fragment_detail_footer_border_right_radius" />
+        </shape></item>
+
+</selector><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/drawable/fragment_details_footer_border.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/drawable/fragment_details_footer_border.xml -->

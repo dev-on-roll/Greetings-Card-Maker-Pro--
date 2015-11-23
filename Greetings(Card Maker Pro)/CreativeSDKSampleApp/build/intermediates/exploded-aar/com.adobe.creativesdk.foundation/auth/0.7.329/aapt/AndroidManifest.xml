@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.adobe.creativesdk.foundation.auth"
+    android:versionCode="1"
+    android:versionName="0.7.329" >
+    <!--
+ Include this if you need SSO for Adobe Internal Clients.
+        <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS"/>
+        <uses-permission android:name="android.permission.USE_CREDENTIALS"/>
+        <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+        <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+    -->
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application>
+        <activity
+            android:name="com.adobe.creativesdk.foundation.internal.auth.AdobeAuthSignInActivity"
+            android:exported="false"
+            android:label="@string/creative_cloud"
+            android:multiprocess="true"
+            android:theme="@style/AdobeCSDKThemeActivity"
+            android:windowSoftInputMode="stateUnchanged|adjustPan|adjustResize" >
+        </activity>
+
+        <!--
+        Include this in you app Manifest if you need SSO ( Single sign on) for Adobe Internal clients.
+        <service android:name="com.adobe.creativesdk.foundation.internal.auth.authenticator.AdobeCSDKAdobeIDAuthenticatorService">
+            <intent-filter>
+                <action android:name="android.accounts.AccountAuthenticator" />
+            </intent-filter>
+            <meta-data android:name="android.accounts.AccountAuthenticator"
+                android:resource="@xml/adobeid_authenticator_description" />
+        </service>
+        -->
+
+    </application>
+
+</manifest>

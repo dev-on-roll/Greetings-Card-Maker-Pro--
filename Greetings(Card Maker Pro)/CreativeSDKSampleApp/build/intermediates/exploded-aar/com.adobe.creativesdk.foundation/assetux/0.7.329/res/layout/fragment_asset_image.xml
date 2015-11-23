@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.adobe.creativesdk.foundation.internal.utils.photoview.PhotoView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/asset_image_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        />
+
+    <ImageButton
+        android:id="@+id/asset_video_playBtn"
+        android:background="@drawable/button_play"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone"/>
+
+    <include layout="@layout/asset_viewer_no_internet_connection" android:id="@+id/asset_viewer_no_internet_connection"/>
+    <include layout="@layout/asset_viewer_no_preview" android:id="@+id/asset_viewer_no_preview"/>
+
+    <ProgressBar
+        android:id="@+id/asset_image_progressbar_new"
+        android:background="@drawable/spinner_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" />
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/fragment_asset_image.xml -->

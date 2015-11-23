@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/values-sv-rSE/strings.xml -->
+    <eat-comment/>
+    <string name="Analogus">Analog</string>
+    <string name="Complementary">Komplement</string>
+    <string name="Compound">Sammansatt</string>
+    <string name="Custom">Egen</string>
+    <string name="Monochromatic">Monokrom</string>
+    <string name="OK">OK</string>
+    <string name="Shades">Skuggor</string>
+    <string name="Triad">Triad</string>
+    <string name="add_color">Lägg till färg</string>
+    <string name="add_theme">Lägg till tema</string>
+    <string name="all_colors">Alla färger</string>
+    <string name="by">Av: </string>
+    <string name="cancel">AVBRYT</string>
+    <string name="clear_history">RENSA</string>
+    <string name="color_component_activity_actionbar_title">Färg</string>
+    <string name="color_picker_actionbar_title">Färgväljare</string>
+    <string name="copy_themes">Kopiera teman</string>
+    <string name="copy_to">Kopiera till</string>
+    <string name="create">Skapa</string>
+    <string name="create_library">Skapa bibliotek</string>
+    <string name="delete">Ta bort</string>
+    <string name="edit">REDIGERA</string>
+    <string name="edit_camel">Redigera</string>
+    <string name="edit_color">Redigera färg</string>
+    <string name="edit_name">Redigera namn</string>
+    <string name="edit_theme">Redigera tema</string>
+    <string name="empty_color_list_line1">Börja samla färger och teman i</string>
+    <string name="empty_color_list_line2">det här biblioteket för att använda dem</string>
+    <string name="empty_color_list_line3">mellan andra mobila och skrivbordsappar</string>
+    <string name="hello_blank_fragment">Hej tomt fragment</string>
+    <string name="hex">Hex</string>
+    <string name="history">Historik</string>
+    <string name="history_cleared">Historik rensad</string>
+    <string name="lib_row_desc_p_p">%1$d färger, %2$d teman</string>
+    <string name="lib_row_desc_p_s">%1$d färger, 1 tema</string>
+    <string name="lib_row_desc_s_p">1 färg, %1$d teman</string>
+    <string name="lib_row_desc_s_s">1 färg, 1 tema</string>
+    <string name="libraries_tab_heading">MINA BIBLIOTEK</string>
+    <string name="loading">Läser in…</string>
+    <string name="my_library">Mitt bibliotek</string>
+    <string name="new_name">Nytt namn</string>
+    <string name="no_colors">Inga färger</string>
+    <string name="picker_tab_heading">VÄLJAREN</string>
+    <string name="remove">TA BORT</string>
+    <string name="remove_camel">Ta bort</string>
+    <string name="remove_confirmation">Vill du ta bort?</string>
+    <string name="rename">BYT NAMN</string>
+    <string name="rename_library">Byt namn på bibliotek</string>
+    <string name="rgb">RGB</string>
+    <string name="select_a_color">Välj en färg</string>
+    <string name="select_library">Välj bibliotek</string>
+    <string name="syncing_library">Synkroniserar bibliotek…</string>
+    <string name="theme_picker_actionbar_title">Temaväljare</string>
+    <string name="themes_tab_heading">TEMAN</string>
+    <string name="wheel">Hjul</string>
+</resources>

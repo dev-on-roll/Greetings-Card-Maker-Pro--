@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.adobe.creativesdk.sample.MainActivity"
+    android:background="#000">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView android:text="STEP : 1 " android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textColor="#fff"
+                android:textSize="20sp"
+                android:id="@+id/textView" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editText"
+                android:layout_below="@+id/textView"
+                android:layout_centerHorizontal="true"
+                android:padding="15dp"
+                android:gravity="center_horizontal"
+                android:hint="\@Occaison like Happy Bday ... "
+                android:layout_marginTop="5dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Select Theme :"
+                android:id="@+id/textView2"
+                android:paddingTop="5dp"
+                android:paddingLeft="5dp"
+                android:textColor="#fff"
+                android:textStyle="italic"
+                android:layout_below="@+id/editText2"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <Spinner
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/spinner"
+                android:layout_below="@+id/textView2"
+                android:layout_centerHorizontal="true" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Select Size :"
+                android:id="@+id/textView3"
+                android:layout_below="@+id/spinner"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:paddingTop="5dp"
+                android:paddingLeft="5dp"
+                android:textColor="#fff"
+                android:textStyle="italic" />
+
+            <Spinner
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/spinner2"
+                android:layout_below="@+id/textView3"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Move To Step 2"
+                android:id="@+id/button"
+                android:layout_below="@+id/spinner2"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="50dp"
+                android:padding="20dp" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/editText2"
+                android:layout_below="@+id/editText"
+                android:layout_centerHorizontal="true"
+                android:padding="15dp"
+                android:gravity="center_horizontal"
+                android:hint="\@Message like You are the best"
+                android:textColor="#000"
+                android:layout_marginTop="10dp" />
+
+
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/layout/activity_main.xml -->

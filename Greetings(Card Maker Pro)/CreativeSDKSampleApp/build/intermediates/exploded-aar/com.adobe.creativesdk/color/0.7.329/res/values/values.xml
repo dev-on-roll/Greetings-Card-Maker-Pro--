@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="accent">#FF822C82</color>
+    <color name="active_tab_text_and_underline_color">#0B93F7</color>
+    <color name="add_lib_fab_bg">#2098F5</color>
+    <color name="all_colors_text_color">#556068</color>
+    <color name="application_background_color">#272705</color>
+    <color name="backgroundColor">#303030</color>
+    <color name="black">#000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="blue">#05dbfb</color>
+    <color name="bottom_panel_black">#131313</color>
+    <color name="camera_live_background_color">#191919</color>
+    <color name="clear_history_button_text_color">#66A0CC</color>
+    <color name="coach_bg_color">#FF822C82</color>
+    <color name="coach_body">#FFAAAAAA</color>
+    <color name="coach_border_color">#ff00DDDD</color>
+    <color name="coach_ok">#FFEEEEEE</color>
+    <color name="coach_title">#FFEEEEEE</color>
+    <color name="coachmark_theme_create_backgroud">#BB000000</color>
+    <color name="coachmark_theme_create_link_color">#822c8c</color>
+    <color name="coachmark_theme_create_text_color">#ffffff</color>
+    <color name="collaborate_toolbar_background">#E0E0E0</color>
+    <color name="color_info_toolbar_background">#212121</color>
+    <color name="color_item_name_text_color">#8C8D8F</color>
+    <color name="color_picker_active_border_color">#FFFFFFFF</color>
+    <color name="color_picker_inactive_border_color">#AAFFFFFF</color>
+    <color name="color_theme_edit_background_color">#212121</color>
+    <color name="color_theme_edit_bottom_toolbar_color">#191919</color>
+    <color name="color_theme_edit_rgb_label_color">#757575</color>
+    <color name="color_theme_edit_rgb_value_color">#ffffff</color>
+    <color name="color_top_bar_color">#131313</color>
+    <color name="colorapp_black">#000000</color>
+    <color name="colorapp_signup_button_color">#262626</color>
+    <color name="colorapp_white">#FFFFFF</color>
+    <color name="dark_text_color">#CC464646</color>
+    <color name="delete_confirm_popup_cancel_text_color">#737476</color>
+    <color name="delete_confirm_popup_ok_text_color">#2098F5</color>
+    <color name="delete_confirm_popup_text_color">#AFAFB1</color>
+    <color name="edit_name_popup_edit_text_color">#2098F5</color>
+    <color name="edit_name_popup_hint_color">#C7C8CC</color>
+    <color name="edit_name_popup_text_color">#737476</color>
+    <color name="edit_name_text_color">#7D8084</color>
+    <color name="edit_name_underline_color">#888B90</color>
+    <color name="empty_color_list_text_color">#AFAFB1</color>
+    <color name="global_background_color">#F5F9FA</color>
+    <color name="gray_background">#E0E0E0</color>
+    <color name="grey">#c8c8c8</color>
+    <color name="hex_fragment_gray_text_color">#CACACC</color>
+    <color name="lib_info_text_color">#ADAEB0</color>
+    <color name="lib_name_text_color">#6D6E70</color>
+    <color name="lib_row_active">#FF822C82</color>
+    <color name="lib_row_active_bg">#FFF1D1F1</color>
+    <color name="lib_row_bg">#FFFFFFFF</color>
+    <color name="lib_row_metadata">#FF616161</color>
+    <color name="lib_row_name">#FF212121</color>
+    <color name="lib_row_separator">#FFE3E3E3</color>
+    <color name="lib_row_separator_color">#E4E5E7</color>
+    <color name="light_blue_100">#B3E5FC</color>
+    <color name="light_blue_300">#4FC3F7</color>
+    <color name="light_blue_500">#03A9F4</color>
+    <color name="light_blue_900">#01579B</color>
+    <color name="light_gray_header_color">#646663</color>
+    <color name="light_text_color">#818181</color>
+    <color name="opaque">#dc000000</color>
+    <color name="popup_menu_text_color">#FF555555</color>
+    <color name="primary">#212121</color>
+    <color name="primary_dark">#000000</color>
+    <color name="rgb_value_color">#9B9B9B</color>
+    <color name="settings_dark_text">#373737</color>
+    <color name="settings_gray">#b3b8bb</color>
+    <color name="settings_light_text">#616161</color>
+    <color name="settings_list_divider_color">#c8c8c8</color>
+    <color name="snackbar_no_internet_backgroundcolor">#CCCCCCCC</color>
+    <color name="snackbar_no_internet_textcolor">@color/white</color>
+    <color name="splash_background">#300031</color>
+    <color name="status_bar_color">#2E3B44</color>
+    <color name="tab_text_color">#CACACC</color>
+    <color name="tabs_background_color">#FFF</color>
+    <color name="tabs_shadow_color">#D5D6D8</color>
+    <color name="text_holo">#191919</color>
+    <color name="theme_dark">#1c1c1d</color>
+    <color name="theme_light">#FFFFFF</color>
+    <color name="tour_activity_content_layout_bottom_background_color">#1c1c1d</color>
+    <color name="tour_activity_content_layout_content_text_color">#999999</color>
+    <color name="tour_activity_content_layout_header_text_color">#FFFFFF</color>
+    <color name="tour_activity_content_layout_top_background_color">#FFFFFF</color>
+    <color name="tour_activity_login_panel_bg_color">#3a3a3a</color>
+    <color name="tour_activity_login_panel_login_btn_bg_color">#40000000</color>
+    <color name="tour_activity_login_panel_login_btn_selected_bg_color">#000000</color>
+    <color name="tour_activity_login_panel_signup_btn_bg_color">#2948FB</color>
+    <color name="tour_activity_login_panel_signup_btn_selected_bg_color">#0b37a9</color>
+    <color name="tour_activity_login_panel_txt_color">#FFFFFF</color>
+    <color name="tour_content">#737373</color>
+    <color name="tour_header">#3a3a3a</color>
+    <color name="transparent">@null</color>
+    <color name="transparent_red">#F0e00000</color>
+    <color name="upload_folder_text_background">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <declare-styleable name="CMYKPicker"><attr format="dimension" name="Knob_radius_cmyk"/></declare-styleable>
+    <declare-styleable name="ColorPicker"><attr format="integer" name="no_of_colors"/><attr format="integer" name="wheel_image"/><attr format="integer" name="col_selector_image"/><attr format="dimension" name="col_selector_active_radius"/><attr format="dimension" name="col_selector_inactive_radius"/><attr format="dimension" name="col_selector_stroke_width"/><attr format="dimension" name="wheel_image_antialias_border"/></declare-styleable>
+    <declare-styleable name="RGBPicker"><attr format="dimension" name="Knob_radius"/></declare-styleable>
+    <declare-styleable name="ValueBar"><attr format="float" name="LengthPercent"/><attr format="float" name="HeightPercentt"/><attr format="dimension" name="Selector_radius"/></declare-styleable>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="Selector_radius">12dp</dimen>
+    <dimen name="actionbar_textsize">20sp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="add_lib_button_padding">5dp</dimen>
+    <dimen name="all_colors_option_left_right_padding">20dp</dimen>
+    <dimen name="all_colors_option_top_bottom_padding">12dp</dimen>
+    <dimen name="all_colors_textsize">20sp</dimen>
+    <dimen name="check_container_left_margin">-8dp</dimen>
+    <dimen name="clear_history_button_bottom_margin">6dp</dimen>
+    <dimen name="clear_history_button_height">38dp</dimen>
+    <dimen name="clear_history_button_textsize">22sp</dimen>
+    <dimen name="clear_history_button_width">93dp</dimen>
+    <dimen name="col_selector_active_radius">16dp</dimen>
+    <dimen name="col_selector_inactive_radius">15dp</dimen>
+    <dimen name="col_selector_stroke_width">5dp</dimen>
+    <dimen name="color_blocks_bottom_padding">12dp</dimen>
+    <dimen name="color_blocks_height">99dp</dimen>
+    <dimen name="color_blocks_top_padding">17dp</dimen>
+    <dimen name="color_history_cell_height">70dp</dimen>
+    <dimen name="color_item_height">78dp</dimen>
+    <dimen name="color_item_name_left_padding">24dp</dimen>
+    <dimen name="color_item_name_text_size">22sp</dimen>
+    <dimen name="color_item_top_bottom_padding">4dp</dimen>
+    <dimen name="color_items_list_left_right_padding">8dp</dimen>
+    <dimen name="color_items_list_top_bottom_padding">4dp</dimen>
+    <dimen name="color_pickers_fragment_left_right_padding">8dp</dimen>
+    <dimen name="color_theme_edit_bottom_toolbar_height">56dp</dimen>
+    <dimen name="color_theme_edit_col_selector_active_radius">16dp</dimen>
+    <dimen name="color_theme_edit_col_selector_inactive_radius">15dp</dimen>
+    <dimen name="color_theme_edit_hexval_width">65dp</dimen>
+    <dimen name="color_theme_edit_rgb_bar_top_margin_size">16dp</dimen>
+    <dimen name="color_theme_edit_rgb_font_size">16sp</dimen>
+    <dimen name="color_theme_edit_top_toolbar_margin">10dp</dimen>
+    <dimen name="color_theme_edit_top_toolbar_top_margin">14dp</dimen>
+    <dimen name="delete_confirm_popup_button_text_size">16sp</dimen>
+    <dimen name="delete_confirm_popup_cancel_right_padding">30dp</dimen>
+    <dimen name="delete_confirm_popup_heading_textsize">22sp</dimen>
+    <dimen name="delete_confirm_popup_height">150dp</dimen>
+    <dimen name="delete_confirm_popup_padding">18dp</dimen>
+    <dimen name="delete_confirm_popup_remove_button_right_padding">15dp</dimen>
+    <dimen name="delete_confirm_popup_textsize">18sp</dimen>
+    <dimen name="delete_confirm_popup_top_margin">200dp</dimen>
+    <dimen name="delete_confirm_popup_width">300dp</dimen>
+    <dimen name="edit_name_left_right_padding">58dp</dimen>
+    <dimen name="edit_name_popup_button_text_size">18sp</dimen>
+    <dimen name="edit_name_popup_cancel_right_padding">50dp</dimen>
+    <dimen name="edit_name_popup_edit_right_padding">25dp</dimen>
+    <dimen name="edit_name_popup_edittext_width">250dp</dimen>
+    <dimen name="edit_name_popup_height">195dp</dimen>
+    <dimen name="edit_name_popup_padding">25dp</dimen>
+    <dimen name="edit_name_popup_textsize">24sp</dimen>
+    <dimen name="edit_name_popup_top_margin">150dp</dimen>
+    <dimen name="edit_name_popup_width">300dp</dimen>
+    <dimen name="edit_name_text_bottom_padding">4dp</dimen>
+    <dimen name="edit_name_text_size">24sp</dimen>
+    <dimen name="edit_name_top_padding">8dp</dimen>
+    <dimen name="edit_name_underline_height">2dp</dimen>
+    <dimen name="empty_color_list_large_text_bottom_padding">20dp</dimen>
+    <dimen name="empty_color_list_text_size_large">38sp</dimen>
+    <dimen name="empty_color_list_text_size_small">20sp</dimen>
+    <dimen name="empty_color_list_top_padding">160dp</dimen>
+    <dimen name="fab_margin">0dp</dimen>
+    <dimen name="hex_bottom_padding">12dp</dimen>
+    <dimen name="hex_edittext_textsize">70sp</dimen>
+    <dimen name="hex_hash_right_padding">10dp</dimen>
+    <dimen name="hex_hash_textsize">50sp</dimen>
+    <dimen name="hex_rgb_left_right_padding">80dp</dimen>
+    <dimen name="hex_rgb_textsize">26sp</dimen>
+    <dimen name="hitSize_for_24dp_icon">36dp</dimen>
+    <dimen name="lib_info_text_size">17sp</dimen>
+    <dimen name="lib_name_bottom_padding">3dp</dimen>
+    <dimen name="lib_name_text_size">22sp</dimen>
+    <dimen name="lib_row_height">70dp</dimen>
+    <dimen name="lib_row_left_padding">26dp</dimen>
+    <dimen name="lib_tick_right_padding">22dp</dimen>
+    <dimen name="rgb_font_size">28sp</dimen>
+    <dimen name="rgb_textbar_height">60dp</dimen>
+    <dimen name="tab_bar_height">50dp</dimen>
+    <dimen name="tab_text_size">16sp</dimen>
+    <dimen name="tab_underline_width">3dp</dimen>
+    <dimen name="theme_by_textsize">18sp</dimen>
+    <dimen name="toolbar_shadow_height">3dp</dimen>
+    <dimen name="two_colors_bar_bottom_padding">12dp</dimen>
+    <dimen name="two_colors_bar_height">109dp</dimen>
+    <dimen name="two_colors_bar_top_padding">17dp</dimen>
+    <dimen name="vbar_progress_height">10dp</dimen>
+    <dimen name="vbar_thumb_height">30dp</dimen>
+    <dimen name="vbar_thumb_width">4dp</dimen>
+    <dimen name="wheel_image_antialias_border_default_width">4dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="Analogus">Analogus</string>
+    <string name="Complementary">Complementary</string>
+    <string name="Compound">Compound</string>
+    <string name="Custom">Custom</string>
+    <string name="Monochromatic">Monochromatic</string>
+    <string name="OK">OK</string>
+    <string name="Shades">Shades</string>
+    <string name="Triad">Triad</string>
+    <string name="add_color">Add Color</string>
+    <string name="add_theme">Add Theme</string>
+    <string name="all_colors">All Colors</string>
+    <string name="app_themes">App Themes</string>
+    <string name="by">By: </string>
+    <string name="cancel">CANCEL</string>
+    <string name="clear_history">CLEAR</string>
+    <string name="color_component_activity_actionbar_title">Color</string>
+    <string name="color_picker_actionbar_title">Color Picker</string>
+    <string name="copy_themes">Copy Themes</string>
+    <string name="copy_to">Copy To</string>
+    <string name="create">Create</string>
+    <string name="create_library">Create Library</string>
+    <string name="delete">Delete</string>
+    <string name="edit">EDIT</string>
+    <string name="edit_camel">Edit</string>
+    <string name="edit_color">Edit Color</string>
+    <string name="edit_name">Edit Name</string>
+    <string name="edit_theme">Edit Theme</string>
+    <string name="empty_color_list_line1">Start collecting colors and themes in</string>
+    <string name="empty_color_list_line2">this library to use them across other</string>
+    <string name="empty_color_list_line3">mobile and desktop apps</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hex">Hex</string>
+    <string name="history">History</string>
+    <string name="history_cleared">History Cleared</string>
+    <string name="kuler_themes">Kuler Themes</string>
+    <string name="lib_row_desc_p_p">%1$d Colors, %2$d Themes</string>
+    <string name="lib_row_desc_p_s">%1$d Colors, 1 Theme</string>
+    <string name="lib_row_desc_s_p">1 Color, %1$d Themes</string>
+    <string name="lib_row_desc_s_s">1 Color, 1 Theme</string>
+    <string name="libraries_tab_heading">MY LIBRARIES</string>
+    <string name="loading">Loading…</string>
+    <string name="my_library">My Library</string>
+    <string name="new_name">New Name</string>
+    <string name="no_colors">No Colors</string>
+    <string name="picker_tab_heading">PICKER</string>
+    <string name="remove">REMOVE</string>
+    <string name="remove_camel">Remove</string>
+    <string name="remove_confirmation">Are you sure you want to remove?</string>
+    <string name="rename">RENAME</string>
+    <string name="rename_library">Rename Library</string>
+    <string name="rgb">RGB</string>
+    <string name="select_a_color">Select a Color</string>
+    <string name="select_library">Select Library</string>
+    <string name="syncing_library">Syncing Libraries…</string>
+    <string name="theme_picker_actionbar_title">Theme Picker</string>
+    <string name="themes_tab_heading">THEMES</string>
+    <string name="wheel">Wheel</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="Color.ActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background" ns1:ignore="NewApi">@color/white</item>
+        <item name="background">@color/white</item>
+        <item name="android:elevation" ns1:ignore="NewApi">0dp</item>
+        <item name="elevation">0dp</item>
+    </style>
+    <style name="Color.ActionBarMenuTextStyle" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Menu">
+        <item name="android:textSize">@dimen/actionbar_textsize</item>
+    </style>
+    <style name="Color.ActionBarPopupTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:colorBackground">@color/white</item>
+    </style>
+    <style name="Color.ActionBarTheme" parent="Color.BaseTheme">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:actionBarStyle" ns1:ignore="NewApi">@style/Color.ActionBar</item>
+        <item name="actionBarStyle">@style/Color.ActionBar</item>
+        <item name="android:actionMenuTextAppearance" ns1:ignore="NewApi">@style/Color.ActionBarMenuTextStyle</item>
+        <item name="actionMenuTextAppearance">@style/Color.ActionBarMenuTextStyle</item>
+        <item name="actionBarPopupTheme">@style/Color.ActionBarPopupTheme</item>
+        <item name="android:actionBarPopupTheme" ns1:ignore="NewApi">@style/Color.ActionBarPopupTheme</item>
+    </style>
+    <style name="Color.BaseTheme" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">@color/black</item>
+        <item name="android:colorControlNormal" ns1:ignore="NewApi">@color/black</item>
+    </style>
+    <style name="Color.ToolbarTheme" parent="Color.BaseTheme">
+        <item name="android:windowActionBar" ns1:ignore="NewApi">false</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle" ns1:ignore="NewApi">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.AppCompat.NoActionBar.Translucent" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/opaque</item>
+    </style>
+</resources>

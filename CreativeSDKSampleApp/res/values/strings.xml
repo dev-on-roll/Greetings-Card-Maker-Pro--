@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spincolor">
+        <item> Theme 1 : Purple </item>
+        <item> Theme 2 : Red </item>
+        <item> Theme 3 : Teal </item>
+        <item> Theme 4 : Pink </item>
+        <item> Adobe Themes </item>
+    </string-array>
+    <string-array name="spinsize">
+        <item> Small </item>
+        <item> Medium </item>
+        <item> Large </item>
+    </string-array>
+    <string name="app_name">Greetings(Card Maker Pro)</string>
+    <string name="action_login">login</string>
+    <string name="action_logout">logout</string>
+    <string name="asset_browser">Asset Browser</string>
+    <string name="behance_publish">Behance Publish</string>
+	<string name="launch_header">LAUNCH COMPONENTS</string>
+    <string name="selection_header">Selected Files</string>
+
+    <string name="IDS_WELCOME">Welcome to Creative Cloud</string>
+    <string name="IDS_GET_STARTED">Get started by signing in or creating a new Adobe ID.</string>
+    <string name="IDS_SIGN_IN">SIGN IN WITH YOUR ADOBE ID</string>
+    <string name="IDS_SIGN_UP">SIGN UP FOR ADOBE ID</string>
+    <string name="app_library">App Library</string>
+    <string name="title_activity_display_message">My Message</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

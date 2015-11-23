@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="alertdialogpro-core-0.2.3">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/build/intermediates/exploded-aar/com.github.fengdai/alertdialogpro-core/0.2.3/res" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/com.github.fengdai/alertdialogpro-core/0.2.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.fengdai/alertdialogpro-core/0.2.3/e0e81683317edf32a38bf933711f4a87f4b6d686/alertdialogpro-core-0.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.adobe.creativesdk.sample"
+    android:versionCode="329"
+    android:versionName="0.7.329" >
+
+    <uses-sdk
+        android:maxSdkVersion="21"
+        android:minSdkVersion="14"
+        android:targetSdkVersion="21" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:name="com.adobe.creativesdk.sample.CreativeSDKSampleApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/greetings"
+        android:label="@string/app_name"
+        android:largeHeap="true" >
+        <activity
+            android:name="com.adobe.creativesdk.sample.CreativeSDKSampleActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AdobeCSDKThemeActivity" >
+        </activity>
+        <activity
+            android:name="com.adobe.creativesdk.sample.CreativeSDKSampleGridViewActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AdobeCSDKThemeActivity" >
+        </activity>
+        <activity
+            android:name="com.adobe.creativesdk.sample.CreativeSDKSampleColorActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AdobeCSDKThemeActivity" >
+        </activity>
+        <activity
+            android:name="com.adobe.creativesdk.sample.CreativeSDKSampleBehanceActivity"
+            android:label="Behance"
+            android:theme="@style/AdobeCSDKThemeActivity" >
+        </activity>
+        <activity android:name="com.adobe.creativesdk.sample.MainActivity" >
+        </activity>
+        <activity android:name="com.adobe.creativesdk.sample.Step2" >
+        </activity>
+        <activity android:name="com.adobe.creativesdk.sample.Step3" >
+        </activity>
+        <activity
+            android:name="com.adobe.creativesdk.sample.Main2Activity"
+            android:theme="@style/Theme.AppCompat.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.behance.sdk.ui.activities.BehanceSDKPublishProjectActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/BsdkAddProjectActivityTheme" >
+        </activity>
+        <activity
+            android:name="com.behance.sdk.ui.activities.BehanceSDKCreateProjectWFActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/BsdkAddProjectActivityTheme" >
+        </activity>
+        <activity
+            android:name="com.behance.sdk.ui.activities.BehanceSDKCreateWIPWorkflowActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/BsdkAddWIPActivityTheme" >
+        </activity>
+        <activity
+            android:name="com.behance.sdk.ui.activities.BehanceSDKPublishWIPActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/BsdkAddWIPActivityTheme" >
+        </activity>
+        <activity
+            android:name="com.behance.sdk.ui.activities.BehanceSDKPublishResultsActivity"
+            android:theme="@style/BsdkPublishResultsActivityTheme" >
+        </activity>
+        <activity
+            android:name="com.behance.sdk.ui.activities.BehanceSDKEditProfileActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/BsdkEditProfileActivityTheme" >
+        </activity>
+        <activity
+            android:name="com.facebook.LoginActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/BsdkFacebookLoginActivityTheme" >
+        </activity>
+        <activity
+            android:name="com.behance.sdk.ui.activities.BehanceSDKLoginToTwitterActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.behance.sdk.ui.activities.BehanceSDKUnlinkSocialAccountActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:theme="@style/BsdkUnlinkSocialAccountActivityTheme" >
+        </activity>
+        <activity
+            android:name="com.behance.sdk.ui.activities.BehanceSDKAdobeCloudSelectionActivity"
+            android:theme="@style/BsdkAdobeCloudSelectionViewTheme" >
+        </activity>
+        <activity
+            android:name="com.behance.sdk.ui.activities.BehanceSDKCCLauncherActivity"
+            android:theme="@style/BsdkAdobeCCLauncherActivityTheme" >
+        </activity>
+
+        <service android:name="com.behance.sdk.services.BehanceSDKPublishProjectService" />
+        <service android:name="com.behance.sdk.services.BehanceSDKPublishWIPService" />
+
+        <activity
+            android:name="com.adobe.creativesdk.foundation.internal.storage.controllers.AdobeUXAssetOneUpViewerActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:theme="@style/AdobeAssetViewerLightTheme" />
+        <activity
+            android:name="com.adobe.creativesdk.foundation.internal.storage.controllers.AdobeUXPhotoAssetOneUpViewerActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:theme="@style/AdobeAssetViewerLightTheme" />
+        <activity
+            android:name="com.adobe.creativesdk.foundation.internal.storage.controllers.AdobeUxAssetBrowserV2Activity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:theme="@style/AdobeCSDKThemeActivity" />
+        <activity
+            android:name="com.adobe.creativesdk.foundation.internal.storage.controllers.AdobeUXAssetVideoActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:theme="@style/AdobeAssetViewerLightTheme" >
+        </activity>
+        <activity
+            android:name="com.adobe.creativesdk.foundation.internal.storage.controllers.AdobeUXLibraryItemCollectionOneUpViewerActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:theme="@style/AdobeAssetViewerLightTheme" >
+        </activity>
+        <activity
+            android:name="com.adobe.creativesdk.foundation.internal.storage.controllers.AdobeUXMobilePackageItemOneUpViewerActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:theme="@style/AdobeAssetViewerLightTheme" >
+        </activity>
+        <activity
+            android:name="com.adobe.creativesdk.foundation.internal.storage.controllers.AdobeUXCompositionOneUpViewerActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:theme="@style/AdobeAssetViewerLightTheme" >
+        </activity>
+        <activity
+            android:name="com.adobe.creativesdk.foundation.internal.storage.controllers.edit.AdobeAssetEditActivity"
+            android:configChanges="orientation|screenSize"
+            android:exported="false"
+            android:theme="@style/AdobeEditThemeActivity" >
+        </activity>
+        <activity
+            android:name="com.adobe.creativesdk.foundation.internal.auth.AdobeAuthSignInActivity"
+            android:exported="false"
+            android:label="@string/creative_cloud"
+            android:multiprocess="true"
+            android:theme="@style/AdobeCSDKThemeActivity"
+            android:windowSoftInputMode="stateUnchanged|adjustPan|adjustResize" >
+        </activity>
+        <activity
+            android:name="com.adobe.creativesdk.color.internal.ui.activity.ColorThemeEditActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Color.ToolbarTheme" />
+        <activity
+            android:name="com.adobe.creativesdk.color.internal.ui.activity.ColorComponentActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Color.ActionBarTheme" />
+        <activity
+            android:name="com.adobe.creativesdk.color.internal.ui.activity.LibraryColorItemsListActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Color.ToolbarTheme" />
+        <activity
+            android:name="com.adobe.creativesdk.color.internal.ui.activity.LibraryChooserActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Color.ActionBarTheme" />
+        <activity
+            android:name="com.adobe.creativesdk.color.internal.ui.activity.EditNameActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar.Translucent"
+            android:windowSoftInputMode="stateVisible|adjustResize" />
+        <activity
+            android:name="com.adobe.creativesdk.color.internal.ui.activity.DeleteColorItemConfirmActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar.Translucent" />
+
+        <service android:name="com.adobe.creativesdk.foundation.internal.auth.authenticator.AdobeCSDKAdobeIDAuthenticatorService" >
+            <intent-filter>
+                <action android:name="android.accounts.AccountAuthenticator" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.accounts.AccountAuthenticator"
+                android:resource="@xml/adobeid_authenticator_description" />
+        </service>
+
+        <activity
+            android:name="com.adobe.creativesdk.foundation.applibrary.internal.AppLibraryActivity"
+            android:theme="@style/AppLibraryTheme" />
+        <activity
+            android:name="com.adobe.creativesdk.foundation.applibrary.internal.ActionResolverActivity"
+            android:documentLaunchMode="never"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:finishOnCloseSystemDialogs="true"
+            android:relinquishTaskIdentity="true"
+            android:theme="@style/BottomSheet.Light" />
+    </application>
+
+</manifest>

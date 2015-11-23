@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/storage_assetcell_background_card"
+    android:orientation="vertical"
+    >
+
+    <com.adobe.creativesdk.foundation.internal.storage.controllers.utils.AdobeDesignItemDynamicHeightView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <RelativeLayout
+            android:id="@+id/library_collection_cell_color"
+            android:layout_width="@dimen/adobe_library_collection_cell_color_width"
+            android:layout_height="@dimen/adobe_library_collection_cell_color_width"
+            android:layout_centerInParent="true"
+            >
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/library_collection_cell_colortheme"
+            android:layout_width="@dimen/adobe_library_collection_cell_colortheme_width"
+            android:layout_height="@dimen/adobe_library_collection_cell_colortheme_height"
+            android:layout_centerInParent="true"
+            android:orientation="horizontal"
+            >
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+            </RelativeLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/library_collection_cell_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+        </ImageView>
+
+
+
+    </com.adobe.creativesdk.foundation.internal.storage.controllers.utils.AdobeDesignItemDynamicHeightView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/adobe_library_collection_cell_title_bar"
+        android:orientation="horizontal"
+        >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="@dimen/adobe_library_items_color_text_left_margin">
+
+            <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+                android:id="@+id/library_collection_cell_main_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/adobe_library_items_color_text_size"
+                android:textColor="@color/adobe_csdk_theme_color_dark_text"
+                android:singleLine="true"
+                android:ellipsize="middle"
+                />
+
+            <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+                android:id="@+id/library_collection_cell_count_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/adobe_library_items_color_text_size"
+                android:textColor="@color/adobe_csdk_theme_color_light_text"
+                android:singleLine="true"
+                android:ellipsize="middle"
+                />
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/folder_forward_icon"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="7dp"
+            android:layout_gravity="center_vertical">
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
+
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_library_collection_cell.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/layout/adobe_library_collection_cell.xml -->

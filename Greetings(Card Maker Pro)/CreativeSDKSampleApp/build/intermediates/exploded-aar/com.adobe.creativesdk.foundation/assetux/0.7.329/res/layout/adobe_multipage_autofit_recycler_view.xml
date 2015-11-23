@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <com.adobe.creativesdk.foundation.internal.storage.controllers.multipage.AutofitRecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/multipage_recyclerview"
+        android:layout_marginTop="13dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+
+        android:columnWidth="@dimen/asset_multipage_gridview_column_width"
+        android:clipToPadding="false">
+    </com.adobe.creativesdk.foundation.internal.storage.controllers.multipage.AutofitRecyclerView>
+
+    <RelativeLayout
+        android:id="@+id/asset_one_up_multi_page_recycler_section_container"
+        android:layout_width="wrap_content"
+        android:layout_height="34dp"
+        android:background="@drawable/rounded_rectangle"
+        android:paddingRight="7dp"
+        android:alpha="0.7"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="15dp"
+        android:visibility="gone">
+        <ImageView
+            android:id="@+id/page_indicator_recycler_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/page_numbering_header_grid"
+            android:layout_centerVertical="true"
+            android:paddingTop="1dp"
+            android:paddingLeft="19dp"
+            android:paddingRight="7dp"/>
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            android:layout_toRightOf="@id/page_indicator_recycler_view"
+            android:id="@+id/asset_one_up_multi_page_recycler_section_textview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:textSize="16sp"
+            android:text="12 of 12"
+            android:textColor="@android:color/white"
+            android:visibility="visible"/>
+    </RelativeLayout>
+
+
+    <include layout="@layout/asset_viewer_no_internet_connection" android:id="@+id/asset_viewer_no_internet_connection" android:visibility="gone"/>
+    <include layout="@layout/adobe_common_popup_bannerview" android:id="@+id/gridview_container_no_network_notification_bar" android:visibility="gone"/>
+
+    <ProgressBar
+        android:id="@+id/asset_image_progressbar_new"
+        android:background="@drawable/spinner_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone"/>
+
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_multipage_autofit_recycler_view.xml -->

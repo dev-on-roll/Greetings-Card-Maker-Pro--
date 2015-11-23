@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-sw600dp-land/values-sw600dp-land.xml -->
+    <eat-comment/>
+    <integer name="adobe_auth_view_height">80</integer>
+</resources>

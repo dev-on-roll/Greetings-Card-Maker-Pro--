@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/bsdk_bg_spinner_pressed_padded" android:state_focused="true" android:state_pressed="false"/>
+    <item android:drawable="@drawable/bsdk_bg_spinner_pressed_padded" android:state_focused="true" android:state_pressed="true"/>
+    <item android:drawable="@drawable/bsdk_bg_spinner_pressed_padded" android:state_focused="false" android:state_pressed="true"/>
+    <item android:drawable="@drawable/bsdk_bg_spinner_default_padded"/>
+
+</selector><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/drawable/bsdk_selector_location_spinner_bg.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/drawable/bsdk_selector_location_spinner_bg.xml -->

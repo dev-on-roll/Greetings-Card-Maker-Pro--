@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="ASSET_BROWSER_COLLABORATION_ACCEPT">接受</string>
+    <string name="ASSET_BROWSER_COLLABORATION_REJECT">拒絕</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="Analogus">類比</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="CANCEL_UPLOAD_ASSET_BROWSER_BUTTON">取消上傳</string>
+    <string name="COLLABORATE_INVITE_EDIT_TEXT_HINT">新增電子郵件地址</string>
+    <string name="COLLABORATION_ALREADY_USED">早已註冊電子郵件地址</string>
+    <string name="COLLABORATION_DELETE_MESSAGE">是否要刪除此協作者？</string>
+    <string name="COLLABORATION_INVALID_EMAIL">電子郵件地址無效</string>
+    <string name="COLLABORATION_INVITATION_DELETE_ERROR">無法刪除邀請</string>
+    <string name="COLLABORATION_INVITATION_DELETE_MESSAGE">是否要刪除此邀請？</string>
+    <string name="COLLABORATION_INVITE">新增</string>
+    <string name="COLLABORATION_INVITEE">(已邀請)</string>
+    <string name="COLLABORATION_INVITE_CANCEL">取消</string>
+    <string name="COLLABORATION_INVITE_ERROR_MESSAGE">無法完成邀請</string>
+    <string name="COLLABORATION_OWNER">(擁有者)</string>
+    <string name="COLLABORATION_SELF_DELETE_MESSAGE">您要離開此資料夾嗎？</string>
+    <string name="COLLABORATOR_DELETE_NEGATIVE_BUTTON">取消</string>
+    <string name="COLLABORATOR_DELETE_POSITIVE_BUTTON">刪除</string>
+    <string name="CREATE_NEW_FOLDER_BUTTON_CANCEL">取消</string>
+    <string name="CREATE_NEW_FOLDER_BUTTON_CREATE">建立</string>
+    <string name="CREATE_NEW_FOLDER_DIALOG_TITLE">建立新資料夾</string>
+    <string name="CREATE_NEW_FOLDER_EDIT_TEXT_HINT">資料夾名稱</string>
+    <string name="CREATE_NEW_FOLDER_TITLE">建立新資料夾</string>
+    <string name="CREATE_NEW_INVITE_TITLE">新增協作者</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="Complementary">互補</string>
+    <string name="Compound">組合</string>
+    <string name="Custom">自訂</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="IDS_ACTION_VIEW_COMMENT">回應</string>
+    <string name="IDS_ACTION_VIEW_EDIT_ANNOTATION">編輯註解</string>
+    <string name="IDS_ACTION_VIEW_FILE_DETAILS">資訊</string>
+    <string name="IDS_ACTION_VIEW_PUBLISH_TO_BEHANCE">發佈至 Behance</string>
+    <string name="IDS_ACTION_VIEW_SHARE">分享</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">所有應用程式</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">所有類別都已排除</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">獲取</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">類別</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">排序</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">瀏覽不斷成長的創意應用程式庫，這些應用程式不僅與 Creative Cloud 相容還連接在一起。</string>
+    <string name="IDS_APPLIBRARY_ERROR">應用程式庫目前無法使用。請稍後再試以探索不斷成長的創意應用庫。</string>
+    <string name="IDS_APPLIBRARY_FEATURED">精選</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">最高評分</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">最新動態</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">此類別找不到應用程式。</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">未找到應用程式。</string>
+    <string name="IDS_APPLIBRARY_TITLE">應用程式庫</string>
+    <string name="IDS_APP_GET">安裝</string>
+    <string name="IDS_APP_OPEN">開啟</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="IDS_ASSET_DETAILS_FILE_DETAILS">檔案詳細資訊</string>
+    <string name="IDS_ASSET_DETAILS_HEIGHT">高度</string>
+    <string name="IDS_ASSET_DETAILS_KB">KB</string>
+    <string name="IDS_ASSET_DETAILS_MB">MB</string>
+    <string name="IDS_ASSET_DETAILS_MODIFIED">修改</string>
+    <string name="IDS_ASSET_DETAILS_PX">像素</string>
+    <string name="IDS_ASSET_DETAILS_SIZE">大小</string>
+    <string name="IDS_ASSET_DETAILS_UPLOADED">已上傳</string>
+    <string name="IDS_ASSET_DETAILS_WIDTH">寬度</string>
+    <string name="IDS_ASSET_DETAILS_ZERO_MB">0MB</string>
+    <string name="IDS_ASSET_DETAILS_ZERO_PX">0px</string>
+    <string name="IDS_ASSET_VIEWER_NO_PREVIEW_AVAILABLE">無預覽可用</string>
+    <string name="IDS_ASSET_VIEWER_OF">/</string>
+    <string formatted="false" name="IDS_ASSET_VIEWER_OF_2">%s / %s</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="IDS_BY">由</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="IDS_CAPTION_COLLATION_FOLDERS_HEADER">資料夾</string>
+    <string name="IDS_CAPTION_COLLATION_UNKNOWN_DATE">不詳</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_DATE">%s 已更新</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_LAST_WEEK">上週已更新</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_THIS_MONTH">本月已更新</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_THIS_WEEK">本週已更新</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_TODAY">今天已更新</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="IDS_CATEGORY_AUDIO">音訊</string>
+    <string name="IDS_CATEGORY_CAPTURE">擷取</string>
+    <string name="IDS_CATEGORY_COMMUNITY">社群</string>
+    <string name="IDS_CATEGORY_DESIGN">設計</string>
+    <string name="IDS_CATEGORY_DRAWING">繪圖</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">繪圖</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">影像編輯</string>
+    <string name="IDS_CATEGORY_PHOTOS">相片</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">相片與視訊</string>
+    <string name="IDS_CATEGORY_PRESENTATION">簡報</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">生產力</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">製作原型</string>
+    <string name="IDS_CATEGORY_SOCIAL">社交</string>
+    <string name="IDS_CATEGORY_STORAGE">儲存空間</string>
+    <string name="IDS_CATEGORY_STORY">說故事</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">UI/UX 設計</string>
+    <string name="IDS_CATEGORY_UTILITY">工具</string>
+    <string name="IDS_CATEGORY_VIDEO">視訊</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="IDS_COMMENT_ERROR_MSG">%s 條註解無法刪除</string>
+    <string name="IDS_COMMENT_INSERTION_ERROR_MSG">無法新增回應</string>
+    <string name="IDS_COMMENT_SINGLE_ERROR_MSG">%s 條註解無法刪除</string>
+    <string name="IDS_COMMENT_SINGLE_SUCCESS_MSG">%s 條回應成功刪除</string>
+    <string name="IDS_COMMENT_SUCCESS_MSG">%s 條註解成功刪除</string>
+    <string name="IDS_COMMENT_UPDATE_MSG">%d 註解已插入</string>
+    <string name="IDS_COMMENT_UPDATE_MSG_SINGLE">%d 條回應已插入</string>
+    <string name="IDS_DELETE_ERROR_MSG">%s 項目無法刪除</string>
+    <string name="IDS_DELETE_SINGLE_ERROR_MSG">%s 項目無法刪除</string>
+    <string name="IDS_DELETE_SINGLE_SUCCESS_MSG">%s 項目已成功刪除</string>
+    <string name="IDS_DELETE_SUCCESS_MSG">%s 項目已成功刪除</string>
+    <string name="IDS_EDIT_ERROR_DGL_TITLE">編輯錯誤</string>
+    <string name="IDS_EDIT_ERROR_MSG">%s 個項目無法編輯</string>
+    <string name="IDS_EDIT_SINGLE_ERROR_MSG">%s 個項目無法編輯</string>
+    <string name="IDS_EDIT_SINGLE_SUCCESS_MSG">%s 個項目成功編輯</string>
+    <string name="IDS_EDIT_SUCCESS_MSG">%s 個項目成功編輯</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-zh-rTW/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_GET_STARTED">以登入或建立新 Adobe ID 開始使用。</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="IDS_INVITATION_ERROR_MSG">%s 邀請無法處理</string>
+    <string name="IDS_INVITATION_SINGLE_ERROR_MSG">%s 邀請無法處理</string>
+    <string name="IDS_INVITATION_SINGLE_SUCCESS_MSG">%s 邀請成功處理</string>
+    <string name="IDS_INVITATION_SUCCESS_MSG">%s 邀請成功處理</string>
+    <string name="IDS_MOVE_ERROR_MSG">%s 無法移動項目</string>
+    <string name="IDS_MOVE_SINGLE_ERROR_MSG">無法移動 %s 項目</string>
+    <string name="IDS_MOVE_SINGLE_SUCCESS_MSG">已成功移動 %s 項目</string>
+    <string name="IDS_MOVE_SUCCESS_MSG">%s 已成功移動項目</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="IDS_PLEASE_WAIT">請稍候…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="IDS_SAVE_TO_DEVICE_CANCELLED_NOTIFICATION_TEXT">%d 檔案已取消</string>
+    <string name="IDS_SAVE_TO_DEVICE_CANCELLED_NOTIFICATION_TITLE">下載已取消</string>
+    <string name="IDS_SAVE_TO_DEVICE_CANCEL_TEXT">取消</string>
+    <string name="IDS_SAVE_TO_DEVICE_COMPLETE_NOTIFICATION_TEXT">%d 檔案已下載</string>
+    <string name="IDS_SAVE_TO_DEVICE_COMPLETE_NOTIFICATION_TITLE">下載完成</string>
+    <string name="IDS_SAVE_TO_DEVICE_ERROR_NOTIFICATION_TEXT">%d 檔案無法下載</string>
+    <string name="IDS_SAVE_TO_DEVICE_ERROR_NOTIFICATION_TITLE">下載發生錯誤</string>
+    <string formatted="false" name="IDS_SAVE_TO_DEVICE_NOTIFICATION_TEXT">%d 檔案剩餘</string>
+    <string name="IDS_SAVE_TO_DEVICE_NOTIFICATION_TITLE">儲存至裝置</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-zh-rTW/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_SIGN_IN">使用您的 ADOBE ID 登入</string>
+    <string name="IDS_SIGN_UP">註冊 ADOBE ID</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">通訊</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">合輯</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">比賽</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">繪圖</string>
+    <string name="IDS_SUBCATEGORY_EDITING">編輯</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">電子郵件</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">回饋</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">檔案共用</string>
+    <string name="IDS_SUBCATEGORY_FONTS">字體</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">供聘用</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">產生</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">圖樣</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">相片編輯</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">攝影</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">產品組合</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">印刷</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">製作原型</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">社交網路</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">講故事</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">向量圖</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">網站</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="IDS_UPLOAD_ERROR_DGL_TITLE">上傳錯誤</string>
+    <string name="IDS_UPLOAD_ERROR_MSG">%s 檔案無法上傳</string>
+    <string name="IDS_UPLOAD_SINGLE_ERROR_MSG">%s 檔案無法上傳</string>
+    <string name="IDS_UPLOAD_SINGLE_SUCCESS_MSG">%s 檔案成功上傳</string>
+    <string name="IDS_UPLOAD_SUCCESS_MSG">%s 檔案成功上傳</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-zh-rTW/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_WELCOME">歡迎使用 Creative Cloud</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="Monochromatic">單彩</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="NOTIFICATION_ACCEPT_FAILURE">無法完成接受工作流程</string>
+    <string name="NOTIFICATION_INVITATION">已邀請您至分享的資料夾 </string>
+    <string name="NOTIFICATION_JOINED">您已加入 </string>
+    <string name="NOTIFICATION_NOT_FOUND">找不到通知</string>
+    <string name="NOTIFICATION_REJECTED">您已拒絕邀請 </string>
+    <string name="NOTIFICATION_REJECT_FAILURE">無法完成拒絕的工作流程</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="OK">確定</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="SHARE_WITH_OPTIONS_TITLE">分享對象</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="Shades">色度</string>
+    <string name="Triad">三分色</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="UPLOAD_ASSET_BROWSER_BUTTON">上傳檔案</string>
+    <string name="UPLOAD_ASSET_FROM_CAMERA_BUTTON">拍照</string>
+    <string name="UPLOAD_IMAGE_TO_LIBRARY_MENU_TITLE">上傳影像</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">在 中編輯</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"瀏覽首頁"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"選擇分享對象"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"與「%s」分享"</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-zh-rTW/strings.xml -->
+    <eat-comment/>
+    <string name="action_login">登入</string>
+    <string name="action_logout">登出</string>
+    <string name="action_settings">Settings</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="add_collaborator">新增協作者</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="add_color"> 顏色</string>
+    <string name="add_theme">新增主題</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="adobe_360_capture">擷取</string>
+    <string name="adobe_360_edit">編輯</string>
+    <string name="adobe_360_embed">嵌入</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="adobe_asset_edit_in_progress">編輯進行中</string>
+    <string name="adobe_asset_edit_rename_button">重新命名</string>
+    <string name="adobe_asset_move_error_same_location">錯誤：-移動操作的目標和來源位置相同</string>
+    <string name="adobe_asset_view_add_annotation_dialog_hint_text">撰寫回應</string>
+    <string name="adobe_asset_view_add_annotation_dialog_negative_button">取消</string>
+    <string name="adobe_asset_view_add_annotation_dialog_positive_button">傳送</string>
+    <string name="adobe_asset_view_add_annotation_dialog_title">新增註解</string>
+    <string name="adobe_asset_view_add_comments_dialog_error_message">新增回應時發生錯誤</string>
+    <string name="adobe_asset_view_add_comments_dialog_hint_text">撰寫回應</string>
+    <string name="adobe_asset_view_add_comments_dialog_negative_button">取消</string>
+    <string name="adobe_asset_view_add_comments_dialog_positive_button">傳送</string>
+    <string name="adobe_asset_view_add_comments_dialog_title">新增回應</string>
+    <string name="adobe_asset_view_comments_title">回應</string>
+    <string name="adobe_asset_view_dialog_fetch_link">提取連結…</string>
+    <string name="adobe_asset_view_edit_delete_button">刪除</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_file">是否要刪除此檔案？</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_folder">是否要刪除此資料夾？</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_multi_select">您是否要刪除此 %d 項目？</string>
+    <string name="adobe_asset_view_edit_delete_dialog_negative_button">取消</string>
+    <string name="adobe_asset_view_edit_delete_dialog_positive_button">刪除</string>
+    <string name="adobe_asset_view_edit_download_button">儲存至裝置</string>
+    <string name="adobe_asset_view_edit_fragment_edit_button">編輯</string>
+    <string name="adobe_asset_view_edit_fragment_erase_button">刪除</string>
+    <string name="adobe_asset_view_edit_fragment_move_button">移動</string>
+    <string name="adobe_asset_view_edit_fragment_title">選擇項目</string>
+    <string name="adobe_asset_view_edit_move_button">移動</string>
+    <string name="adobe_asset_view_edit_rename_dialog_error_message">編輯名稱時發生錯誤</string>
+    <string name="adobe_asset_view_edit_rename_dialog_hint_text">新名稱</string>
+    <string name="adobe_asset_view_edit_rename_dialog_negative_button">取消</string>
+    <string name="adobe_asset_view_edit_rename_dialog_positive_button">編輯</string>
+    <string name="adobe_asset_view_edit_rename_dialog_title">編輯名稱</string>
+    <string name="adobe_asset_view_error_fetch_link">無法提取連結</string>
+    <string name="adobe_asset_view_move_fragment_title">選擇資料夾</string>
+    <string name="adobe_asset_view_multi_page_count">%d 頁面</string>
+    <string formatted="false" name="adobe_asset_view_multi_page_numbering">%d / %d </string>
+    <string name="adobe_asset_view_no_comments_found">找不到回應</string>
+    <string name="adobe_asset_view_send_link_button">傳送連結</string>
+    <string name="adobe_asset_view_show_annotation_dialog_button">了解</string>
+    <string name="adobe_assetbrowser_edit_delete_confirm">是否要刪除此檔案？</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="adobe_auth_sign_in_close">關閉</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="adobe_cloud_not_reachable_no_internet_connection">Unable to connect to the Creative Cloud.\n Please check your internet connection and try again</string>
+    <string name="adobe_cloud_not_reachable_private_cloud">您試圖存取的 Creative Cloud 服務無法使用。\n請檢查您的 VPN 連線後再試一次。</string>
+    <string name="adobe_cloud_not_reachable_public_cloud">您試圖存取的 Creative Cloud 服務無法使用。\n請再試一次。</string>
+    <string name="adobe_cloud_not_reachable_retry">重試</string>
+    <string name="adobe_common_error_folder_invalid_chars">無效資料夾名稱</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="adobe_common_error_view_no_internet_connection">無網際網路連線</string>
+    <string name="adobe_common_error_view_unknown_authenticate_error">驗證時發生錯誤。\n請稍候再試。</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="adobe_common_error_while_creating_folder">無法建立資料夾</string>
+    <string name="adobe_composition_collection_plural">構成</string>
+    <string name="adobe_composition_collection_singular">構成</string>
+    <string name="adobe_comps_empty_collection">您還沒有任何合成</string>
+    <string name="adobe_design_library_collection_count">資產 %s</string>
+    <string name="adobe_design_library_collection_count_single">資產 1</string>
+    <string name="adobe_design_library_empty_collection">Creative Cloud Library 空白</string>
+    <string name="adobe_design_library_header_brushes">筆刷 (%s)</string>
+    <string name="adobe_design_library_header_color">色彩 (%s)</string>
+    <string name="adobe_design_library_header_colortheme">色彩主題 (%s)</string>
+    <string name="adobe_design_library_header_graphics">繪圖 (%s)</string>
+    <string name="adobe_design_library_header_layoutstyle">圖層樣式 (%s)</string>
+    <string name="adobe_design_library_header_looks">LOOK (%s)</string>
+    <string name="adobe_design_library_header_textstyle">文字樣式 (%s)</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="adobe_error_not_entitled_to_video">"關於使用者的訊息未標示在視訊裡供預覽。"</string>
+    <string name="adobe_id_authenticator_accesslabel">Adobe ID 帳號的完全存取</string>
+    <string name="adobe_id_authenticator_add_account_error_onlyone">只支援一個 Adobe ID</string>
+    <string name="adobe_id_authenticator_settings_label">Adobe</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="adobe_lineordrawcollection_plural">繪圖</string>
+    <string name="adobe_lineordrawcollection_singular">繪圖</string>
+    <string name="adobe_mobilecreation_item_download">下載</string>
+    <string name="adobe_mobilecreations_empty_collection">您還沒有任何繪畫</string>
+    <string name="adobe_mobilecreations_package_count">%s 資產</string>
+    <string name="adobe_mobilecreations_sort">依匯入日期排序</string>
+    <string name="adobe_my_libraries_empty_collection">您還沒有任何設計庫</string>
+    <string formatted="false" name="adobe_notification_activities_comments">%s 回應在 %s</string>
+    <string name="adobe_notification_activities_comments_self">您已對 %s 回應</string>
+    <string formatted="false" name="adobe_notification_activities_invitation_accept">%s 已加入 %s</string>
+    <string name="adobe_notification_activities_invitation_accept_single">您已加入 %s</string>
+    <string name="adobe_notification_activities_section_header_single">活動</string>
+    <string name="adobe_notification_activities_self">您</string>
+    <string name="adobe_notification_activity_timestamp_day_single">1 天前</string>
+    <string name="adobe_notification_activity_timestamp_days_multiple">%d 天前</string>
+    <string name="adobe_notification_activity_timestamp_hour_single">1 小時前</string>
+    <string name="adobe_notification_activity_timestamp_hours_multiple">%d 小時前</string>
+    <string name="adobe_notification_activity_timestamp_less_than_minute">不到一分鐘前</string>
+    <string name="adobe_notification_activity_timestamp_minute">%d 分鐘前</string>
+    <string name="adobe_notification_activity_timestamp_year_multiple">%d 年前</string>
+    <string name="adobe_notification_activity_timestamp_year_single">1 年前</string>
+    <string name="adobe_notification_invitation_message">已邀請您至共用資料夾 「%s」</string>
+    <string name="adobe_notification_invitation_section_header">邀請 (%d)</string>
+    <string name="adobe_notification_invitation_section_header_single">邀請 (1)</string>
+    <string name="adobe_notification_operation_collaborated_folder_error">無法載入收集</string>
+    <string name="adobe_notification_operation_comment_error">無法載入資產</string>
+    <string name="adobe_psmix_collection_plural">相片構成</string>
+    <string name="adobe_psmix_collection_singular">相片構成</string>
+    <string name="adobe_sdk_main_root_collection">檔案</string>
+    <string name="adobe_sketchCollection_plural">素描</string>
+    <string name="adobe_sketchCollection_singular">素描</string>
+    <string name="adobe_sketches_empty_collection">您還沒有任何素描</string>
+    <string name="adobe_storage_no_folders_found">找不到資料夾</string>
+    <string name="adobe_uxassetbrowser_action_asgrid">以方格檢視</string>
+    <string name="adobe_uxassetbrowser_action_aslist">以清單檢視</string>
+    <string name="adobe_uxassetbrowser_action_collaborate">協作</string>
+    <string name="adobe_uxassetbrowser_action_edit_asset">編輯</string>
+    <string name="adobe_uxassetbrowser_action_sort_alpha">按字母排序</string>
+    <string name="adobe_uxassetbrowser_action_sort_date">按日期排序</string>
+    <string name="adobe_uxassetbrowser_comps">COMP CC</string>
+    <string name="adobe_uxassetbrowser_create_new_folder">建立新資料夾</string>
+    <string name="adobe_uxassetbrowser_csdk_myassets_main">我的資產</string>
+    <string name="adobe_uxassetbrowser_csdk_mylibraries">我的設計庫</string>
+    <string name="adobe_uxassetbrowser_designlibrary">設計庫</string>
+    <string name="adobe_uxassetbrowser_download_cancelled">已取消下載 %s</string>
+    <string name="adobe_uxassetbrowser_download_description">Adobe Creative Cloud</string>
+    <string name="adobe_uxassetbrowser_download_directory">Creative Cloud</string>
+    <string name="adobe_uxassetbrowser_download_error">下載時出錯 %s</string>
+    <string name="adobe_uxassetbrowser_download_io_failure"> %s 的下載因為 IO 出錯而失敗</string>
+    <string name="adobe_uxassetbrowser_download_successful"> %s 已下載</string>
+    <string name="adobe_uxassetbrowser_drawings">ILLUSTRATOR DRAW</string>
+    <string name="adobe_uxassetbrowser_file_download_assert_exception">資產檔案無效</string>
+    <string name="adobe_uxassetbrowser_files">檔案</string>
+    <string name="adobe_uxassetbrowser_library_image_download_assert_exception">庫圖像無效</string>
+    <string name="adobe_uxassetbrowser_lines">ILLUSTRATOR LINE</string>
+    <string name="adobe_uxassetbrowser_myacount">我的帳戶</string>
+    <string name="adobe_uxassetbrowser_photo_download_assert_exception">圖片資產無效</string>
+    <string name="adobe_uxassetbrowser_photos">相片</string>
+    <string name="adobe_uxassetbrowser_psmix">PHOTOSHOP MIX</string>
+    <string name="adobe_uxassetbrowser_sdk_myaccount">我的帳戶</string>
+    <string name="adobe_uxassetbrowser_selectfolder_upload">選擇資料夾</string>
+    <string name="adobe_uxassetbrowser_sketches">PHOTOSHOP SKETCH</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="all_colors">所有顏色</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-zh-rTW/strings.xml -->
+    <eat-comment/>
+    <string name="app_library">應用程式庫</string>
+    <string name="app_name">Creative SDK</string>
+    <string name="asset_browser">資產瀏覽器</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="auth_required">Authentication Required</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-zh-rTW/strings.xml -->
+    <eat-comment/>
+    <string name="behance_publish">發佈至 Behance</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="bsdk_add_content_project_cover_selection_title">選取封面</string>
+    <string name="bsdk_add_content_project_publish_adult_content_text">包含成人內容</string>
+    <string name="bsdk_add_content_project_publish_creative_field_hint">選取創意欄位</string>
+    <string name="bsdk_add_content_project_publish_creative_tags_hint">逗號, 分隔, 標籤</string>
+    <string name="bsdk_add_content_project_publish_initiated_msg">正在發佈您的專案.</string>
+    <string name="bsdk_add_content_project_publish_invalid_tag_msg">標籤只能包含英數字元，有無空格皆可</string>
+    <string name="bsdk_add_content_project_publish_project_description_hint">專案描述</string>
+    <string name="bsdk_add_content_project_publish_project_name_hint">為您的專案命名</string>
+    <string name="bsdk_add_content_project_publish_right_navigation">發佈</string>
+    <string name="bsdk_add_content_project_publish_service_initialize_error_msg">啟動服務時發生問題。請稍後再試。</string>
+    <string name="bsdk_add_content_project_publish_share_on">在以下地方分享:</string>
+    <string name="bsdk_add_content_project_publish_title">資訊</string>
+    <string name="bsdk_add_project_copyright_settings_dialog_title_label">版權設定</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_message_txt">您的專案是空的</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_use_action_below_msg">使用下面選項開始</string>
+    <string name="bsdk_add_project_edit_project_fragment_right_navigation">完成</string>
+    <string name="bsdk_add_project_edit_project_fragment_title">編輯</string>
+    <string name="bsdk_add_project_embed_content_edit_text_hint">貼上您的內嵌程式碼</string>
+    <string name="bsdk_add_project_embed_content_error">您的代碼無效。請稍後再試。</string>
+    <string name="bsdk_add_project_embed_content_title">嵌入媒體內容</string>
+    <string name="bsdk_add_project_preview_project_fragment_edit_action">編輯</string>
+    <string name="bsdk_add_project_preview_project_fragment_title">預覽</string>
+    <string name="bsdk_add_wip_new_wip_dialog_desc">為創作中的作品輸入標題</string>
+    <string name="bsdk_add_wip_new_wip_dialog_title">新增標題</string>
+    <string name="bsdk_add_wip_pick_source_view_camera_launch_error">啟動相機擷取圖片時發生問題。請稍後再試一次。</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_action_btn_create_wip_label">新增</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_title_select_wip_label">選取</string>
+    <string name="bsdk_add_wip_view_connection_error_msg">連線時發生問題，請檢查您的網路連線，然後再試一次。</string>
+    <string name="bsdk_addproject_creative_field_filter_dialog_done_btn_label">完成</string>
+    <string name="bsdk_addproject_creative_field_filter_dialog_title_label">領域</string>
+    <string name="bsdk_addproject_creative_fields_popular_category">熱門</string>
+    <string name="bsdk_addproject_custom_actionbar_forward_nav_default_txt">下一步</string>
+    <string name="bsdk_addproject_project_cover_selection_right_nav_crop_txt">套用</string>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_text">您正在從 Creative Cloud 下載資產。您確定要取消嗎?</string>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_title">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_file_download_error">下載檔案 %1$s 時發生問題，請稍後再試。</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_back_nav_content_desc">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_title_label">Creative Cloud</string>
+    <string name="bsdk_cloud_selection_view_back_nav_content_desc">上一頁</string>
+    <string name="bsdk_cloud_selection_view_loading_error_msg">載入帳戶時發生問題，請稍後再試。</string>
+    <string name="bsdk_cloud_selection_view_title">選擇帳戶</string>
+    <string name="bsdk_connection_error_msg">連線時發生問題，請檢查您的網路連線，然後再試一次。</string>
+    <string name="bsdk_copyright_cc_by">著作者標示</string>
+    <string name="bsdk_copyright_cc_by_nc">著作者標示-非商業性</string>
+    <string name="bsdk_copyright_cc_by_nc_nd">著作者標示-非商業性-禁止改作</string>
+    <string name="bsdk_copyright_cc_by_nc_sa">著作者標示-非商業性-相同方式分享</string>
+    <string name="bsdk_copyright_cc_by_nd">著作者標示-禁止改作</string>
+    <string name="bsdk_copyright_cc_by_sa">著作者標示-相同方式分享</string>
+    <string name="bsdk_copyright_creative_commons_header">CREATIVE COMMONS</string>
+    <string name="bsdk_copyright_no_license_header">沒有授權</string>
+    <string name="bsdk_copyright_no_use_at_all">未經明確許可，不得使用</string>
+    <string name="bsdk_edit_profile_ab_save">儲存</string>
+    <string name="bsdk_edit_profile_ab_title">編輯個人檔案</string>
+    <string name="bsdk_edit_profile_avatar_first_name_field_missing_msg">名字為必填</string>
+    <string name="bsdk_edit_profile_avatar_last_name_field_missing_msg">姓氏為必填</string>
+    <string name="bsdk_edit_profile_avatar_required_fields_missing_msg">姓氏和名字為必填</string>
+    <string name="bsdk_edit_profile_avatar_saving_error">設定檔詳細資料已儲存，但儲存設定檔影像時發生問題，請稍後再試一次。</string>
+    <string name="bsdk_edit_profile_editing_error">儲存設定檔詳細資料時發生問題，請稍後再試一次。</string>
+    <string name="bsdk_edit_profile_hint_company">公司</string>
+    <string name="bsdk_edit_profile_hint_first_name">名字</string>
+    <string name="bsdk_edit_profile_hint_last_name">姓氏</string>
+    <string name="bsdk_edit_profile_hint_location">位置</string>
+    <string name="bsdk_edit_profile_hint_occupation">職業 / 職稱</string>
+    <string name="bsdk_edit_profile_hint_website">網站 URL</string>
+    <string name="bsdk_edit_profile_loading_error">載入設定檔詳細資料時發生問題，請稍後再試一次。</string>
+    <string name="bsdk_edit_profile_unsaved_changes_body">所有的變更都將遺失，您確定要結束嗎?</string>
+    <string name="bsdk_edit_profile_unsaved_changes_title">未儲存的變更</string>
+    <string name="bsdk_enterprise_login_warning_actionbar_title">發佈</string>
+    <string name="bsdk_enterprise_login_warning_cancel_button_text">取消</string>
+    <string name="bsdk_enterprise_login_warning_continue_button_text">繼續</string>
+    <string name="bsdk_enterprise_login_warning_text_content">您可以使用 Behance 以團隊成員身分發佈作品，\n但如果您離開組織，將會失去對您作品集\n的存取權</string>
+    <string name="bsdk_enterprise_login_warning_text_header">您目前已使用\nEnterprise ID 登入</string>
+    <string name="bsdk_generic_alert_dialog_cancel_btn_label">取消</string>
+    <string name="bsdk_generic_alert_dialog_ok_btn_label">確定</string>
+    <string name="bsdk_generic_image_content_desc">影像</string>
+    <string name="bsdk_image_cropper_crop_failed_msg">無法裁切影像，請再試一次。</string>
+    <string name="bsdk_image_cropper_failed_to_open_msg">找不到影像，請再試一次。</string>
+    <string name="bsdk_image_selector_view_empty_album_msg">「%1$s」相簿是空的。請嘗試其他相簿。</string>
+    <string name="bsdk_image_selector_view_error_loading_albums_msg">載入相簿時發生問題，請稍後再試。</string>
+    <string name="bsdk_image_selector_view_image_dimensions_invalid_msg">選取的影像尺寸不符合需求</string>
+    <string name="bsdk_image_selector_view_image_dimensions_less_than_min_required_msg">影像至少必須是 %1$s x %2$s。選取的影像為 %3$s x %4$s</string>
+    <string name="bsdk_image_selector_view_image_dimensions_more_than_max_allowed_msg">影像不得超過 %1$s x %2$s。選取的影像為 %3$s x %4$s</string>
+    <string name="bsdk_image_selector_view_image_file_type_allowed_msg">「%1$s」是無效的檔案類型。只允許「%2$s」。</string>
+    <string name="bsdk_image_selector_view_image_file_type_invalid_msg">「%1$s」是無效的檔案類型。</string>
+    <string name="bsdk_image_selector_view_image_file_type_not_allowed_msg">「%1$s」是無效的檔案類型。不允許「%2$s」。</string>
+    <string name="bsdk_image_selector_view_image_size_invalid_msg">選取的影像不符合大小需求</string>
+    <string name="bsdk_image_selector_view_image_size_less_than_min_required_msg">影像太小。檔案大小下限為「%1$s」</string>
+    <string name="bsdk_image_selector_view_image_size_more_than_max_allowed_msg">影像太大。檔案大小上限為「%1$s」</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_cancel_label">取消</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_cancel_label">略過</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_done_label">完成</string>
+    <string name="bsdk_image_selector_view_titlebar_back_nav_content_desc">上一頁</string>
+    <string name="bsdk_image_selector_view_titlebar_title_albums_txt">相簿</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_photos_txt">選取影像</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_single_photo_txt">選取影像</string>
+    <string name="bsdk_license_cc_by">著作者標示</string>
+    <string name="bsdk_license_cc_by_nc">著作者標示非商業性</string>
+    <string name="bsdk_license_cc_by_nc_nd">著作者標示非商業性禁止改作</string>
+    <string name="bsdk_license_cc_by_nc_sa">著作者標示非商業性相同方式分享</string>
+    <string name="bsdk_license_cc_by_nd">著作者標示禁止改作</string>
+    <string name="bsdk_license_cc_by_sa">著作者標示相同方式分享</string>
+    <string name="bsdk_license_no_use_at_all">未經擁有者明確許可，不得擅自使用</string>
+    <string name="bsdk_location_filter_dialog_city_empty_error">請選取有效的城市</string>
+    <string name="bsdk_location_filter_dialog_city_label">城市</string>
+    <string name="bsdk_location_filter_dialog_country_label">國家/地區</string>
+    <string name="bsdk_location_filter_dialog_done_btn_label">完成</string>
+    <string name="bsdk_location_filter_dialog_failed_to_load_error">無法載入位置資料。請稍後再試。</string>
+    <string name="bsdk_location_filter_dialog_state_label">州/省</string>
+    <string name="bsdk_location_filter_dialog_title_label">位置</string>
+    <string name="bsdk_location_filter_dialog_type_city_name_label">輸入城市名稱</string>
+    <string name="bsdk_msg_image_missing">msg_image_missing-behance-addcontent</string>
+    <string name="bsdk_publish_project_from_cc_invalid_file_type">「%1$s」是無效的檔案類型。只允許「%2$s」。</string>
+    <string name="bsdk_publish_project_from_cc_invalid_image_size">%1$s 不符合大小需求。檔案大小上限為「%2$s」。</string>
+    <string name="bsdk_publish_project_service_failure_notification_msg">無法上傳您的專案，「%1$s」。請檢查您的網路連線，然後再試一次。</string>
+    <string name="bsdk_publish_project_service_failure_notification_ticker">在 Behance 上發佈您的專案時發生錯誤</string>
+    <string name="bsdk_publish_project_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_text">正在發佈您的專案</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_publish_on_twitter_msg">來瞧瞧我 \@Behance 作品集上的新專案: %1$s</string>
+    <string name="bsdk_publish_project_service_success_notification_text">點選即可檢視您已發佈的專案</string>
+    <string name="bsdk_publish_project_service_success_notification_ticker">已在 Behance 上發佈您的專案</string>
+    <string name="bsdk_publish_project_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_unknown_failure_notification_msg">目前無法上傳您的專案。請檢查您的網路連線，然後再試一次。</string>
+    <string name="bsdk_publish_results_view_behance_btn_label">在 BEHANCE 上檢視</string>
+    <string name="bsdk_publish_results_view_desc_label">造訪 Behance 以檢視有關您的作品的意見\n並在 Twitter、Facebook 和更多地方分享。</string>
+    <string name="bsdk_publish_results_view_title_label">您的作品已上線！</string>
+    <string name="bsdk_publish_results_view_titlebar_back_nav_content_desc">上一頁</string>
+    <string name="bsdk_publish_results_view_titlebar_title_label">發佈</string>
+    <string name="bsdk_publish_wip_image_required_error_msg">載入要發佈的影像時發生問題。請檢查問題然後再試一次。</string>
+    <string name="bsdk_publish_wip_service_failure_notification_msg">無法上傳您創作中的作品，「%1$s」。請檢查您的網路連線，然後再試一次。</string>
+    <string name="bsdk_publish_wip_service_failure_notification_ticker">在 Behance 上發佈您的創作中作品時發生錯誤</string>
+    <string name="bsdk_publish_wip_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_text">發佈您的創作中作品</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_publish_on_twitter_msg">來瞧瞧我 \@Behance 作品集上的新作品: %1$s</string>
+    <string name="bsdk_publish_wip_service_success_notification_text">點選即可檢視您已發佈的創作中作品</string>
+    <string name="bsdk_publish_wip_service_success_notification_ticker">您的創作中作品已在 Behance 上發佈</string>
+    <string name="bsdk_publish_wip_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_unknown_failure_notification_msg">目前無法上傳您創作中的作品。請檢查您的網路連線，然後再試一次。</string>
+    <string name="bsdk_search_filters_dialog_custom_actionbar_back_nav_default_txt">上一頁</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_body">請登入 Facebook 繼續進行。</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_cancel_btn_label">取消</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_ok_btn_label">確定</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_title">登入 Facebook</string>
+    <string name="bsdk_social_account_fb_auth_failure">向 Facebook 驗證時發生錯誤。請稍後再試。</string>
+    <string name="bsdk_social_account_fb_auth_permissions_failure">權限不足，無法在 Facebook 上分享。</string>
+    <string name="bsdk_social_account_twitter_login_authentication_failure">向 Twitter 驗證時發生錯誤。請稍後再試。</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_body">請登入 Twitter 繼續進行。</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_cancel_btn_label">取消</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_ok_btn_label">確定</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_title">登入 Twitter</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_body">您確定要解除連結 Facebook 帳戶嗎?</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_cancel_btn_label">取消</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_ok_btn_label">確定</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_title">解除連結 Facebook 帳戶</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_body">您確定要解除連結 Twitter 帳戶嗎?</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_cancel_btn_label">取消</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_ok_btn_label">確定</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_title">解除連結 Twitter 帳戶</string>
+    <string name="bsdk_sort_option_featured">精選</string>
+    <string name="bsdk_sort_option_most_appreciated">最受讚賞</string>
+    <string name="bsdk_sort_option_most_discussed">最多討論</string>
+    <string name="bsdk_sort_option_most_followed">最多關注</string>
+    <string name="bsdk_sort_option_most_recent">最新動態</string>
+    <string name="bsdk_sort_option_most_relevant">最相關的</string>
+    <string name="bsdk_sort_option_most_viewed">最常檢視</string>
+    <string name="bsdk_wip_publish_view_adult_content_text">包含成人內容</string>
+    <string name="bsdk_wip_publish_view_publish_initiated_msg">正在發佈您的創作中作品。請查看狀態列的進度。</string>
+    <string name="bsdk_wip_publish_view_publish_invalid_tag_msg">標籤只能包含英數字元，有無空格皆可</string>
+    <string name="bsdk_wip_publish_view_publish_required_fields_missing_msg">請填寫所有必填欄位</string>
+    <string name="bsdk_wip_publish_view_publish_service_initialize_error_msg">啟動服務時發生問題。請稍後再試。</string>
+    <string name="bsdk_wip_publish_view_share_on_fb_content_desc">在 Facebook 上分享</string>
+    <string name="bsdk_wip_publish_view_share_on_twitter_content_desc">在 Twitter 上分享</string>
+    <string name="bsdk_wip_publish_view_share_on_txt">在以下地方分享:</string>
+    <string name="bsdk_wip_publish_view_titlebar_action_btn_publish_label">發佈</string>
+    <string name="bsdk_wip_publish_view_titlebar_back_nav_content_desc">上一頁</string>
+    <string name="bsdk_wip_publish_view_titlebar_title_publish_label">資訊</string>
+    <string name="bsdk_wip_publish_view_wip_desc_hint">詢問意見</string>
+    <string name="bsdk_wip_publish_view_wip_name_hint">新增標題</string>
+    <string name="bsdk_wip_publish_view_wip_tags_hint">逗號, 分隔, 標籤</string>
+    <string name="bsdk_wip_publish_view_wips_loading_label">正在載入 …</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="by">作者：</string>
+    <string name="cancel">取消</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="cancelLogIn">CANCEL</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="cc_title">Creative Cloud</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="clear_history">清空</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="collaboration_create_invite_error">無法建立邀請</string>
+    <string name="collaboration_create_invite_error_network">無法連線至網路</string>
+    <string name="collaboration_delete_failure">無法刪除協作者</string>
+    <string formatted="false" name="collaboration_delete_prompt">刪除 %s？ </string>
+    <string name="collaboration_error">提取協作者時發生錯誤</string>
+    <string name="collaboration_leave_failure">無法離開資料夾</string>
+    <string formatted="false" name="collaboration_leave_prompt">離開 %s？ </string>
+    <string name="collaborator">協作者</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="color_component_activity_actionbar_title">顏色</string>
+    <string name="color_picker_actionbar_title">檢色器</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="com_facebook_image_download_unknown_error">下載圖像時發生非預期的錯誤。</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="com_facebook_internet_permission_error_message">WebView 登入需要網際網路權限</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest 錯誤</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="com_facebook_like_button_liked">說讚</string>
+    <string name="com_facebook_like_button_not_liked">讚</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="com_facebook_loading">正在載入 …</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="com_facebook_loginview_cancel_action">取消</string>
+    <string name="com_facebook_loginview_log_in_button">登入</string>
+    <string name="com_facebook_loginview_log_in_button_long">使用 Facebook 登入</string>
+    <string name="com_facebook_loginview_log_out_action">登出</string>
+    <string name="com_facebook_loginview_log_out_button">登出</string>
+    <string name="com_facebook_loginview_logged_in_as">使用下列身分登入：%1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">已使用 Facebook 登入</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="com_facebook_requesterror_password_changed">您的 Facebook 密碼已變更。請再次登入這個應用程式，重新連接您的 Facebook 帳戶。</string>
+    <string name="com_facebook_requesterror_permissions">此應用程式沒有執行此動作的權限。若要變更權限，請再次嘗試登入應用程式。</string>
+    <string name="com_facebook_requesterror_reconnect">請再次登入這個應用程式，重新連接您的 Facebook 帳戶。</string>
+    <string name="com_facebook_requesterror_relogin">請再次登入這個應用程式，重新連接您的 Facebook 帳戶。</string>
+    <string name="com_facebook_requesterror_web_login">您的 Facebook 帳戶已鎖定。請登入 www.facebook.com 繼續進行。</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="com_facebook_send_button_text">傳送</string>
+    <string name="com_facebook_share_button_text">分享</string>
+    <string name="com_facebook_tooltip_default">新消息！您已成功登入，請選擇要與應用程式分享的資訊。</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="comments_error">提取回應時發生錯誤</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="copy_themes">複製主題</string>
+    <string name="copy_to">複製到</string>
+    <string name="create">建立</string>
+    <string name="create_library">建立圖庫</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="creative_cloud">Creative Cloud</string>
+    <string name="creative_sdk">Creative SDK</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="delete">刪除</string>
+    <string name="edit">編輯</string>
+    <string name="edit_camel">編輯</string>
+    <string name="edit_color">編輯顏色</string>
+    <string name="edit_name">編輯名稱</string>
+    <string name="edit_theme">編輯主題</string>
+    <string name="empty_color_list_line1">開始在…收集顏色和主題</string>
+    <string name="empty_color_list_line2">此設計庫在其他文件中使用它們</string>
+    <string name="empty_color_list_line3">行動和桌面應用程式</string>
+    <string name="hello_blank_fragment">哈囉空白片段</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-zh-rTW/strings.xml -->
+    <eat-comment/>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="hex">十六進位</string>
+    <string name="history">歷程記錄</string>
+    <string name="history_cleared">已清除歷程記錄 </string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-zh-rTW/strings.xml -->
+    <eat-comment/>
+    <string name="launch_header">啟動元件</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="lib_row_desc_p_p"> %1$d 顏色，%2$d 主題</string>
+    <string name="lib_row_desc_p_s">%1$d 顏色，1 個主題</string>
+    <string name="lib_row_desc_s_p">1 種顏色， %1$d 主題</string>
+    <string name="lib_row_desc_s_s">1 種顏色，1 個主題 </string>
+    <string name="libraries_tab_heading">我的圖庫</string>
+    <string name="loading">正在載入…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="logIn">LOGIN</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="messenger_send_button_text">傳送</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="my_library">我的圖庫</string>
+    <string name="new_name">新名稱</string>
+    <string name="no_colors">無顏色</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="notification_title">通知</string>
+    <string name="photo_asset_browser_empty_folder">您還沒有任何相片</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="picker_tab_heading">挑選器</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="proxy_passwd_label">PASSWORD</string>
+    <string name="proxy_username_label">USER NAME</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="psmix_download_statement">下載 Adobe Photoshop Mix</string>
+    <string name="psmix_files_empty">Photoshop Mix 提供在 Android 上饒富創意、簡單而有趣的相片編輯，\r\n以行動裝置的方便性帶來 Adobe Photoshop 的強大功能。</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="remove">移除</string>
+    <string name="remove_camel">移除</string>
+    <string name="remove_confirmation">確定要移除嗎？</string>
+    <string name="rename">重新命名</string>
+    <string name="rename_library">重新命名圖庫</string>
+    <string name="rgb">RGB</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="search_query_hint">搜尋…</string>
+    <string name="search_title">搜尋</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="select_a_color">選取顏色</string>
+    <string name="select_library">選擇圖庫</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-zh-rTW/strings.xml -->
+    <eat-comment/>
+    <string name="selection_header">選擇檔案</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="storage_asset_browser_empty_folder">您還沒有任何檔案</string>
+    <string name="storage_cancel_selection">取消</string>
+    <string name="storage_create_folder_already_exists_error">資料夾已存在</string>
+    <string name="storage_create_folder_authention_requires_error">需要驗證。</string>
+    <string name="storage_create_folder_no_error">""</string>
+    <string name="storage_empty_folder_upload_files_title">上傳檔案</string>
+    <string name="storage_open">開啟</string>
+    <string name="storage_open_files">開啟</string>
+    <string name="storage_open_multiple_files">開啟 (%s)</string>
+    <string name="storage_open_multiple_files_99">開啟 (99+)</string>
+    <string name="storage_settigs_usuage_calculating">(正在計算使用量)</string>
+    <string name="storage_settings_edit_cc_settings">編輯 Creative Cloud 設定</string>
+    <string name="storage_settings_get_more_storage">取得更多儲存空間</string>
+    <string formatted="false" name="storage_settings_storage_usage">%s 已使用 (%s 總共 %s GB)</string>
+    <string name="storage_settings_switch_accounts">切換帳號</string>
+    <string name="storage_upload_btn_title">上傳 (%s)</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="syncing_library">正在同步圖庫…</string>
+    <string name="theme_picker_actionbar_title">主題挑選器</string>
+    <string name="themes_tab_heading">主題</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-zh-rTW/strings.xml -->
+    <eat-comment/>
+    <string name="title_activity_display_message">My Message</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string formatted="false" name="warning_msg">The server http://%s requires a username and password. The server says : %s</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-zh-rTW/values-zh-rTW.xml -->
+    <eat-comment/>
+    <string name="wheel">色輪</string>
+</resources>

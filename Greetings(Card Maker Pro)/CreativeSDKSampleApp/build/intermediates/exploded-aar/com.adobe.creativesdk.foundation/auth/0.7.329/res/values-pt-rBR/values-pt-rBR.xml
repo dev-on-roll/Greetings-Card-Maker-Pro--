@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/values-pt-rBR/strings.xml -->
+    <eat-comment/>
+    <string name="adobe_auth_sign_in_close">Fechar</string>
+    <string name="adobe_common_error_view_no_internet_connection">Sem conexão com a Internet</string>
+    <string name="adobe_common_error_view_unknown_authenticate_error">Ocorreu um erro durante a autenticação.\nTente novamente mais tarde.</string>
+    <string name="adobe_error_not_entitled_to_video">"Mensagem indicando que o usuário não está autorizado a visualizar o vídeo."</string>
+    <string name="adobe_id_authenticator_accesslabel">Acesso completo à conta Adobe ID</string>
+    <string name="adobe_id_authenticator_add_account_error_onlyone">Só é suportada uma Adobe ID</string>
+    <string name="adobe_id_authenticator_settings_label">Adobe</string>
+    <string name="auth_required">Authentication Required</string>
+    <string name="cancelLogIn">CANCEL</string>
+    <string name="creative_cloud">Creative Cloud</string>
+    <string name="creative_sdk">Creative SDK</string>
+    <string name="logIn">LOGIN</string>
+    <string name="proxy_passwd_label">PASSWORD</string>
+    <string name="proxy_username_label">USER NAME</string>
+    <string formatted="false" name="warning_msg">The server http://%s requires a username and password. The server says : %s</string>
+</resources>

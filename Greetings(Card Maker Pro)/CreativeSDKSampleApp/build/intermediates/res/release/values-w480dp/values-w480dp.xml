@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-w480dp/values-w480dp.xml -->
+    <eat-comment/>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-w480dp/values-w480dp.xml -->
+    <eat-comment/>
+    <integer name="adobe_library_collections_num_columns">3</integer>
+    <integer name="adobe_library_items_color_section_columns">4</integer>
+    <integer name="adobe_library_items_colortheme_section_columns">2</integer>
+    <integer name="adobe_library_items_columns_GCM">12</integer>
+    <integer name="adobe_library_items_default_columns">3</integer>
+    <integer name="adobe_library_items_image_section_columns">3</integer>
+</resources>

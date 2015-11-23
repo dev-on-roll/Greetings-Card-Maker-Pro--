@@ -1,0 +1,48 @@
+<LinearLayout 
+    	xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="wrap_content"
+   		android:layout_height="wrap_content"
+    	android:orientation="vertical"
+     >
+    
+    <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+        android:layout_width="wrap_content"
+        android:layout_height="54dp"
+        android:background="@android:color/white"
+	    android:text="@string/IDS_EDIT_ERROR_DGL_TITLE"
+        android:textColor="@color/asset_browser_dark_text"
+        android:textSize="@dimen/fragment_asset_detail_large_text" 
+        android:gravity="center_vertical" 
+        android:paddingLeft="@dimen/fragment_asset_detail_padding_left"
+        />
+    
+     <View  android:layout_width="wrap_content"
+            android:layout_height="1dp"
+            android:background="@color/storage_assetslist_divider_color"
+ 		/>
+    
+    <ListView android:layout_width="match_parent" android:layout_height="match_parent"
+        
+        android:id="@+id/assetview_edit_error_detials_main_list"
+        android:background="@color/creative_sdk_background_color"
+        android:divider="@color/storage_assetslist_divider_color"
+        >
+        
+        
+    </ListView>
+    
+  
+</LinearLayout>
+<!--  
+<LinearLayout 
+ 	android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="#ff0000">
+
+    
+</LinearLayout>
+-->
+
+
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_assetview_edit_error_details_dialog.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/layout/adobe_assetview_edit_error_details_dialog.xml -->

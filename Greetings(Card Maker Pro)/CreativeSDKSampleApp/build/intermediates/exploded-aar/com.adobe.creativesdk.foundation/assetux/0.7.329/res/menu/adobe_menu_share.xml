@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_create_new_folder"
+        android:title="Create New Folder"
+        app:showAsAction="always"
+        android:orderInCategory="100"
+        android:icon="@drawable/create_new_folder"/>
+    <item
+        android:id="@+id/menu_advance"
+        android:title="Advance"
+        app:showAsAction="always"
+        android:orderInCategory="101"
+        android:icon="@drawable/adobe_asset_edit_move_check_button"/>
+
+</menu><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/menu/adobe_menu_share.xml -->

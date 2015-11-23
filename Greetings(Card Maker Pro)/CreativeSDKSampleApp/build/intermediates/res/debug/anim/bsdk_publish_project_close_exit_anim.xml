@@ -1,0 +1,12 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:interpolator/accelerate_cubic"
+    android:shareInterpolator="false" >
+
+    <translate
+        android:duration="@integer/bsdk_publish_project_close_anim_duration"
+        android:fromXDelta="0%"
+        android:fromYDelta="0%"
+        android:toXDelta="100%"
+        android:toYDelta="0%" />
+
+</set><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/anim/bsdk_publish_project_close_exit_anim.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/anim/bsdk_publish_project_close_exit_anim.xml -->

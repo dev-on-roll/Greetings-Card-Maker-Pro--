@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Creative SDK</string>
+    <string name="action_login">pålogging</string>
+    <string name="action_logout">avlogging</string>
+    <string name="asset_browser">Ressursleser</string>
+    <string name="behance_publish">Behance-publisering</string>
+	<string name="launch_header">START ENKELTELEMENTER</string>
+    <string name="selection_header">Valgte filer</string>
+
+    <string name="IDS_WELCOME">Velkommen til Creative Cloud</string>
+    <string name="IDS_GET_STARTED">Kom i gang ved å logge på eller opprette en ny Adobe-ID.</string>
+    <string name="IDS_SIGN_IN">LOGG PÅ MED ADOBE-ID</string>
+    <string name="IDS_SIGN_UP">REGISTRER FOR ADOBE-ID</string>
+    <string name="app_library">App-bibliotek</string>
+    <string name="title_activity_display_message">My Message</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

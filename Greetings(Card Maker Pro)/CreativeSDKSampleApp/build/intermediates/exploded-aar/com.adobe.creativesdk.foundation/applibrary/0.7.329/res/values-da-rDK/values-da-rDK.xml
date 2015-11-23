@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values-da-rDK/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">Alle apps</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">Alle kategorier er blevet udeladt</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">FÅ</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">KATEGORIER</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">SORTÉR</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">Udforsk det voksende bibliotek af kreative apps, der er kompatible og forbundet med Creative Cloud</string>
+    <string name="IDS_APPLIBRARY_ERROR">Der er ikke adgang til appbiblioteket lige nu. Prøv igen senere, hvis du vil udforske biblioteket, der hele tiden udvides med nye kreative apps</string>
+    <string name="IDS_APPLIBRARY_FEATURED">Udvalgt</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">Med bedste vurdering</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">Seneste</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">Der er ikke nogen apps i denne kategori</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">Der blev ikke fundet nogen apps.</string>
+    <string name="IDS_APPLIBRARY_TITLE">Appbibliotek</string>
+    <string name="IDS_APP_GET">INSTALLER</string>
+    <string name="IDS_APP_OPEN">ÅBN</string>
+    <string name="IDS_BY">af</string>
+    <string name="IDS_CATEGORY_AUDIO">Lyd</string>
+    <string name="IDS_CATEGORY_CAPTURE">Optag</string>
+    <string name="IDS_CATEGORY_COMMUNITY">Brugergruppe</string>
+    <string name="IDS_CATEGORY_DESIGN">Design</string>
+    <string name="IDS_CATEGORY_DRAWING">Tegning</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">Illustrering</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">Redigering af billeder</string>
+    <string name="IDS_CATEGORY_PHOTOS">Billeder</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">Foto og video</string>
+    <string name="IDS_CATEGORY_PRESENTATION">Præsentation</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">Produktivitet</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">Prototypegenerering</string>
+    <string name="IDS_CATEGORY_SOCIAL">Social</string>
+    <string name="IDS_CATEGORY_STORAGE">Lagerplads</string>
+    <string name="IDS_CATEGORY_STORY">Historier</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">UI/UX Design</string>
+    <string name="IDS_CATEGORY_UTILITY">Værktøj</string>
+    <string name="IDS_CATEGORY_VIDEO">Video</string>
+    <string name="IDS_PLEASE_WAIT">Vent et øjeblik…</string>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">Kommunikation</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">Kompileringer</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">Konkurrencer</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">Tegning</string>
+    <string name="IDS_SUBCATEGORY_EDITING">Redigering</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">E-mail</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">Feedback</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">Deling af filer</string>
+    <string name="IDS_SUBCATEGORY_FONTS">Skrifttyper</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">Til leje</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">Generation</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">Mønstre</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">Billedredigering</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">Fotografering</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">Portefølje</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">Udskrivning</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">Prototypegenerering</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">Socialt netværk</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">Fortællinger</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">Vektorer</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">Websteder</string>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">Rediger i</string>
+    <string name="action_settings">Indstillinger</string>
+    <string name="adobe_360_capture">Optag</string>
+    <string name="adobe_360_edit">Rediger</string>
+    <string name="adobe_360_embed">Integrer</string>
+    <string name="hello_world">Hej verden!</string>
+</resources>

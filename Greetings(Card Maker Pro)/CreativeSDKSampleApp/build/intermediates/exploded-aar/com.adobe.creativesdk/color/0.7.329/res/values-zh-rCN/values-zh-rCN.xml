@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="Analogus">类似物</string>
+    <string name="Complementary">补色</string>
+    <string name="Compound">复合</string>
+    <string name="Custom">自定义</string>
+    <string name="Monochromatic">单色</string>
+    <string name="OK">确定</string>
+    <string name="Shades">阴影</string>
+    <string name="Triad">三色</string>
+    <string name="add_color">添加颜色</string>
+    <string name="add_theme">添加主题</string>
+    <string name="all_colors">所有颜色</string>
+    <string name="by">作者: </string>
+    <string name="cancel">取消</string>
+    <string name="clear_history">清除</string>
+    <string name="color_component_activity_actionbar_title">颜色</string>
+    <string name="color_picker_actionbar_title">拾色器</string>
+    <string name="copy_themes">复制主题</string>
+    <string name="copy_to">复制到</string>
+    <string name="create">创建</string>
+    <string name="create_library">创建库</string>
+    <string name="delete">删除</string>
+    <string name="edit">编辑</string>
+    <string name="edit_camel">编辑</string>
+    <string name="edit_color">编辑颜色</string>
+    <string name="edit_name">编辑名称</string>
+    <string name="edit_theme">编辑主题</string>
+    <string name="empty_color_list_line1">在该库中收集颜色和主题</string>
+    <string name="empty_color_list_line2">以在其他移动和桌面</string>
+    <string name="empty_color_list_line3">应用程序中使用</string>
+    <string name="hello_blank_fragment">空白片段</string>
+    <string name="hex">十六进制</string>
+    <string name="history">历史记录</string>
+    <string name="history_cleared">历史记录已清除</string>
+    <string name="lib_row_desc_p_p">%1$d 种颜色，%2$d 种主题</string>
+    <string name="lib_row_desc_p_s">%1$d 种颜色，1 个主题</string>
+    <string name="lib_row_desc_s_p">1 种颜色，%1$d 个主题</string>
+    <string name="lib_row_desc_s_s">1 种颜色，1 个主题</string>
+    <string name="libraries_tab_heading">我的库</string>
+    <string name="loading">正在载入…</string>
+    <string name="my_library">我的库</string>
+    <string name="new_name">新名称</string>
+    <string name="no_colors">无颜色</string>
+    <string name="picker_tab_heading">拾取器</string>
+    <string name="remove">删除</string>
+    <string name="remove_camel">删除</string>
+    <string name="remove_confirmation">是否确定要删除？</string>
+    <string name="rename">重命名</string>
+    <string name="rename_library">重命名库</string>
+    <string name="rgb">RGB</string>
+    <string name="select_a_color">选择颜色</string>
+    <string name="select_library">选择库</string>
+    <string name="syncing_library">正在同步库…</string>
+    <string name="theme_picker_actionbar_title">主题拾取器</string>
+    <string name="themes_tab_heading">主题</string>
+    <string name="wheel">色轮</string>
+</resources>

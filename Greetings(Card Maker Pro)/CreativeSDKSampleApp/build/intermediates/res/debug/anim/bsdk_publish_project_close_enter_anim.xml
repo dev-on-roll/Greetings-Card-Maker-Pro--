@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:interpolator/decelerate_cubic"
+    android:shareInterpolator="false" >
+
+    <translate
+        android:duration="@integer/bsdk_publish_project_close_anim_duration"
+        android:fromXDelta="0%"
+        android:fromYDelta="0%"
+        android:toXDelta="0%"
+        android:toYDelta="0%" />
+
+    <scale
+        android:duration="@integer/bsdk_publish_project_close_anim_duration"
+        android:fromXScale="0.8"
+        android:fromYScale="0.8"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:toXScale="1"
+        android:toYScale="1" />
+
+    <alpha
+        android:duration="@integer/bsdk_publish_project_close_anim_duration"
+        android:fromAlpha="0.5"
+        android:toAlpha="1.0" />
+
+</set><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/anim/bsdk_publish_project_close_enter_anim.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/anim/bsdk_publish_project_close_enter_anim.xml -->

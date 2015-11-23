@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/storage_assetcell_background_card"
+    android:orientation="vertical"
+    >
+
+    <com.adobe.creativesdk.foundation.internal.grid.utils.DynamicHeightImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/adobe_photo_assets_image"
+        >
+    </com.adobe.creativesdk.foundation.internal.grid.utils.DynamicHeightImageView>
+
+
+    <RelativeLayout
+        android:id="@+id/photoasset_image_progressbar_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+</LinearLayout>
+
+
+
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_upload_photo_asset_cell.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/layout/adobe_upload_photo_asset_cell.xml -->

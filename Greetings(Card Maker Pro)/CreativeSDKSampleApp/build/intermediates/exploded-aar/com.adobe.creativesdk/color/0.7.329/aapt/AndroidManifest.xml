@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.adobe.creativesdk.color"
+    android:versionCode="1"
+    android:versionName="0.7.329" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22" />
+
+    <application android:allowBackup="true" >
+        <activity
+            android:name="com.adobe.creativesdk.color.internal.ui.activity.ColorThemeEditActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Color.ToolbarTheme" />
+        <activity
+            android:name="com.adobe.creativesdk.color.internal.ui.activity.ColorComponentActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Color.ActionBarTheme" />
+        <activity
+            android:name="com.adobe.creativesdk.color.internal.ui.activity.LibraryColorItemsListActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Color.ToolbarTheme" />
+        <activity
+            android:name="com.adobe.creativesdk.color.internal.ui.activity.LibraryChooserActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Color.ActionBarTheme" />
+        <activity
+            android:name="com.adobe.creativesdk.color.internal.ui.activity.EditNameActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar.Translucent"
+            android:windowSoftInputMode="stateVisible|adjustResize" />
+        <activity
+            android:name="com.adobe.creativesdk.color.internal.ui.activity.DeleteColorItemConfirmActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.NoActionBar.Translucent" />
+
+        <service android:name="com.adobe.creativesdk.foundation.internal.auth.authenticator.AdobeCSDKAdobeIDAuthenticatorService" >
+            <intent-filter>
+                <action android:name="android.accounts.AccountAuthenticator" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.accounts.AccountAuthenticator"
+                android:resource="@xml/adobeid_authenticator_description" />
+        </service>
+    </application>
+
+</manifest>

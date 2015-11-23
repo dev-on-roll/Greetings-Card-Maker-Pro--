@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mainMenu"
+        app:showAsAction="always"
+        android:title="">
+        <menu>
+            <item android:id="@+id/add_color"
+                android:icon="@drawable/creativesdkcolor_ic_control_point_black_24dp"
+                android:title="@string/add_color"
+                app:showAsAction="never" />
+            <item android:id="@+id/add_theme"
+                android:icon="@drawable/creativesdkcolor_ic_add_to_photos_black_24dp"
+                android:title="@string/add_theme"
+                app:showAsAction="never" />
+            <item android:id="@+id/rename_library"
+                android:icon="@drawable/creativesdkcolor_ic_rename"
+                android:title="@string/rename_library"
+                app:showAsAction="never" />
+            <item android:id="@+id/edit_color"
+                android:icon="@drawable/creativesdkcolor_ic_edit_black_24dp"
+                android:title="@string/edit_color"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+
+    <item android:id="@+id/edit_color_button"
+        android:icon="@drawable/creativesdkcolor_ic_edit"
+        android:title="@string/edit_camel"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/delete_color_button"
+        android:icon="@drawable/creativesdkcolor_ic_delete"
+        android:title="@string/delete"
+        app:showAsAction="ifRoom" />
+</menu><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/menu/fragment_color_items_list.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/menu/fragment_color_items_list.xml -->

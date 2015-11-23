@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:minHeight="170dp"
+    android:minWidth="220dp"
+    android:orientation="vertical"
+    android:background="@color/common_dialogfragment_background_color">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="120dp"
+        android:layout_centerInParent="true"
+        android:background="@color/common_dialogfragment_background_color"
+        android:layout_marginLeft="@dimen/assetview_dialog_margin_left"
+        android:layout_marginRight="@dimen/assetview_dialog_margin_right"
+        android:gravity="top" >
+
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKEditText
+            android:id="@+id/adobe_generic_dialog_fragment_edit_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginBottom="@dimen/assetview_dialog_error_margin_down"
+            android:textColor="@color/asset_browser_dark_text"
+            android:inputType="textMultiLine"
+            android:singleLine="false"
+            android:maxLength="255"
+            android:background="@drawable/edittext_background"
+            android:textColorHint="#D9DBDD"
+            android:ems="@integer/adobe_dialog_ems" />
+
+        <LinearLayout
+            android:id="@+id/adobe_generic_dialog_fragment_error_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:visibility="gone"
+            android:layout_below="@id/adobe_generic_dialog_fragment_edit_text">
+
+            <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+                android:id="@+id/adobe_generic_dialog_fragment_error_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/creative_sdk_transparent_color"
+                android:ellipsize="middle"
+                android:gravity="center_horizontal"
+                android:textColor="@color/asset_browser_dark_text"
+                android:textSize="@dimen/assetview_dialog_error_text_size" />
+        </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/assetview_dialog_fragment_layout_height">
+        <LinearLayout
+            android:id="@+id/buttons_create_new_folder"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/adobe_dialog_fragment_margin_right"
+            android:layout_marginBottom="10dp"
+            android:layout_alignParentRight="true"
+            android:background="@color/common_dialogfragment_background_color"
+            android:orientation="horizontal">
+
+            <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+                android:id="@+id/adobe_generic_dialog_fragment_negative_button"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/creative_sdk_actionbar_background_color"
+                android:textColor="@color/creative_sdk_blue_color"
+                android:gravity="center"
+                android:textSize="@dimen/assetview_dialog_button_text_size" />
+            <RelativeLayout
+                android:layout_width="25dp"
+                android:layout_height="match_parent"></RelativeLayout>
+
+            <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+                android:id="@+id/adobe_generic_dialog_fragment_postive_button"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@color/creative_sdk_actionbar_background_color"
+                android:textColor="@drawable/dialog_button_selector"
+                android:gravity="center"
+                android:textSize="@dimen/assetview_dialog_button_text_size" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/layout/adobe_common_dialog_fragment.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/layout/adobe_common_dialog_fragment.xml -->

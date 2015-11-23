@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/values-sw600dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="adobe_dialog_fragment_margin_right">70dp</dimen>
+    <integer name="adobe_auth_view_height">50</integer>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/values-sw600dp/integers.xml -->
+    <eat-comment/>
+    <integer name="adobe_dialog_ems">15</integer>
+</resources>

@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="ASSET_BROWSER_COLLABORATION_ACCEPT">GODKÄNN</string>
+    <string name="ASSET_BROWSER_COLLABORATION_REJECT">AVVISA</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="Analogus">Analog</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="CANCEL_UPLOAD_ASSET_BROWSER_BUTTON">Avbryt överföringen</string>
+    <string name="COLLABORATE_INVITE_EDIT_TEXT_HINT">Lägg till e-postadress</string>
+    <string name="COLLABORATION_ALREADY_USED">E-postadressen har redan registrerats</string>
+    <string name="COLLABORATION_DELETE_MESSAGE">Vill du ta bort den här samarbetspartnern?</string>
+    <string name="COLLABORATION_INVALID_EMAIL">Ogiltig e-postadress</string>
+    <string name="COLLABORATION_INVITATION_DELETE_ERROR">Det gick inte att ta bort inbjudan</string>
+    <string name="COLLABORATION_INVITATION_DELETE_MESSAGE">Vill du ta bort den här inbjudan?</string>
+    <string name="COLLABORATION_INVITE">LÄGG TILL</string>
+    <string name="COLLABORATION_INVITEE">(Inbjudna)</string>
+    <string name="COLLABORATION_INVITE_CANCEL">AVBRYT</string>
+    <string name="COLLABORATION_INVITE_ERROR_MESSAGE">Det gick inte att slutföra inbjudan</string>
+    <string name="COLLABORATION_OWNER">(Ägare)</string>
+    <string name="COLLABORATION_SELF_DELETE_MESSAGE">Vill du lämna den här mappen?</string>
+    <string name="COLLABORATOR_DELETE_NEGATIVE_BUTTON">AVBRYT</string>
+    <string name="COLLABORATOR_DELETE_POSITIVE_BUTTON">TA BORT</string>
+    <string name="CREATE_NEW_FOLDER_BUTTON_CANCEL">AVBRYT</string>
+    <string name="CREATE_NEW_FOLDER_BUTTON_CREATE">SKAPA</string>
+    <string name="CREATE_NEW_FOLDER_DIALOG_TITLE">Skapa ny mapp</string>
+    <string name="CREATE_NEW_FOLDER_EDIT_TEXT_HINT">Mappnamn</string>
+    <string name="CREATE_NEW_FOLDER_TITLE">Skapa en ny mapp</string>
+    <string name="CREATE_NEW_INVITE_TITLE">Lägg till en samarbetspartner</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="Complementary">Komplement</string>
+    <string name="Compound">Sammansatt</string>
+    <string name="Custom">Egen</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="IDS_ACTION_VIEW_COMMENT">Kommentarer</string>
+    <string name="IDS_ACTION_VIEW_EDIT_ANNOTATION">Redigera anteckningar</string>
+    <string name="IDS_ACTION_VIEW_FILE_DETAILS">Information</string>
+    <string name="IDS_ACTION_VIEW_PUBLISH_TO_BEHANCE">Publicera på Behance</string>
+    <string name="IDS_ACTION_VIEW_SHARE">Dela</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">Alla appar</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">Alla kategorier har exkluderats</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">HÄMTA</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">KATEGORIER</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">SORTERA</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">Utforska det växande biblioteket med kreativa appar, kompatibelt och anslutet till Creative Cloud</string>
+    <string name="IDS_APPLIBRARY_ERROR">Appbiblioteket är inte tillgängligt för närvarande. Kom tillbaka senare för att utforska det växande biblioteket med kreativa appar</string>
+    <string name="IDS_APPLIBRARY_FEATURED">Aktuellt</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">Högsta omdöme</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">Senaste</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">Inga appar hittades i den här kategorin</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">Inga program hittades.</string>
+    <string name="IDS_APPLIBRARY_TITLE">Appbibliotek</string>
+    <string name="IDS_APP_GET">INSTALLERA</string>
+    <string name="IDS_APP_OPEN">ÖPPNA</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="IDS_ASSET_DETAILS_FILE_DETAILS">Filinformation</string>
+    <string name="IDS_ASSET_DETAILS_HEIGHT">Höjd</string>
+    <string name="IDS_ASSET_DETAILS_KB">kB</string>
+    <string name="IDS_ASSET_DETAILS_MB">MB</string>
+    <string name="IDS_ASSET_DETAILS_MODIFIED">Ändrad</string>
+    <string name="IDS_ASSET_DETAILS_PX">px</string>
+    <string name="IDS_ASSET_DETAILS_SIZE">Storlek</string>
+    <string name="IDS_ASSET_DETAILS_UPLOADED">Överförd</string>
+    <string name="IDS_ASSET_DETAILS_WIDTH">Bredd</string>
+    <string name="IDS_ASSET_DETAILS_ZERO_MB">0 MB</string>
+    <string name="IDS_ASSET_DETAILS_ZERO_PX">0 px</string>
+    <string name="IDS_ASSET_VIEWER_NO_PREVIEW_AVAILABLE">Ingen förhandsvisning tillgänglig</string>
+    <string name="IDS_ASSET_VIEWER_OF">av</string>
+    <string formatted="false" name="IDS_ASSET_VIEWER_OF_2">%s av %s</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="IDS_BY">av</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="IDS_CAPTION_COLLATION_FOLDERS_HEADER">MAPPAR</string>
+    <string name="IDS_CAPTION_COLLATION_UNKNOWN_DATE">OKÄND</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_DATE">UPPDATERAT %s</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_LAST_WEEK">UPPDATERAT FÖRRA VECKAN</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_THIS_MONTH">UPPDATERAT DEN HÄR MÅNADEN</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_THIS_WEEK">UPPDATERAT DEN HÄR VECKAN</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_TODAY">UPPDATERAT IDAG</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="IDS_CATEGORY_AUDIO">Ljud</string>
+    <string name="IDS_CATEGORY_CAPTURE">Inspelning</string>
+    <string name="IDS_CATEGORY_COMMUNITY">Användarforum</string>
+    <string name="IDS_CATEGORY_DESIGN">Design</string>
+    <string name="IDS_CATEGORY_DRAWING">Rita</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">Illustration</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">Bildredigering</string>
+    <string name="IDS_CATEGORY_PHOTOS">Foton</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">Foto och video</string>
+    <string name="IDS_CATEGORY_PRESENTATION">Presentation</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">Produktivitet</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">Generera prototyper</string>
+    <string name="IDS_CATEGORY_SOCIAL">Social</string>
+    <string name="IDS_CATEGORY_STORAGE">Lagring</string>
+    <string name="IDS_CATEGORY_STORY">Berättande</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">UI/UX-design</string>
+    <string name="IDS_CATEGORY_UTILITY">Tillbehör</string>
+    <string name="IDS_CATEGORY_VIDEO">Video</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="IDS_COMMENT_ERROR_MSG">%s kommentarer kunde inte tas bort</string>
+    <string name="IDS_COMMENT_INSERTION_ERROR_MSG">Det gick inte att lägga till kommentar</string>
+    <string name="IDS_COMMENT_SINGLE_ERROR_MSG">%s kommentar kunde inte tas bort</string>
+    <string name="IDS_COMMENT_SINGLE_SUCCESS_MSG">%s kommentar togs bort</string>
+    <string name="IDS_COMMENT_SUCCESS_MSG">%s kommentarer togs bort</string>
+    <string name="IDS_COMMENT_UPDATE_MSG">%d kommentarer infogade</string>
+    <string name="IDS_COMMENT_UPDATE_MSG_SINGLE">%d kommentar infogad</string>
+    <string name="IDS_DELETE_ERROR_MSG">%s objekt kunde inte tas bort</string>
+    <string name="IDS_DELETE_SINGLE_ERROR_MSG">%s objekt kunde inte tas bort</string>
+    <string name="IDS_DELETE_SINGLE_SUCCESS_MSG">%s objekt har tagits bort</string>
+    <string name="IDS_DELETE_SUCCESS_MSG">%s objekt har tagits bort</string>
+    <string name="IDS_EDIT_ERROR_DGL_TITLE">Redigera fel</string>
+    <string name="IDS_EDIT_ERROR_MSG">%s objekt kunde inte redigeras</string>
+    <string name="IDS_EDIT_SINGLE_ERROR_MSG">%s objekt kunde inte redigeras</string>
+    <string name="IDS_EDIT_SINGLE_SUCCESS_MSG">%s objekt redigerades</string>
+    <string name="IDS_EDIT_SUCCESS_MSG">%s objekt redigerades</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-sv-rSE/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_GET_STARTED">Kom igång genom att logga in eller skapa ett nytt Adobe ID.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="IDS_INVITATION_ERROR_MSG">%s inbjudningar kunde inte bearbetas</string>
+    <string name="IDS_INVITATION_SINGLE_ERROR_MSG">%s inbjudning kunde inte bearbetas</string>
+    <string name="IDS_INVITATION_SINGLE_SUCCESS_MSG">%s inbjudning har bearbetats</string>
+    <string name="IDS_INVITATION_SUCCESS_MSG">%s inbjudningar har bearbetats</string>
+    <string name="IDS_MOVE_ERROR_MSG">%s objekt kunde inte flyttas</string>
+    <string name="IDS_MOVE_SINGLE_ERROR_MSG">%s objekt kunde inte flyttas</string>
+    <string name="IDS_MOVE_SINGLE_SUCCESS_MSG">%s objekt har flyttats</string>
+    <string name="IDS_MOVE_SUCCESS_MSG">%s objekt har flyttats</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="IDS_PLEASE_WAIT">Vänta…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="IDS_SAVE_TO_DEVICE_CANCELLED_NOTIFICATION_TEXT">%d-fil avbröts</string>
+    <string name="IDS_SAVE_TO_DEVICE_CANCELLED_NOTIFICATION_TITLE">Hämtningen avbröts</string>
+    <string name="IDS_SAVE_TO_DEVICE_CANCEL_TEXT">Avbryt</string>
+    <string name="IDS_SAVE_TO_DEVICE_COMPLETE_NOTIFICATION_TEXT">%d-fil hämtad</string>
+    <string name="IDS_SAVE_TO_DEVICE_COMPLETE_NOTIFICATION_TITLE">Hämtningen har slutförts</string>
+    <string name="IDS_SAVE_TO_DEVICE_ERROR_NOTIFICATION_TEXT">%d fil kunde inte hämtas</string>
+    <string name="IDS_SAVE_TO_DEVICE_ERROR_NOTIFICATION_TITLE">Fel vid hämtning</string>
+    <string formatted="false" name="IDS_SAVE_TO_DEVICE_NOTIFICATION_TEXT">%d fil återstår</string>
+    <string name="IDS_SAVE_TO_DEVICE_NOTIFICATION_TITLE">Sparar till enhet</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-sv-rSE/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_SIGN_IN">LOGGA IN MED DITT ADOBE ID</string>
+    <string name="IDS_SIGN_UP">REGISTRERA DIG FÖR ETT ADOBE ID</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">Kommunikation</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">Kompileringar</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">Tävlingar</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">Rita</string>
+    <string name="IDS_SUBCATEGORY_EDITING">Redigerar</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">E-post</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">Skicka synpunkter</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">Fildelning</string>
+    <string name="IDS_SUBCATEGORY_FONTS">Teckensnitt</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">Att hyra</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">Generering</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">Mönster</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">Fotoredigering</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">Fotografering</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">Portfölj</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">Skriver ut</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">Generera prototyper</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">Sociala nätverk</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">Berättande</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">Vektorer</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">Webbplatser</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="IDS_UPLOAD_ERROR_DGL_TITLE">Överföringsfel</string>
+    <string name="IDS_UPLOAD_ERROR_MSG">%s filer kunde inte överföras</string>
+    <string name="IDS_UPLOAD_SINGLE_ERROR_MSG">%s fil kunde inte överföras</string>
+    <string name="IDS_UPLOAD_SINGLE_SUCCESS_MSG">%s fil har överförts</string>
+    <string name="IDS_UPLOAD_SUCCESS_MSG">%s filer har överförts</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-sv-rSE/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_WELCOME">Välkommen till Creative Cloud</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="Monochromatic">Monokrom</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="NOTIFICATION_ACCEPT_FAILURE">Det gick inte att slutföra godkännandet</string>
+    <string name="NOTIFICATION_INVITATION">bjöd in dig till den delade mappen </string>
+    <string name="NOTIFICATION_JOINED">Du gick med </string>
+    <string name="NOTIFICATION_NOT_FOUND">Inget meddelande hittades</string>
+    <string name="NOTIFICATION_REJECTED">Du avvisade inbjudan för </string>
+    <string name="NOTIFICATION_REJECT_FAILURE">Det gick inte att slutföra avvisandet</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="OK">OK</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="SHARE_WITH_OPTIONS_TITLE">Dela med</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="Shades">Skuggor</string>
+    <string name="Triad">Triad</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="UPLOAD_ASSET_BROWSER_BUTTON">Överför filer</string>
+    <string name="UPLOAD_ASSET_FROM_CAMERA_BUTTON">Ta ett foto</string>
+    <string name="UPLOAD_IMAGE_TO_LIBRARY_MENU_TITLE">Överför bilder</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">Redigera i</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-sv-rSE/strings.xml -->
+    <eat-comment/>
+    <string name="action_login">inloggning</string>
+    <string name="action_logout">utloggning</string>
+    <string name="action_settings">Settings</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="add_collaborator">Lägg till samarbetspartner</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="add_color">Lägg till färg</string>
+    <string name="add_theme">Lägg till tema</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="adobe_360_capture">Fånga</string>
+    <string name="adobe_360_edit">Redigera</string>
+    <string name="adobe_360_embed">Bädda in</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="adobe_asset_edit_in_progress">Redigering pågår</string>
+    <string name="adobe_asset_edit_rename_button">Byt namn på</string>
+    <string name="adobe_asset_move_error_same_location">Fel: – Förflyttningsåtgärden har samma målplats och källplats</string>
+    <string name="adobe_asset_view_add_annotation_dialog_hint_text">Skriv en kommentar</string>
+    <string name="adobe_asset_view_add_annotation_dialog_negative_button">AVBRYT</string>
+    <string name="adobe_asset_view_add_annotation_dialog_positive_button">SKICKA</string>
+    <string name="adobe_asset_view_add_annotation_dialog_title">Lägg till anteckning</string>
+    <string name="adobe_asset_view_add_comments_dialog_error_message">Ett fel uppstod när kommentaren lades till</string>
+    <string name="adobe_asset_view_add_comments_dialog_hint_text">Skriv en kommentar</string>
+    <string name="adobe_asset_view_add_comments_dialog_negative_button">AVBRYT</string>
+    <string name="adobe_asset_view_add_comments_dialog_positive_button">SKICKA</string>
+    <string name="adobe_asset_view_add_comments_dialog_title">Lägg till en kommentar</string>
+    <string name="adobe_asset_view_comments_title">Kommentarer</string>
+    <string name="adobe_asset_view_dialog_fetch_link">Hämtar länk ...</string>
+    <string name="adobe_asset_view_edit_delete_button">Ta bort</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_file">Vill du ta bort den här filen?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_folder">Vill du ta bort den här mappen?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_multi_select">Vill du ta bort de här %d objekten?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_negative_button">AVBRYT</string>
+    <string name="adobe_asset_view_edit_delete_dialog_positive_button">TA BORT</string>
+    <string name="adobe_asset_view_edit_download_button">Spara till enhet</string>
+    <string name="adobe_asset_view_edit_fragment_edit_button">Redigera</string>
+    <string name="adobe_asset_view_edit_fragment_erase_button">Ta bort</string>
+    <string name="adobe_asset_view_edit_fragment_move_button">Flytta</string>
+    <string name="adobe_asset_view_edit_fragment_title">Markera objekt</string>
+    <string name="adobe_asset_view_edit_move_button">Flytta</string>
+    <string name="adobe_asset_view_edit_rename_dialog_error_message">Ett fel uppstod vid namnredigering</string>
+    <string name="adobe_asset_view_edit_rename_dialog_hint_text">Nytt namn</string>
+    <string name="adobe_asset_view_edit_rename_dialog_negative_button">AVBRYT</string>
+    <string name="adobe_asset_view_edit_rename_dialog_positive_button">REDIGERA</string>
+    <string name="adobe_asset_view_edit_rename_dialog_title">Redigera namn</string>
+    <string name="adobe_asset_view_error_fetch_link">Länken kunde inte hämtas</string>
+    <string name="adobe_asset_view_move_fragment_title">Välj en mapp</string>
+    <string name="adobe_asset_view_multi_page_count">%d sidor</string>
+    <string formatted="false" name="adobe_asset_view_multi_page_numbering">%d av %d </string>
+    <string name="adobe_asset_view_no_comments_found">Ingen kommentar hittades</string>
+    <string name="adobe_asset_view_send_link_button">Skicka länk</string>
+    <string name="adobe_asset_view_show_annotation_dialog_button">OK, JAG FÖRSTÅR</string>
+    <string name="adobe_assetbrowser_edit_delete_confirm">Vill du ta bort den här filen?</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="adobe_auth_sign_in_close">Stäng</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="adobe_cloud_not_reachable_no_internet_connection">Unable to connect to the Creative Cloud.\n Please check your internet connection and try again</string>
+    <string name="adobe_cloud_not_reachable_private_cloud">Creative Cloud-tjänsten som du försöker få åtkomst till är inte tillgänglig.\nKontrollera VPN-anslutningen och försök igen.</string>
+    <string name="adobe_cloud_not_reachable_public_cloud">Creative Cloud-tjänsten som du försöker få åtkomst till är inte tillgänglig.\nFörsök igen.</string>
+    <string name="adobe_cloud_not_reachable_retry">FÖRSÖK IGEN</string>
+    <string name="adobe_common_error_folder_invalid_chars">Ogiltigt mappnamn</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="adobe_common_error_view_no_internet_connection">Ingen Internetanslutning</string>
+    <string name="adobe_common_error_view_unknown_authenticate_error">Ett fel uppstod under autentiseringen.\nProva igen senare.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="adobe_common_error_while_creating_folder">Det går inte att skapa mappen</string>
+    <string name="adobe_composition_collection_plural">kompositioner</string>
+    <string name="adobe_composition_collection_singular">komposition</string>
+    <string name="adobe_comps_empty_collection">Du har inga kompositioner ännu</string>
+    <string name="adobe_design_library_collection_count"> Resurser %s</string>
+    <string name="adobe_design_library_collection_count_single"> Resurser 1</string>
+    <string name="adobe_design_library_empty_collection">Detta Creative Cloud Library är tomt</string>
+    <string name="adobe_design_library_header_brushes">PENSLAR (%s)</string>
+    <string name="adobe_design_library_header_color">FÄRGER (%s)</string>
+    <string name="adobe_design_library_header_colortheme">FÄRGTEMAN (%s)</string>
+    <string name="adobe_design_library_header_graphics">GRAFIK (%s)</string>
+    <string name="adobe_design_library_header_layoutstyle">LAGERSTILAR (%s)</string>
+    <string name="adobe_design_library_header_looks">LOOKS (%s)</string>
+    <string name="adobe_design_library_header_textstyle">TEXTSTILAR (%s)</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="adobe_error_not_entitled_to_video">"Meddelande om att användaren inte har behörighet att förhandsgranska videon."</string>
+    <string name="adobe_id_authenticator_accesslabel">Full åtkomst till Adobe ID-konto</string>
+    <string name="adobe_id_authenticator_add_account_error_onlyone">Endast stöd för ett Adobe ID</string>
+    <string name="adobe_id_authenticator_settings_label">Adobe</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="adobe_lineordrawcollection_plural">ritningar</string>
+    <string name="adobe_lineordrawcollection_singular">ritning</string>
+    <string name="adobe_mobilecreation_item_download">Ladda ned</string>
+    <string name="adobe_mobilecreations_empty_collection">Du har inga ritningar än</string>
+    <string name="adobe_mobilecreations_package_count">%s Tillgångar</string>
+    <string name="adobe_mobilecreations_sort">Sortera efter importdatum</string>
+    <string name="adobe_my_libraries_empty_collection">Du har inga bibliotek än</string>
+    <string formatted="false" name="adobe_notification_activities_comments">%s kommenterade på %s</string>
+    <string name="adobe_notification_activities_comments_self">Du kommenterade på %s</string>
+    <string formatted="false" name="adobe_notification_activities_invitation_accept">%s gick med i %s</string>
+    <string name="adobe_notification_activities_invitation_accept_single">Du gick med i %s</string>
+    <string name="adobe_notification_activities_section_header_single">AKTIVITET</string>
+    <string name="adobe_notification_activities_self">Du</string>
+    <string name="adobe_notification_activity_timestamp_day_single">1 dag sedan</string>
+    <string name="adobe_notification_activity_timestamp_days_multiple">%d dagar sedan</string>
+    <string name="adobe_notification_activity_timestamp_hour_single">1 timme sedan</string>
+    <string name="adobe_notification_activity_timestamp_hours_multiple">%d timmar sedan</string>
+    <string name="adobe_notification_activity_timestamp_less_than_minute">Mindre än en minut sedan</string>
+    <string name="adobe_notification_activity_timestamp_minute">%d minuter sedan</string>
+    <string name="adobe_notification_activity_timestamp_year_multiple">%d år sedan</string>
+    <string name="adobe_notification_activity_timestamp_year_single">1 år sedan</string>
+    <string name="adobe_notification_invitation_message">bjöd in dig till den delade mappen “%s”</string>
+    <string name="adobe_notification_invitation_section_header">INBJUDNINGAR(%d)</string>
+    <string name="adobe_notification_invitation_section_header_single">INBJUDAN(1)</string>
+    <string name="adobe_notification_operation_collaborated_folder_error">Det gick inte att läsa in samlingen</string>
+    <string name="adobe_notification_operation_comment_error">Det gick inte att läsa in resursen</string>
+    <string name="adobe_psmix_collection_plural">Fotokompositioner</string>
+    <string name="adobe_psmix_collection_singular">Fotokomposition</string>
+    <string name="adobe_sdk_main_root_collection">Filer</string>
+    <string name="adobe_sketchCollection_plural">skisser</string>
+    <string name="adobe_sketchCollection_singular">Skiss</string>
+    <string name="adobe_sketches_empty_collection">Du har inga skisser ännu</string>
+    <string name="adobe_storage_no_folders_found">Inga mappar hittades</string>
+    <string name="adobe_uxassetbrowser_action_asgrid">Visa som stödraster</string>
+    <string name="adobe_uxassetbrowser_action_aslist">Visa som lista</string>
+    <string name="adobe_uxassetbrowser_action_collaborate">Samarbeta</string>
+    <string name="adobe_uxassetbrowser_action_edit_asset">Redigera</string>
+    <string name="adobe_uxassetbrowser_action_sort_alpha">Sortera i bokstavsordning</string>
+    <string name="adobe_uxassetbrowser_action_sort_date">Sortera efter datum</string>
+    <string name="adobe_uxassetbrowser_comps">COMP CC</string>
+    <string name="adobe_uxassetbrowser_create_new_folder">Skapa ny mapp</string>
+    <string name="adobe_uxassetbrowser_csdk_myassets_main">Mina resurser</string>
+    <string name="adobe_uxassetbrowser_csdk_mylibraries">Mina bibliotek</string>
+    <string name="adobe_uxassetbrowser_designlibrary">Bibliotek</string>
+    <string name="adobe_uxassetbrowser_download_cancelled">Avbröt hämtning %s</string>
+    <string name="adobe_uxassetbrowser_download_description">Adobe Creative Cloud</string>
+    <string name="adobe_uxassetbrowser_download_directory">Creative Cloud</string>
+    <string name="adobe_uxassetbrowser_download_error">Fel inträffade vid hämtning %s</string>
+    <string name="adobe_uxassetbrowser_download_io_failure"> nedladdningen av %s misslyckades på grund av ett IO-fel</string>
+    <string name="adobe_uxassetbrowser_download_successful"> %s hämtad</string>
+    <string name="adobe_uxassetbrowser_drawings">ILLUSTRATOR DRAW</string>
+    <string name="adobe_uxassetbrowser_file_download_assert_exception">Resursfil är inte giltig</string>
+    <string name="adobe_uxassetbrowser_files">FILER</string>
+    <string name="adobe_uxassetbrowser_library_image_download_assert_exception">Biblioteksbild är inte giltig</string>
+    <string name="adobe_uxassetbrowser_lines">ILLUSTRATOR LINE</string>
+    <string name="adobe_uxassetbrowser_myacount">Mitt konto</string>
+    <string name="adobe_uxassetbrowser_photo_download_assert_exception">Fotoresurs är inte giltig</string>
+    <string name="adobe_uxassetbrowser_photos">FOTON</string>
+    <string name="adobe_uxassetbrowser_psmix">PHOTOSHOP MIX</string>
+    <string name="adobe_uxassetbrowser_sdk_myaccount">Mitt konto</string>
+    <string name="adobe_uxassetbrowser_selectfolder_upload">Markera mapp</string>
+    <string name="adobe_uxassetbrowser_sketches">PHOTOSHOP SKETCH</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="all_colors">Alla färger</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-sv-rSE/strings.xml -->
+    <eat-comment/>
+    <string name="app_library">Appbibliotek</string>
+    <string name="app_name">Creative SDK</string>
+    <string name="asset_browser">Resurswebbläsare</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="auth_required">Authentication Required</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-sv-rSE/strings.xml -->
+    <eat-comment/>
+    <string name="behance_publish">Publicera i Behance</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="by">Av: </string>
+    <string name="cancel">AVBRYT</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="cancelLogIn">CANCEL</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="cc_title">Creative Cloud</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="clear_history">RENSA</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="collaboration_create_invite_error">Det gick inte att skapa en inbjudan</string>
+    <string name="collaboration_create_invite_error_network">Det gick inte att ansluta till nätverk</string>
+    <string name="collaboration_delete_failure">Det gick inte att ta bort denna samarbetspartner</string>
+    <string formatted="false" name="collaboration_delete_prompt">Ta bort %s? </string>
+    <string name="collaboration_error">Fel vid hämtning av samarbetspartner</string>
+    <string name="collaboration_leave_failure">Det gick inte att lämna mappen</string>
+    <string formatted="false" name="collaboration_leave_prompt">Lämna %s? </string>
+    <string name="collaborator">Samarbetspartner</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="color_component_activity_actionbar_title">Färg</string>
+    <string name="color_picker_actionbar_title">Färgväljare</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="comments_error">Fel vid hämtning av kommentarer</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="copy_themes">Kopiera teman</string>
+    <string name="copy_to">Kopiera till</string>
+    <string name="create">Skapa</string>
+    <string name="create_library">Skapa bibliotek</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="creative_cloud">Creative Cloud</string>
+    <string name="creative_sdk">Creative SDK</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="delete">Ta bort</string>
+    <string name="edit">REDIGERA</string>
+    <string name="edit_camel">Redigera</string>
+    <string name="edit_color">Redigera färg</string>
+    <string name="edit_name">Redigera namn</string>
+    <string name="edit_theme">Redigera tema</string>
+    <string name="empty_color_list_line1">Börja samla färger och teman i</string>
+    <string name="empty_color_list_line2">det här biblioteket för att använda dem</string>
+    <string name="empty_color_list_line3">mellan andra mobila och skrivbordsappar</string>
+    <string name="hello_blank_fragment">Hej tomt fragment</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-sv-rSE/strings.xml -->
+    <eat-comment/>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="hex">Hex</string>
+    <string name="history">Historik</string>
+    <string name="history_cleared">Historik rensad</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-sv-rSE/strings.xml -->
+    <eat-comment/>
+    <string name="launch_header">STARTA KOMPONENTER</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="lib_row_desc_p_p">%1$d färger, %2$d teman</string>
+    <string name="lib_row_desc_p_s">%1$d färger, 1 tema</string>
+    <string name="lib_row_desc_s_p">1 färg, %1$d teman</string>
+    <string name="lib_row_desc_s_s">1 färg, 1 tema</string>
+    <string name="libraries_tab_heading">MINA BIBLIOTEK</string>
+    <string name="loading">Läser in…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="logIn">LOGIN</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="my_library">Mitt bibliotek</string>
+    <string name="new_name">Nytt namn</string>
+    <string name="no_colors">Inga färger</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="notification_title">Meddelanden</string>
+    <string name="photo_asset_browser_empty_folder">Du har inte några foton ännu</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="picker_tab_heading">VÄLJAREN</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="proxy_passwd_label">PASSWORD</string>
+    <string name="proxy_username_label">USER NAME</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="psmix_download_statement">Hämta Adobe Photoshop Mix</string>
+    <string name="psmix_files_empty">Använd Photoshop Mix för att kombinera styrkan hos Adobe Photoshop med\r\nsmidigheten hos en mobil för en kreativ, lättanvänd och rolig fotoredigering på Android.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="remove">TA BORT</string>
+    <string name="remove_camel">Ta bort</string>
+    <string name="remove_confirmation">Vill du ta bort?</string>
+    <string name="rename">BYT NAMN</string>
+    <string name="rename_library">Byt namn på bibliotek</string>
+    <string name="rgb">RGB</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="search_query_hint">Sök…</string>
+    <string name="search_title">Sök</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="select_a_color">Välj en färg</string>
+    <string name="select_library">Välj bibliotek</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-sv-rSE/strings.xml -->
+    <eat-comment/>
+    <string name="selection_header">Markerade filer</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="storage_asset_browser_empty_folder">Du har inga filer ännu</string>
+    <string name="storage_cancel_selection">AVBRYT</string>
+    <string name="storage_create_folder_already_exists_error">Mappen finns redan</string>
+    <string name="storage_create_folder_authention_requires_error">Autentisering krävs.</string>
+    <string name="storage_create_folder_no_error">""</string>
+    <string name="storage_empty_folder_upload_files_title">ÖVERFÖR FILER</string>
+    <string name="storage_open">ÖPPNA</string>
+    <string name="storage_open_files">ÖPPNA</string>
+    <string name="storage_open_multiple_files">ÖPPNA (%s)</string>
+    <string name="storage_open_multiple_files_99">ÖPPNA (99+)</string>
+    <string name="storage_settigs_usuage_calculating">(Beräknar användning)</string>
+    <string name="storage_settings_edit_cc_settings">Redigera Creative Cloud-inst.</string>
+    <string name="storage_settings_get_more_storage">Skaffa mer utrymme</string>
+    <string formatted="false" name="storage_settings_storage_usage">%s använt (%s av %s GB)</string>
+    <string name="storage_settings_switch_accounts">Byt konton</string>
+    <string name="storage_upload_btn_title">ÖVERFÖR (%s)</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="syncing_library">Synkroniserar bibliotek…</string>
+    <string name="theme_picker_actionbar_title">Temaväljare</string>
+    <string name="themes_tab_heading">TEMAN</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-sv-rSE/strings.xml -->
+    <eat-comment/>
+    <string name="title_activity_display_message">My Message</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string formatted="false" name="warning_msg">The server http://%s requires a username and password. The server says : %s</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-sv-rSE/values-sv-rSE.xml -->
+    <eat-comment/>
+    <string name="wheel">Hjul</string>
+</resources>

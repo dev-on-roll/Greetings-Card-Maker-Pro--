@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/adobe_uxassetbrowser_upload_image_to_library"
+        app:showAsAction="never"
+        android:title="@string/UPLOAD_IMAGE_TO_LIBRARY_MENU_TITLE" />
+
+    <item
+        android:id="@+id/adobe_uxassetbrowser_upload_image_to_library_from_camera"
+        app:showAsAction="never"
+        android:title="@string/UPLOAD_ASSET_FROM_CAMERA_BUTTON" />
+</menu><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/menu/adobe_assetview_library_items_container_menu.xml -->

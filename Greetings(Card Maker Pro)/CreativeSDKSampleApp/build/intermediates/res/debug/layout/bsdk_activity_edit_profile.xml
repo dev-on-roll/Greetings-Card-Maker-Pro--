@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bsdk_edit_profile_background_color"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/bsdkEditProfileActionbarContainer"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:background="@drawable/bsdk_bg_image_actionbar"
+        android:gravity="center_vertical" >
+
+        <RelativeLayout
+            android:id="@+id/bsdkEditProfileActionbarBackBtnContainer"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true" >
+
+            <ImageView
+                android:id="@+id/bsdkEditProfileActionbarBackBtnImageView"
+                android:background="@drawable/bsdk_selector_app_default_selection_bg"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:contentDescription="@string/bsdk_wip_publish_view_titlebar_back_nav_content_desc"
+                android:paddingLeft="@dimen/bsdk_titlebar_left_margin"
+                android:paddingRight="@dimen/bsdk_titlebar_back_button_right_margin"
+                android:scaleType="center"
+                android:src="@drawable/bsdk_icon_actionbar_back_button" />
+
+            <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                android:id="@+id/bsdkEditProfileActionbarTitleTxtView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@id/bsdkEditProfileActionbarBackBtnImageView"
+                android:text="@string/bsdk_edit_profile_ab_title"
+                android:textColor="@color/bsdk_titlebar_txt_color"
+                android:textSize="@dimen/bsdk_titlebar_txt_size" />
+        </RelativeLayout>
+
+        <com.behance.sdk.ui.customviews.BehanceSDKTextView
+            android:id="@+id/bsdkEditProfileActionbarActionBtnTxtView"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="@dimen/bsdk_edit_profile_titlebar_right_margin"
+            android:text="@string/bsdk_edit_profile_ab_save"
+            android:textColor="@color/bsdk_adobe_blue_disabled"
+            android:textSize="@dimen/bsdk_titlebar_action_btn_txt_size" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:focusableInTouchMode="true"
+        android:animateLayoutChanges="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/bsdk_edit_profile_margin_weight"/>
+
+            <ScrollView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:padding="@dimen/bsdk_edit_profile_padding"
+                android:scrollbarStyle="outsideOverlay"
+                android:clipToPadding="false"
+                android:layout_weight="@integer/bsdk_edit_profile_content_weight">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_marginBottom="5dp">
+
+                        <RelativeLayout
+                            android:layout_width="@dimen/bsdk_edit_profile_avatar_height_width"
+                            android:layout_height="@dimen/bsdk_edit_profile_avatar_height_width">
+
+                            <ImageView
+                                android:layout_width="@dimen/bsdk_edit_profile_avatar_height_width"
+                                android:layout_height="@dimen/bsdk_edit_profile_avatar_height_width"
+                                android:id="@+id/bsdkEditProfileAvatar"
+                                android:background="@color/bsdk_image_view_before_loading_bg_light_color"/>
+
+                            <ImageView
+                                android:layout_width="@dimen/bsdk_edit_profile_avatar_overlay_height_width"
+                                android:layout_height="@dimen/bsdk_edit_profile_avatar_overlay_height_width"
+                                android:src="@drawable/bsdk_profile_edit_icon"
+                                android:background="@drawable/bsdk_edit_profile_avatar_overlay_bg"
+                                android:layout_alignParentRight="true"
+                                android:layout_alignParentBottom="true"
+                                android:layout_marginRight="@dimen/bsdk_edit_profile_avatar_overlay_margin"
+                                android:layout_marginBottom="@dimen/bsdk_edit_profile_avatar_overlay_margin"/>
+
+                        </RelativeLayout>
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="@dimen/bsdk_edit_profile_avatar_height_width"
+                            android:layout_weight="1"
+                            android:layout_marginLeft="@dimen/bsdk_edit_profile_avatar_name_spacing"
+                            android:orientation="vertical">
+
+                            <com.behance.sdk.ui.customviews.BehanceSDKEditText
+                                style="@style/BsdkEditProfileEditTextStyle"
+                                android:id="@+id/bsdkEditProfileFirstName"
+                                android:hint="@string/bsdk_edit_profile_hint_first_name"/>
+
+                            <com.behance.sdk.ui.customviews.BehanceSDKEditText
+                                style="@style/BsdkEditProfileEditTextStyle"
+                                android:id="@+id/bsdkEditProfileLastName"
+                                android:hint="@string/bsdk_edit_profile_hint_last_name" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <com.behance.sdk.ui.customviews.BehanceSDKEditText
+                        style="@style/BsdkEditProfileEditTextStyle"
+                        android:id="@+id/bsdkEditProfileOccupation"
+                        android:hint="@string/bsdk_edit_profile_hint_occupation" />
+
+                    <com.behance.sdk.ui.customviews.BehanceSDKEditText
+                        style="@style/BsdkEditProfileEditTextStyle"
+                        android:id="@+id/bsdkEditProfileCompany"
+                        android:hint="@string/bsdk_edit_profile_hint_company" />
+
+                    <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                        android:id="@+id/bsdkEditProfileLocation"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/bsdk_edit_profile_field_height"
+                        android:textColor="@color/bsdk_search_filter_view_filters_view_text_color"
+                        android:layout_alignParentLeft="true"
+                        android:gravity="left|center_vertical"
+                        style="@style/BsdkEditTextWithSpinnerBgStyle"
+                        android:textSize="@dimen/bsdk_edit_profile_field_text_size" />
+
+                    <com.behance.sdk.ui.customviews.BehanceSDKEditText
+                        style="@style/BsdkEditProfileEditTextStyle"
+                        android:id="@+id/bsdkEditProfileWebsite"
+                        android:hint="@string/bsdk_edit_profile_hint_website" />
+
+                </LinearLayout>
+
+            </ScrollView>
+
+            <View
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="@integer/bsdk_edit_profile_margin_weight"/>
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/bsdk_edit_profile_background_color"
+            android:id="@+id/bsdkEditProfileLoader">
+
+            <ProgressBar
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"/>
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_activity_edit_profile.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/layout/bsdk_activity_edit_profile.xml -->

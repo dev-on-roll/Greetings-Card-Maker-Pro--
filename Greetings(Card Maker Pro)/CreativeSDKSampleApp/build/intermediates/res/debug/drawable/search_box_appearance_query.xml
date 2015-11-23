@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="@color/actionbar_background" />
+            <padding android:left="@dimen/search_view_padding_left"></padding>
+        </shape>
+    </item>
+    <item>
+        <bitmap android:src="@drawable/ic_search_black_24dp"
+            android:gravity="left"></bitmap>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="@color/creative_sdk_transparent_color" />
+            <padding
+                android:left="@dimen/search_view_icon_text_padding"
+                android:bottom="@dimen/search_view_icon_padding_bottom"></padding>
+        </shape>
+    </item>
+</layer-list><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/drawable/search_box_appearance_query.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/drawable/search_box_appearance_query.xml -->

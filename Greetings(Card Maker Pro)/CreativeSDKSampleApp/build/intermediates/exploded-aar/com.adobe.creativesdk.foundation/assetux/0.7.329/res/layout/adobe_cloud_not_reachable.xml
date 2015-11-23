@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/creative_sdk_background_color">
+
+    <ImageView
+        android:id="@+id/adobe_cloud_not_reachable_error_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/adobe_cloud_not_reachable_error_message"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/no_internet_connection" />
+
+    <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKBoldTextView
+        android:id="@+id/adobe_cloud_not_reachable_error_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:text="@string/adobe_cloud_not_reachable_private_cloud"
+        android:textColor="@color/asset_browser_dark_text"
+        android:textSize="@dimen/common_error_view_textSize" />
+
+    <LinearLayout
+        android:id="@+id/adobe_cloud_not_reachable_retry_btn"
+        android:layout_width="129dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/one_up_view_open_button"
+        android:layout_below="@+id/adobe_cloud_not_reachable_error_message"
+        android:layout_centerHorizontal="true"
+        android:clickable="true"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            android:id="@+id/adobe_cloud_not_reachable_retry_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="@string/adobe_cloud_not_reachable_retry"
+            android:gravity="center"
+            android:textColor="@android:color/white"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_cloud_not_reachable.xml -->

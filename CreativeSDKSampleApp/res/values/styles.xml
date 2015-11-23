@@ -1,0 +1,46 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+
+
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>       
+	
+  	<style name="SampleAppLightTheme" parent="@android:style/Theme.Holo.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+         <item name="android:actionBarStyle">@style/MyActionBar</item>
+         <item name="android:popupMenuStyle">@style/PopUp</item>
+			<item name="android:windowContentOverlay">@null</item>	
+    </style>
+       <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <!--<item name="android:background">@drawable/actionbar_design</item>-->
+        <item name="android:actionBarItemBackground">@color/actionbar_background</item>
+    </style>
+       <style name="PopUp" parent="@android:style/Widget.Holo.Light.PopupMenu">
+        <item name="android:popupBackground">@drawable/pop_up_menu_style</item>
+        <item name="android:textColor">@color/asset_browser_dark_text</item>
+        <item name="android:textSize">19sp</item>
+    </style>
+    
+  
+	
+</resources>

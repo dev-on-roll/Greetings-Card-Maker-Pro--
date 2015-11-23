@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/values-fi/strings.xml -->
+    <eat-comment/>
+    <string name="Analogus">Samankaltaiset</string>
+    <string name="Complementary">Vastaväri</string>
+    <string name="Compound">Yhdistelmä</string>
+    <string name="Custom">Mukautettu</string>
+    <string name="Monochromatic">Monokromaattinen</string>
+    <string name="OK">OK</string>
+    <string name="Shades">Varjot</string>
+    <string name="Triad">Kolmiväri</string>
+    <string name="add_color">Lisää väri</string>
+    <string name="add_theme">Lisää teema</string>
+    <string name="all_colors">Kaikki värit</string>
+    <string name="by">Tekijä: </string>
+    <string name="cancel">PERUUTA</string>
+    <string name="clear_history">TYHJENNÄ</string>
+    <string name="color_component_activity_actionbar_title">Väri</string>
+    <string name="color_picker_actionbar_title">Värimuokkain</string>
+    <string name="copy_themes">Kopioi teemat</string>
+    <string name="copy_to">Kopioi kohteeseen</string>
+    <string name="create">Luo</string>
+    <string name="create_library">Luo kirjasto</string>
+    <string name="delete">Poista</string>
+    <string name="edit">MUOKKAA</string>
+    <string name="edit_camel">Muokkaa</string>
+    <string name="edit_color">Muokkaa väriä</string>
+    <string name="edit_name">Muokkaa nimeä</string>
+    <string name="edit_theme">Muokkaa teemaa</string>
+    <string name="empty_color_list_line1">Aloita värien ja teemojen kerääminen</string>
+    <string name="empty_color_list_line2">tähän kirjastoon ja käytä niitä muiden</string>
+    <string name="empty_color_list_line3">mobiili- ja työpöytäsovellusten välillä</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hex">Heksadesimaali</string>
+    <string name="history">Historia</string>
+    <string name="history_cleared">Historia tyhjennetty</string>
+    <string name="lib_row_desc_p_p">%1$d väriä, %2$d teemaa</string>
+    <string name="lib_row_desc_p_s">%1$d väriä, 1 teema</string>
+    <string name="lib_row_desc_s_p">1 väri, %1$d teemaa</string>
+    <string name="lib_row_desc_s_s">1 väri, 1 teema</string>
+    <string name="libraries_tab_heading">OMAT KIRJASTOT</string>
+    <string name="loading">Ladataan…</string>
+    <string name="my_library">Oma kirjasto</string>
+    <string name="new_name">Uusi nimi</string>
+    <string name="no_colors">Ei värejä</string>
+    <string name="picker_tab_heading">VALITSIN</string>
+    <string name="remove">POISTA</string>
+    <string name="remove_camel">Poista</string>
+    <string name="remove_confirmation">Haluatko varmasti poistaa kohteen?</string>
+    <string name="rename">NIMEÄ UUDELLEEN</string>
+    <string name="rename_library">Nimeä kirjasto uudelleen</string>
+    <string name="rgb">RGB</string>
+    <string name="select_a_color">Valitse väri</string>
+    <string name="select_library">Valitse kirjasto</string>
+    <string name="syncing_library">Synkronoidaan kirjastoja…</string>
+    <string name="theme_picker_actionbar_title">Teemavalitsin</string>
+    <string name="themes_tab_heading">TEEMAT</string>
+    <string name="wheel">Pyörä</string>
+</resources>

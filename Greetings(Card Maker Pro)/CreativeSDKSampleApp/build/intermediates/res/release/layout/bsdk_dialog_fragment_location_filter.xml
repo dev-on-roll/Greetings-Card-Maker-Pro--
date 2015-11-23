@@ -1,0 +1,315 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bsdk_location_filter_dialog_bg_color" >
+
+    <ViewFlipper
+        android:id="@+id/bsdkLocationFilterDialogViewFlipper"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bsdk_location_filter_dialog_display_item_bg_color" >
+
+        <!-- Main View -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="?android:attr/actionBarSize"
+                android:gravity="center_vertical" >
+
+                <ImageView
+                    android:id="@+id/bsdkLocationFilterDialogBackBtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_centerVertical="true"
+                    android:paddingLeft="@dimen/bsdk_dialog_back_left_padding"
+                    android:paddingRight="@dimen/bsdk_dialog_back_right_padding"
+                    android:scaleType="center"
+                    android:background="@drawable/bsdk_selector_app_default_selection_bg"
+                    android:src="@drawable/bsdk_icon_actionbar_back_button" />
+
+                <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@id/bsdkLocationFilterDialogBackBtn"
+                    android:text="@string/bsdk_location_filter_dialog_title_label"
+                    android:textColor="@color/bsdk_titlebar_txt_color"
+                    android:textSize="@dimen/bsdk_titlebar_txt_size" />
+
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/bsdk_location_filter_dialog_divider_color" />
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:paddingLeft="@dimen/bsdk_search_filter_view_right_left_padding"
+                android:paddingRight="@dimen/bsdk_search_filter_view_right_left_padding">
+
+                <LinearLayout
+                    android:id="@+id/bsdkLocationFilterDialogSelectedLocationsContainer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <RelativeLayout
+                        android:id="@+id/bsdkLocationFilterDialogSelectedCountryContainer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" >
+
+                        <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                            android:id="@+id/bsdkLocationFilterDialogSelectedCountryTxtView"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:ellipsize="end"
+                            android:maxLines="1"
+                            android:paddingBottom="@dimen/bsdk_location_filter_item_top_bottom_padding"
+                            android:paddingTop="@dimen/bsdk_location_filter_item_top_bottom_padding"
+                            android:textColor="@color/bsdk_location_filter_dialog_location_item_txt_color"
+                            android:textSize="@dimen/bsdk_location_filter_dialog_location_item_txt_size" />
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="1dp"
+                            android:layout_alignParentBottom="true"
+                            android:background="@color/bsdk_location_filter_dialog_divider_color" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/bsdkLocationFilterDialogSelectedStateContainer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:visibility="gone" >
+
+                        <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                            android:id="@+id/bsdkLocationFilterDialogSelectedStateTxtView"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:ellipsize="end"
+                            android:maxLines="1"
+                            android:paddingBottom="@dimen/bsdk_location_filter_item_top_bottom_padding"
+                            android:paddingTop="@dimen/bsdk_location_filter_item_top_bottom_padding"
+                            android:textColor="@color/bsdk_location_filter_dialog_location_item_txt_color"
+                            android:textSize="@dimen/bsdk_location_filter_dialog_location_item_txt_size" />
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="1dp"
+                            android:layout_alignParentBottom="true"
+                            android:background="@color/bsdk_location_filter_dialog_divider_color" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/bsdkLocationFilterDialogSelectedCityContainer"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:visibility="gone" >
+
+                        <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                            android:id="@+id/bsdkLocationFilterDialogSelectedCityTxtView"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentLeft="true"
+                            android:ellipsize="end"
+                            android:maxLines="1"
+                            android:paddingBottom="@dimen/bsdk_location_filter_item_top_bottom_padding"
+                            android:paddingTop="@dimen/bsdk_location_filter_item_top_bottom_padding"
+                            android:textColor="@color/bsdk_location_filter_dialog_location_item_txt_color"
+                            android:textSize="@dimen/bsdk_location_filter_dialog_location_item_txt_size" />
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="1dp"
+                            android:layout_alignParentBottom="true"
+                            android:background="@color/bsdk_location_filter_dialog_divider_color" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </ScrollView>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/bsdk_location_filter_dialog_divider_color" />
+
+            <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                android:id="@+id/bsdkLocationFilterDialogCloseDialogBtn"
+                android:layout_width="match_parent"
+                android:layout_height="?android:attr/actionBarSize"
+                android:gravity="center"
+                android:text="@string/bsdk_location_filter_dialog_done_btn_label"
+                android:textColor="@color/bsdk_search_filter_view_dialog_done_btn_color"
+                android:textSize="@dimen/bsdk_titlebar_action_btn_txt_size"
+                android:background="@drawable/bsdk_selector_app_default_selection_bg" />
+
+        </LinearLayout>
+
+        <!-- Countries View -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="?android:attr/actionBarSize"
+                android:gravity="center_vertical"
+                android:paddingRight="@dimen/bsdk_custom_actionbar_right_left_margin" >
+
+                <ImageView
+                    android:id="@+id/bsdkLocationFilterDialogCountriesSectionBackBtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_centerVertical="true"
+                    android:paddingLeft="@dimen/bsdk_dialog_back_left_padding"
+                    android:paddingRight="@dimen/bsdk_dialog_back_right_padding"
+                    android:scaleType="center"
+                    android:background="@drawable/bsdk_selector_app_default_selection_bg"
+                    android:src="@drawable/bsdk_icon_actionbar_back_button" />
+
+                <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@id/bsdkLocationFilterDialogCountriesSectionBackBtn"
+                    android:text="@string/bsdk_location_filter_dialog_country_label"
+                    android:textColor="@color/bsdk_titlebar_txt_color"
+                    android:textSize="@dimen/bsdk_titlebar_txt_size" />
+            </RelativeLayout>
+
+            <ListView
+                android:id="@+id/bsdkLocationFilterDialogCountriesListView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/bsdk_location_filter_dialog_display_item_bg_color"
+                android:fastScrollAlwaysVisible="true"
+                android:fastScrollEnabled="true"
+                android:paddingLeft="@dimen/bsdk_search_filter_list_view_right_left_padding"
+                android:paddingRight="@dimen/bsdk_search_filter_list_view_right_left_padding"
+                android:scrollbarStyle="outsideOverlay" />
+        </LinearLayout>
+
+        <!-- States View -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="?android:attr/actionBarSize"
+                android:gravity="center_vertical"
+                android:paddingRight="@dimen/bsdk_custom_actionbar_right_left_margin" >
+
+                <ImageView
+                    android:id="@+id/bsdkLocationFilterDialogStatesSectionBackBtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_centerVertical="true"
+                    android:paddingLeft="@dimen/bsdk_dialog_back_left_padding"
+                    android:paddingRight="@dimen/bsdk_dialog_back_right_padding"
+                    android:scaleType="center"
+                    android:background="@drawable/bsdk_selector_app_default_selection_bg"
+                    android:src="@drawable/bsdk_icon_actionbar_back_button" />
+
+                <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@id/bsdkLocationFilterDialogStatesSectionBackBtn"
+                    android:text="@string/bsdk_location_filter_dialog_state_label"
+                    android:textColor="@color/bsdk_titlebar_txt_color"
+                    android:textSize="@dimen/bsdk_titlebar_txt_size" />
+            </RelativeLayout>
+
+            <ListView
+                android:id="@+id/bsdkLocationFilterDialogStatesListView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/bsdk_location_filter_dialog_display_item_bg_color"
+                android:fastScrollEnabled="true"
+                android:paddingLeft="@dimen/bsdk_search_filter_list_view_right_left_padding"
+                android:paddingRight="@dimen/bsdk_search_filter_list_view_right_left_padding"
+                android:scrollbarStyle="outsideOverlay" />
+        </LinearLayout>
+
+        <!-- Cities View -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/bsdk_location_filter_dialog_display_item_bg_color"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="?android:attr/actionBarSize"
+                android:gravity="center_vertical"
+                android:paddingRight="@dimen/bsdk_custom_actionbar_right_left_margin" >
+
+                <ImageView
+                    android:id="@+id/bsdkLocationFilterDialogCitiesSectionBackBtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_centerVertical="true"
+                    android:paddingLeft="@dimen/bsdk_dialog_back_left_padding"
+                    android:paddingRight="@dimen/bsdk_dialog_back_right_padding"
+                    android:scaleType="center"
+                    android:src="@drawable/bsdk_icon_actionbar_back_button" />
+
+                <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@id/bsdkLocationFilterDialogCitiesSectionBackBtn"
+                    android:text="@string/bsdk_location_filter_dialog_city_label"
+                    android:textColor="@color/bsdk_titlebar_txt_color"
+                    android:textSize="@dimen/bsdk_titlebar_txt_size" />
+            </RelativeLayout>
+
+            <com.behance.sdk.ui.customviews.BehanceSDKEditText
+                android:id="@+id/bsdkLocationFilterDialogCitySearchStrEditText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bsdk_selector_edit_text_behance_blue"
+                android:hint="@string/bsdk_location_filter_dialog_type_city_name_label"
+                android:imeOptions="actionGo|flagNoFullscreen"
+                android:textColorHint="@color/bsdk_location_filter_search_txt_view_hint_color"
+                android:inputType="textCapSentences"
+                android:layout_marginRight="18dp"
+                android:layout_marginLeft="18dp"
+                android:padding="10dp"/>
+
+            <ListView
+                android:id="@+id/bsdkLocationFilterDialogCitiesListView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fastScrollEnabled="true"
+                android:paddingLeft="@dimen/bsdk_search_filter_list_view_right_left_padding"
+                android:paddingRight="@dimen/bsdk_search_filter_list_view_right_left_padding"
+                android:scrollbarStyle="outsideOverlay" />
+        </LinearLayout>
+    </ViewFlipper>
+
+    <ProgressBar
+        android:id="@+id/bsdkLocationFilterDialogProgressSpinner"
+        style="?android:attr/progressBarStyleInverse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="invisible" />
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_dialog_fragment_location_filter.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/layout/bsdk_dialog_fragment_location_filter.xml -->

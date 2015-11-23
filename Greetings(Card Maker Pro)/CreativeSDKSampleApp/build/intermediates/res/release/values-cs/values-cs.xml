@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="ASSET_BROWSER_COLLABORATION_ACCEPT">PŘIJMOUT</string>
+    <string name="ASSET_BROWSER_COLLABORATION_REJECT">ODMÍTNOUT</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="Analogus">Analogické</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="CANCEL_UPLOAD_ASSET_BROWSER_BUTTON">Zrušit nahrávání</string>
+    <string name="COLLABORATE_INVITE_EDIT_TEXT_HINT">Přidat e-mailovou adresu</string>
+    <string name="COLLABORATION_ALREADY_USED">E-mailová adresa je již zaregistrovaná.</string>
+    <string name="COLLABORATION_DELETE_MESSAGE">Chcete tohoto spolupracovníka odstranit?</string>
+    <string name="COLLABORATION_INVALID_EMAIL">Neplatná e-mailová adresa</string>
+    <string name="COLLABORATION_INVITATION_DELETE_ERROR">Pozvánku nebylo možné odstranit.</string>
+    <string name="COLLABORATION_INVITATION_DELETE_MESSAGE">Chcete tuto pozvánku odstranit?</string>
+    <string name="COLLABORATION_INVITE">PŘIDAT</string>
+    <string name="COLLABORATION_INVITEE">(Pozvaný)</string>
+    <string name="COLLABORATION_INVITE_CANCEL">ZRUŠIT</string>
+    <string name="COLLABORATION_INVITE_ERROR_MESSAGE">Pozvánku nebylo možné dokončit.</string>
+    <string name="COLLABORATION_OWNER">(Vlastník)</string>
+    <string name="COLLABORATION_SELF_DELETE_MESSAGE">Chcete tuto složku opustit?</string>
+    <string name="COLLABORATOR_DELETE_NEGATIVE_BUTTON">ZRUŠIT</string>
+    <string name="COLLABORATOR_DELETE_POSITIVE_BUTTON">ODSTRANIT</string>
+    <string name="CREATE_NEW_FOLDER_BUTTON_CANCEL">ZRUŠIT</string>
+    <string name="CREATE_NEW_FOLDER_BUTTON_CREATE">VYTVOŘIT</string>
+    <string name="CREATE_NEW_FOLDER_DIALOG_TITLE">Vytvořit novou složku</string>
+    <string name="CREATE_NEW_FOLDER_EDIT_TEXT_HINT">Název složky</string>
+    <string name="CREATE_NEW_FOLDER_TITLE">Vytvořit novou složku</string>
+    <string name="CREATE_NEW_INVITE_TITLE">Přidat spolupracovníka</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="Complementary">Doplňkové</string>
+    <string name="Compound">Složené</string>
+    <string name="Custom">Vlastní</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="IDS_ACTION_VIEW_COMMENT">Komentáře</string>
+    <string name="IDS_ACTION_VIEW_EDIT_ANNOTATION">Upravit anotace</string>
+    <string name="IDS_ACTION_VIEW_FILE_DETAILS">Informace</string>
+    <string name="IDS_ACTION_VIEW_PUBLISH_TO_BEHANCE">Publikovat ve službě Behance</string>
+    <string name="IDS_ACTION_VIEW_SHARE">Sdílet</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">Všechny aplikace</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">Všechny kategorie byly vyloučeny.</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">ZÍSKAT</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">KATEGORIE</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">USPOŘÁDAT</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">Získejte další informace o zvětšující se knihovně kreativních aplikací, které jsou kompatibilní a propojené se službou Creative Cloud.</string>
+    <string name="IDS_APPLIBRARY_ERROR">Knihovna aplikací není nyní dostupná. Informace o zvětšující se knihovně kreativních aplikací vyhledejte později.</string>
+    <string name="IDS_APPLIBRARY_FEATURED">Atraktivní</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">Nejlépe hodnocené</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">Nedávné</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">V této kategorii nebyly nalezeny žádné aplikace.</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">Nebyly nalezeny žádné aplikace.</string>
+    <string name="IDS_APPLIBRARY_TITLE">Knihovna aplikací</string>
+    <string name="IDS_APP_GET">INSTALOVAT</string>
+    <string name="IDS_APP_OPEN">OTEVŘÍT</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="IDS_ASSET_DETAILS_FILE_DETAILS">Podrobnosti o souboru</string>
+    <string name="IDS_ASSET_DETAILS_HEIGHT">Výška</string>
+    <string name="IDS_ASSET_DETAILS_KB">kB</string>
+    <string name="IDS_ASSET_DETAILS_MB">MB</string>
+    <string name="IDS_ASSET_DETAILS_MODIFIED">Změněno</string>
+    <string name="IDS_ASSET_DETAILS_PX">px</string>
+    <string name="IDS_ASSET_DETAILS_SIZE">Velikost</string>
+    <string name="IDS_ASSET_DETAILS_UPLOADED">Nahráno</string>
+    <string name="IDS_ASSET_DETAILS_WIDTH">Šířka</string>
+    <string name="IDS_ASSET_DETAILS_ZERO_MB">0 MB</string>
+    <string name="IDS_ASSET_DETAILS_ZERO_PX">0 px</string>
+    <string name="IDS_ASSET_VIEWER_NO_PREVIEW_AVAILABLE">Náhled není k dispozici.</string>
+    <string name="IDS_ASSET_VIEWER_OF">z</string>
+    <string formatted="false" name="IDS_ASSET_VIEWER_OF_2">%s z %s</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="IDS_BY">autor:</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="IDS_CAPTION_COLLATION_FOLDERS_HEADER">SLOŽKY</string>
+    <string name="IDS_CAPTION_COLLATION_UNKNOWN_DATE">NEZNÁMÉ</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_DATE">AKTUALIZOVÁNO %s</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_LAST_WEEK">AKTUALIZOVÁNO MINULÝ TÝDEN</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_THIS_MONTH">AKTUALIZOVÁNO TENTO MĚSÍC</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_THIS_WEEK">AKTUALIZOVÁNO TENTO TÝDEN</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_TODAY">AKTUALIZOVÁNO DNES</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="IDS_CATEGORY_AUDIO">Zvuk</string>
+    <string name="IDS_CATEGORY_CAPTURE">Zaznamenat</string>
+    <string name="IDS_CATEGORY_COMMUNITY">Komunita</string>
+    <string name="IDS_CATEGORY_DESIGN">Návrh</string>
+    <string name="IDS_CATEGORY_DRAWING">Kresba</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">Ilustrace</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">Úpravy obrazů</string>
+    <string name="IDS_CATEGORY_PHOTOS">Fotografie</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">Fotografie a video</string>
+    <string name="IDS_CATEGORY_PRESENTATION">Prezentace</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">Produktivita</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">Tvorba prototypů</string>
+    <string name="IDS_CATEGORY_SOCIAL">Sociální</string>
+    <string name="IDS_CATEGORY_STORAGE">Úložiště</string>
+    <string name="IDS_CATEGORY_STORY">Vyprávění</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">Návrh uživatelského rozhraní</string>
+    <string name="IDS_CATEGORY_UTILITY">Nástroj</string>
+    <string name="IDS_CATEGORY_VIDEO">Video</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="IDS_COMMENT_ERROR_MSG">Komentáře (celkem %s) nebylo možné odstranit.</string>
+    <string name="IDS_COMMENT_INSERTION_ERROR_MSG">Komentář nebylo možné přidat.</string>
+    <string name="IDS_COMMENT_SINGLE_ERROR_MSG">%s komentář nebylo možné odstranit.</string>
+    <string name="IDS_COMMENT_SINGLE_SUCCESS_MSG">%s komentář byl úspěšně odstraněn.</string>
+    <string name="IDS_COMMENT_SUCCESS_MSG">Komentáře (celkem %s) byly úspěšně odstraněny.</string>
+    <string name="IDS_COMMENT_UPDATE_MSG">Komentáře (celkem %d) byly vloženy.</string>
+    <string name="IDS_COMMENT_UPDATE_MSG_SINGLE">Byl vložen %d komentář.</string>
+    <string name="IDS_DELETE_ERROR_MSG">Položky (celkem %s) nebylo možné odstranit.</string>
+    <string name="IDS_DELETE_SINGLE_ERROR_MSG">%s položku nebylo možné odstranit.</string>
+    <string name="IDS_DELETE_SINGLE_SUCCESS_MSG">%s položka byla úspěšně odstraněna.</string>
+    <string name="IDS_DELETE_SUCCESS_MSG">Položky (celkem %s) byly úspěšně odstraněny.</string>
+    <string name="IDS_EDIT_ERROR_DGL_TITLE">Chyby při úpravách</string>
+    <string name="IDS_EDIT_ERROR_MSG">Položky (celkem %s) nebylo možné upravit.</string>
+    <string name="IDS_EDIT_SINGLE_ERROR_MSG">%s položku nebylo možné upravit.</string>
+    <string name="IDS_EDIT_SINGLE_SUCCESS_MSG">%s položka byla úspěšně upravena.</string>
+    <string name="IDS_EDIT_SUCCESS_MSG">Položky (celkem %s) byly úspěšně upraveny.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-cs/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_GET_STARTED">Začněte tím, že se přihlásíte nebo vytvoříte nové Adobe ID.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="IDS_INVITATION_ERROR_MSG">Pozvánky (celkem %s) nebylo možné zpracovat.</string>
+    <string name="IDS_INVITATION_SINGLE_ERROR_MSG">%s pozvánku nebylo možné zpracovat.</string>
+    <string name="IDS_INVITATION_SINGLE_SUCCESS_MSG">%s pozvánka byla úspěšně zpracována.</string>
+    <string name="IDS_INVITATION_SUCCESS_MSG">Pozvánky (celkem %s) byly úspěšně zpracovány.</string>
+    <string name="IDS_MOVE_ERROR_MSG">Položky (celkem %s) nebylo možné přesunout.</string>
+    <string name="IDS_MOVE_SINGLE_ERROR_MSG">%s položku nebylo možné přesunout.</string>
+    <string name="IDS_MOVE_SINGLE_SUCCESS_MSG">%s položka byla úspěšně přesunuta.</string>
+    <string name="IDS_MOVE_SUCCESS_MSG">Položky (celkem %s) byly úspěšně přesunuty.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="IDS_PLEASE_WAIT">Čekejte prosím…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="IDS_SAVE_TO_DEVICE_CANCELLED_NOTIFICATION_TEXT">Soubor (%d) byl zrušen.</string>
+    <string name="IDS_SAVE_TO_DEVICE_CANCELLED_NOTIFICATION_TITLE">Stahování zrušeno</string>
+    <string name="IDS_SAVE_TO_DEVICE_CANCEL_TEXT">Zrušit</string>
+    <string name="IDS_SAVE_TO_DEVICE_COMPLETE_NOTIFICATION_TEXT">Byl stažen soubor (%d).</string>
+    <string name="IDS_SAVE_TO_DEVICE_COMPLETE_NOTIFICATION_TITLE">Stahování dokončeno</string>
+    <string name="IDS_SAVE_TO_DEVICE_ERROR_NOTIFICATION_TEXT">Soubor (%d) nebylo možné stáhnout.</string>
+    <string name="IDS_SAVE_TO_DEVICE_ERROR_NOTIFICATION_TITLE">Chyba při stahování</string>
+    <string formatted="false" name="IDS_SAVE_TO_DEVICE_NOTIFICATION_TEXT">Zbývající soubor: %d</string>
+    <string name="IDS_SAVE_TO_DEVICE_NOTIFICATION_TITLE">Uložení do zařízení</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-cs/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_SIGN_IN">PŘIHLÁSIT SE POMOCÍ ADOBE ID</string>
+    <string name="IDS_SIGN_UP">ZAREGISTROVAT ADOBE ID</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">Komunikace</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">Kompilace</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">Soutěže</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">Kresba</string>
+    <string name="IDS_SUBCATEGORY_EDITING">Úpravy</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">E-mail</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">Názor</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">Sdílení souborů</string>
+    <string name="IDS_SUBCATEGORY_FONTS">Písma</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">K pronájmu</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">Generování</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">Vzorky</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">Úpravy fotografií</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">Fotografie</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">Portfolio</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">Tisk</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">Tvorba prototypů</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">Sociální síť</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">Vyprávění</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">Vektory</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">Webové stránky</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="IDS_UPLOAD_ERROR_DGL_TITLE">Chyby při nahrávání</string>
+    <string name="IDS_UPLOAD_ERROR_MSG">Soubory (celkem %s) nebylo možné nahrát.</string>
+    <string name="IDS_UPLOAD_SINGLE_ERROR_MSG">%s soubor nebylo možné nahrát.</string>
+    <string name="IDS_UPLOAD_SINGLE_SUCCESS_MSG">%s soubor byl úspěšně nahrán.</string>
+    <string name="IDS_UPLOAD_SUCCESS_MSG">Soubory (celkem %s) byly úspěšně nahrány.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-cs/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_WELCOME">Vítá vás služba Creative Cloud</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="Monochromatic">Monochromatické</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="NOTIFICATION_ACCEPT_FAILURE">Proces přijetí nebylo možné dokončit.</string>
+    <string name="NOTIFICATION_INVITATION">vás pozval(a) do sdílené složky </string>
+    <string name="NOTIFICATION_JOINED">Připojili jste se k: </string>
+    <string name="NOTIFICATION_NOT_FOUND">Nebylo nalezeno žádné oznámení.</string>
+    <string name="NOTIFICATION_REJECTED">Odmítli jste pozvánku k: </string>
+    <string name="NOTIFICATION_REJECT_FAILURE">Proces odmítnutí nebylo možné dokončit.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="OK">OK</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="SHARE_WITH_OPTIONS_TITLE">Sdílet s</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="Shades">Odstíny</string>
+    <string name="Triad">Trojice</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="UPLOAD_ASSET_BROWSER_BUTTON">Nahrát soubory</string>
+    <string name="UPLOAD_ASSET_FROM_CAMERA_BUTTON">Pořídit fotografii</string>
+    <string name="UPLOAD_IMAGE_TO_LIBRARY_MENU_TITLE">Nahrát obrazy</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">Upravit v</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Přejít na plochu"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Přejít nahoru"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Více možností"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobrazit vše"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Vybrat aplikaci"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Smazat dotaz"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Vyhledávací dotaz"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Hledat"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Odeslat dotaz"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hlasové vyhledávání"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Sdílet pomocí"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Sdílet pomocí %s"</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-cs/strings.xml -->
+    <eat-comment/>
+    <string name="action_login">přihlášení</string>
+    <string name="action_logout">odhlášení</string>
+    <string name="action_settings">Settings</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="add_collaborator">Přidat spolupracovníka</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="add_color">Přidat barvu</string>
+    <string name="add_theme">Přidat motiv</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="adobe_360_capture">Zaznamenat</string>
+    <string name="adobe_360_edit">Upravit</string>
+    <string name="adobe_360_embed">Vložit</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="adobe_asset_edit_in_progress">Probíhající úprava</string>
+    <string name="adobe_asset_edit_rename_button">Přejmenovat</string>
+    <string name="adobe_asset_move_error_same_location">Chyba: Zdrojové a cílové umístění pro operaci přesunutí je stejné.</string>
+    <string name="adobe_asset_view_add_annotation_dialog_hint_text">Napište svůj komentář.</string>
+    <string name="adobe_asset_view_add_annotation_dialog_negative_button">ZRUŠIT</string>
+    <string name="adobe_asset_view_add_annotation_dialog_positive_button">ODESLAT</string>
+    <string name="adobe_asset_view_add_annotation_dialog_title">Přidat anotaci</string>
+    <string name="adobe_asset_view_add_comments_dialog_error_message">Při přidávání komentáře došlo k chybě.</string>
+    <string name="adobe_asset_view_add_comments_dialog_hint_text">Napište svůj komentář.</string>
+    <string name="adobe_asset_view_add_comments_dialog_negative_button">ZRUŠIT</string>
+    <string name="adobe_asset_view_add_comments_dialog_positive_button">ODESLAT</string>
+    <string name="adobe_asset_view_add_comments_dialog_title">Přidat komentář</string>
+    <string name="adobe_asset_view_comments_title">Komentáře</string>
+    <string name="adobe_asset_view_dialog_fetch_link">Načítání odkazu...</string>
+    <string name="adobe_asset_view_edit_delete_button">Odstranit</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_file">Chcete tento soubor odstranit?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_folder">Chcete tuto složku odstranit?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_multi_select">Chcete tyto položky (celkem %d) odstranit?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_negative_button">ZRUŠIT</string>
+    <string name="adobe_asset_view_edit_delete_dialog_positive_button">ODSTRANIT</string>
+    <string name="adobe_asset_view_edit_download_button">Uložit do zařízení</string>
+    <string name="adobe_asset_view_edit_fragment_edit_button">Upravit</string>
+    <string name="adobe_asset_view_edit_fragment_erase_button">Odstranit</string>
+    <string name="adobe_asset_view_edit_fragment_move_button">Přesunout</string>
+    <string name="adobe_asset_view_edit_fragment_title">Vybrat položky</string>
+    <string name="adobe_asset_view_edit_move_button">Přesunout</string>
+    <string name="adobe_asset_view_edit_rename_dialog_error_message">Při úpravě názvu došlo k chybě.</string>
+    <string name="adobe_asset_view_edit_rename_dialog_hint_text">Nový název</string>
+    <string name="adobe_asset_view_edit_rename_dialog_negative_button">ZRUŠIT</string>
+    <string name="adobe_asset_view_edit_rename_dialog_positive_button">UPRAVIT</string>
+    <string name="adobe_asset_view_edit_rename_dialog_title">Upravit název</string>
+    <string name="adobe_asset_view_error_fetch_link">Odkaz nebylo možné načíst.</string>
+    <string name="adobe_asset_view_move_fragment_title">Vybrat složku</string>
+    <string name="adobe_asset_view_multi_page_count">%d str.</string>
+    <string formatted="false" name="adobe_asset_view_multi_page_numbering">%d z %d </string>
+    <string name="adobe_asset_view_no_comments_found">Nebyly nalezeny žádné komentáře.</string>
+    <string name="adobe_asset_view_send_link_button">Odeslat odkaz</string>
+    <string name="adobe_asset_view_show_annotation_dialog_button">ROZUMÍM</string>
+    <string name="adobe_assetbrowser_edit_delete_confirm">Chcete tento soubor odstranit?</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="adobe_auth_sign_in_close">Zavřít</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="adobe_cloud_not_reachable_no_internet_connection">Nelze se připojit ke službě Creative Cloud.\n Zkontrolujte připojení k internetu a zkuste to znovu.</string>
+    <string name="adobe_cloud_not_reachable_private_cloud">Služba Creative Cloud, ke které jste se snažili získat přístup, je nedostupná.\n Zkontrolujte připojení k síti VPN a zkuste to znovu.</string>
+    <string name="adobe_cloud_not_reachable_public_cloud">Služba Creative Cloud, ke které jste se snažili získat přístup, je nedostupná.\n Zkuste to znovu.</string>
+    <string name="adobe_cloud_not_reachable_retry">OPAKOVAT</string>
+    <string name="adobe_common_error_folder_invalid_chars">Neplatný název složky</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="adobe_common_error_view_no_internet_connection">Žádné připojení k internetu</string>
+    <string name="adobe_common_error_view_unknown_authenticate_error">Při ověřování došlo k chybě.\nOpakujte akci později.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="adobe_common_error_while_creating_folder">Složku nelze vytvořit.</string>
+    <string name="adobe_composition_collection_plural">kompozice</string>
+    <string name="adobe_composition_collection_singular">kompozice</string>
+    <string name="adobe_comps_empty_collection">Zatím nemáte žádné kompozice.</string>
+    <string name="adobe_design_library_collection_count">Prostředky: %s</string>
+    <string name="adobe_design_library_collection_count_single">Prostředky: 1</string>
+    <string name="adobe_design_library_empty_collection">Tato knihovna služby Creative Cloud je prázdná.</string>
+    <string name="adobe_design_library_header_brushes">ŠTĚTCE (%s)</string>
+    <string name="adobe_design_library_header_color">BARVY (%s)</string>
+    <string name="adobe_design_library_header_colortheme">BAREVNÉ MOTIVY (%s)</string>
+    <string name="adobe_design_library_header_graphics">GRAFIKA (%s)</string>
+    <string name="adobe_design_library_header_layoutstyle">STYLY VRSTEV (%s)</string>
+    <string name="adobe_design_library_header_looks">LOOKS (%s)</string>
+    <string name="adobe_design_library_header_textstyle">STYLY TEXTU (%s)</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="adobe_error_not_entitled_to_video">"Zpráva o tom, že uživatel nemá oprávnění k zobrazení náhledu videa."</string>
+    <string name="adobe_id_authenticator_accesslabel">Úplný přístup k účtu Adobe ID</string>
+    <string name="adobe_id_authenticator_add_account_error_onlyone">Je podporováno pouze jedno Adobe ID.</string>
+    <string name="adobe_id_authenticator_settings_label">Adobe</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="adobe_lineordrawcollection_plural">Kresby</string>
+    <string name="adobe_lineordrawcollection_singular">Kresba</string>
+    <string name="adobe_mobilecreation_item_download">Stáhnout</string>
+    <string name="adobe_mobilecreations_empty_collection">Zatím nemáte žádné kresby.</string>
+    <string name="adobe_mobilecreations_package_count">Prostředky: %s</string>
+    <string name="adobe_mobilecreations_sort">Řadit podle data importu</string>
+    <string name="adobe_my_libraries_empty_collection">Zatím nemáte žádné knihovny.</string>
+    <string formatted="false" name="adobe_notification_activities_comments">Uživatel %s přidal komentář k: %s.</string>
+    <string name="adobe_notification_activities_comments_self">Přidali jste komentář k: %s.</string>
+    <string formatted="false" name="adobe_notification_activities_invitation_accept">Uživatel %s se připojil k: %s.</string>
+    <string name="adobe_notification_activities_invitation_accept_single">Připojili jste se k: %s.</string>
+    <string name="adobe_notification_activities_section_header_single">AKTIVITA</string>
+    <string name="adobe_notification_activities_self">Vy</string>
+    <string name="adobe_notification_activity_timestamp_day_single">Před 1 dnem</string>
+    <string name="adobe_notification_activity_timestamp_days_multiple">Před %d dny</string>
+    <string name="adobe_notification_activity_timestamp_hour_single">Před 1 hodinou</string>
+    <string name="adobe_notification_activity_timestamp_hours_multiple">Před %d hodinami</string>
+    <string name="adobe_notification_activity_timestamp_less_than_minute">Před méně než minutou</string>
+    <string name="adobe_notification_activity_timestamp_minute">Před %d minutami</string>
+    <string name="adobe_notification_activity_timestamp_year_multiple">Před %d roky</string>
+    <string name="adobe_notification_activity_timestamp_year_single">Před 1 rokem</string>
+    <string name="adobe_notification_invitation_message">vás pozval(a) do sdílené složky „%s“</string>
+    <string name="adobe_notification_invitation_section_header">POZVÁNKY (%d)</string>
+    <string name="adobe_notification_invitation_section_header_single">POZVÁNKA (1)</string>
+    <string name="adobe_notification_operation_collaborated_folder_error">Kolekci nebylo možné načíst.</string>
+    <string name="adobe_notification_operation_comment_error">Prostředek nebylo možné načíst.</string>
+    <string name="adobe_psmix_collection_plural">Fotokompozice</string>
+    <string name="adobe_psmix_collection_singular">Fotokompozice</string>
+    <string name="adobe_sdk_main_root_collection">Soubory</string>
+    <string name="adobe_sketchCollection_plural">skici</string>
+    <string name="adobe_sketchCollection_singular">Skica</string>
+    <string name="adobe_sketches_empty_collection">Zatím nemáte žádné skici.</string>
+    <string name="adobe_storage_no_folders_found">Nebyly nalezeny žádné složky.</string>
+    <string name="adobe_uxassetbrowser_action_asgrid">Zobrazit jako tabulku</string>
+    <string name="adobe_uxassetbrowser_action_aslist">Zobrazit jako seznam</string>
+    <string name="adobe_uxassetbrowser_action_collaborate">Spolupracovat</string>
+    <string name="adobe_uxassetbrowser_action_edit_asset">Upravit</string>
+    <string name="adobe_uxassetbrowser_action_sort_alpha">Řadit abecedně</string>
+    <string name="adobe_uxassetbrowser_action_sort_date">Řadit podle data</string>
+    <string name="adobe_uxassetbrowser_comps">COMP CC</string>
+    <string name="adobe_uxassetbrowser_create_new_folder">Vytvořit novou složku</string>
+    <string name="adobe_uxassetbrowser_csdk_myassets_main">Moje položky</string>
+    <string name="adobe_uxassetbrowser_csdk_mylibraries">Moje knihovny</string>
+    <string name="adobe_uxassetbrowser_designlibrary">Knihovna</string>
+    <string name="adobe_uxassetbrowser_download_cancelled">Zrušené stahování %s</string>
+    <string name="adobe_uxassetbrowser_download_description">Adobe Creative Cloud</string>
+    <string name="adobe_uxassetbrowser_download_directory">Creative Cloud</string>
+    <string name="adobe_uxassetbrowser_download_error">Při stahování došlo k chybě. %s</string>
+    <string name="adobe_uxassetbrowser_download_io_failure"> stahování souboru %s se kvůli vstupně-výstupní chybě nezdařilo.</string>
+    <string name="adobe_uxassetbrowser_download_successful"> Staženo: %s</string>
+    <string name="adobe_uxassetbrowser_drawings">ILLUSTRATOR DRAW</string>
+    <string name="adobe_uxassetbrowser_file_download_assert_exception">Soubor datového zdroje není platný.</string>
+    <string name="adobe_uxassetbrowser_files">SOUBORY</string>
+    <string name="adobe_uxassetbrowser_library_image_download_assert_exception">Obraz knihovny není platný.</string>
+    <string name="adobe_uxassetbrowser_lines">ILLUSTRATOR LINE</string>
+    <string name="adobe_uxassetbrowser_myacount">Můj účet</string>
+    <string name="adobe_uxassetbrowser_photo_download_assert_exception">Datový zdroj fotografie není platný.</string>
+    <string name="adobe_uxassetbrowser_photos">FOTOGRAFIE</string>
+    <string name="adobe_uxassetbrowser_psmix">PHOTOSHOP MIX</string>
+    <string name="adobe_uxassetbrowser_sdk_myaccount">Můj účet</string>
+    <string name="adobe_uxassetbrowser_selectfolder_upload">Vybrat složku</string>
+    <string name="adobe_uxassetbrowser_sketches">PHOTOSHOP SKETCH</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="all_colors">Všechny barvy</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-cs/strings.xml -->
+    <eat-comment/>
+    <string name="app_library">Knihovna aplikací</string>
+    <string name="app_name">Creative SDK</string>
+    <string name="asset_browser">Prohlížeč prostředků</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="auth_required">Authentication Required</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-cs/strings.xml -->
+    <eat-comment/>
+    <string name="behance_publish">Publikování ve službě Behance</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="by">Autor: </string>
+    <string name="cancel">ZRUŠIT</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="cancelLogIn">CANCEL</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="cc_title">Creative Cloud</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="clear_history">VYMAZAT</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="collaboration_create_invite_error">Pozvánku nebylo možné vytvořit.</string>
+    <string name="collaboration_create_invite_error_network">Nebylo možné se připojit k síti.</string>
+    <string name="collaboration_delete_failure">Spolupracovníka nebylo možné odstranit.</string>
+    <string formatted="false" name="collaboration_delete_prompt">Odstranit %s?</string>
+    <string name="collaboration_error">Chyba při načítání spolupracovníků</string>
+    <string name="collaboration_leave_failure">Složku nebylo možné opustit.</string>
+    <string formatted="false" name="collaboration_leave_prompt">Chcete složku %s opustit? </string>
+    <string name="collaborator">Spolupracovníci</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="color_component_activity_actionbar_title">Barva</string>
+    <string name="color_picker_actionbar_title">Výběr barvy</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="com_facebook_image_download_unknown_error">Při stahování obrázku došlo k nečekané chybě.</string>
+    <string name="com_facebook_internet_permission_error_message">Webové přihlášení vyžaduje oprávnění použít INTERNET</string>
+    <string name="com_facebook_internet_permission_error_title">Chyba AndroidManifest</string>
+    <string name="com_facebook_like_button_liked">Už se mi to líbí</string>
+    <string name="com_facebook_like_button_not_liked">To se mi líbí</string>
+    <string name="com_facebook_loading">Načítání…</string>
+    <string name="com_facebook_loginview_cancel_action">Zrušit</string>
+    <string name="com_facebook_loginview_log_in_button">Přihlásit</string>
+    <string name="com_facebook_loginview_log_in_button_long">Přihlásit se přes Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Odhlásit</string>
+    <string name="com_facebook_loginview_log_out_button">Odhlásit</string>
+    <string name="com_facebook_loginview_logged_in_as">Přihlášen(a) jako: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Přihlášen(a) přes Facebook</string>
+    <string name="com_facebook_send_button_text">Odeslat</string>
+    <string name="com_facebook_share_button_text">Sdílet</string>
+    <string name="com_facebook_tooltip_default">Novinka! Je jen na vás, které informace chcete s aplikacemi sdílet.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="comments_error">Chyba při načítání komentářů</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="copy_themes">Kopírovat motivy</string>
+    <string name="copy_to">Kopírovat do</string>
+    <string name="create">Vytvořit</string>
+    <string name="create_library">Vytvořit knihovnu</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="creative_cloud">Creative Cloud</string>
+    <string name="creative_sdk">Creative SDK</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="delete">Odstranit</string>
+    <string name="edit">UPRAVIT</string>
+    <string name="edit_camel">Upravit</string>
+    <string name="edit_color">Upravit barvu</string>
+    <string name="edit_name">Upravit název</string>
+    <string name="edit_theme">Upravit motiv</string>
+    <string name="empty_color_list_line1">Začněte shromažďovat barvy a motivy</string>
+    <string name="empty_color_list_line2">v této knihovně, abyste je mohli používat v jiných</string>
+    <string name="empty_color_list_line3">mobilních a počítačových aplikacích.</string>
+    <string name="hello_blank_fragment">Ahoj – prázdná část</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-cs/strings.xml -->
+    <eat-comment/>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="hex">Šestnáctkově</string>
+    <string name="history">Historie</string>
+    <string name="history_cleared">Historie vymazána</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-cs/strings.xml -->
+    <eat-comment/>
+    <string name="launch_header">KOMPONENTY SPUŠTĚNÍ</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="lib_row_desc_p_p">Barvy: %1$d, motivy: %2$d</string>
+    <string name="lib_row_desc_p_s">Barvy: %1$d, 1 motiv</string>
+    <string name="lib_row_desc_s_p">1 barva, motivy: %1$d</string>
+    <string name="lib_row_desc_s_s">1 barva, 1 motiv</string>
+    <string name="libraries_tab_heading">MOJE KNIHOVNY</string>
+    <string name="loading">Načítání…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="logIn">LOGIN</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="messenger_send_button_text">Odeslat</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="my_library">Moje knihovna</string>
+    <string name="new_name">Nový název</string>
+    <string name="no_colors">Žádné barvy</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="notification_title">Oznámení</string>
+    <string name="photo_asset_browser_empty_folder">Zatím nemáte žádné fotografie.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="picker_tab_heading">VÝBĚR</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="proxy_passwd_label">PASSWORD</string>
+    <string name="proxy_username_label">USER NAME</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="psmix_download_statement">Stáhnout aplikaci Adobe Photoshop Mix</string>
+    <string name="psmix_files_empty">Díky spojení výkonu aplikace Adobe Photoshop s výhodami mobilních technologií\r\nposkytuje aplikace Photoshop Mix v systému Android kreativní, jednoduché a zábavné prostředí pro úpravu fotografií.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="remove">ODEBRAT</string>
+    <string name="remove_camel">Odebrat</string>
+    <string name="remove_confirmation">Opravdu chcete položku odebrat?</string>
+    <string name="rename">PŘEJMENOVAT</string>
+    <string name="rename_library">Přejmenovat knihovnu</string>
+    <string name="rgb">RGB</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="search_query_hint">Hledat…</string>
+    <string name="search_title">Hledat</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="select_a_color">Vybrat barvu</string>
+    <string name="select_library">Vybrat knihovnu</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-cs/strings.xml -->
+    <eat-comment/>
+    <string name="selection_header">Vybrané soubory</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="storage_asset_browser_empty_folder">Zatím nemáte žádné soubory.</string>
+    <string name="storage_cancel_selection">ZRUŠIT</string>
+    <string name="storage_create_folder_already_exists_error">Složka již existuje.</string>
+    <string name="storage_create_folder_authention_requires_error">Je vyžadováno ověření.</string>
+    <string name="storage_create_folder_no_error">""</string>
+    <string name="storage_empty_folder_upload_files_title">NAHRÁT SOUBORY</string>
+    <string name="storage_open">OTEVŘÍT</string>
+    <string name="storage_open_files">OTEVŘÍT</string>
+    <string name="storage_open_multiple_files">OTEVŘÍT (%s)</string>
+    <string name="storage_open_multiple_files_99">OTEVŘÍT (více než 99)</string>
+    <string name="storage_settigs_usuage_calculating">(Probíhá výpočet využití.)</string>
+    <string name="storage_settings_edit_cc_settings">Upravit nastavení služby Creative Cloud</string>
+    <string name="storage_settings_get_more_storage">Získat větší úložiště</string>
+    <string formatted="false" name="storage_settings_storage_usage">Využito: %s (%s z %s GB)</string>
+    <string name="storage_settings_switch_accounts">Přepnout účty</string>
+    <string name="storage_upload_btn_title">NAHRÁT (%s)</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="syncing_library">Synchronizace knihoven…</string>
+    <string name="theme_picker_actionbar_title">Výběr motivu</string>
+    <string name="themes_tab_heading">MOTIVY</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-cs/strings.xml -->
+    <eat-comment/>
+    <string name="title_activity_display_message">My Message</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string formatted="false" name="warning_msg">The server http://%s requires a username and password. The server says : %s</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-cs/values-cs.xml -->
+    <eat-comment/>
+    <string name="wheel">Kolečko</string>
+</resources>

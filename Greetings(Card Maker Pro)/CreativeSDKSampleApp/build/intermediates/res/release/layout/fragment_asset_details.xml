@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="@dimen/fragment_asset_spacing_normal"
+    >
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:background="@drawable/asset_file_info_details_dialog"
+        android:rowCount="5"
+        android:columnCount="2">
+
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            android:id="@+id/textView1"
+            style="@style/AssetFileDetailsText.Left"
+            android:text="@string/IDS_ASSET_DETAILS_UPLOADED"
+            />
+
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            android:id="@+id/ASSET_DETAILS_UPLOADED"
+            style="@style/AssetFileDetailsText.Right"
+            />
+
+
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            style="@style/AssetFileDetailsText.Left"
+            android:text="@string/IDS_ASSET_DETAILS_MODIFIED"
+            />
+
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            android:id="@+id/ASSET_DETAILS_MODIFIED"
+            style="@style/AssetFileDetailsText.Right"
+            />
+
+
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            style="@style/AssetFileDetailsText.Left"
+            android:text="@string/IDS_ASSET_DETAILS_SIZE"
+            />
+
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            android:id="@+id/ASSET_DETAILS_SIZE"
+            style="@style/AssetFileDetailsText.Right"
+            />
+
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            android:id="@+id/ASSET_DETAILS_WIDTH_NEW_HEADER"
+            style="@style/AssetFileDetailsText.Left"
+            android:text="@string/IDS_ASSET_DETAILS_WIDTH"
+            />
+
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            android:id="@+id/ASSET_DETAILS_WIDTH_NEW"
+            style="@style/AssetFileDetailsText.Right"
+            />
+
+
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            android:id="@+id/ASSET_DETAILS_HEIGHT_NEW_HEADER"
+            style="@style/AssetFileDetailsText.Left"
+            android:text="@string/IDS_ASSET_DETAILS_HEIGHT"
+            />
+
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            android:id="@+id/ASSET_DETAILS_HEIGHT"
+            style="@style/AssetFileDetailsText.Right"
+            />
+
+
+
+    </GridLayout>
+
+</LinearLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/fragment_asset_details.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/layout/fragment_asset_details.xml -->

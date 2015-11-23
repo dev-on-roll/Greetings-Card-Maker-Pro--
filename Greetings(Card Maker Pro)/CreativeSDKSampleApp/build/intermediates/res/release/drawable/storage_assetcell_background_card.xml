@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+   
+    <item>
+		<shape android:shape="rectangle"
+			android:dither="true">
+			 <padding android:right="1px" android:bottom="1px" android:left="1px" />
+			<solid android:color="#ffffff" />
+			<stroke android:color="#eceff0" android:width="1px"/>
+		</shape>
+	</item>
+	
+   	<item android:top="-2px" android:right="-2px" android:left="-2px">
+		<shape android:shape="rectangle" 
+			android:dither="true" >
+			<padding android:bottom="1px"/>
+			<solid android:color="@android:color/transparent" />
+			<stroke android:color="#dbdedf" android:width="1px"  />
+		</shape>
+	</item>
+	
+     <!-- Drop Shadow Stack -->
+     <!-- 
+     <item>
+        <shape>
+            <padding android:top="1dp" android:right="1dp" android:bottom="1dp" android:left="1dp" />
+            <solid android:color="#00CCCCCC" />
+        </shape>
+    </item>
+     <item>
+        <shape>
+            <padding android:top="1dp" android:right="1dp" android:bottom="1dp" android:left="1dp" />
+            <solid android:color="#10CCCCCC" />
+        </shape>
+    </item>
+     <item>
+        <shape>
+            <padding android:top="1dp" android:right="1dp" android:bottom="1dp" android:left="1dp" />
+            <solid android:color="#20CCCCCC" />
+        </shape>
+    </item>
+     <item>
+        <shape>
+            <padding android:top="1dp" android:right="1dp" android:bottom="1dp" android:left="1dp" />
+            <solid android:color="#30CCCCCC" />
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <padding android:top="1dp" android:right="1dp" android:bottom="1dp" android:left="1dp" />
+            <solid android:color="#50CCCCCC" />
+        </shape>
+    </item>
+ 	-->
+    <!-- Background -->
+    
+    <!-- <item>
+	<shape>
+            <solid android:color="@android:color/white" />
+	    <corners android:radius="3dp" />
+	</shape>
+    </item> -->
+    
+</layer-list>
+<!--  
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+	<item>
+		<shape android:shape="rectangle"
+			android:dither="true">
+			<corners android:radius="2dp"/>
+			<solid android:color="#ccc" />
+		</shape>
+	</item>
+
+	<item android:bottom="2dp">
+		<shape android:shape="rectangle"
+			android:dither="true">
+			<corners android:radius="2dp" />
+			<solid android:color="@android:color/white" />
+		</shape>
+	</item>
+</layer-list>
+-->
+
+
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/drawable/storage_assetcell_background_card.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/drawable/storage_assetcell_background_card.xml -->

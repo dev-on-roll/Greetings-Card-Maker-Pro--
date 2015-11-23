@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values-sv-rSE/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">Alla appar</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">Alla kategorier har exkluderats</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">HÄMTA</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">KATEGORIER</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">SORTERA</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">Utforska det växande biblioteket med kreativa appar, kompatibelt och anslutet till Creative Cloud</string>
+    <string name="IDS_APPLIBRARY_ERROR">Appbiblioteket är inte tillgängligt för närvarande. Kom tillbaka senare för att utforska det växande biblioteket med kreativa appar</string>
+    <string name="IDS_APPLIBRARY_FEATURED">Aktuellt</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">Högsta omdöme</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">Senaste</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">Inga appar hittades i den här kategorin</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">Inga program hittades.</string>
+    <string name="IDS_APPLIBRARY_TITLE">Appbibliotek</string>
+    <string name="IDS_APP_GET">INSTALLERA</string>
+    <string name="IDS_APP_OPEN">ÖPPNA</string>
+    <string name="IDS_BY">av</string>
+    <string name="IDS_CATEGORY_AUDIO">Ljud</string>
+    <string name="IDS_CATEGORY_CAPTURE">Inspelning</string>
+    <string name="IDS_CATEGORY_COMMUNITY">Användarforum</string>
+    <string name="IDS_CATEGORY_DESIGN">Design</string>
+    <string name="IDS_CATEGORY_DRAWING">Rita</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">Illustration</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">Bildredigering</string>
+    <string name="IDS_CATEGORY_PHOTOS">Foton</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">Foto och video</string>
+    <string name="IDS_CATEGORY_PRESENTATION">Presentation</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">Produktivitet</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">Generera prototyper</string>
+    <string name="IDS_CATEGORY_SOCIAL">Social</string>
+    <string name="IDS_CATEGORY_STORAGE">Lagring</string>
+    <string name="IDS_CATEGORY_STORY">Berättande</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">UI/UX-design</string>
+    <string name="IDS_CATEGORY_UTILITY">Tillbehör</string>
+    <string name="IDS_CATEGORY_VIDEO">Video</string>
+    <string name="IDS_PLEASE_WAIT">Vänta…</string>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">Kommunikation</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">Kompileringar</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">Tävlingar</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">Rita</string>
+    <string name="IDS_SUBCATEGORY_EDITING">Redigerar</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">E-post</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">Skicka synpunkter</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">Fildelning</string>
+    <string name="IDS_SUBCATEGORY_FONTS">Teckensnitt</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">Att hyra</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">Generering</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">Mönster</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">Fotoredigering</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">Fotografering</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">Portfölj</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">Skriver ut</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">Generera prototyper</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">Sociala nätverk</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">Berättande</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">Vektorer</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">Webbplatser</string>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">Redigera i</string>
+    <string name="action_settings">Inställningar</string>
+    <string name="adobe_360_capture">Fånga</string>
+    <string name="adobe_360_edit">Redigera</string>
+    <string name="adobe_360_embed">Bädda in</string>
+    <string name="hello_world">Hej världen!</string>
+</resources>

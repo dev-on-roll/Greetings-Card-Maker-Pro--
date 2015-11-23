@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="applibrary-0.7.329">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/picker_ok"
+        android:icon="@drawable/creativesdkcolor_ic_actionbar_tick"
+        android:title="@string/OK"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/wheel"
+        android:title="@string/wheel"
+        app:showAsAction="never" />
+    <item android:id="@+id/rgb"
+        android:title="@string/rgb"
+        app:showAsAction="never" />
+    <item android:id="@+id/hex"
+        android:title="@string/hex"
+        app:showAsAction="never" />
+    <item android:id="@+id/history"
+        android:title="@string/history"
+        app:showAsAction="never" />
+</menu><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/menu/fragment_color_pickers.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/menu/fragment_color_pickers.xml -->

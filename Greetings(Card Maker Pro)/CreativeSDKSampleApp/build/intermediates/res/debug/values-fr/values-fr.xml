@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="ASSET_BROWSER_COLLABORATION_ACCEPT">ACCEPTER</string>
+    <string name="ASSET_BROWSER_COLLABORATION_REJECT">REJETER</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="Analogus">Semblable</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="CANCEL_UPLOAD_ASSET_BROWSER_BUTTON">Annuler le chargement</string>
+    <string name="COLLABORATE_INVITE_EDIT_TEXT_HINT">Ajouter adresse électronique</string>
+    <string name="COLLABORATION_ALREADY_USED">Adresse électronique déjà enregistrée</string>
+    <string name="COLLABORATION_DELETE_MESSAGE">Voulez-vous supprimer ce collaborateur ?</string>
+    <string name="COLLABORATION_INVALID_EMAIL">Adresse électronique non valide</string>
+    <string name="COLLABORATION_INVITATION_DELETE_ERROR">Impossible de supprimer l’invitation</string>
+    <string name="COLLABORATION_INVITATION_DELETE_MESSAGE">Voulez-vous supprimer cette invitation ?</string>
+    <string name="COLLABORATION_INVITE">AJOUTER</string>
+    <string name="COLLABORATION_INVITEE">(Invité)</string>
+    <string name="COLLABORATION_INVITE_CANCEL">ANNULER</string>
+    <string name="COLLABORATION_INVITE_ERROR_MESSAGE">Impossible de terminer l’invitation</string>
+    <string name="COLLABORATION_OWNER">(Propriétaire)</string>
+    <string name="COLLABORATION_SELF_DELETE_MESSAGE">Voulez-vous quitter ce dossier ?</string>
+    <string name="COLLABORATOR_DELETE_NEGATIVE_BUTTON">ANNULER</string>
+    <string name="COLLABORATOR_DELETE_POSITIVE_BUTTON">SUPPRIMER</string>
+    <string name="CREATE_NEW_FOLDER_BUTTON_CANCEL">ANNULER</string>
+    <string name="CREATE_NEW_FOLDER_BUTTON_CREATE">CREER</string>
+    <string name="CREATE_NEW_FOLDER_DIALOG_TITLE">Créer un nouveau dossier</string>
+    <string name="CREATE_NEW_FOLDER_EDIT_TEXT_HINT">Nom du dossier</string>
+    <string name="CREATE_NEW_FOLDER_TITLE">Créer un nouveau dossier</string>
+    <string name="CREATE_NEW_INVITE_TITLE">Ajouter un collaborateur</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="Complementary">Complémentaire</string>
+    <string name="Compound">Composé</string>
+    <string name="Custom">Personnalisé</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="IDS_ACTION_VIEW_COMMENT">Commentaires</string>
+    <string name="IDS_ACTION_VIEW_EDIT_ANNOTATION">Modifier les annotations</string>
+    <string name="IDS_ACTION_VIEW_FILE_DETAILS">Informations</string>
+    <string name="IDS_ACTION_VIEW_PUBLISH_TO_BEHANCE">Publier sur Behance</string>
+    <string name="IDS_ACTION_VIEW_SHARE">Partager</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">Toutes les applications</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">Toutes les catégories ont été exclues</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">OBTENIR</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">CATEGORIES</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">TRIER</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">Découvrez la bibliothèque d’applications créative compatibles et connectées avec Creative Cloud</string>
+    <string name="IDS_APPLIBRARY_ERROR">La bibliothèque d’applications n’est pas disponible actuellement. Revenez plus tard pour découvrir notre bibliothèque d’applications créatives qui s’agrandit sans cesse</string>
+    <string name="IDS_APPLIBRARY_FEATURED">Recommandés</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">Meilleure notation</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">Les plus récents</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">Aucune application trouvée dans cette catégorie</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">Aucune application trouvée.</string>
+    <string name="IDS_APPLIBRARY_TITLE">Bibliothèque d’app</string>
+    <string name="IDS_APP_GET">INSTALLER</string>
+    <string name="IDS_APP_OPEN">OUVRIR</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="IDS_ASSET_DETAILS_FILE_DETAILS">Informations sur le fichier</string>
+    <string name="IDS_ASSET_DETAILS_HEIGHT">Hauteur</string>
+    <string name="IDS_ASSET_DETAILS_KB">Ko</string>
+    <string name="IDS_ASSET_DETAILS_MB">Mo</string>
+    <string name="IDS_ASSET_DETAILS_MODIFIED">Modifié</string>
+    <string name="IDS_ASSET_DETAILS_PX">px</string>
+    <string name="IDS_ASSET_DETAILS_SIZE">Taille</string>
+    <string name="IDS_ASSET_DETAILS_UPLOADED">Téléchargé</string>
+    <string name="IDS_ASSET_DETAILS_WIDTH">Largeur</string>
+    <string name="IDS_ASSET_DETAILS_ZERO_MB">0 Mo</string>
+    <string name="IDS_ASSET_DETAILS_ZERO_PX">0 px</string>
+    <string name="IDS_ASSET_VIEWER_NO_PREVIEW_AVAILABLE">Aucun aperçu disponible</string>
+    <string name="IDS_ASSET_VIEWER_OF">sur</string>
+    <string formatted="false" name="IDS_ASSET_VIEWER_OF_2">%s sur %s</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="IDS_BY">de</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="IDS_CAPTION_COLLATION_FOLDERS_HEADER">DOSSIERS</string>
+    <string name="IDS_CAPTION_COLLATION_UNKNOWN_DATE">INCONNU</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_DATE">MIS A JOUR %s</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_LAST_WEEK">MIS A JOUR LA SEMAINE DERNIERE</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_THIS_MONTH">MIS A JOUR CE MOIS-CI</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_THIS_WEEK">MIS A JOUR CETTE SEMAINE</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_TODAY">MIS A JOUR AUJOURD’HUI</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="IDS_CATEGORY_AUDIO">Audio</string>
+    <string name="IDS_CATEGORY_CAPTURE">Capture</string>
+    <string name="IDS_CATEGORY_COMMUNITY">Communauté</string>
+    <string name="IDS_CATEGORY_DESIGN">Création</string>
+    <string name="IDS_CATEGORY_DRAWING">dessin</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">Illustration</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">Retouche d’image</string>
+    <string name="IDS_CATEGORY_PHOTOS">Photos</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">Photo et vidéo</string>
+    <string name="IDS_CATEGORY_PRESENTATION">Présentation</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">Productivité</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">Prototypage</string>
+    <string name="IDS_CATEGORY_SOCIAL">Social</string>
+    <string name="IDS_CATEGORY_STORAGE">Stockage</string>
+    <string name="IDS_CATEGORY_STORY">Narration</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">Design UI/UX</string>
+    <string name="IDS_CATEGORY_UTILITY">Utilitaire</string>
+    <string name="IDS_CATEGORY_VIDEO">Vidéo</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="IDS_COMMENT_ERROR_MSG">%s commentaires non supprimés</string>
+    <string name="IDS_COMMENT_INSERTION_ERROR_MSG">Impossible d’ajouter un commentaire</string>
+    <string name="IDS_COMMENT_SINGLE_ERROR_MSG">%s commentaire non supprimé</string>
+    <string name="IDS_COMMENT_SINGLE_SUCCESS_MSG">%s commentaire supprimé</string>
+    <string name="IDS_COMMENT_SUCCESS_MSG">%s commentaires supprimés</string>
+    <string name="IDS_COMMENT_UPDATE_MSG">%d commentaires insérés</string>
+    <string name="IDS_COMMENT_UPDATE_MSG_SINGLE">%d commentaire inséré</string>
+    <string name="IDS_DELETE_ERROR_MSG">%s éléments non supprimés</string>
+    <string name="IDS_DELETE_SINGLE_ERROR_MSG">%s élément non supprimé</string>
+    <string name="IDS_DELETE_SINGLE_SUCCESS_MSG">%s élément supprimé</string>
+    <string name="IDS_DELETE_SUCCESS_MSG">%s éléments supprimés</string>
+    <string name="IDS_EDIT_ERROR_DGL_TITLE">Modifier les erreurs</string>
+    <string name="IDS_EDIT_ERROR_MSG">%s éléments non modifiés</string>
+    <string name="IDS_EDIT_SINGLE_ERROR_MSG">%s élément non modifié</string>
+    <string name="IDS_EDIT_SINGLE_SUCCESS_MSG">%s élément modifié</string>
+    <string name="IDS_EDIT_SUCCESS_MSG">%s éléments modifiés</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_GET_STARTED">Pour commencer, connectez-vous ou créez un nouvel Adobe ID.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="IDS_INVITATION_ERROR_MSG">%s invitations non traitées</string>
+    <string name="IDS_INVITATION_SINGLE_ERROR_MSG">%s invitation non traitée</string>
+    <string name="IDS_INVITATION_SINGLE_SUCCESS_MSG">%s invitation traitée</string>
+    <string name="IDS_INVITATION_SUCCESS_MSG">%s invitations traitées</string>
+    <string name="IDS_MOVE_ERROR_MSG">%s éléments non déplacés</string>
+    <string name="IDS_MOVE_SINGLE_ERROR_MSG">%s élément non déplacé</string>
+    <string name="IDS_MOVE_SINGLE_SUCCESS_MSG">%s élément déplacé</string>
+    <string name="IDS_MOVE_SUCCESS_MSG">%s éléments déplacés</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="IDS_PLEASE_WAIT">Patientez…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="IDS_SAVE_TO_DEVICE_CANCELLED_NOTIFICATION_TEXT">%d fichier annulé</string>
+    <string name="IDS_SAVE_TO_DEVICE_CANCELLED_NOTIFICATION_TITLE">Téléchargement annulé</string>
+    <string name="IDS_SAVE_TO_DEVICE_CANCEL_TEXT">Annuler</string>
+    <string name="IDS_SAVE_TO_DEVICE_COMPLETE_NOTIFICATION_TEXT">%d fichier téléchargé</string>
+    <string name="IDS_SAVE_TO_DEVICE_COMPLETE_NOTIFICATION_TITLE">Téléchargement terminé</string>
+    <string name="IDS_SAVE_TO_DEVICE_ERROR_NOTIFICATION_TEXT">%d fichier non téléchargé</string>
+    <string name="IDS_SAVE_TO_DEVICE_ERROR_NOTIFICATION_TITLE">Erreur de téléchargement</string>
+    <string formatted="false" name="IDS_SAVE_TO_DEVICE_NOTIFICATION_TEXT">%d fichier restant</string>
+    <string name="IDS_SAVE_TO_DEVICE_NOTIFICATION_TITLE">Enregistrement sur le périphérique </string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_SIGN_IN">SE CONNECTER AVEC VOTRE ADOBE ID</string>
+    <string name="IDS_SIGN_UP">S’ABONNER POUR OBTENIR UN ADOBE ID</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">Communications</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">Compilations</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">Concours</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">dessin</string>
+    <string name="IDS_SUBCATEGORY_EDITING">Modification</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">Adresse électronique</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">Retours</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">Partage de fichiers</string>
+    <string name="IDS_SUBCATEGORY_FONTS">Polices</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">Carrières</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">Génération</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">Motifs</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">Retouche de photos</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">Photographie</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">Portfolio</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">Impression</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">Prototypage</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">Réseau social</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">Narration d’histoires</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">Vecteurs</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">Sites Web</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="IDS_UPLOAD_ERROR_DGL_TITLE">Télécharger les erreurs</string>
+    <string name="IDS_UPLOAD_ERROR_MSG">%s fichiers n’ont pas pu être téléchargés</string>
+    <string name="IDS_UPLOAD_SINGLE_ERROR_MSG">%s fichier non téléchargé</string>
+    <string name="IDS_UPLOAD_SINGLE_SUCCESS_MSG">%s fichier téléchargé</string>
+    <string name="IDS_UPLOAD_SUCCESS_MSG">%s fichiers téléchargés</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_WELCOME">Bienvenue dans Creative Cloud</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="Monochromatic">Monochrome</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="NOTIFICATION_ACCEPT_FAILURE">Impossible de terminer le processus d’acceptation</string>
+    <string name="NOTIFICATION_INVITATION">vous a invité à utiliser le dossier partagé</string>
+    <string name="NOTIFICATION_JOINED">Vous avez rejoint </string>
+    <string name="NOTIFICATION_NOT_FOUND">Aucune notification trouvée</string>
+    <string name="NOTIFICATION_REJECTED">Vous avez refusé l’invitation pour </string>
+    <string name="NOTIFICATION_REJECT_FAILURE">Impossible de terminer le processus de refus</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="OK">OK</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="SHARE_WITH_OPTIONS_TITLE">Partager avec</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="Shades">Teintes</string>
+    <string name="Triad">Trio</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="UPLOAD_ASSET_BROWSER_BUTTON">Charger des fichiers</string>
+    <string name="UPLOAD_ASSET_FROM_CAMERA_BUTTON">Prendre une photo</string>
+    <string name="UPLOAD_IMAGE_TO_LIBRARY_MENU_TITLE">Télécharger des images</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">Modifier dans</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Revenir en haut de la page"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Plus d\'options"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"OK"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tout afficher"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Effacer la requête"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Requête de recherche"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Rechercher"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envoyer la requête"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Recherche vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partager avec"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Partager avec %s"</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="action_login">connexion</string>
+    <string name="action_logout">déconnexion</string>
+    <string name="action_settings">Settings</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="add_collaborator">Ajouter le collaborateur</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="add_color">Ajouter une couleur</string>
+    <string name="add_theme">Ajouter un thème</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="adobe_360_capture">Capturer</string>
+    <string name="adobe_360_edit">Modifier</string>
+    <string name="adobe_360_embed">Intégrer</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="adobe_asset_edit_in_progress">Modification en cours</string>
+    <string name="adobe_asset_edit_rename_button">Renommer</string>
+    <string name="adobe_asset_move_error_same_location">Erreur : emplacements cible et source pour l’opération de déplacement identiques</string>
+    <string name="adobe_asset_view_add_annotation_dialog_hint_text">Rédiger un commentaire</string>
+    <string name="adobe_asset_view_add_annotation_dialog_negative_button">ANNULER</string>
+    <string name="adobe_asset_view_add_annotation_dialog_positive_button">ENVOYER</string>
+    <string name="adobe_asset_view_add_annotation_dialog_title">Ajouter une annotation</string>
+    <string name="adobe_asset_view_add_comments_dialog_error_message">Erreur lors de l’ajout du commentaire</string>
+    <string name="adobe_asset_view_add_comments_dialog_hint_text">Rédigez un commentaire</string>
+    <string name="adobe_asset_view_add_comments_dialog_negative_button">ANNULER</string>
+    <string name="adobe_asset_view_add_comments_dialog_positive_button">ENVOYER</string>
+    <string name="adobe_asset_view_add_comments_dialog_title">Ajouter un commentaire</string>
+    <string name="adobe_asset_view_comments_title">Commentaires</string>
+    <string name="adobe_asset_view_dialog_fetch_link">Obtention du lien...</string>
+    <string name="adobe_asset_view_edit_delete_button">Supprimer</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_file">Voulez-vous supprimer ce fichier ?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_folder">Voulez-vous supprimer ce dossier ?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_multi_select">Voulez-vous supprimer ces %d éléments ?</string>
+    <string name="adobe_asset_view_edit_delete_dialog_negative_button">ANNULER</string>
+    <string name="adobe_asset_view_edit_delete_dialog_positive_button">SUPPRIMER</string>
+    <string name="adobe_asset_view_edit_download_button">Enregistrer sur le périphérique </string>
+    <string name="adobe_asset_view_edit_fragment_edit_button">Modifier</string>
+    <string name="adobe_asset_view_edit_fragment_erase_button">Supprimer</string>
+    <string name="adobe_asset_view_edit_fragment_move_button">Déplacer</string>
+    <string name="adobe_asset_view_edit_fragment_title">Sélectionner des éléments</string>
+    <string name="adobe_asset_view_edit_move_button">Déplacer</string>
+    <string name="adobe_asset_view_edit_rename_dialog_error_message">Erreur lors de la modification du nom</string>
+    <string name="adobe_asset_view_edit_rename_dialog_hint_text">Nouveau nom</string>
+    <string name="adobe_asset_view_edit_rename_dialog_negative_button">ANNULER</string>
+    <string name="adobe_asset_view_edit_rename_dialog_positive_button">MODIFIER</string>
+    <string name="adobe_asset_view_edit_rename_dialog_title">Modifier le nom</string>
+    <string name="adobe_asset_view_error_fetch_link">Echec d’obtention du lien</string>
+    <string name="adobe_asset_view_move_fragment_title">Choisir un dossier</string>
+    <string name="adobe_asset_view_multi_page_count">%d pages</string>
+    <string formatted="false" name="adobe_asset_view_multi_page_numbering">%d sur %d </string>
+    <string name="adobe_asset_view_no_comments_found">Aucun commentaire</string>
+    <string name="adobe_asset_view_send_link_button">Envoyer le lien</string>
+    <string name="adobe_asset_view_show_annotation_dialog_button">C’EST COMPRIS</string>
+    <string name="adobe_assetbrowser_edit_delete_confirm">Voulez-vous supprimer ce fichier ?</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="adobe_auth_sign_in_close">Fermer</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="adobe_cloud_not_reachable_no_internet_connection">Unable to connect to the Creative Cloud.\n Please check your internet connection and try again</string>
+    <string name="adobe_cloud_not_reachable_private_cloud">Le service Creative Cloud auquel vous essayez d’accéder n’est pas disponible.\nVérifiez votre connexion VPN et réessayez.</string>
+    <string name="adobe_cloud_not_reachable_public_cloud">Le service Creative Cloud auquel vous essayez d’accéder n’est pas disponible.\nRéessayez.</string>
+    <string name="adobe_cloud_not_reachable_retry">REESSAYER</string>
+    <string name="adobe_common_error_folder_invalid_chars">Nom de dossier non valide</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="adobe_common_error_view_no_internet_connection">Aucune connexion Internet</string>
+    <string name="adobe_common_error_view_unknown_authenticate_error">Une erreur est survenue lors de l’authentification.\nRéessayez ultérieurement.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="adobe_common_error_while_creating_folder">Impossible de créer le dossier</string>
+    <string name="adobe_composition_collection_plural">compositions</string>
+    <string name="adobe_composition_collection_singular">composition</string>
+    <string name="adobe_comps_empty_collection">Vous n’avez aucune composition.</string>
+    <string name="adobe_design_library_collection_count">Ressources %s</string>
+    <string name="adobe_design_library_collection_count_single">Ressources 1</string>
+    <string name="adobe_design_library_empty_collection">Creative Cloud Library vide</string>
+    <string name="adobe_design_library_header_brushes">FORMES (%s)</string>
+    <string name="adobe_design_library_header_color">COULEURS (%s)</string>
+    <string name="adobe_design_library_header_colortheme">THEMES DE COULEUR (%s)</string>
+    <string name="adobe_design_library_header_graphics">GRAPHIQUES (%s)</string>
+    <string name="adobe_design_library_header_layoutstyle">STYLES DE CALQUE (%s)</string>
+    <string name="adobe_design_library_header_looks">LOOKS (%s)</string>
+    <string name="adobe_design_library_header_textstyle">STYLES DE TEXTE (%s)</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="adobe_error_not_entitled_to_video">"Message concernant l’impossibilité de visualisation de la vidéo par l’utilisateur."</string>
+    <string name="adobe_id_authenticator_accesslabel">Accès complet au compte Adobe ID</string>
+    <string name="adobe_id_authenticator_add_account_error_onlyone">Seul un Adobe ID est pris en charge</string>
+    <string name="adobe_id_authenticator_settings_label">Adobe</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="adobe_lineordrawcollection_plural">dessins</string>
+    <string name="adobe_lineordrawcollection_singular">dessin</string>
+    <string name="adobe_mobilecreation_item_download">Télécharger</string>
+    <string name="adobe_mobilecreations_empty_collection">Vous n’avez aucun dessin</string>
+    <string name="adobe_mobilecreations_package_count">%s ressources</string>
+    <string name="adobe_mobilecreations_sort">Trier par date d’importation </string>
+    <string name="adobe_my_libraries_empty_collection">Vous n’avez aucune bibliothèque</string>
+    <string formatted="false" name="adobe_notification_activities_comments">%s a commenté sur %s</string>
+    <string name="adobe_notification_activities_comments_self">Vous avez commenté sur %s</string>
+    <string formatted="false" name="adobe_notification_activities_invitation_accept">%s a rejoint %s</string>
+    <string name="adobe_notification_activities_invitation_accept_single">Vous avez rejoint %s</string>
+    <string name="adobe_notification_activities_section_header_single">ACTIVITE</string>
+    <string name="adobe_notification_activities_self">Vous</string>
+    <string name="adobe_notification_activity_timestamp_day_single">Il y a un jour</string>
+    <string name="adobe_notification_activity_timestamp_days_multiple">Il y a %d jours</string>
+    <string name="adobe_notification_activity_timestamp_hour_single">Il y a une heure</string>
+    <string name="adobe_notification_activity_timestamp_hours_multiple">Il y a %d heures</string>
+    <string name="adobe_notification_activity_timestamp_less_than_minute">Il y a moins d’une minute</string>
+    <string name="adobe_notification_activity_timestamp_minute">Il y a %d minutes</string>
+    <string name="adobe_notification_activity_timestamp_year_multiple">Il y a %d ans</string>
+    <string name="adobe_notification_activity_timestamp_year_single">Il y a un an</string>
+    <string name="adobe_notification_invitation_message">vous a invité à utiliser le dossier partagé “%s”</string>
+    <string name="adobe_notification_invitation_section_header">INVITATIONS (%d)</string>
+    <string name="adobe_notification_invitation_section_header_single">INVITATION (1)</string>
+    <string name="adobe_notification_operation_collaborated_folder_error">Echec du chargement de la collection</string>
+    <string name="adobe_notification_operation_comment_error">Echec du chargement de la ressource</string>
+    <string name="adobe_psmix_collection_plural">Compositions photo</string>
+    <string name="adobe_psmix_collection_singular">Composition photo</string>
+    <string name="adobe_sdk_main_root_collection">Fichiers</string>
+    <string name="adobe_sketchCollection_plural">esquisses</string>
+    <string name="adobe_sketchCollection_singular">esquisse</string>
+    <string name="adobe_sketches_empty_collection">Vous n’avez aucune esquisse.</string>
+    <string name="adobe_storage_no_folders_found">Aucun dossier trouvé</string>
+    <string name="adobe_uxassetbrowser_action_asgrid">Mode Grille</string>
+    <string name="adobe_uxassetbrowser_action_aslist">Mode Liste</string>
+    <string name="adobe_uxassetbrowser_action_collaborate">Collaborer</string>
+    <string name="adobe_uxassetbrowser_action_edit_asset">Modifier</string>
+    <string name="adobe_uxassetbrowser_action_sort_alpha">Ordre alphabét.</string>
+    <string name="adobe_uxassetbrowser_action_sort_date">Trier par date</string>
+    <string name="adobe_uxassetbrowser_comps">COMP CC</string>
+    <string name="adobe_uxassetbrowser_create_new_folder">Créer un nouveau dossier</string>
+    <string name="adobe_uxassetbrowser_csdk_myassets_main">Mes ressources</string>
+    <string name="adobe_uxassetbrowser_csdk_mylibraries">Mes bibliothèques</string>
+    <string name="adobe_uxassetbrowser_designlibrary">Bibliothèque</string>
+    <string name="adobe_uxassetbrowser_download_cancelled">Téléchargement annulé %s</string>
+    <string name="adobe_uxassetbrowser_download_description">Adobe Creative Cloud</string>
+    <string name="adobe_uxassetbrowser_download_directory">Creative Cloud</string>
+    <string name="adobe_uxassetbrowser_download_error">Une erreur est survenue lors du téléchargement %s</string>
+    <string name="adobe_uxassetbrowser_download_io_failure"> échec du téléchargement de %s en raison d’une erreur E/S</string>
+    <string name="adobe_uxassetbrowser_download_successful"> %s téléchargé</string>
+    <string name="adobe_uxassetbrowser_drawings">ILLUSTRATOR DRAW</string>
+    <string name="adobe_uxassetbrowser_file_download_assert_exception">Le fichier de ressources n’est pas valide</string>
+    <string name="adobe_uxassetbrowser_files">FICHIERS</string>
+    <string name="adobe_uxassetbrowser_library_image_download_assert_exception">L’image de la bibliothèque n’est pas valide</string>
+    <string name="adobe_uxassetbrowser_lines">ILLUSTRATOR LINE</string>
+    <string name="adobe_uxassetbrowser_myacount">Mon compte</string>
+    <string name="adobe_uxassetbrowser_photo_download_assert_exception">La ressource photo n’est pas valide</string>
+    <string name="adobe_uxassetbrowser_photos">PHOTOS</string>
+    <string name="adobe_uxassetbrowser_psmix">PHOTOSHOP MIX</string>
+    <string name="adobe_uxassetbrowser_sdk_myaccount">Mon compte</string>
+    <string name="adobe_uxassetbrowser_selectfolder_upload">Sélectionner le dossier</string>
+    <string name="adobe_uxassetbrowser_sketches">PHOTOSHOP SKETCH</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="all_colors">Toutes les couleurs</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="app_library">Bibliothèque d’app</string>
+    <string name="app_name">Creative SDK</string>
+    <string name="asset_browser">Navigateur d’actifs</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="auth_required">Authentication Required</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="behance_publish">Publication Behance</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="bsdk_add_content_project_cover_selection_title">Choisir une couverture</string>
+    <string name="bsdk_add_content_project_publish_adult_content_text">Inclut du contenu réservé aux adultes</string>
+    <string name="bsdk_add_content_project_publish_creative_field_hint">Sélectionner un domaine de création</string>
+    <string name="bsdk_add_content_project_publish_creative_tags_hint">mots-clés, séparés, virgules</string>
+    <string name="bsdk_add_content_project_publish_initiated_msg">Publication du projet.</string>
+    <string name="bsdk_add_content_project_publish_invalid_tag_msg">Les mots-clés doivent uniquement contenir des caractères alphanumériques avec ou sans espaces</string>
+    <string name="bsdk_add_content_project_publish_project_description_hint">Description du projet</string>
+    <string name="bsdk_add_content_project_publish_project_name_hint">Nommer le projet</string>
+    <string name="bsdk_add_content_project_publish_right_navigation">Publier</string>
+    <string name="bsdk_add_content_project_publish_service_initialize_error_msg">Problème de démarrage du service. Réessayez ultérieurement.</string>
+    <string name="bsdk_add_content_project_publish_share_on">PARTAGER SUR :</string>
+    <string name="bsdk_add_content_project_publish_title">Informations</string>
+    <string name="bsdk_add_project_copyright_settings_dialog_title_label">Paramètres de copyright</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_message_txt">Le projet est vide</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_use_action_below_msg">Utilisez les options ci-dessous pour vous lancer.</string>
+    <string name="bsdk_add_project_edit_project_fragment_right_navigation">Terminé</string>
+    <string name="bsdk_add_project_edit_project_fragment_title">Modifier</string>
+    <string name="bsdk_add_project_embed_content_edit_text_hint">Coller le code d’intégration</string>
+    <string name="bsdk_add_project_embed_content_error">Votre code n’est pas valide. Réessayez.</string>
+    <string name="bsdk_add_project_embed_content_title">Intégrer du contenu multimédia</string>
+    <string name="bsdk_add_project_preview_project_fragment_edit_action">Modifier</string>
+    <string name="bsdk_add_project_preview_project_fragment_title">Aperçu</string>
+    <string name="bsdk_add_wip_new_wip_dialog_desc">Entrez le titre du travail en cours</string>
+    <string name="bsdk_add_wip_new_wip_dialog_title">Ajouter un titre</string>
+    <string name="bsdk_add_wip_pick_source_view_camera_launch_error">Problème de lancement de l’appareil photo pour capturer l’image. Réessayez ultérieurement.</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_action_btn_create_wip_label">Nouveau</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_title_select_wip_label">Sélectionner</string>
+    <string name="bsdk_add_wip_view_connection_error_msg">Problème de connexion. Vérifiez votre connexion réseau, puis réessayez.</string>
+    <string name="bsdk_addproject_creative_field_filter_dialog_done_btn_label">Terminé</string>
+    <string name="bsdk_addproject_creative_field_filter_dialog_title_label">Domaines</string>
+    <string name="bsdk_addproject_creative_fields_popular_category">LES PLUS POPULAIRES</string>
+    <string name="bsdk_addproject_custom_actionbar_forward_nav_default_txt">Suivant</string>
+    <string name="bsdk_addproject_project_cover_selection_right_nav_crop_txt">Appliquer</string>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_text">Vos actifs sont en cours de téléchargement depuis Creative Cloud. Voulez-vous vraiment annuler ?</string>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_title">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_file_download_error">Problème de téléchargement du fichier %1$s. Réessayez ultérieurement.</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_back_nav_content_desc">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_title_label">Creative Cloud</string>
+    <string name="bsdk_cloud_selection_view_back_nav_content_desc">Retour</string>
+    <string name="bsdk_cloud_selection_view_loading_error_msg">Problème de chargement des comptes. Réessayez ultérieurement.</string>
+    <string name="bsdk_cloud_selection_view_title">Choisir un compte</string>
+    <string name="bsdk_connection_error_msg">Problème de connexion. Vérifiez votre connexion réseau, puis réessayez.</string>
+    <string name="bsdk_copyright_cc_by">Attribution</string>
+    <string name="bsdk_copyright_cc_by_nc">Attribution-Non commerciale</string>
+    <string name="bsdk_copyright_cc_by_nc_nd">Attribution-Non commerciale-Pas de modification</string>
+    <string name="bsdk_copyright_cc_by_nc_sa">Attribution-Non commerciale-Partage à l’identique</string>
+    <string name="bsdk_copyright_cc_by_nd">Attribution-Pas de modification</string>
+    <string name="bsdk_copyright_cc_by_sa">Attribution-Partage à l’identique</string>
+    <string name="bsdk_copyright_creative_commons_header">CREATIVE COMMONS</string>
+    <string name="bsdk_copyright_no_license_header">AUCUNE LICENCE</string>
+    <string name="bsdk_copyright_no_use_at_all">Utilisation interdite sans autorisation explicite</string>
+    <string name="bsdk_edit_profile_ab_save">Enreg.</string>
+    <string name="bsdk_edit_profile_ab_title">Modifier le profil</string>
+    <string name="bsdk_edit_profile_avatar_first_name_field_missing_msg">Le prénom est obligatoire</string>
+    <string name="bsdk_edit_profile_avatar_last_name_field_missing_msg">Le nom est obligatoire</string>
+    <string name="bsdk_edit_profile_avatar_required_fields_missing_msg">Le prénom et le nom sont obligatoires</string>
+    <string name="bsdk_edit_profile_avatar_saving_error">Les détails du profil sont enregistrés, mais un problème est survenu lors de l’enregistrement de l’image de profil. Réessayez ultérieurement.</string>
+    <string name="bsdk_edit_profile_editing_error">Problème de modification des détails de l’utilisateur. Réessayez ultérieurement.</string>
+    <string name="bsdk_edit_profile_hint_company">Société</string>
+    <string name="bsdk_edit_profile_hint_first_name">Prénom</string>
+    <string name="bsdk_edit_profile_hint_last_name">Nom</string>
+    <string name="bsdk_edit_profile_hint_location">Zone géographique</string>
+    <string name="bsdk_edit_profile_hint_occupation">Poste/Fonction</string>
+    <string name="bsdk_edit_profile_hint_website">URL du site Web</string>
+    <string name="bsdk_edit_profile_loading_error">Problème de chargement des détails de l’utilisateur. Réessayez ultérieurement.</string>
+    <string name="bsdk_edit_profile_unsaved_changes_body">Toutes les modifications seront perdues. Voulez-vous vraiment quitter ?</string>
+    <string name="bsdk_edit_profile_unsaved_changes_title">Modifications non enregistrées</string>
+    <string name="bsdk_enterprise_login_warning_actionbar_title">Publier</string>
+    <string name="bsdk_enterprise_login_warning_cancel_button_text">Annuler</string>
+    <string name="bsdk_enterprise_login_warning_continue_button_text">CONTINUER</string>
+    <string name="bsdk_enterprise_login_warning_text_content">Vous pouvez utiliser Behance pour publier des travaux\ndans le cadre d’une équipe, mais vous n’aurez plus\naccès à votre portfolio si vous quittez l’entreprise.</string>
+    <string name="bsdk_enterprise_login_warning_text_header">Vous êtes actuellement\nconnecté avec un Enterprise ID</string>
+    <string name="bsdk_generic_alert_dialog_cancel_btn_label">Annuler</string>
+    <string name="bsdk_generic_alert_dialog_ok_btn_label">OK</string>
+    <string name="bsdk_generic_image_content_desc">Image</string>
+    <string name="bsdk_image_cropper_crop_failed_msg">Impossible de recadrer l’image. Réessayez.</string>
+    <string name="bsdk_image_cropper_failed_to_open_msg">Image introuvable. Réessayez.</string>
+    <string name="bsdk_image_selector_view_empty_album_msg">L’album %1$s est vide. Essayez un autre album.</string>
+    <string name="bsdk_image_selector_view_error_loading_albums_msg">Problème de chargement des albums. Réessayez ultérieurement.</string>
+    <string name="bsdk_image_selector_view_image_dimensions_invalid_msg">Les dimensions de l’image sélectionnée ne respectent pas les conditions requises.</string>
+    <string name="bsdk_image_selector_view_image_dimensions_less_than_min_required_msg">L’image doit faire au moins %1$s x %2$s. L’image sélectionnée fait %3$s x %4$s.</string>
+    <string name="bsdk_image_selector_view_image_dimensions_more_than_max_allowed_msg">L’image ne doit pas faire plus de %1$s x %2$s. L’image sélectionnée fait %3$s x %4$s.</string>
+    <string name="bsdk_image_selector_view_image_file_type_allowed_msg">%1$s est un type de fichier non valide. Seuls les types %2$s sont autorisés.</string>
+    <string name="bsdk_image_selector_view_image_file_type_invalid_msg">%1$s est un type de fichier non valide.</string>
+    <string name="bsdk_image_selector_view_image_file_type_not_allowed_msg">%1$s est un type de fichier non valide. Les types %2$s ne sont pas autorisés.</string>
+    <string name="bsdk_image_selector_view_image_size_invalid_msg">L’image sélectionnée ne respecte pas les restrictions de taille.</string>
+    <string name="bsdk_image_selector_view_image_size_less_than_min_required_msg">L’image est trop petite. La taille de fichier minimum est de %1$s.</string>
+    <string name="bsdk_image_selector_view_image_size_more_than_max_allowed_msg">L’image est trop grande. La taille de fichier maximum est de %1$s.</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_cancel_label">Annuler</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_cancel_label">Ignorer</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_done_label">Terminé</string>
+    <string name="bsdk_image_selector_view_titlebar_back_nav_content_desc">Retour</string>
+    <string name="bsdk_image_selector_view_titlebar_title_albums_txt">Albums</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_photos_txt">Sélectionner une image</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_single_photo_txt">Sélectionner une image</string>
+    <string name="bsdk_license_cc_by">Attribution</string>
+    <string name="bsdk_license_cc_by_nc">Attribution, pas d’utilisation commerciale</string>
+    <string name="bsdk_license_cc_by_nc_nd">Attribution, pas d’utilisation commerciale, pas de modification</string>
+    <string name="bsdk_license_cc_by_nc_sa">Attribution, pas d’utilisation commerciale, partage à l’identique</string>
+    <string name="bsdk_license_cc_by_nd">Attribution, pas de modification</string>
+    <string name="bsdk_license_cc_by_sa">Attribution, partage à l’identique</string>
+    <string name="bsdk_license_no_use_at_all">Utilisation interdite sans l’accord explicite du propriétaire</string>
+    <string name="bsdk_location_filter_dialog_city_empty_error">Sélectionnez une ville valide</string>
+    <string name="bsdk_location_filter_dialog_city_label">Ville</string>
+    <string name="bsdk_location_filter_dialog_country_label">Pays</string>
+    <string name="bsdk_location_filter_dialog_done_btn_label">Terminé</string>
+    <string name="bsdk_location_filter_dialog_failed_to_load_error">Impossible de charger les données de localisation. Réessayez ultérieurement.</string>
+    <string name="bsdk_location_filter_dialog_state_label">Etat</string>
+    <string name="bsdk_location_filter_dialog_title_label">Zone géographique</string>
+    <string name="bsdk_location_filter_dialog_type_city_name_label">Indiquez le nom de la ville</string>
+    <string name="bsdk_msg_image_missing">msg_image_missing-behance-addcontent</string>
+    <string name="bsdk_publish_project_from_cc_invalid_file_type">%1$s est un type de fichier non valide. Seuls les types %2$s sont autorisés.</string>
+    <string name="bsdk_publish_project_from_cc_invalid_image_size">L’image %1$s ne respecte pas les restrictions de taille. Taille de fichier maximale : %2$s.</string>
+    <string name="bsdk_publish_project_service_failure_notification_msg">Impossible de charger le projet. %1$s. Vérifiez votre connexion réseau et réessayez.</string>
+    <string name="bsdk_publish_project_service_failure_notification_ticker">Erreur de publication du projet sur Behance</string>
+    <string name="bsdk_publish_project_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_text">Publication du projet</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_publish_on_twitter_msg">Découvrez mon nouveau projet dans mon portfolio \@Behance : %1$s</string>
+    <string name="bsdk_publish_project_service_success_notification_text">Touchez pour afficher le projet publié</string>
+    <string name="bsdk_publish_project_service_success_notification_ticker">Publication du projet sur Behance</string>
+    <string name="bsdk_publish_project_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_unknown_failure_notification_msg">Impossible de charger le projet pour le moment. Vérifiez votre connexion réseau et réessayez.</string>
+    <string name="bsdk_publish_results_view_behance_btn_label">VOIR SUR BEHANCE</string>
+    <string name="bsdk_publish_results_view_desc_label">Visitez Behance pour voir les commentaires\n à propos de votre travail et pour partager vos œuvres sur Twitter, Facebook, etc.</string>
+    <string name="bsdk_publish_results_view_title_label">Vos travaux sont en ligne !</string>
+    <string name="bsdk_publish_results_view_titlebar_back_nav_content_desc">Retour</string>
+    <string name="bsdk_publish_results_view_titlebar_title_label">Publier</string>
+    <string name="bsdk_publish_wip_image_required_error_msg">Problème de chargement de l’image à publier. Veuillez vérifier et réessayer.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_msg">Impossible de charger le travail en cours. %1$s. Vérifiez votre connexion réseau et réessayez.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_ticker">Erreur de publication du travail en cours sur Behance</string>
+    <string name="bsdk_publish_wip_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_text">Publication du travail en cours</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_publish_on_twitter_msg">Découvrez mon nouveau travail dans mon portfolio \@Behance : %1$s</string>
+    <string name="bsdk_publish_wip_service_success_notification_text">Touchez pour voir le travail en cours publié</string>
+    <string name="bsdk_publish_wip_service_success_notification_ticker">Travail en cours publié sur Behance.</string>
+    <string name="bsdk_publish_wip_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_unknown_failure_notification_msg">Impossible de charger le travail en cours pour le moment. Vérifiez votre connexion réseau et réessayez.</string>
+    <string name="bsdk_search_filters_dialog_custom_actionbar_back_nav_default_txt">Retour</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_body">Connectez-vous à Facebook pour continuer.</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_cancel_btn_label">Annuler</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_title">Connexion à Facebook</string>
+    <string name="bsdk_social_account_fb_auth_failure">Erreur d’authentification à Facebook. Réessayez ultérieurement.</string>
+    <string name="bsdk_social_account_fb_auth_permissions_failure">Autorisations de partage insuffisantes sur Facebook.</string>
+    <string name="bsdk_social_account_twitter_login_authentication_failure">Erreur d’authentification à Twitter. Réessayez ultérieurement.</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_body">Connectez-vous à Twitter pour continuer.</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_cancel_btn_label">Annuler</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_title">Connexion à Twitter</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_body">Voulez-vous vraiment dissocier votre compte Facebook ?</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_cancel_btn_label">Annuler</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_title">Dissocier le compte Facebook</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_body">Voulez-vous vraiment dissocier votre compte Twitter ?</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_cancel_btn_label">Annuler</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_title">Dissocier le compte Twitter</string>
+    <string name="bsdk_sort_option_featured">Sélectionnés</string>
+    <string name="bsdk_sort_option_most_appreciated">Les plus appréciés</string>
+    <string name="bsdk_sort_option_most_discussed">Les plus commentés</string>
+    <string name="bsdk_sort_option_most_followed">Les plus suivis</string>
+    <string name="bsdk_sort_option_most_recent">Les plus récents</string>
+    <string name="bsdk_sort_option_most_relevant">Les plus pertinents</string>
+    <string name="bsdk_sort_option_most_viewed">Les plus vus</string>
+    <string name="bsdk_wip_publish_view_adult_content_text">Inclut du contenu réservé aux adultes</string>
+    <string name="bsdk_wip_publish_view_publish_initiated_msg">Publication du travail en cours. Vous pouvez voir la progression dans la barre d’état.</string>
+    <string name="bsdk_wip_publish_view_publish_invalid_tag_msg">Les mots-clés doivent uniquement contenir des caractères alphanumériques avec ou sans espaces</string>
+    <string name="bsdk_wip_publish_view_publish_required_fields_missing_msg">Remplissez tous les champs requis</string>
+    <string name="bsdk_wip_publish_view_publish_service_initialize_error_msg">Problème de démarrage du service. Réessayez ultérieurement.</string>
+    <string name="bsdk_wip_publish_view_share_on_fb_content_desc">Partager sur Facebook</string>
+    <string name="bsdk_wip_publish_view_share_on_twitter_content_desc">Partager sur Twitter</string>
+    <string name="bsdk_wip_publish_view_share_on_txt">PARTAGER SUR :</string>
+    <string name="bsdk_wip_publish_view_titlebar_action_btn_publish_label">Publier</string>
+    <string name="bsdk_wip_publish_view_titlebar_back_nav_content_desc">Retour</string>
+    <string name="bsdk_wip_publish_view_titlebar_title_publish_label">Informations</string>
+    <string name="bsdk_wip_publish_view_wip_desc_hint">Demander des commentaires</string>
+    <string name="bsdk_wip_publish_view_wip_name_hint">Ajouter un titre</string>
+    <string name="bsdk_wip_publish_view_wip_tags_hint">mots-clés, séparés, virgules</string>
+    <string name="bsdk_wip_publish_view_wips_loading_label">Chargement…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="by">Par: </string>
+    <string name="cancel">ANNULER</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="cancelLogIn">CANCEL</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="cc_title">Creative Cloud</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="clear_history">EFFACER</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="collaboration_create_invite_error">Création d’invitation impossible</string>
+    <string name="collaboration_create_invite_error_network">Connexion au réseau impossible</string>
+    <string name="collaboration_delete_failure">Impossible de supprimer le collaborateur</string>
+    <string formatted="false" name="collaboration_delete_prompt">Supprimer %s ? </string>
+    <string name="collaboration_error">Erreur d’obtention des collaborateurs</string>
+    <string name="collaboration_leave_failure">Impossible de quitter le dossier</string>
+    <string formatted="false" name="collaboration_leave_prompt">Quitter %s ? </string>
+    <string name="collaborator">Collaborateurs</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="color_component_activity_actionbar_title">Couleur</string>
+    <string name="color_picker_actionbar_title">Sélecteur de couleurs</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="com_facebook_image_download_unknown_error">Une erreur inattendue s’est produite au moment de télécharger une image.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="com_facebook_internet_permission_error_message">La connexion à WebView nécessite une autorisation INTERNET</string>
+    <string name="com_facebook_internet_permission_error_title">Erreur AndroidManifest</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="com_facebook_like_button_liked">J’aime déjà</string>
+    <string name="com_facebook_like_button_not_liked">J’aime</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="com_facebook_loading">Chargement de …</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="com_facebook_loginview_cancel_action">Annuler</string>
+    <string name="com_facebook_loginview_log_in_button">Connexion</string>
+    <string name="com_facebook_loginview_log_in_button_long">Connexion avec Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Déconnexion</string>
+    <string name="com_facebook_loginview_log_out_button">Déconnexion</string>
+    <string name="com_facebook_loginview_logged_in_as">Connexion en tant que : %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Connecté(e) à l’aide de Facebook</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="com_facebook_requesterror_password_changed">Votre mot de passe Facebook a changé. Connectez-vous à nouveau à cette application pour reconnecter votre compte Facebook.</string>
+    <string name="com_facebook_requesterror_permissions">Cette application n’est pas autorisée à effectuer cette action. Pour modifier les autorisations, essayez à nouveau de vous connecter à l’application.</string>
+    <string name="com_facebook_requesterror_reconnect">Connectez-vous à nouveau à cette application pour reconnecter votre compte Facebook.</string>
+    <string name="com_facebook_requesterror_relogin">Connectez-vous à nouveau à cette application pour reconnecter votre compte Facebook.</string>
+    <string name="com_facebook_requesterror_web_login">Votre compte Facebook est verrouillé. Connectez-vous à www.facebook.com pour continuer.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="com_facebook_send_button_text">Envoyer</string>
+    <string name="com_facebook_share_button_text">Partager</string>
+    <string name="com_facebook_tooltip_default">Nouveau ! Choisissez les informations que vous souhaitez partager avec les applications.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="comments_error">Erreur lors de l’obtention des commentaires</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="copy_themes">Copier des thèmes</string>
+    <string name="copy_to">Copier vers</string>
+    <string name="create">Créer</string>
+    <string name="create_library">Créer une bibliothèque</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="creative_cloud">Creative Cloud</string>
+    <string name="creative_sdk">Creative SDK</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="delete">Supprimer</string>
+    <string name="edit">MODIFIER</string>
+    <string name="edit_camel">Modifier</string>
+    <string name="edit_color">Modifier la couleur</string>
+    <string name="edit_name">Modifier le nom</string>
+    <string name="edit_theme">Modifier le thème</string>
+    <string name="empty_color_list_line1">Lancez la collecte de couleurs et de thèmes dans</string>
+    <string name="empty_color_list_line2">cette bibliothèque pour les utiliser sur d’autres</string>
+    <string name="empty_color_list_line3">applications mobiles et de bureau</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="hex">Hex</string>
+    <string name="history">Historique</string>
+    <string name="history_cleared">Historique effacé</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="launch_header">LANCER LES COMPOSANTS</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="lib_row_desc_p_p">%1$d couleurs, %2$d thèmes</string>
+    <string name="lib_row_desc_p_s">%1$d couleurs, 1 thème</string>
+    <string name="lib_row_desc_s_p">1 couleur, %1$d thèmes</string>
+    <string name="lib_row_desc_s_s">1 couleur, 1 thème</string>
+    <string name="libraries_tab_heading">MES BIBLIOTHEQUES</string>
+    <string name="loading">Chargement…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="logIn">LOGIN</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="messenger_send_button_text">Envoyer</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="my_library">Ma bibliothèque</string>
+    <string name="new_name">Nouveau nom</string>
+    <string name="no_colors">Aucune couleur</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="notification_title">Notifications</string>
+    <string name="photo_asset_browser_empty_folder">Vous n’avez pas encore de photos</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="picker_tab_heading">SELECTEUR</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="proxy_passwd_label">PASSWORD</string>
+    <string name="proxy_username_label">USER NAME</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="psmix_download_statement">Télécharger Adobe Photoshop Mix</string>
+    <string name="psmix_files_empty">La puissance d’Adobe Photoshop associée à la souplesse du mobile :\r\nPhotoshop Mix vous permet de créer des photos incroyables en un clin d’œil sur Android.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="remove">SUPPRIMER</string>
+    <string name="remove_camel">Supprimer</string>
+    <string name="remove_confirmation">Etes-vous sûr de vouloir supprimer ?</string>
+    <string name="rename">RENOMMER</string>
+    <string name="rename_library">Renommer la bibliothèque</string>
+    <string name="rgb">RVB</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="search_query_hint">Rechercher…</string>
+    <string name="search_title">Rechercher</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="select_a_color">Sélectionner une couleur</string>
+    <string name="select_library">Sélectionner une bibliothèque</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="selection_header">Fichiers sélectionnés</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="storage_asset_browser_empty_folder">Vous n’avez pas encore de fichiers</string>
+    <string name="storage_cancel_selection">ANNULER</string>
+    <string name="storage_create_folder_already_exists_error">Le dossier existe déjà</string>
+    <string name="storage_create_folder_authention_requires_error">Authentification requise.</string>
+    <string name="storage_create_folder_no_error">""</string>
+    <string name="storage_empty_folder_upload_files_title">CHARGER DES FICHIERS</string>
+    <string name="storage_open">OUVRIR</string>
+    <string name="storage_open_files">OUVRIR</string>
+    <string name="storage_open_multiple_files">OUVRIR (%s)</string>
+    <string name="storage_open_multiple_files_99">OUVRIR (99+)</string>
+    <string name="storage_settigs_usuage_calculating">(Calcul de l’utilisation)</string>
+    <string name="storage_settings_edit_cc_settings">Modifier les paramètres CC</string>
+    <string name="storage_settings_get_more_storage">Plus d’espace de stockage</string>
+    <string formatted="false" name="storage_settings_storage_usage">%s utilisé (%s sur %s Go)</string>
+    <string name="storage_settings_switch_accounts">Changer de compte</string>
+    <string name="storage_upload_btn_title">CHARGER (%s)</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="syncing_library">Synchronisation des bibliothèques…</string>
+    <string name="theme_picker_actionbar_title">Sélecteur de thèmes</string>
+    <string name="themes_tab_heading">THEMES</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="title_activity_display_message">My Message</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string formatted="false" name="warning_msg">The server http://%s requires a username and password. The server says : %s</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-fr/values-fr.xml -->
+    <eat-comment/>
+    <string name="wheel">Roulette</string>
+</resources>

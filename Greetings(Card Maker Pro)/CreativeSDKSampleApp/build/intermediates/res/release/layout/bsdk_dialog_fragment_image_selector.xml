@@ -1,0 +1,118 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/bsdkImageSelectorViewTitlebarContainer"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:background="@drawable/bsdk_bg_image_actionbar"
+        android:gravity="center_vertical" >
+
+        <RelativeLayout
+            android:id="@+id/bsdkImageSelectorViewBackBtnContainer"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true" >
+
+            <ImageView
+                android:id="@+id/bsdkImageSelectorViewBackBtnImageView"
+                android:background="@drawable/bsdk_selector_app_default_selection_bg"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:contentDescription="@string/bsdk_image_selector_view_titlebar_back_nav_content_desc"
+                android:paddingLeft="@dimen/bsdk_image_selector_view_titlebar_left_margin"
+                android:paddingRight="@dimen/bsdk_image_selector_view_titlebar_back_button_right_margin"
+                android:scaleType="center"
+                android:src="@drawable/bsdk_icon_actionbar_back_button" />
+
+            <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                android:id="@+id/bsdkImageSelectorViewTitlebarTitleTxtView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@id/bsdkImageSelectorViewBackBtnImageView"
+                android:paddingRight="10dp"
+                android:text="@string/bsdk_image_selector_view_titlebar_title_albums_txt"
+                android:textColor="@color/bsdk_image_selector_view_titlebar_txt_color"
+                android:textSize="@dimen/bsdk_image_selector_view_titlebar_txt_size" />
+        </RelativeLayout>
+
+        <com.behance.sdk.ui.customviews.BehanceSDKTextView
+            android:id="@+id/bsdkImageSelectorViewTitlebarActionBtnTxtView"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="@dimen/bsdk_image_selector_view_titlebar_right_margin"
+            android:text="@string/bsdk_image_selector_view_titlebar_action_btn_cancel_label"
+            android:textColor="@drawable/bsdk_selector_titlebar_action_btn_color"
+            android:textSize="@dimen/bsdk_image_selector_view_titlebar_action_btn_txt_size" />
+    </RelativeLayout>
+
+    <ViewFlipper
+        android:id="@+id/bsdkImageSelectorViewFlipper"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/bsdkImageSelectorViewTitlebarContainer"
+        android:background="@color/bsdk_image_selector_view_bg_color" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <GridView
+                android:id="@+id/bsdkImageSelectorViewAlbumsGridView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:horizontalSpacing="@dimen/bsdk_image_selector_view_album_grid_item_margin"
+                android:numColumns="@integer/bsdk_album_selector_fragment_grid_col_count"
+                android:paddingBottom="@dimen/bsdk_image_selector_view_album_grid_bottom_padding"
+                android:paddingLeft="@dimen/bsdk_image_selector_view_album_grid_left_right_padding"
+                android:paddingRight="@dimen/bsdk_image_selector_view_album_grid_left_right_padding"
+                android:paddingTop="@dimen/bsdk_image_selector_view_album_grid_top_padding"
+                android:clipToPadding="false"
+                android:scrollbarStyle="outsideOverlay"
+                android:verticalSpacing="@dimen/bsdk_image_selector_view_album_grid_item_margin" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <GridView
+                android:id="@+id/bsdkImageSelectorViewAlbumImagesGridView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:horizontalSpacing="@dimen/bsdk_image_selector_view_album_image_grid_item_margin"
+                android:numColumns="@integer/bsdk_image_selection_fragment_grid_col_count"
+                android:paddingBottom="@dimen/bsdk_image_selector_view_album_image_grid_bottom_padding"
+                android:paddingLeft="@dimen/bsdk_image_selector_view_album_image_grid_left_right_padding"
+                android:paddingRight="@dimen/bsdk_image_selector_view_album_image_grid_left_right_padding"
+                android:paddingTop="@dimen/bsdk_image_selector_view_album_image_grid_top_padding"
+                android:clipToPadding="false"
+                android:scrollbarStyle="outsideOverlay"
+                android:verticalSpacing="@dimen/bsdk_image_selector_view_album_image_grid_item_margin" />
+        </RelativeLayout>
+    </ViewFlipper>
+
+    <LinearLayout
+        android:id="@+id/bsdkImageSelectorViewProgressSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/bsdkImageSelectorViewTitlebarContainer"
+        android:background="@color/bsdk_add_wip_view_bg_color"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <ProgressBar
+            style="?android:attr/progressBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_dialog_fragment_image_selector.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/layout/bsdk_dialog_fragment_image_selector.xml -->

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/selectableItemBackground">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="left"
+        android:gravity="left"
+        android:padding="8dip"
+        android:orientation="horizontal"
+        android:background="?attr/selectableItemBackground">
+
+
+        <ImageView
+            android:id="@+id/icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:ellipsize="end"
+            android:textColor="@color/asset_browser_dark_text"
+            android:layout_marginLeft="@dimen/assetbrowser_list_view_text_left_padding"
+            android:background="@color/creative_sdk_transparent_color"
+            android:textSize="@dimen/assetbrowser_list_view_text_size"
+            android:singleLine="true"/>
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_assetimage_list_shareviewcell.xml -->

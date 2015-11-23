@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/adobe_storage_assetslist_group_header_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/creative_sdk_background_color"
+    android:paddingRight="@dimen/storage_assetslist_header_right_padding"
+    android:paddingTop="@dimen/storage_assetslist_header_header_txt_padding"
+    android:layout_marginLeft="@dimen/assetbrowser_list_view_image_left_padding"
+    android:textColor="@color/asset_browser_light_text"
+    android:textSize="@dimen/storage_assetslist_header_txt_size" />
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_storage_assetslist_header.xml -->

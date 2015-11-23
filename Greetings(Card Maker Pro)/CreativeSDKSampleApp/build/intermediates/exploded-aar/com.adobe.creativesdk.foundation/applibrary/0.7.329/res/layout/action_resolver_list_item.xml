@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This item forms the part of the larger list which lists the 360 actions under different
+ categories. This is a list of lists. -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools=" http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/category"
+        fontPath="fonts/AdobeClean-Regular.otf"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin"
+        android:layout_marginRight="@dimen/activity_horizontal_margin"
+        android:gravity="center_vertical|start"
+        android:padding="4dp"
+        android:textAllCaps="true"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="20sp"
+        tools:ignore="MissingPrefix"
+        />
+
+    <!-- The recycler is populated with the list of apps under the category -->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginLeft="50dp"
+        android:background="?android:attr/dividerVertical"
+        />
+
+</LinearLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/layout/action_resolver_list_item.xml -->

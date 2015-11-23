@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/creative_sdk_background_color"
+    android:gravity="center"
+    android:orientation="vertical">
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/creative_sdk_background_color"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/adobe_psmix_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:src="@drawable/adobe_psmix_logo" />
+
+            <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+                android:id="@+id/adobe_psmix_Download_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:paddingTop="@dimen/storage_empty_state_view_padding"
+                android:text="@string/psmix_download_statement"
+                android:textColor="@color/asset_browser_dark_text"
+                android:textSize="@dimen/storage_empty_state_view_textSize" />
+
+            <com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+                android:id="@+id/adobe_psmix_files_empty_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:paddingTop="@dimen/psmix_empty_text_paddingTop"
+                android:text="@string/psmix_files_empty"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="25dp"
+                android:textColor="@color/asset_browser_light_text"
+                android:layout_below="@+id/adobe_psmix_Download_title"
+                android:textSize="@dimen/psmix_empty_comment_textSize"
+                android:textAlignment="center"/>
+
+
+            <LinearLayout android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:layout_marginTop="38dp"
+                android:background="@drawable/android_google_play"
+                android:layout_below="@+id/adobe_psmix_files_empty_txt"
+                android:id="@+id/android_play_store_btn">
+
+                <!--<com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView
+                    android:id="@+id/storage_selection_open_file_btn_title" android:text="@string/storage_empty_folder_upload_files_title"
+                    android:layout_width="wrap_content" android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:textColor="@android:color/white"
+                    android:paddingLeft="30dp"
+                    android:paddingRight="30dp"
+                    android:textSize="@dimen/asset_browser_upload_btn_title_size"/>
+        -->
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_psmix_empty_state_view.xml -->

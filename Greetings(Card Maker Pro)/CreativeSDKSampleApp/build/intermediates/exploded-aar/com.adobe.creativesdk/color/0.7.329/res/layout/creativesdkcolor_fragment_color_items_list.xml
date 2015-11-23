@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/color_items_list_no_network_banner"
+        layout="@layout/creativesdkcolor_common_popup_bannerview"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/color_items_list_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/color_items_listView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/color_items_list_top_bottom_padding"
+                android:paddingLeft="@dimen/color_items_list_left_right_padding"
+                android:paddingRight="@dimen/color_items_list_left_right_padding"
+                android:paddingTop="@dimen/color_items_list_top_bottom_padding" />
+
+        </RelativeLayout>
+
+
+        <include
+            android:id="@+id/color_items_list_no_network_view"
+            layout="@layout/creativesdkcolor_common_errorview"
+            android:visibility="gone" />
+
+        <include
+            android:id="@+id/color_items_list_logged_out_view"
+            layout="@layout/creativesdkcolor_logged_out_view"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:id="@+id/empty_color_list_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:paddingTop="@dimen/empty_color_list_top_padding"
+            android:visibility="gone">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/empty_color_list_large_text_bottom_padding"
+                android:text="@string/no_colors"
+                android:textColor="@color/empty_color_list_text_color"
+                android:textSize="@dimen/empty_color_list_text_size_large" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/empty_color_list_line1"
+                android:textColor="@color/empty_color_list_text_color"
+                android:textSize="@dimen/empty_color_list_text_size_small" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/empty_color_list_line2"
+                android:textColor="@color/empty_color_list_text_color"
+                android:textSize="@dimen/empty_color_list_text_size_small" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/empty_color_list_line3"
+                android:textColor="@color/empty_color_list_text_color"
+                android:textSize="@dimen/empty_color_list_text_size_small" />
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+</LinearLayout>
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/layout/creativesdkcolor_fragment_color_items_list.xml -->

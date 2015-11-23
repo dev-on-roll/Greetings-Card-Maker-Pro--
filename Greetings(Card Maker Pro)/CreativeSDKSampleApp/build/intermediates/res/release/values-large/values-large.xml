@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-large/values-large.xml -->
+    <eat-comment/>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-large/values-large.xml -->
+    <eat-comment/>
+    <item name="bsdk_big_screen" type="bool">true</item>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-large/values-large.xml -->
+    <eat-comment/>
+    <dimen name="abc_config_prefDialogWidth">440dp</dimen>
+    <dimen name="abc_search_view_text_min_width">192dip</dimen>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-large/values-large.xml -->
+    <eat-comment/>
+    <dimen name="adobe_asset_edit_dialog_fragment_erase_margin_left">22dp</dimen>
+    <dimen name="adobe_asset_edit_dialog_fragment_erase_margin_right">26dp</dimen>
+    <dimen name="adobe_asset_edit_dialog_fragment_margin_left">24dp</dimen>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-large/values-large.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_add_wip_new_wip_dialog_width">350dp</dimen>
+    <dimen name="bsdk_publish_results_view_behance_btn_height">47dp</dimen>
+    <dimen name="bsdk_publish_results_view_behance_btn_txt_size">14sp</dimen>
+    <dimen name="bsdk_publish_results_view_behance_btn_width">165dp</dimen>
+    <dimen name="bsdk_publish_results_view_desc_line_spacing_extra">4sp</dimen>
+    <dimen name="bsdk_publish_results_view_desc_txt_size">17.5sp</dimen>
+    <dimen name="bsdk_publish_results_view_image_margin_bottom">39dp</dimen>
+    <dimen name="bsdk_publish_results_view_image_margin_top">45dp</dimen>
+    <dimen name="bsdk_publish_results_view_title_txt_size">43sp</dimen>
+    <dimen name="bsdk_publish_results_view_url_margin_top">2dp</dimen>
+    <dimen name="bsdk_publish_results_view_url_txt_size">15sp</dimen>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-large/values-large.xml -->
+    <eat-comment/>
+    <item name="dialog_fixed_height_major" type="dimen">60%</item>
+    <item name="dialog_fixed_height_minor" type="dimen">90%</item>
+    <item name="dialog_fixed_width_major" type="dimen">60%</item>
+    <item name="dialog_fixed_width_minor" type="dimen">90%</item>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-large/values-large.xml -->
+    <eat-comment/>
+    <dimen name="global_filter_dialog_height">551dp</dimen>
+    <dimen name="global_filter_dialog_width">348.5dp</dimen>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-large/values-large.xml -->
+    <eat-comment/>
+    <integer name="abc_max_action_buttons">4</integer>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-large/values-large.xml -->
+    <eat-comment/>
+    <item name="bsdk_album_selector_fragment_grid_col_count" type="integer">3</item>
+    <integer name="bsdk_edit_profile_content_weight">8</integer>
+    <integer name="bsdk_edit_profile_margin_weight">1</integer>
+    <item name="bsdk_image_selection_fragment_grid_col_count" type="integer">3</item>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-large/values-large.xml -->
+    <eat-comment/>
+    <style name="Base.Theme.AppCompat.DialogWhenLarge" parent="Base.Theme.AppCompat.Dialog.FixedSize"/>
+    <style name="Base.Theme.AppCompat.Light.DialogWhenLarge" parent="Base.Theme.AppCompat.Light.Dialog.FixedSize"/>
+</resources>

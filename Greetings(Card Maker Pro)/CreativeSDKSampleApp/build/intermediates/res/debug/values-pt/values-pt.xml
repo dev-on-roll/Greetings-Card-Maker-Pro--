@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-pt/values-pt.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Selecione um aplicativo"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartilhar com %s"</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-pt/values-pt.xml -->
+    <eat-comment/>
+    <string name="bsdk_add_content_project_cover_selection_title">Selecione uma capa</string>
+    <string name="bsdk_add_content_project_publish_adult_content_text">Possui conteúdo para adultos</string>
+    <string name="bsdk_add_content_project_publish_creative_field_hint">Selecione um campo de criação</string>
+    <string name="bsdk_add_content_project_publish_creative_tags_hint">tags, separadas, vírgula</string>
+    <string name="bsdk_add_content_project_publish_initiated_msg">Publicando seu projeto.</string>
+    <string name="bsdk_add_content_project_publish_invalid_tag_msg">As tags só podem conter caracteres alfanuméricos com ou sem espaços</string>
+    <string name="bsdk_add_content_project_publish_project_description_hint">Descrição do projeto</string>
+    <string name="bsdk_add_content_project_publish_project_name_hint">Nomeie seu projeto</string>
+    <string name="bsdk_add_content_project_publish_right_navigation">Publicar</string>
+    <string name="bsdk_add_content_project_publish_service_initialize_error_msg">Erro ao iniciar serviço. Tente novamente mais tarde.</string>
+    <string name="bsdk_add_content_project_publish_share_on">COMPARTILHAR EM:</string>
+    <string name="bsdk_add_content_project_publish_title">Informações</string>
+    <string name="bsdk_add_project_copyright_settings_dialog_title_label">Configurações de copyright</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_message_txt">Seu projeto está vazio</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_use_action_below_msg">Comece usando as opções abaixo</string>
+    <string name="bsdk_add_project_edit_project_fragment_right_navigation">OK</string>
+    <string name="bsdk_add_project_edit_project_fragment_title">Editar</string>
+    <string name="bsdk_add_project_embed_content_edit_text_hint">Cole o código incorporado</string>
+    <string name="bsdk_add_project_embed_content_error">Código inválido. Tente novamente.</string>
+    <string name="bsdk_add_project_embed_content_title">Conteúdo de mídia incorporado</string>
+    <string name="bsdk_add_project_preview_project_fragment_edit_action">Editar</string>
+    <string name="bsdk_add_project_preview_project_fragment_title">Visualizar</string>
+    <string name="bsdk_add_wip_new_wip_dialog_desc">Nomeie o trabalho em andamento.</string>
+    <string name="bsdk_add_wip_new_wip_dialog_title">Adicionar título</string>
+    <string name="bsdk_add_wip_pick_source_view_camera_launch_error">Erro ao iniciar câmera para capturar imagem. Tente novamente mais tarde.</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_action_btn_create_wip_label">Novo</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_title_select_wip_label">Selecionar</string>
+    <string name="bsdk_add_wip_view_connection_error_msg">Erro de conexão. Verifique sua conexão de rede e tente novamente.</string>
+    <string name="bsdk_addproject_creative_field_filter_dialog_done_btn_label">OK</string>
+    <string name="bsdk_addproject_creative_field_filter_dialog_title_label">Campos</string>
+    <string name="bsdk_addproject_creative_fields_popular_category">POPULAR</string>
+    <string name="bsdk_addproject_custom_actionbar_forward_nav_default_txt">Próxima</string>
+    <string name="bsdk_addproject_project_cover_selection_right_nav_crop_txt">Aplicar</string>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_text">Seus ativos estão sendo baixados da Creative Cloud. Tem certeza de que deseja cancelar?</string>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_title">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_file_download_error">Erro ao baixar arquivo %1$s. Tente novamente mais tarde.</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_back_nav_content_desc">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_title_label">Creative Cloud</string>
+    <string name="bsdk_cloud_selection_view_back_nav_content_desc">Voltar</string>
+    <string name="bsdk_cloud_selection_view_loading_error_msg">Erro ao carregar contas. Tente novamente mais tarde.</string>
+    <string name="bsdk_cloud_selection_view_title">Selecionar conta</string>
+    <string name="bsdk_connection_error_msg">Erro de conexão. Verifique sua conexão de rede e tente novamente.</string>
+    <string name="bsdk_copyright_cc_by">Atribuição</string>
+    <string name="bsdk_copyright_cc_by_nc">Atribuição — Não comercial</string>
+    <string name="bsdk_copyright_cc_by_nc_nd">Atribuição — Não comercial — Sem derivados</string>
+    <string name="bsdk_copyright_cc_by_nc_sa">Atribuição — Não comercial — Compartilhar Semelhantes</string>
+    <string name="bsdk_copyright_cc_by_nd">Atribuição — Sem derivados</string>
+    <string name="bsdk_copyright_cc_by_sa">Atribuição — Compartilhar Semelhantes</string>
+    <string name="bsdk_copyright_creative_commons_header">CREATIVE COMMONS</string>
+    <string name="bsdk_copyright_no_license_header">NENHUMA LICENÇA</string>
+    <string name="bsdk_copyright_no_use_at_all">Nenhum uso sem permissão explícita</string>
+    <string name="bsdk_edit_profile_ab_save">Salvar</string>
+    <string name="bsdk_edit_profile_ab_title">Edit. perfil</string>
+    <string name="bsdk_edit_profile_avatar_first_name_field_missing_msg">O nome é obrigatório</string>
+    <string name="bsdk_edit_profile_avatar_last_name_field_missing_msg">O sobrenome é obrigatório</string>
+    <string name="bsdk_edit_profile_avatar_required_fields_missing_msg">O nome e o sobrenome são obrigatórios</string>
+    <string name="bsdk_edit_profile_avatar_saving_error">Os detalhes do perfil foram salvos, mas ocorreu um problema ao salvar a imagem. Tente novamente mais tarde.</string>
+    <string name="bsdk_edit_profile_editing_error">Erro ao salvar detalhes do perfil. Tente novamente mais tarde.</string>
+    <string name="bsdk_edit_profile_hint_company">Empresa</string>
+    <string name="bsdk_edit_profile_hint_first_name">Nome</string>
+    <string name="bsdk_edit_profile_hint_last_name">Sobrenome</string>
+    <string name="bsdk_edit_profile_hint_location">Localização</string>
+    <string name="bsdk_edit_profile_hint_occupation">Cargo/Função</string>
+    <string name="bsdk_edit_profile_hint_website">URL do site</string>
+    <string name="bsdk_edit_profile_loading_error">Erro ao carregar detalhes do perfil. Tente novamente mais tarde.</string>
+    <string name="bsdk_edit_profile_unsaved_changes_body">Todas as alterações serão perdidas, tem certeza de que deseja sair?</string>
+    <string name="bsdk_edit_profile_unsaved_changes_title">Alterações não salvas</string>
+    <string name="bsdk_enterprise_login_warning_actionbar_title">Publicar</string>
+    <string name="bsdk_enterprise_login_warning_cancel_button_text">Cancelar</string>
+    <string name="bsdk_enterprise_login_warning_continue_button_text">CONTINUAR</string>
+    <string name="bsdk_enterprise_login_warning_text_content">Você pode usar o Behance para publicar seu trabalho \ncomo parte de uma equipe. \nNo entanto, você perderá acesso a seu \nportfólio caso saia da organização</string>
+    <string name="bsdk_enterprise_login_warning_text_header">Você fez logon com\numa Enterprise ID</string>
+    <string name="bsdk_generic_alert_dialog_cancel_btn_label">Cancelar</string>
+    <string name="bsdk_generic_alert_dialog_ok_btn_label">OK</string>
+    <string name="bsdk_generic_image_content_desc">Imagem</string>
+    <string name="bsdk_image_cropper_crop_failed_msg">Falha ao cortar imagem, tente novamente.</string>
+    <string name="bsdk_image_cropper_failed_to_open_msg">Imagem não encontrada, tente novamente.</string>
+    <string name="bsdk_image_selector_view_empty_album_msg">O álbum %1$s está vazio. Tente outro álbum.</string>
+    <string name="bsdk_image_selector_view_error_loading_albums_msg">Erro ao carregar álbuns. Tente novamente mais tarde.</string>
+    <string name="bsdk_image_selector_view_image_dimensions_invalid_msg">As dimensões de imagem selecionadas não correspondem aos requisitos</string>
+    <string name="bsdk_image_selector_view_image_dimensions_less_than_min_required_msg">A imagem precisa medir pelo menos %1$s x %2$s. A imagem selecionada mede %3$s x %4$s</string>
+    <string name="bsdk_image_selector_view_image_dimensions_more_than_max_allowed_msg">A imagem não pode ser maior que %1$s x %2$s. A imagem selecionada mede %3$s x %4$s</string>
+    <string name="bsdk_image_selector_view_image_file_type_allowed_msg">%1$s é um tipo de arquivo inválido. Somente são permitidos %2$s.</string>
+    <string name="bsdk_image_selector_view_image_file_type_invalid_msg">%1$s é um tipo de arquivo inválido.</string>
+    <string name="bsdk_image_selector_view_image_file_type_not_allowed_msg">%1$s é um tipo de arquivo inválido. Não são permitidos %2$s.</string>
+    <string name="bsdk_image_selector_view_image_size_invalid_msg">A imagem selecionada não corresponde aos requisitos de tamanho</string>
+    <string name="bsdk_image_selector_view_image_size_less_than_min_required_msg">Imagem muito pequena. O tamanho de arquivo mínimo é %1$s</string>
+    <string name="bsdk_image_selector_view_image_size_more_than_max_allowed_msg">Imagem muito grande. O tamanho de arquivo máximo é %1$s</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_cancel_label">Cancelar</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_cancel_label">Pular</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_done_label">OK</string>
+    <string name="bsdk_image_selector_view_titlebar_back_nav_content_desc">Voltar</string>
+    <string name="bsdk_image_selector_view_titlebar_title_albums_txt">Álbuns</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_photos_txt">Selecionar imagens</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_single_photo_txt">Selecionar imagem</string>
+    <string name="bsdk_license_cc_by">Atribuição</string>
+    <string name="bsdk_license_cc_by_nc">Atribuição Não comercial</string>
+    <string name="bsdk_license_cc_by_nc_nd">Atribuição Não comercial Sem derivados</string>
+    <string name="bsdk_license_cc_by_nc_sa">Atribuição Não comercial Compartilhar Semelhantes</string>
+    <string name="bsdk_license_cc_by_nd">Atribuição Sem derivados</string>
+    <string name="bsdk_license_cc_by_sa">Atribuição Compartilhar Semelhantes</string>
+    <string name="bsdk_license_no_use_at_all">Nenhum uso é permitido sem permissão do proprietário</string>
+    <string name="bsdk_location_filter_dialog_city_empty_error">Selecione uma cidade válida</string>
+    <string name="bsdk_location_filter_dialog_city_label">Cidade</string>
+    <string name="bsdk_location_filter_dialog_country_label">País</string>
+    <string name="bsdk_location_filter_dialog_done_btn_label">OK</string>
+    <string name="bsdk_location_filter_dialog_failed_to_load_error">Falha ao carregar dados de localização. Tente novamente mais tarde.</string>
+    <string name="bsdk_location_filter_dialog_state_label">Estado</string>
+    <string name="bsdk_location_filter_dialog_title_label">Localização</string>
+    <string name="bsdk_location_filter_dialog_type_city_name_label">Insira o nome da cidade</string>
+    <string name="bsdk_msg_image_missing">msg_image_missing-behance-addcontent</string>
+    <string name="bsdk_publish_project_from_cc_invalid_file_type">%1$s é um tipo de arquivo inválido. Somente são permitidos %2$s.</string>
+    <string name="bsdk_publish_project_from_cc_invalid_image_size">%1$s não corresponde aos requisitos de tamanho. O tamanho máximo do arquivo é %2$s.</string>
+    <string name="bsdk_publish_project_service_failure_notification_msg">Impossível fazer upload do projeto (%1$s). Verifique sua conexão de rede e tente novamente.</string>
+    <string name="bsdk_publish_project_service_failure_notification_ticker">Erro ao publicar seu projeto no Behance</string>
+    <string name="bsdk_publish_project_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_text">Publicando seu projeto</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_publish_on_twitter_msg">Confira o novo projeto no meu portfólio \@Behance: %1$s</string>
+    <string name="bsdk_publish_project_service_success_notification_text">Toque para exibir seu projeto publicado</string>
+    <string name="bsdk_publish_project_service_success_notification_ticker">Seu projeto foi publicado no Behance</string>
+    <string name="bsdk_publish_project_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_unknown_failure_notification_msg">Impossível fazer upload do projeto agora. Verifique sua conexão de rede e tente novamente.</string>
+    <string name="bsdk_publish_results_view_behance_btn_label">VER NO BEHANCE</string>
+    <string name="bsdk_publish_results_view_desc_label">Visite o Behance para ver os comentários no\n trabalho e compartilhar no Twitter, Facebook e mais.</string>
+    <string name="bsdk_publish_results_view_title_label">Seu trabalho foi publicado!</string>
+    <string name="bsdk_publish_results_view_titlebar_back_nav_content_desc">Voltar</string>
+    <string name="bsdk_publish_results_view_titlebar_title_label">Publicar</string>
+    <string name="bsdk_publish_wip_image_required_error_msg">Erro ao carregar imagem para publicar. Verifique e tente novamente.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_msg">Impossível fazer upload do trabalho em andamento (%1$s). Verifique sua conexão de rede e tente novamente.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_ticker">Erro ao publicar seu trabalho em andamento no Behance</string>
+    <string name="bsdk_publish_wip_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_text">Publicando seu trabalho em andamento</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_publish_on_twitter_msg">Confira o novo trabalho no meu portfólio \@Behance: %1$s</string>
+    <string name="bsdk_publish_wip_service_success_notification_text">Toque para ver o trabalho em andamento publicado</string>
+    <string name="bsdk_publish_wip_service_success_notification_ticker">Seu trabalho em andamento foi publicado no Behance</string>
+    <string name="bsdk_publish_wip_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_unknown_failure_notification_msg">Impossível fazer upload do trabalho em andamento agora. Verifique sua conexão de rede e tente novamente.</string>
+    <string name="bsdk_search_filters_dialog_custom_actionbar_back_nav_default_txt">Voltar</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_body">Faça logon no Facebook para continuar.</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_cancel_btn_label">Cancelar</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_title">Fazer logon no Facebook</string>
+    <string name="bsdk_social_account_fb_auth_failure">Erro ao autenticar com Facebook. Tente novamente mais tarde.</string>
+    <string name="bsdk_social_account_fb_auth_permissions_failure">Permissões insuficientes para compartilhar no Facebook.</string>
+    <string name="bsdk_social_account_twitter_login_authentication_failure">Erro ao autenticar com Twitter. Tente novamente mais tarde.</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_body">Faça logon no Twitter para continuar.</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_cancel_btn_label">Cancelar</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_title">Fazer logon no Twitter</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_body">Tem certeza de que deseja desvincular a conta do Facebook?</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_cancel_btn_label">Cancelar</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_title">Desvincular conta do Facebook</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_body">Tem certeza de que deseja desvincular a conta do Twitter?</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_cancel_btn_label">Cancelar</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_title">Desvincular conta do Twitter</string>
+    <string name="bsdk_sort_option_featured">Destaque</string>
+    <string name="bsdk_sort_option_most_appreciated">Mais avaliado</string>
+    <string name="bsdk_sort_option_most_discussed">Mais discutido</string>
+    <string name="bsdk_sort_option_most_followed">Mais seguida</string>
+    <string name="bsdk_sort_option_most_recent">Mais recente</string>
+    <string name="bsdk_sort_option_most_relevant">Mais relevante</string>
+    <string name="bsdk_sort_option_most_viewed">Mais visto</string>
+    <string name="bsdk_wip_publish_view_adult_content_text">Possui conteúdo para adultos</string>
+    <string name="bsdk_wip_publish_view_publish_initiated_msg">Publicando seu trabalho em andamento. Confira o andamento na barra de status.</string>
+    <string name="bsdk_wip_publish_view_publish_invalid_tag_msg">As tags só podem conter caracteres alfanuméricos com ou sem espaços</string>
+    <string name="bsdk_wip_publish_view_publish_required_fields_missing_msg">Preencha todos os campos obrigatórios</string>
+    <string name="bsdk_wip_publish_view_publish_service_initialize_error_msg">Erro ao iniciar serviço. Tente novamente mais tarde.</string>
+    <string name="bsdk_wip_publish_view_share_on_fb_content_desc">Compartilhar no Facebook</string>
+    <string name="bsdk_wip_publish_view_share_on_twitter_content_desc">Compartilhar no Twitter</string>
+    <string name="bsdk_wip_publish_view_share_on_txt">COMPARTILHAR EM:</string>
+    <string name="bsdk_wip_publish_view_titlebar_action_btn_publish_label">Publicar</string>
+    <string name="bsdk_wip_publish_view_titlebar_back_nav_content_desc">Voltar</string>
+    <string name="bsdk_wip_publish_view_titlebar_title_publish_label">Informações</string>
+    <string name="bsdk_wip_publish_view_wip_desc_hint">Pedir comentários</string>
+    <string name="bsdk_wip_publish_view_wip_name_hint">Adicionar título</string>
+    <string name="bsdk_wip_publish_view_wip_tags_hint">tags, separadas, vírgula</string>
+    <string name="bsdk_wip_publish_view_wips_loading_label">Carregando …</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-pt/values-pt.xml -->
+    <eat-comment/>
+    <string name="com_facebook_image_download_unknown_error">Erro inesperado ao baixar uma imagem.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-pt/values-pt.xml -->
+    <eat-comment/>
+    <string name="com_facebook_internet_permission_error_message">O logon no WebView requer permissão de INTERNET</string>
+    <string name="com_facebook_internet_permission_error_title">Erro de AndroidManifest</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-pt/values-pt.xml -->
+    <eat-comment/>
+    <string name="com_facebook_like_button_liked">Curtiu</string>
+    <string name="com_facebook_like_button_not_liked">Curtir</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-pt/values-pt.xml -->
+    <eat-comment/>
+    <string name="com_facebook_loading">Carregando …</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-pt/values-pt.xml -->
+    <eat-comment/>
+    <string name="com_facebook_loginview_cancel_action">Cancelar</string>
+    <string name="com_facebook_loginview_log_in_button">Entrar</string>
+    <string name="com_facebook_loginview_log_in_button_long">Entrar com o Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Sair</string>
+    <string name="com_facebook_loginview_log_out_button">Sair</string>
+    <string name="com_facebook_loginview_logged_in_as">Conectado como: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Você entrou usando o Facebook</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-pt/values-pt.xml -->
+    <eat-comment/>
+    <string name="com_facebook_requesterror_password_changed">A sua senha do Facebook mudou. Faça logon neste aplicativo novamente para reconectar a sua conta do Facebook.</string>
+    <string name="com_facebook_requesterror_permissions">Este aplicativo não tem permissão para fazer isso. Para alterar as permissões, tente fazer logon no aplicativo novamente.</string>
+    <string name="com_facebook_requesterror_reconnect">Faça logon neste aplicativo novamente para reconectar a sua conta do Facebook.</string>
+    <string name="com_facebook_requesterror_relogin">Faça logon neste aplicativo novamente para reconectar a sua conta do Facebook.</string>
+    <string name="com_facebook_requesterror_web_login">A sua conta do Facebook está bloqueada. Faça logon em www.facebook.com para continuar.</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-pt/values-pt.xml -->
+    <eat-comment/>
+    <string name="com_facebook_send_button_text">Envio</string>
+    <string name="com_facebook_share_button_text">Compartilhar</string>
+    <string name="com_facebook_tooltip_default">Novidade! Você está no controle - escolha quais informações quer compartilhar com os aplicativos.</string>
+    <string name="messenger_send_button_text">Enviar</string>
+</resources>

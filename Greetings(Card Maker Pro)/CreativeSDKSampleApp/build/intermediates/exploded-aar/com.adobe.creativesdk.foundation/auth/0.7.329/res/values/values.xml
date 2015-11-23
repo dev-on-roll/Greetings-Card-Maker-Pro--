@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/values/color_values.xml -->
+    <eat-comment/>
+    <color name="actionbar_background">#ffffff</color>
+    <color name="actionbar_border">#e1e6ea</color>
+    <color name="adobe_activity_common_color_accent">#2098f5</color>
+    <color name="adobe_activity_common_status_bar_color">#3f4c56</color>
+    <color name="adobe_csdk_theme_color_actionbar_background">#ffffff</color>
+    <color name="adobe_csdk_theme_color_actionbar_border">#e1e6ea</color>
+    <color name="adobe_csdk_theme_color_dark_text">#3f4c56</color>
+    <color name="adobe_csdk_theme_color_light_text">#a3aeb7</color>
+    <color name="adobe_edit_activity_common_status_bar_color">#2F3B44</color>
+    <color name="asset_browser_dark_text">#3f4c56</color>
+    <color name="asset_browser_light_text">#a3aeb7</color>
+    <color name="asset_browser_lighter_text">#80a3aeb7</color>
+    <color name="common_dialogfragment_background_color">#ffffff</color>
+    <color name="common_popup_bannerview_background_color">#a3aeb7</color>
+    <color name="common_popup_bannerview_text_color">#ffffff</color>
+    <color name="creative_sdk_actionbar_background_color">#ffffff</color>
+    <color name="creative_sdk_background_color">#f5f9fa</color>
+    <color name="creative_sdk_blue_color">#2098f5</color>
+    <color name="creative_sdk_transparent_color">@null</color>
+    <color name="screenshots_ui_light_silver_grey_color">#80A2A1A1</color>
+    <declare-styleable name="DrawShadowFrameLayout"><attr format="reference" name="shadowDrawable"/><attr format="boolean" name="shadowVisible"/><attr format="boolean" name="shadowBottom"/></declare-styleable>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="ActionBar_Bottom_Border_Size">5dp</dimen>
+    <dimen name="ActionBar_Size">56dp</dimen>
+    <dimen name="ActionBar_Text_Size">22sp</dimen>
+    <dimen name="adobe_csdk_menuitem_text_size">19sp</dimen>
+    <dimen name="adobe_csdk_theme_actionbar_bottom_borderSize">1dp</dimen>
+    <dimen name="adobe_csdk_theme_actionbar_size">47dp</dimen>
+    <dimen name="adobe_csdk_theme_actionbar_textSize">22sp</dimen>
+    <dimen name="adobe_csdk_theme_menu_icon_minwidth">0dp</dimen>
+    <dimen name="adobe_csdk_theme_menu_icon_paddingLeft">16dp</dimen>
+    <dimen name="adobe_csdk_theme_menu_icon_paddingRight">26dp</dimen>
+    <dimen name="adobe_csdk_theme_menu_item_textSize">19sp</dimen>
+    <dimen name="adobe_dialog_fragment_margin_right">35dp</dimen>
+    <dimen name="assetview_dialog_button_text_size">15sp</dimen>
+    <dimen name="assetview_dialog_error_margin_down">2dp</dimen>
+    <dimen name="assetview_dialog_error_text_size">19sp</dimen>
+    <dimen name="assetview_dialog_fragment_layout_height">47dp</dimen>
+    <dimen name="assetview_dialog_margin_left">20dp</dimen>
+    <dimen name="assetview_dialog_margin_right">20dp</dimen>
+    <dimen name="common_error_view_padding">27dp</dimen>
+    <dimen name="common_error_view_textSize">18sp</dimen>
+    <dimen name="common_popup_bannerview_layout_height">47dp</dimen>
+    <dimen name="common_popup_bannerview_text_size">16sp</dimen>
+    <dimen name="creative_sdk_actionbar_text_size">19sp</dimen>
+    <integer name="adobe_auth_view_height">100</integer>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/values/integers.xml -->
+    <eat-comment/>
+    <integer name="adobe_dialog_ems">12</integer>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="adobe_auth_sign_in_close">Close</string>
+    <string name="adobe_common_error_view_no_internet_connection">No Internet Connection</string>
+    <string name="adobe_common_error_view_unknown_authenticate_error">An error occurred while authenticating.\nPlease try again later.</string>
+    <string name="adobe_error_not_entitled_to_video">"Message about the user not being entitled to to preview the video."</string>
+    <string name="adobe_id_authenticator_accesslabel">Full access to Adobe ID account</string>
+    <string name="adobe_id_authenticator_add_account_error_onlyone">Only one Adobe ID is supported</string>
+    <string name="adobe_id_authenticator_settings_label">Adobe</string>
+    <string name="auth_required">Authentication Required</string>
+    <string name="cancelLogIn">CANCEL</string>
+    <string name="creative_cloud">Creative Cloud</string>
+    <string name="creative_sdk">Creative SDK</string>
+    <string name="logIn">LOGIN</string>
+    <string name="proxy_passwd_label">PASSWORD</string>
+    <string name="proxy_username_label">USER NAME</string>
+    <string formatted="false" name="warning_msg">The server http://%s requires a username and password. The server says : %s</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAuth/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AdobeActionButtonStyle" parent="Widget.AppCompat.ActionButton">
+        <item name="android:minWidth">20dip</item>
+        <item name="android:maxWidth">40dip</item>
+        <item name="android:padding">15dip</item>
+    </style>
+    <style name="AdobeBaseTheme" parent="Theme.AppCompat.Light.NoActionBar"/>
+    <style name="AdobeCSDKPopUpStyle" parent="@style/ThemeOverlay.AppCompat.Light">
+        <item name="android:textSize">@dimen/adobe_csdk_menuitem_text_size</item>
+        <item name="android:itemBackground">@drawable/menu_item_selector</item>
+    </style>
+    <style name="AdobeCSDKTheme" parent="AdobeBaseTheme"/>
+    <style name="AdobeCSDKTheme.DialogWhenLarge" parent="Base.Theme.AppCompat.Light.DialogWhenLarge">
+        <!--<item name="actionButtonStyle">@style/AdobeCSDKTheme.ActionButton</item>-->
+        <item name="windowActionBar">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+	</style>
+    <style name="AdobeCSDKThemeActionBar" parent="ThemeOverlay.AppCompat.ActionBar">
+        <!--<item name="selectableItemBackground">@drawable/actionbar_item_selector</item>-->
+        <item name="searchViewStyle">@style/MySearchViewStyle</item>
+        <item name="android:actionButtonStyle">@style/AdobeActionButtonStyle</item>
+        <item name="actionButtonStyle">@style/AdobeActionButtonStyle</item>
+        <item name="android:actionOverflowButtonStyle">@style/AdobeOverflowButtonStyle</item>
+        <item name="actionOverflowButtonStyle">@style/AdobeOverflowButtonStyle</item>
+    </style>
+    <style name="AdobeCSDKThemeActivity" parent="AdobeCSDKTheme">
+		<!--<item name="actionButtonStyle">@style/AdobeCSDKTheme.ActionButton</item>-->
+		<!--<item name="actionOverflowButtonStyle">@style/AdobeCSDKThemeOverFlow</item>-->
+        <item name="android:windowContentOverlay">@null</item>
+
+        <!-- colorPrimaryDark is used for the status bar -->
+        <item name="colorPrimaryDark">@color/adobe_activity_common_status_bar_color</item>
+        <item name="colorAccent">@color/adobe_activity_common_color_accent</item>
+
+    </style>
+    <style name="AdobeCSDKThemeActivity.NoActionBar" parent="AdobeCSDKThemeActivity">
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="AdobeEditThemeActivity" parent="AdobeCSDKTheme">
+		<!--<item name="actionButtonStyle">@style/AdobeCSDKTheme.ActionButton</item>-->
+		<!--<item name="actionOverflowButtonStyle">@style/AdobeCSDKThemeOverFlow</item>-->
+        <item name="android:windowContentOverlay">@null</item>
+
+        <!-- colorPrimaryDark is used for the status bar -->
+        <item name="colorPrimaryDark">@color/adobe_edit_activity_common_status_bar_color</item>
+        <item name="colorAccent">@color/adobe_activity_common_color_accent</item>
+
+    </style>
+    <style name="AdobeOverflowButtonStyle" parent="Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:minWidth">20dip</item>
+        <item name="android:padding">4dip</item>
+    </style>
+    <style name="MySearchViewStyle" parent="Widget.AppCompat.SearchView">
+    </style>
+    <style name="ProxyAlertDialogPro" parent="@style/Theme.AlertDialogPro.Material.Light">
+        <item name="android:textAppearance">@style/ProxyTextAppearance</item>
+        <item name="adpButtonBarPositiveButtonStyle">@style/ProxyAlertDialogPro.PositiveButtonStyle</item>
+        <item name="adpButtonBarNegativeButtonStyle">@style/ProxyAlertDialogPro.NegativeButtonStyle</item>
+        <item name="adpMessageTextAppearance">@style/ProxyAlertDialogPro.MessageTextAppearance</item>
+        <item name="android:background">@android:color/white</item>
+    </style>
+    <style name="ProxyAlertDialogPro.MessageTextAppearance" parent="ProxyTextAppearance">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="ProxyAlertDialogPro.NegativeButtonStyle" parent="Widget.AlertDialogPro.Material.Light.Button">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="ProxyAlertDialogPro.PositiveButtonStyle" parent="Widget.AlertDialogPro.Material.Light.Button">
+        <item name="android:textColor">#03A9F4</item>
+    </style>
+    <style name="ProxyPopupAlertDialogPro" parent="ProxyAlertDialogPro">
+        <item name="adpButtonBarPositiveButtonStyle">@style/ProxyPopupAlertDialogPro.PositiveButtonStyle</item>
+    </style>
+    <style name="ProxyPopupAlertDialogPro.PositiveButtonStyle" parent="Widget.AlertDialogPro.Material.Light.Button">
+        <item name="android:textColor">#03A9F4</item>
+        <item name="android:paddingRight">32dp</item>
+    </style>
+    <style name="ProxyTextAppearance" parent="android:TextAppearance">
+        <item name="android:textStyle">normal</item>
+
+    </style>
+    <style name="TransparentDialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+</resources>

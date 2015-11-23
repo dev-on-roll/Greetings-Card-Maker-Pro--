@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <!-- Changing this parent requires changing layoutparams type in adapter class -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bsdk_shape_album_grid_item_adapter_bg"
+        android:padding="@dimen/bsdk_image_selector_view_adapter_bg_stroke_width"
+        tools:ignore="UselessParent" >
+
+        <ImageView
+            android:id="@+id/bsdkAlbumGridAdapterCoverImageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/bsdk_generic_image_content_desc"
+            android:scaleType="centerCrop" />
+
+        <com.behance.sdk.ui.customviews.BehanceSDKTextView
+            android:id="@+id/bsdkAlbumGridAdapterAlbumNameTxtView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@id/bsdkAlbumGridAdapterCoverImageView"
+            android:background="@color/bsdk_album_grid_adapter_album_name_bar_bg_color"
+            android:ellipsize="end"
+            android:gravity="center_vertical"
+            android:maxLines="1"
+            android:paddingLeft="12.5dp"
+            android:paddingRight="12.5dp"
+            android:textColor="@color/bsdk_album_grid_adapter_album_name_txt_color"
+            android:textSize="@dimen/bsdk_album_grid_adapter_album_name_txt_size" />
+    </RelativeLayout>
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_adapter_album_grid_item.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/layout/bsdk_adapter_album_grid_item.xml -->

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-sw320dp/values-sw320dp.xml -->
+    <eat-comment/>
+    <dimen name="asset_multipage_gridview_column_width">140dp</dimen>
+</resources>

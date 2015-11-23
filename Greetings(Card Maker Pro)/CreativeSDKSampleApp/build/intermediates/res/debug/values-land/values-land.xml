@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-land/values-land.xml -->
+    <eat-comment/>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-land/values-land.xml -->
+    <eat-comment/>
+    <item name="bsdk_big_screen" type="bool">false</item>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-land/values-land.xml -->
+    <eat-comment/>
+    <dimen name="abc_action_bar_default_height_material">48dp</dimen>
+    <dimen name="abc_action_bar_default_padding_material">0dp</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">32dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14dp</dimen>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-land/values-land.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_add_project_preview_project_fragment_list_item_top_padding">16dp</dimen>
+    <dimen name="bsdk_add_project_preview_project_fragment_listview_top_bottom_padding">25dp</dimen>
+    <dimen name="bsdk_add_wip_new_wip_dialog_width">350dp</dimen>
+    <item name="bsdk_album_selector_fragment_grid_col_count" type="integer">3</item>
+    <integer name="bsdk_edit_profile_content_weight">8</integer>
+    <integer name="bsdk_edit_profile_margin_weight">1</integer>
+    <item name="bsdk_image_selection_fragment_grid_col_count" type="integer">3</item>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.android.support/design/22.2.1/res/values-land/values-land.xml -->
+    <eat-comment/>
+    <style name="Widget.Design.TabLayout" parent="Base.Widget.Design.TabLayout">
+        <item name="tabGravity">center</item>
+        <item name="tabMode">fixed</item>
+    </style>
+</resources>

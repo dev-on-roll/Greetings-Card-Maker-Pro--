@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">Все приложения</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">Все категории исключены</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">ПОЛУЧ.</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">КАТЕГОРИИ</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">СОРТ.</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">Просмотрите библиотеку приложений, совместимых и подключенных к Creative Cloud</string>
+    <string name="IDS_APPLIBRARY_ERROR">Библиотека приложений недоступна. Откройте библиотеку позднее, чтобы просмотреть приложения</string>
+    <string name="IDS_APPLIBRARY_FEATURED">Популярное</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">С наивысшим рейтингом</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">Самые недавние</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">В категории нет ни одного приложения</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">Приложения не найдены.</string>
+    <string name="IDS_APPLIBRARY_TITLE">Библ. приложений</string>
+    <string name="IDS_APP_GET">УСТАНОВИТЬ</string>
+    <string name="IDS_APP_OPEN">ОТКРЫТЬ</string>
+    <string name="IDS_BY">от</string>
+    <string name="IDS_CATEGORY_AUDIO">Аудио</string>
+    <string name="IDS_CATEGORY_CAPTURE">Захват</string>
+    <string name="IDS_CATEGORY_COMMUNITY">Сообщество</string>
+    <string name="IDS_CATEGORY_DESIGN">Дизайн</string>
+    <string name="IDS_CATEGORY_DRAWING">Рисунок</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">Иллюстрация</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">Редактирование</string>
+    <string name="IDS_CATEGORY_PHOTOS">Фотографии</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">Фото и видео</string>
+    <string name="IDS_CATEGORY_PRESENTATION">Презентация</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">Производительность</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">Прототип</string>
+    <string name="IDS_CATEGORY_SOCIAL">Социальные</string>
+    <string name="IDS_CATEGORY_STORAGE">Хранилище</string>
+    <string name="IDS_CATEGORY_STORY">Репортаж</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">Дизайн интерфейса</string>
+    <string name="IDS_CATEGORY_UTILITY">Утилита</string>
+    <string name="IDS_CATEGORY_VIDEO">Видео</string>
+    <string name="IDS_PLEASE_WAIT">Подождите…</string>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">Коммуникация</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">Сборники</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">Конкурсы</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">Рисунок</string>
+    <string name="IDS_SUBCATEGORY_EDITING">Редактирование</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">Эл. почта</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">Отзыв</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">Обмен файлами</string>
+    <string name="IDS_SUBCATEGORY_FONTS">Шрифты</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">Сдается</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">Создание</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">Узоры</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">Редактирование фото</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">Фотографирование</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">Портфолио</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">Печать</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">Прототип</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">Социальные сети</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">Истории</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">Векторы</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">Веб-сайты</string>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">Изменить в</string>
+    <string name="action_settings">Настройки</string>
+    <string name="adobe_360_capture">Захват</string>
+    <string name="adobe_360_edit">Изменить</string>
+    <string name="adobe_360_embed">Встроить</string>
+    <string name="hello_world">Добро пожаловать!</string>
+</resources>

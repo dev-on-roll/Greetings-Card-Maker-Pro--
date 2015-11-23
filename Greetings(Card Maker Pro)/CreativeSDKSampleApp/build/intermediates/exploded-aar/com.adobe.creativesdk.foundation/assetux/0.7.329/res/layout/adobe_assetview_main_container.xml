@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.adobe.creativesdk.foundation.internal.utils.DrawShadowRelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/creative_sdk_background_color"
+    >
+
+    <LinearLayout android:id="@+id/adobe_assetview_container_content_rootview" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:orientation="vertical">
+
+	    <FrameLayout
+	        android:id="@+id/adobe_assetview_container_content_assetsview"
+	        android:layout_width="match_parent"
+	        android:layout_height="@dimen/storage_container_main_assets_view_height" android:layout_weight="1"  >
+	    </FrameLayout>
+
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/adobe_assetview_container_progressBar"
+        android:background="@drawable/spinner_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="false"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:visibility="gone" />
+
+</com.adobe.creativesdk.foundation.internal.utils.DrawShadowRelativeLayout>
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/layout/adobe_assetview_main_container.xml -->

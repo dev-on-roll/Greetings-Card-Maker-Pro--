@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:paddingLeft="@dimen/lib_row_left_padding">
+
+
+    <ImageView
+        android:id="@+id/selected_lib_mark"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:paddingRight="@dimen/lib_tick_right_padding"
+        android:src="@drawable/creativesdkcolor_ic_current_lib" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/lib_row_height"
+        android:orientation="vertical"
+        android:layout_alignParentLeft="true"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/library_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/lib_name_bottom_padding"
+            android:textColor="@color/lib_name_text_color"
+            android:textSize="@dimen/lib_name_text_size" />
+
+        <TextView
+            android:id="@+id/library_meta_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/lib_info_text_color"
+            android:textSize="@dimen/lib_info_text_size" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/lib_row_separator_color" />
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/layout/creativesdkcolor_library_item.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/layout/creativesdkcolor_library_item.xml -->

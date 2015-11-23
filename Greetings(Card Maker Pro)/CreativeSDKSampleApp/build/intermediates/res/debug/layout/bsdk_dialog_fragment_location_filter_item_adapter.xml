@@ -1,0 +1,30 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:id="@+id/bsdkLocationFilterDialogLocationItemSelectedIdicatorImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:contentDescription="@string/bsdk_generic_image_content_desc"
+        android:paddingLeft="@dimen/bsdk_location_filter_dialog_selector_imageView_left_padding"
+        android:paddingRight="@dimen/bsdk_search_filter_dialog_adapter_item_image_padding"
+        android:src="@drawable/bsdk_icon_adapter_list_item_selected_indicator" />
+
+    <com.behance.sdk.ui.customviews.BehanceSDKTextView
+        android:id="@+id/bsdkLocationFilterDialogLocationItemTxtView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@id/bsdkLocationFilterDialogLocationItemSelectedIdicatorImageView"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:paddingBottom="@dimen/bsdk_location_filter_item_top_bottom_padding"
+        android:paddingTop="@dimen/bsdk_location_filter_item_top_bottom_padding"
+        android:textColor="@color/bsdk_location_filter_dialog_location_item_txt_color"
+        android:textSize="@dimen/bsdk_location_filter_dialog_location_item_txt_size" />
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_dialog_fragment_location_filter_item_adapter.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/layout/bsdk_dialog_fragment_location_filter_item_adapter.xml -->

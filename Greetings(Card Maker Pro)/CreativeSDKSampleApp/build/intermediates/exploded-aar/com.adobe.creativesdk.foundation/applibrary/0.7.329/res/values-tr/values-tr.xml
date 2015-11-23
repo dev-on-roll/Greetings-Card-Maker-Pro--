@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">Tüm Uygulamalar</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">Tüm Kategoriler Hariç Tutuldu</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">EDİNİN</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">KATEGORİLER</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">SIRALA</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">Creative Cloud ile uyumlu ve bağlantılı, büyüyen yaratıcı uygulamalar kitaplığını keşfedin</string>
+    <string name="IDS_APPLIBRARY_ERROR">Uygulama Kitaplığı şu anda kullanılamıyor. Büyümekte olan yaratıcı uygulama kitaplığını keşfetmek için lütfen daha sonra kontrol edin</string>
+    <string name="IDS_APPLIBRARY_FEATURED">Öne Çıkanlar</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">En Yüksek Dereceli</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">En Son</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">Bu kategoride uygulama bulunamadı</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">Herhangi bir Uygulama bulunamadı.</string>
+    <string name="IDS_APPLIBRARY_TITLE">Uygulama Kitaplığı</string>
+    <string name="IDS_APP_GET">YÜKLE</string>
+    <string name="IDS_APP_OPEN">AÇ</string>
+    <string name="IDS_BY">hazırlayan</string>
+    <string name="IDS_CATEGORY_AUDIO">Ses</string>
+    <string name="IDS_CATEGORY_CAPTURE">Çekim</string>
+    <string name="IDS_CATEGORY_COMMUNITY">Topluluk</string>
+    <string name="IDS_CATEGORY_DESIGN">Tasarım</string>
+    <string name="IDS_CATEGORY_DRAWING">Çizim</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">Çizim</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">Görüntü Düzenleme</string>
+    <string name="IDS_CATEGORY_PHOTOS">Fotoğraf</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">Fotoğraf ve Video</string>
+    <string name="IDS_CATEGORY_PRESENTATION">Sunum</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">Üretkenlik</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">Prototip oluşturma</string>
+    <string name="IDS_CATEGORY_SOCIAL">Sosyal</string>
+    <string name="IDS_CATEGORY_STORAGE">Depolama Alanı</string>
+    <string name="IDS_CATEGORY_STORY">Hikaye Anlatma</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">UI/UX Tasarımı</string>
+    <string name="IDS_CATEGORY_UTILITY">Yardımcı Programlar</string>
+    <string name="IDS_CATEGORY_VIDEO">Video</string>
+    <string name="IDS_PLEASE_WAIT">Lütfen Bekleyin…</string>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">İletişim</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">Derlemeler</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">Yarışmalar</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">Çizim</string>
+    <string name="IDS_SUBCATEGORY_EDITING">Düzenleme</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">E-posta</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">Geri Bildirim</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">Dosya Paylaşımı</string>
+    <string name="IDS_SUBCATEGORY_FONTS">Fontlar</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">İşe Alım İçin</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">Oluşturma</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">Desenler</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">Fotoğraf Düzenleme</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">Fotoğrafçılık</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">Portföy</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">Yazdırma</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">Prototip oluşturma</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">Sosyal Ağ</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">Hikaye Anlatma</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">Vektörler</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">Web siteleri</string>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">Şurada düzenle:</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="adobe_360_capture">Çekim</string>
+    <string name="adobe_360_edit">Düzenle</string>
+    <string name="adobe_360_embed">Göm</string>
+    <string name="hello_world">Merhaba dünya!</string>
+</resources>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-ko/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_add_content_project_cover_selection_title">표지 선택</string>
+    <string name="bsdk_add_content_project_publish_adult_content_text">성인물 포함</string>
+    <string name="bsdk_add_content_project_publish_creative_field_hint">크리에이티브 분야 선택</string>
+    <string name="bsdk_add_content_project_publish_creative_tags_hint">쉼표로 구분된 태그</string>
+    <string name="bsdk_add_content_project_publish_initiated_msg">프로젝트 게시 중.</string>
+    <string name="bsdk_add_content_project_publish_invalid_tag_msg">태그에는 공백 포함 또는 미포함 영숫자만 사용할 수 있습니다.</string>
+    <string name="bsdk_add_content_project_publish_project_description_hint">프로젝트 설명</string>
+    <string name="bsdk_add_content_project_publish_project_name_hint">프로젝트 이름 지정</string>
+    <string name="bsdk_add_content_project_publish_right_navigation">게시</string>
+    <string name="bsdk_add_content_project_publish_service_initialize_error_msg">서비스를 시작하는 데 문제가 발생했습니다. 나중에 다시 시도하십시오.</string>
+    <string name="bsdk_add_content_project_publish_share_on">다음에서 공유:</string>
+    <string name="bsdk_add_content_project_publish_title">정보</string>
+    <string name="bsdk_add_project_copyright_settings_dialog_title_label">저작권 설정</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_message_txt">프로젝트가 비어 있음</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_use_action_below_msg">아래 옵션을 사용하여 시작하기</string>
+    <string name="bsdk_add_project_edit_project_fragment_right_navigation">완료</string>
+    <string name="bsdk_add_project_edit_project_fragment_title">편집</string>
+    <string name="bsdk_add_project_embed_content_edit_text_hint">포함 코드 붙여넣기</string>
+    <string name="bsdk_add_project_embed_content_error">코드가 올바르지 않습니다. 다시 시도하십시오.</string>
+    <string name="bsdk_add_project_embed_content_title">미디어 컨텐츠 포함</string>
+    <string name="bsdk_add_project_preview_project_fragment_edit_action">편집</string>
+    <string name="bsdk_add_project_preview_project_fragment_title">미리 보기</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-ko/strings_add_wip.xml -->
+    <eat-comment/>
+    <string name="bsdk_add_wip_new_wip_dialog_desc">진행 중인 작업에 대한 제목 입력</string>
+    <string name="bsdk_add_wip_new_wip_dialog_title">제목 추가</string>
+    <string name="bsdk_add_wip_pick_source_view_camera_launch_error">사진을 캡처하기 위해 카메라를 실행하는 데 문제가 발생했습니다. 나중에 다시 시도하십시오.</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_action_btn_create_wip_label">신규</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_title_select_wip_label">선택</string>
+    <string name="bsdk_add_wip_view_connection_error_msg">연결하는 데 문제가 발생했습니다. 네트워크 연결을 확인하고 다시 시도해 주십시오.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-ko/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_addproject_creative_field_filter_dialog_done_btn_label">완료</string>
+    <string name="bsdk_addproject_creative_field_filter_dialog_title_label">분야</string>
+    <string name="bsdk_addproject_creative_fields_popular_category">인기 있는 분야</string>
+    <string name="bsdk_addproject_custom_actionbar_forward_nav_default_txt">다음</string>
+    <string name="bsdk_addproject_project_cover_selection_right_nav_crop_txt">적용</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-ko/strings_cc_asset_browser_launcher.xml -->
+    <eat-comment/>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_text">Creative Cloud에서 에셋 다운로드 중입니다. 취소하시겠습니까?</string>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_title">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_file_download_error">%1$s 파일 다운로드 중 문제가 발생했습니다. 나중에 다시 시도하십시오.</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_back_nav_content_desc">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_title_label">Creative Cloud</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-ko/strings_adobe_cloud_selection_view.xml -->
+    <eat-comment/>
+    <string name="bsdk_cloud_selection_view_back_nav_content_desc">뒤로</string>
+    <string name="bsdk_cloud_selection_view_loading_error_msg">계정을 로드하는 데 문제가 발생했습니다. 나중에 다시 시도하십시오.</string>
+    <string name="bsdk_cloud_selection_view_title">계정 선택</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-ko/strings.xml -->
+    <eat-comment/>
+    <string name="bsdk_connection_error_msg">연결하는 데 문제가 발생했습니다. 네트워크 연결을 확인하고 다시 시도해 주십시오.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-ko/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_copyright_cc_by">저작자 표시</string>
+    <string name="bsdk_copyright_cc_by_nc">저작자표시-비영리</string>
+    <string name="bsdk_copyright_cc_by_nc_nd">저작자표시-비영리-변경금지</string>
+    <string name="bsdk_copyright_cc_by_nc_sa">저작자표시-비영리-동일조건변경허락</string>
+    <string name="bsdk_copyright_cc_by_nd">저작자표시-변경금지</string>
+    <string name="bsdk_copyright_cc_by_sa">저작자표시-동일조건변경허락</string>
+    <string name="bsdk_copyright_creative_commons_header">CREATIVE COMMONS</string>
+    <string name="bsdk_copyright_no_license_header">라이선스 없음</string>
+    <string name="bsdk_copyright_no_use_at_all">명시적인 권한이 없으면 사용할 수 없음</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-ko/strings_edit_profile.xml -->
+    <eat-comment/>
+    <string name="bsdk_edit_profile_ab_save">저장</string>
+    <string name="bsdk_edit_profile_ab_title">프로필 편집</string>
+    <string name="bsdk_edit_profile_avatar_first_name_field_missing_msg">이름을 입력해야 합니다.</string>
+    <string name="bsdk_edit_profile_avatar_last_name_field_missing_msg">성을 입력해야 합니다.</string>
+    <string name="bsdk_edit_profile_avatar_required_fields_missing_msg">[이름] 및 [성]은 필수 항목입니다.</string>
+    <string name="bsdk_edit_profile_avatar_saving_error">프로필 세부정보는 저장되지만, 프로필 이미지를 저장하는 데 문제가 발생했습니다. 나중에 다시 시도하십시오.</string>
+    <string name="bsdk_edit_profile_editing_error">프로필 세부정보를 저장하는 데 문제가 발생했습니다. 나중에 다시 시도하십시오.</string>
+    <string name="bsdk_edit_profile_hint_company">회사</string>
+    <string name="bsdk_edit_profile_hint_first_name">이름</string>
+    <string name="bsdk_edit_profile_hint_last_name">성</string>
+    <string name="bsdk_edit_profile_hint_location">위치</string>
+    <string name="bsdk_edit_profile_hint_occupation">직업 및 직책</string>
+    <string name="bsdk_edit_profile_hint_website">웹 사이트 URL</string>
+    <string name="bsdk_edit_profile_loading_error">프로필 세부정보를 로드하는 데 문제가 발생했습니다. 나중에 다시 시도하십시오.</string>
+    <string name="bsdk_edit_profile_unsaved_changes_body">변경 사항이 모두 손실됩니다. 종료하시겠습니까?</string>
+    <string name="bsdk_edit_profile_unsaved_changes_title">저장되지 않은 변경 사항</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-ko/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_enterprise_login_warning_actionbar_title">게시</string>
+    <string name="bsdk_enterprise_login_warning_cancel_button_text">취소</string>
+    <string name="bsdk_enterprise_login_warning_continue_button_text">계속</string>
+    <string name="bsdk_enterprise_login_warning_text_content">Behance를 사용하여 팀의 일원으로 작업을 \n게시할 수 있지만, 조직에서 탈퇴할 경우 포트폴리오에 \n액세스할 수 없게 됩니다.</string>
+    <string name="bsdk_enterprise_login_warning_text_header">현재 Enterprise ID로\n로그인되어 있습니다.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-ko/strings.xml -->
+    <eat-comment/>
+    <string name="bsdk_generic_alert_dialog_cancel_btn_label">취소</string>
+    <string name="bsdk_generic_alert_dialog_ok_btn_label">확인</string>
+    <string name="bsdk_generic_image_content_desc">이미지</string>
+    <string name="bsdk_image_cropper_crop_failed_msg">이미지를 자르지 못했습니다. 다시 시도하십시오.</string>
+    <string name="bsdk_image_cropper_failed_to_open_msg">이미지를 찾을 수 없습니다. 다시 시도하십시오.</string>
+    <string name="bsdk_image_selector_view_empty_album_msg">%1$s 앨범이 비어있습니다. 다른 앨범으로 시도하십시오.</string>
+    <string name="bsdk_image_selector_view_error_loading_albums_msg">앨범을 로드하는 데 문제가 발생했습니다. 나중에 다시 시도하십시오.</string>
+    <string name="bsdk_image_selector_view_image_dimensions_invalid_msg">선택한 이미지 치수가 요구 조건에 맞지 않습니다.</string>
+    <string name="bsdk_image_selector_view_image_dimensions_less_than_min_required_msg">이미지는 최소 %1$s x %2$s이어야 합니다. 선택한 이미지는 %3$s x %4$s입니다.</string>
+    <string name="bsdk_image_selector_view_image_dimensions_more_than_max_allowed_msg">이미지는 %1$s x %2$s 이하여야 합니다. 선택한 이미지는 %3$s x %4$s입니다.</string>
+    <string name="bsdk_image_selector_view_image_file_type_allowed_msg">%1$s은(는) 잘못된 파일 유형입니다. %2$s만 허용됩니다.</string>
+    <string name="bsdk_image_selector_view_image_file_type_invalid_msg">%1$s은(는) 잘못된 파일 유형입니다.</string>
+    <string name="bsdk_image_selector_view_image_file_type_not_allowed_msg">%1$s은(는) 잘못된 파일 유형입니다. %2$s은(는) 허용되지 않습니다.</string>
+    <string name="bsdk_image_selector_view_image_size_invalid_msg">선택한 이미지 크기가 요구 조건에 맞지 않습니다.</string>
+    <string name="bsdk_image_selector_view_image_size_less_than_min_required_msg">이미지가 너무 작습니다. 최소 파일 크기는 %1$s입니다.</string>
+    <string name="bsdk_image_selector_view_image_size_more_than_max_allowed_msg">이미지가 너무 큽니다. 최대 파일 크기는 %1$s입니다.</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_cancel_label">취소</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_cancel_label">건너뛰기</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_done_label">완료</string>
+    <string name="bsdk_image_selector_view_titlebar_back_nav_content_desc">뒤로</string>
+    <string name="bsdk_image_selector_view_titlebar_title_albums_txt">앨범</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_photos_txt">이미지 선택</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_single_photo_txt">이미지 선택</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-ko/strings_search.xml -->
+    <eat-comment/>
+    <string name="bsdk_license_cc_by">저작자 표시</string>
+    <string name="bsdk_license_cc_by_nc">저작자표시 비영리</string>
+    <string name="bsdk_license_cc_by_nc_nd">저작자표시 비영리 변경금지</string>
+    <string name="bsdk_license_cc_by_nc_sa">저작자표시 비영리 동일조건변경허락</string>
+    <string name="bsdk_license_cc_by_nd">저작자표시 변경금지</string>
+    <string name="bsdk_license_cc_by_sa">저작자표시 동일조건변경허락</string>
+    <string name="bsdk_license_no_use_at_all">소유자의 명시적인 허용 없이는 사용할 수 없습니다.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-ko/strings_location_filter_dialog.xml -->
+    <eat-comment/>
+    <string name="bsdk_location_filter_dialog_city_empty_error">적합한 도시를 선택하십시오.</string>
+    <string name="bsdk_location_filter_dialog_city_label">도시</string>
+    <string name="bsdk_location_filter_dialog_country_label">국가</string>
+    <string name="bsdk_location_filter_dialog_done_btn_label">완료</string>
+    <string name="bsdk_location_filter_dialog_failed_to_load_error">위치 정보를 로드하지 못했습니다. 나중에 다시 시도하십시오.</string>
+    <string name="bsdk_location_filter_dialog_state_label">시/도</string>
+    <string name="bsdk_location_filter_dialog_title_label">위치</string>
+    <string name="bsdk_location_filter_dialog_type_city_name_label">도시 이름 입력</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-ko/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_msg_image_missing">msg_image_missing-behance-addcontent</string>
+    <string name="bsdk_publish_project_from_cc_invalid_file_type">%1$s은(는) 잘못된 파일 유형입니다. %2$s만 허용됩니다.</string>
+    <string name="bsdk_publish_project_from_cc_invalid_image_size">%1$s 크기가 요구 조건에 맞지 않습니다. 최대 파일 크기는 %2$s입니다.</string>
+    <string name="bsdk_publish_project_service_failure_notification_msg">프로젝트를 업로드할 수 없습니다. %1$s. 네트워크 연결을 확인하고 다시 시도하십시오.</string>
+    <string name="bsdk_publish_project_service_failure_notification_ticker">Behance에서 프로젝트를 게시하는 데 오류가 발생했습니다.</string>
+    <string name="bsdk_publish_project_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_text">프로젝트 게시 중</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_publish_on_twitter_msg">내 \@Behance 포트폴리오에서 새 프로젝트 확인: %1$s</string>
+    <string name="bsdk_publish_project_service_success_notification_text">게시된 프로젝트를 보려면 탭</string>
+    <string name="bsdk_publish_project_service_success_notification_ticker">Behance에 프로젝트 게시됨</string>
+    <string name="bsdk_publish_project_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_unknown_failure_notification_msg">지금은 프로젝트를 업로드할 수 없습니다. 네트워크 연결을 확인하고 다시 시도하십시오.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-ko/strings_publish_results.xml -->
+    <eat-comment/>
+    <string name="bsdk_publish_results_view_behance_btn_label">BEHANCE에서 보기</string>
+    <string name="bsdk_publish_results_view_desc_label">Behance에 방문하여 작업에 대한 피드백을 확인하고\n Twitter, Facebook 등에서 공유하십시오.</string>
+    <string name="bsdk_publish_results_view_title_label">작업을 사용 중입니다!</string>
+    <string name="bsdk_publish_results_view_titlebar_back_nav_content_desc">뒤로</string>
+    <string name="bsdk_publish_results_view_titlebar_title_label">게시</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-ko/strings_add_wip.xml -->
+    <eat-comment/>
+    <string name="bsdk_publish_wip_image_required_error_msg">게시할 이미지를 로드하는 데 문제가 발생했습니다. 확인 후 다시 시도하십시오.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_msg">진행 중인 작업을 업로드할 수 없습니다. %1$s. 네트워크 연결을 확인하고 다시 시도하십시오.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_ticker">Behance에서 진행 중인 작업을 게시하는 데 오류가 발생했습니다.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_text">진행 중인 작업 게시 중</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_publish_on_twitter_msg">내 \@Behance 포트폴리오에서 새 작업 확인: %1$s</string>
+    <string name="bsdk_publish_wip_service_success_notification_text">게시된 진행 중인 작업을 보려면 탭</string>
+    <string name="bsdk_publish_wip_service_success_notification_ticker">Behance에 진행 중인 작업 게시됨</string>
+    <string name="bsdk_publish_wip_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_unknown_failure_notification_msg">지금은 진행 중인 작업을 업로드할 수 없습니다. 네트워크 연결을 확인하고 다시 시도하십시오.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-ko/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_search_filters_dialog_custom_actionbar_back_nav_default_txt">뒤로</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-ko/strings_social_account_management.xml -->
+    <eat-comment/>
+    <string name="bsdk_social_account_facebook_login_confirmation_body">진행하려면 Facebook에 로그인하십시오.</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_cancel_btn_label">취소</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_ok_btn_label">확인</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_title">Facebook에 로그인</string>
+    <string name="bsdk_social_account_fb_auth_failure">Facebook 인증 오류입니다. 나중에 다시 시도하십시오.</string>
+    <string name="bsdk_social_account_fb_auth_permissions_failure">Facebook에서 공유하기에 충분한 권한이 없습니다.</string>
+    <string name="bsdk_social_account_twitter_login_authentication_failure">Twitter 인증 오류입니다. 나중에 다시 시도하십시오.</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_body">진행하려면 Twitter에 로그인하십시오.</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_cancel_btn_label">취소</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_ok_btn_label">확인</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_title">Twitter에 로그인</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_body">Facebook 계정 연결을 해제하시겠습니까?</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_cancel_btn_label">취소</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_ok_btn_label">확인</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_title">Facebook 계정 연결 해제</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_body">Twitter 계정 연결을 해제하시겠습니까?</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_cancel_btn_label">취소</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_ok_btn_label">확인</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_title">Twitter 계정 연결 해제</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-ko/strings_search.xml -->
+    <eat-comment/>
+    <string name="bsdk_sort_option_featured">제공됨</string>
+    <string name="bsdk_sort_option_most_appreciated">가장 많이 평가함</string>
+    <string name="bsdk_sort_option_most_discussed">가장 많이 논의함</string>
+    <string name="bsdk_sort_option_most_followed">가장 많은 팔로우</string>
+    <string name="bsdk_sort_option_most_recent">가장 최근</string>
+    <string name="bsdk_sort_option_most_relevant">가장 관련된 것</string>
+    <string name="bsdk_sort_option_most_viewed">가장 많이 봄</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-ko/strings_add_wip.xml -->
+    <eat-comment/>
+    <string name="bsdk_wip_publish_view_adult_content_text">성인물 포함</string>
+    <string name="bsdk_wip_publish_view_publish_initiated_msg">진행 중인 작업을 게시 중입니다. 진행 사항은 상태 표시줄을 확인하십시오.</string>
+    <string name="bsdk_wip_publish_view_publish_invalid_tag_msg">태그에는 공백 포함 또는 미포함 영숫자만 사용할 수 있습니다.</string>
+    <string name="bsdk_wip_publish_view_publish_required_fields_missing_msg">모든 필수 필드를 입력하십시오.</string>
+    <string name="bsdk_wip_publish_view_publish_service_initialize_error_msg">서비스를 시작하는 데 문제가 발생했습니다. 나중에 다시 시도하십시오.</string>
+    <string name="bsdk_wip_publish_view_share_on_fb_content_desc">Facebook에서 공유</string>
+    <string name="bsdk_wip_publish_view_share_on_twitter_content_desc">Twitter에서 공유</string>
+    <string name="bsdk_wip_publish_view_share_on_txt">다음에서 공유:</string>
+    <string name="bsdk_wip_publish_view_titlebar_action_btn_publish_label">게시</string>
+    <string name="bsdk_wip_publish_view_titlebar_back_nav_content_desc">뒤로</string>
+    <string name="bsdk_wip_publish_view_titlebar_title_publish_label">정보</string>
+    <string name="bsdk_wip_publish_view_wip_desc_hint">피드백 요청</string>
+    <string name="bsdk_wip_publish_view_wip_name_hint">제목 추가</string>
+    <string name="bsdk_wip_publish_view_wip_tags_hint">쉼표로 구분된 태그</string>
+    <string name="bsdk_wip_publish_view_wips_loading_label">로드 중 …</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-ko/strings_fb_sdk.xml -->
+    <eat-comment/>
+    <string name="com_facebook_internet_permission_error_message">WebView에 로그인하려면 인터넷 연결이 필요합니다.</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest 오류</string>
+    <string name="com_facebook_loading">로드 중 …</string>
+    <string name="com_facebook_requesterror_password_changed">Facebook 암호가 변경되었습니다. Facebook 계정을 다시 연결하려면 이 앱에 다시 로그인하십시오.</string>
+    <string name="com_facebook_requesterror_permissions">이 앱에는 이 작업을 수행할 권한이 없습니다. 권한을 변경하려면 앱에 다시 로그인하십시오.</string>
+    <string name="com_facebook_requesterror_reconnect">Facebook 계정을 다시 연결하려면 이 앱에 다시 로그인하십시오.</string>
+    <string name="com_facebook_requesterror_relogin">Facebook 계정을 다시 연결하려면 이 앱에 다시 로그인하십시오.</string>
+    <string name="com_facebook_requesterror_web_login">Facebook 계정이 잠겼습니다. 계속하려면 www.facebook.com에 로그인하십시오.</string>
+</resources>

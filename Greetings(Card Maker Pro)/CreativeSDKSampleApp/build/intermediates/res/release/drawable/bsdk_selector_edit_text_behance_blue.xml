@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:drawable="@drawable/bsdk_bg_edittext_default" android:state_enabled="true" android:state_window_focused="false"/>
+	<item android:drawable="@drawable/bsdk_bg_edittext_disabled" android:state_enabled="false" android:state_window_focused="false"/>
+	<item android:drawable="@drawable/bsdk_bg_edittext_activated" android:state_enabled="true" android:state_focused="true"/>
+	<item android:drawable="@drawable/bsdk_bg_edittext_focused" android:state_activated="true" android:state_enabled="true"/>
+	<item android:drawable="@drawable/bsdk_bg_edittext_default" android:state_enabled="true"/>
+	<item android:drawable="@drawable/bsdk_bg_edittext_disabled_focused" android:state_focused="true"/>
+	<item android:drawable="@drawable/bsdk_bg_edittext_disabled"/>
+
+</selector><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/drawable/bsdk_selector_edit_text_behance_blue.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/drawable/bsdk_selector_edit_text_behance_blue.xml -->

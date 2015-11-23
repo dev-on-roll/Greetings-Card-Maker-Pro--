@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_light"
+    android:orientation="vertical" >
+
+    <include layout="@layout/bsdk_adapter_publish_project_copyright_settings_item_header" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/bsdk_search_filter_creative_field_left_padding"
+        android:paddingRight="@dimen/bsdk_search_filter_creative_field_right_padding" >
+
+        <View
+            android:id="@+id/bsdkCopyrightSettingsGroupItemDivider"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentTop="true"
+            android:background="@color/bsdk_location_filter_dialog_divider_color" />
+
+        <ImageView
+            android:id="@+id/bsdkCopyrightSettingsDialogItemSelectedIdicatorImageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:contentDescription="@string/bsdk_msg_image_missing"
+            android:paddingLeft="@dimen/bsdk_copyright_settings_dialog_selector_imageView_left_padding"
+            android:paddingRight="@dimen/bsdk_search_filter_dialog_adapter_item_image_padding"
+            android:src="@drawable/bsdk_icon_adapter_list_item_selected_indicator"
+            android:visibility="gone" />
+
+        <com.behance.sdk.ui.customviews.BehanceSDKTextView
+            android:id="@+id/bsdkCopyrightSettingsDialogItemTxtView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_toLeftOf="@id/bsdkCopyrightSettingsDialogItemSelectedIdicatorImageView"
+            android:paddingBottom="@dimen/bsdk_search_filter_dialog_adapter_item_txt_padding"
+            android:paddingTop="@dimen/bsdk_search_filter_dialog_adapter_item_txt_padding"
+            android:textColor="@color/bsdk_search_filter_creative_fields_dialog_text_color"
+            android:textSize="@dimen/bsdk_search_filter_creative_field_dialog_item_txt_size"
+            app:fontSyle="light" />
+        
+    </RelativeLayout>
+
+</LinearLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_adapter_publish_project_copyright_settings_item.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/layout/bsdk_adapter_publish_project_copyright_settings_item.xml -->

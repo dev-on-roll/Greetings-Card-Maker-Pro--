@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/activityBehanceAdobeAuthTitleWrap"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/bsdk_bg_image_actionbar"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="15dp" >
+
+        <com.behance.sdk.ui.customviews.BehanceSDKTextView
+            android:id="@+id/activityBehanceAdobeAuthTitleTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:drawableLeft="@drawable/bsdk_icon_cc_asset_browser_launcher_title_bar"
+            android:drawablePadding="9dp"
+            android:text="@string/bsdk_cc_asset_browser_launcher_titlebar_title_label"
+            android:textColor="@color/bsdk_cc_asset_browser_launcher_title_text_color"
+            android:textSize="@dimen/bsdk_cc_asset_browser_launcher_title_text_size" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/bsdk_cc_asset_browser_launcher_background_color"
+        android:layout_below="@id/activityBehanceAdobeAuthTitleWrap" >
+
+        <RelativeLayout
+            android:id="@+id/activityBehanceAdobeAuthProgressSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/bsdk_cc_asset_browser_launcher_background_color" >
+
+            <ProgressBar
+                android:id="@+id/bsdkCCAssetBrowserLauncherProgressSpinner"
+                style="?android:attr/progressBarStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true" />
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_activity_cc_asset_browser_launcher.xml -->

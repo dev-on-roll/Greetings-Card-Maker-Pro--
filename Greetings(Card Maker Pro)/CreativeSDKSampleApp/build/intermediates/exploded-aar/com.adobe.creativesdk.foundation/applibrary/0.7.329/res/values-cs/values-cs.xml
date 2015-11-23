@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAppLibrary/src/main/res/values-cs/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">Všechny aplikace</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">Všechny kategorie byly vyloučeny.</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">ZÍSKAT</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">KATEGORIE</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">USPOŘÁDAT</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">Získejte další informace o zvětšující se knihovně kreativních aplikací, které jsou kompatibilní a propojené se službou Creative Cloud.</string>
+    <string name="IDS_APPLIBRARY_ERROR">Knihovna aplikací není nyní dostupná. Informace o zvětšující se knihovně kreativních aplikací vyhledejte později.</string>
+    <string name="IDS_APPLIBRARY_FEATURED">Atraktivní</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">Nejlépe hodnocené</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">Nedávné</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">V této kategorii nebyly nalezeny žádné aplikace.</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">Nebyly nalezeny žádné aplikace.</string>
+    <string name="IDS_APPLIBRARY_TITLE">Knihovna aplikací</string>
+    <string name="IDS_APP_GET">INSTALOVAT</string>
+    <string name="IDS_APP_OPEN">OTEVŘÍT</string>
+    <string name="IDS_BY">autor:</string>
+    <string name="IDS_CATEGORY_AUDIO">Zvuk</string>
+    <string name="IDS_CATEGORY_CAPTURE">Zaznamenat</string>
+    <string name="IDS_CATEGORY_COMMUNITY">Komunita</string>
+    <string name="IDS_CATEGORY_DESIGN">Návrh</string>
+    <string name="IDS_CATEGORY_DRAWING">Kresba</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">Ilustrace</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">Úpravy obrazů</string>
+    <string name="IDS_CATEGORY_PHOTOS">Fotografie</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">Fotografie a video</string>
+    <string name="IDS_CATEGORY_PRESENTATION">Prezentace</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">Produktivita</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">Tvorba prototypů</string>
+    <string name="IDS_CATEGORY_SOCIAL">Sociální</string>
+    <string name="IDS_CATEGORY_STORAGE">Úložiště</string>
+    <string name="IDS_CATEGORY_STORY">Vyprávění</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">Návrh uživatelského rozhraní</string>
+    <string name="IDS_CATEGORY_UTILITY">Nástroj</string>
+    <string name="IDS_CATEGORY_VIDEO">Video</string>
+    <string name="IDS_PLEASE_WAIT">Čekejte prosím…</string>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">Komunikace</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">Kompilace</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">Soutěže</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">Kresba</string>
+    <string name="IDS_SUBCATEGORY_EDITING">Úpravy</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">E-mail</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">Názor</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">Sdílení souborů</string>
+    <string name="IDS_SUBCATEGORY_FONTS">Písma</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">K pronájmu</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">Generování</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">Vzorky</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">Úpravy fotografií</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">Fotografie</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">Portfolio</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">Tisk</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">Tvorba prototypů</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">Sociální síť</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">Vyprávění</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">Vektory</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">Webové stránky</string>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">Upravit v</string>
+    <string name="action_settings">Nastavení</string>
+    <string name="adobe_360_capture">Zaznamenat</string>
+    <string name="adobe_360_edit">Upravit</string>
+    <string name="adobe_360_embed">Vložit</string>
+    <string name="hello_world">Ahoj!</string>
+</resources>

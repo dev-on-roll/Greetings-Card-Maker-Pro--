@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="ASSET_BROWSER_COLLABORATION_ACCEPT">承諾</string>
+    <string name="ASSET_BROWSER_COLLABORATION_REJECT">拒否</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="Analogus">類似色</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="CANCEL_UPLOAD_ASSET_BROWSER_BUTTON">アップロードをキャンセル</string>
+    <string name="COLLABORATE_INVITE_EDIT_TEXT_HINT">電子メールアドレスを追加</string>
+    <string name="COLLABORATION_ALREADY_USED">登録済みの電子メールアドレス</string>
+    <string name="COLLABORATION_DELETE_MESSAGE">共同作業者を削除しますか。</string>
+    <string name="COLLABORATION_INVALID_EMAIL">無効な電子メールアドレス</string>
+    <string name="COLLABORATION_INVITATION_DELETE_ERROR">招待を削除できませんでした</string>
+    <string name="COLLABORATION_INVITATION_DELETE_MESSAGE">この招待を削除しますか。</string>
+    <string name="COLLABORATION_INVITE">追加</string>
+    <string name="COLLABORATION_INVITEE">(招待済み)</string>
+    <string name="COLLABORATION_INVITE_CANCEL">キャンセル</string>
+    <string name="COLLABORATION_INVITE_ERROR_MESSAGE">招待を完了できませんでした</string>
+    <string name="COLLABORATION_OWNER">(所有者)</string>
+    <string name="COLLABORATION_SELF_DELETE_MESSAGE">このフォルダーから外れますか。</string>
+    <string name="COLLABORATOR_DELETE_NEGATIVE_BUTTON">キャンセル</string>
+    <string name="COLLABORATOR_DELETE_POSITIVE_BUTTON">削除</string>
+    <string name="CREATE_NEW_FOLDER_BUTTON_CANCEL">キャンセル</string>
+    <string name="CREATE_NEW_FOLDER_BUTTON_CREATE">作成</string>
+    <string name="CREATE_NEW_FOLDER_DIALOG_TITLE">新しいフォルダーを作成</string>
+    <string name="CREATE_NEW_FOLDER_EDIT_TEXT_HINT">フォルダー名</string>
+    <string name="CREATE_NEW_FOLDER_TITLE">新しいフォルダーを作成</string>
+    <string name="CREATE_NEW_INVITE_TITLE">共同作業者を追加</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="Complementary">補色</string>
+    <string name="Compound">コンパウンド</string>
+    <string name="Custom">カスタム</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="IDS_ACTION_VIEW_COMMENT">コメント</string>
+    <string name="IDS_ACTION_VIEW_EDIT_ANNOTATION">注釈を編集</string>
+    <string name="IDS_ACTION_VIEW_FILE_DETAILS">情報</string>
+    <string name="IDS_ACTION_VIEW_PUBLISH_TO_BEHANCE">Behance に公開</string>
+    <string name="IDS_ACTION_VIEW_SHARE">共有</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="IDS_APPLIBRARY_ALL_APPS">すべてのアプリ</string>
+    <string name="IDS_APPLIBRARY_ALL_CATEGORIES_EXCLUDED">すべてのカテゴリを除外しました</string>
+    <string name="IDS_APPLIBRARY_BTN_GET">取得</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_CATEGORIES">カテゴリー</string>
+    <string name="IDS_APPLIBRARY_CATEGORY_HEADER_SORT">ソート</string>
+    <string name="IDS_APPLIBRARY_DESCRIPTION">ますます充実するクリエイティブなアプリのライブラリを検索しましょう。Creative Cloud に接続され互換性があります</string>
+    <string name="IDS_APPLIBRARY_ERROR">App ライブラリは現在利用できません。また後ほど、増え続けるクリエイティブなアプリのライブラリを再チェックしてください</string>
+    <string name="IDS_APPLIBRARY_FEATURED">おすすめ</string>
+    <string name="IDS_APPLIBRARY_HIGHEST_RATED">最高評価</string>
+    <string name="IDS_APPLIBRARY_MOST_RECENT">最も新しい</string>
+    <string name="IDS_APPLIBRARY_NOAPPS">このカテゴリのアプリは見つかりませんでした</string>
+    <string name="IDS_APPLIBRARY_NO_APPS">アプリケーションは見つかりませんでした。</string>
+    <string name="IDS_APPLIBRARY_TITLE">App ライブラリ</string>
+    <string name="IDS_APP_GET">インストール</string>
+    <string name="IDS_APP_OPEN">開く</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="IDS_ASSET_DETAILS_FILE_DETAILS">ファイルの詳細</string>
+    <string name="IDS_ASSET_DETAILS_HEIGHT">高さ</string>
+    <string name="IDS_ASSET_DETAILS_KB">KB</string>
+    <string name="IDS_ASSET_DETAILS_MB">MB</string>
+    <string name="IDS_ASSET_DETAILS_MODIFIED">修正日</string>
+    <string name="IDS_ASSET_DETAILS_PX">px</string>
+    <string name="IDS_ASSET_DETAILS_SIZE">サイズ</string>
+    <string name="IDS_ASSET_DETAILS_UPLOADED">アップロード日</string>
+    <string name="IDS_ASSET_DETAILS_WIDTH">幅</string>
+    <string name="IDS_ASSET_DETAILS_ZERO_MB">0MB</string>
+    <string name="IDS_ASSET_DETAILS_ZERO_PX">0px</string>
+    <string name="IDS_ASSET_VIEWER_NO_PREVIEW_AVAILABLE">プレビューを表示できません</string>
+    <string name="IDS_ASSET_VIEWER_OF">/</string>
+    <string formatted="false" name="IDS_ASSET_VIEWER_OF_2">%s / %s</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="IDS_BY">作成者</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="IDS_CAPTION_COLLATION_FOLDERS_HEADER">フォルダー</string>
+    <string name="IDS_CAPTION_COLLATION_UNKNOWN_DATE">不明</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_DATE">更新日：%s</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_LAST_WEEK">更新日：先週</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_THIS_MONTH">更新日：今月</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_THIS_WEEK">更新日：今週</string>
+    <string name="IDS_CAPTION_COLLATION_UPDATED_TODAY">更新日：今日</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="IDS_CATEGORY_AUDIO">オーディオ</string>
+    <string name="IDS_CATEGORY_CAPTURE">キャプチャ</string>
+    <string name="IDS_CATEGORY_COMMUNITY">コミュニティ</string>
+    <string name="IDS_CATEGORY_DESIGN">デザイン</string>
+    <string name="IDS_CATEGORY_DRAWING">描画</string>
+    <string name="IDS_CATEGORY_ILLUSTRATION">イラストレーション</string>
+    <string name="IDS_CATEGORY_IMAGE_EDITING">画像編集</string>
+    <string name="IDS_CATEGORY_PHOTOS">写真</string>
+    <string name="IDS_CATEGORY_PHOTO_AND_VIDEO">写真とビデオ</string>
+    <string name="IDS_CATEGORY_PRESENTATION">プレゼンテーション</string>
+    <string name="IDS_CATEGORY_PRODUCTIVITY">生産性</string>
+    <string name="IDS_CATEGORY_PROTOTYPING">プロトタイピング</string>
+    <string name="IDS_CATEGORY_SOCIAL">ソーシャル</string>
+    <string name="IDS_CATEGORY_STORAGE">ストレージ</string>
+    <string name="IDS_CATEGORY_STORY">ストーリーテリング</string>
+    <string name="IDS_CATEGORY_UI_UX_DESIGN">UI/UX デザイン</string>
+    <string name="IDS_CATEGORY_UTILITY">ユーティリティ</string>
+    <string name="IDS_CATEGORY_VIDEO">ビデオ</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="IDS_COMMENT_ERROR_MSG">%s 個のコメントを削除できませんでした</string>
+    <string name="IDS_COMMENT_INSERTION_ERROR_MSG">コメントを追加できませんでした</string>
+    <string name="IDS_COMMENT_SINGLE_ERROR_MSG">%s 個のコメントを削除できませんでした</string>
+    <string name="IDS_COMMENT_SINGLE_SUCCESS_MSG">%s 個のコメントを正常に削除しました</string>
+    <string name="IDS_COMMENT_SUCCESS_MSG">%s 個のコメントを正常に削除しました</string>
+    <string name="IDS_COMMENT_UPDATE_MSG">%d 件のコメントが挿入されました</string>
+    <string name="IDS_COMMENT_UPDATE_MSG_SINGLE">%d 件のコメントが挿入されました</string>
+    <string name="IDS_DELETE_ERROR_MSG">%s 個のアイテムを削除できませんでした</string>
+    <string name="IDS_DELETE_SINGLE_ERROR_MSG">%s 個のアイテムを削除できませんでした</string>
+    <string name="IDS_DELETE_SINGLE_SUCCESS_MSG">%s 個のアイテムが正常に削除されました</string>
+    <string name="IDS_DELETE_SUCCESS_MSG">%s 個のアイテムが正常に削除されました</string>
+    <string name="IDS_EDIT_ERROR_DGL_TITLE">編集エラー</string>
+    <string name="IDS_EDIT_ERROR_MSG">%s 個のアイテムを編集できませんでした</string>
+    <string name="IDS_EDIT_SINGLE_ERROR_MSG">%s 個のアイテムを編集できませんでした</string>
+    <string name="IDS_EDIT_SINGLE_SUCCESS_MSG">%s 個のアイテムを正常に編集しました</string>
+    <string name="IDS_EDIT_SUCCESS_MSG">%s 個のアイテムを正常に編集しました</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_GET_STARTED">ログインするか新しい Adobe ID を作成して開始します。</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="IDS_INVITATION_ERROR_MSG">%s 件の招待を処理できませんでした</string>
+    <string name="IDS_INVITATION_SINGLE_ERROR_MSG">%s 件の招待を処理できませんでした</string>
+    <string name="IDS_INVITATION_SINGLE_SUCCESS_MSG">%s 件の招待が正常に処理されました</string>
+    <string name="IDS_INVITATION_SUCCESS_MSG">%s 件の招待が正常に処理されました</string>
+    <string name="IDS_MOVE_ERROR_MSG">%s 個のアイテムを移動できませんでした</string>
+    <string name="IDS_MOVE_SINGLE_ERROR_MSG">%s 個のアイテムを移動できませんでした</string>
+    <string name="IDS_MOVE_SINGLE_SUCCESS_MSG">%s 個のアイテムが正常に移動されました</string>
+    <string name="IDS_MOVE_SUCCESS_MSG">%s 個のアイテムが正常に移動されました</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="IDS_PLEASE_WAIT">お待ちください…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="IDS_SAVE_TO_DEVICE_CANCELLED_NOTIFICATION_TEXT">%d ファイルがキャンセルされました</string>
+    <string name="IDS_SAVE_TO_DEVICE_CANCELLED_NOTIFICATION_TITLE">ダウンロードをキャンセルしました</string>
+    <string name="IDS_SAVE_TO_DEVICE_CANCEL_TEXT">キャンセル</string>
+    <string name="IDS_SAVE_TO_DEVICE_COMPLETE_NOTIFICATION_TEXT">%d ファイルがダウンロード済み</string>
+    <string name="IDS_SAVE_TO_DEVICE_COMPLETE_NOTIFICATION_TITLE">ダウンロード完了</string>
+    <string name="IDS_SAVE_TO_DEVICE_ERROR_NOTIFICATION_TEXT">%d ファイルをダウンロードできませんでした</string>
+    <string name="IDS_SAVE_TO_DEVICE_ERROR_NOTIFICATION_TITLE">ダウンロード中にエラー</string>
+    <string formatted="false" name="IDS_SAVE_TO_DEVICE_NOTIFICATION_TEXT">残り %d ファイル</string>
+    <string name="IDS_SAVE_TO_DEVICE_NOTIFICATION_TITLE">デバイスに保存中</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_SIGN_IN">ADOBE ID でログイン</string>
+    <string name="IDS_SIGN_UP">ADOBE ID を新規登録</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="IDS_SUBCATEGORY_COMMUNICATION">通信</string>
+    <string name="IDS_SUBCATEGORY_COMPILATIONS">コンパイル</string>
+    <string name="IDS_SUBCATEGORY_CONTESTS">コンテスト</string>
+    <string name="IDS_SUBCATEGORY_DRAWING">描画</string>
+    <string name="IDS_SUBCATEGORY_EDITING">編集</string>
+    <string name="IDS_SUBCATEGORY_EMAIL">電子メール</string>
+    <string name="IDS_SUBCATEGORY_FEEDBACK">フィードバック</string>
+    <string name="IDS_SUBCATEGORY_FILESHARING">ファイルの共有</string>
+    <string name="IDS_SUBCATEGORY_FONTS">フォント</string>
+    <string name="IDS_SUBCATEGORY_FORHIRE">レンタル</string>
+    <string name="IDS_SUBCATEGORY_GENERATION">生成</string>
+    <string name="IDS_SUBCATEGORY_PATTERNS">パターン</string>
+    <string name="IDS_SUBCATEGORY_PHOTOEDITING">写真の編集</string>
+    <string name="IDS_SUBCATEGORY_PHOTOGRAPHY">写真</string>
+    <string name="IDS_SUBCATEGORY_PORTFOLIO">ポートフォリオ</string>
+    <string name="IDS_SUBCATEGORY_PRINTING">印刷</string>
+    <string name="IDS_SUBCATEGORY_PROTOTYPING">プロトタイピング</string>
+    <string name="IDS_SUBCATEGORY_SOCIALNETWORK">ソーシャルネットワーク</string>
+    <string name="IDS_SUBCATEGORY_STORYTELLING">ストーリーテリング</string>
+    <string name="IDS_SUBCATEGORY_VECTORS">ベクトル</string>
+    <string name="IDS_SUBCATEGORY_WEBSITES">Web サイト</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="IDS_UPLOAD_ERROR_DGL_TITLE">アップロードエラー</string>
+    <string name="IDS_UPLOAD_ERROR_MSG">%s 個のファイルをアップロードできませんでした</string>
+    <string name="IDS_UPLOAD_SINGLE_ERROR_MSG">%s 個のファイルをアップロードできませんでした</string>
+    <string name="IDS_UPLOAD_SINGLE_SUCCESS_MSG">%s 個のファイルを正常にアップロードしました</string>
+    <string name="IDS_UPLOAD_SUCCESS_MSG">%s 個のファイルを正しくアップロードしました</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="IDS_WELCOME">Creative Cloud にようこそ</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="Monochromatic">モノクロマティック</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="NOTIFICATION_ACCEPT_FAILURE">承認処理を完了できませんでした</string>
+    <string name="NOTIFICATION_INVITATION">が次の共有フォルダーに招待しました :</string>
+    <string name="NOTIFICATION_JOINED">参加しました :</string>
+    <string name="NOTIFICATION_NOT_FOUND">通知が見つかりませんでした</string>
+    <string name="NOTIFICATION_REJECTED">次の招待を拒否しました :</string>
+    <string name="NOTIFICATION_REJECT_FAILURE">拒否処理を完了できませんでした</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="OK">OK</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="SHARE_WITH_OPTIONS_TITLE">共有先</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="Shades">シェード</string>
+    <string name="Triad">トライアド</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="UPLOAD_ASSET_BROWSER_BUTTON">ファイルをアップロード</string>
+    <string name="UPLOAD_ASSET_FROM_CAMERA_BUTTON">写真撮影</string>
+    <string name="UPLOAD_IMAGE_TO_LIBRARY_MENU_TITLE">画像をアップロード</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="WORKFLOW360_ACTION_LIST_TITLE">次で編集</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ホームへ移動"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"上へ移動"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完了"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sと共有"</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="action_login">ログイン</string>
+    <string name="action_logout">ログアウト</string>
+    <string name="action_settings">Settings</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="add_collaborator">共同作業者を追加</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="add_color">カラーを追加</string>
+    <string name="add_theme">テーマを追加</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/applibrary/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="adobe_360_capture">キャプチャ</string>
+    <string name="adobe_360_edit">編集</string>
+    <string name="adobe_360_embed">埋め込む</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="adobe_asset_edit_in_progress">編集中</string>
+    <string name="adobe_asset_edit_rename_button">名前を変更</string>
+    <string name="adobe_asset_move_error_same_location">エラー :- 移動操作のターゲットとソースの場所が同じです</string>
+    <string name="adobe_asset_view_add_annotation_dialog_hint_text">コメントを追加</string>
+    <string name="adobe_asset_view_add_annotation_dialog_negative_button">キャンセル</string>
+    <string name="adobe_asset_view_add_annotation_dialog_positive_button">送信</string>
+    <string name="adobe_asset_view_add_annotation_dialog_title">注釈を追加</string>
+    <string name="adobe_asset_view_add_comments_dialog_error_message">コメントの追加中にエラーが発生しました</string>
+    <string name="adobe_asset_view_add_comments_dialog_hint_text">コメントを追加</string>
+    <string name="adobe_asset_view_add_comments_dialog_negative_button">キャンセル</string>
+    <string name="adobe_asset_view_add_comments_dialog_positive_button">送信</string>
+    <string name="adobe_asset_view_add_comments_dialog_title">コメントを追加</string>
+    <string name="adobe_asset_view_comments_title">コメント</string>
+    <string name="adobe_asset_view_dialog_fetch_link">リンクを取得中...</string>
+    <string name="adobe_asset_view_edit_delete_button">削除</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_file">このファイルを削除しますか。</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_folder">このフォルダーを削除しますか。</string>
+    <string name="adobe_asset_view_edit_delete_dialog_message_multi_select">この %d 個のアイテムを削除しますか。</string>
+    <string name="adobe_asset_view_edit_delete_dialog_negative_button">キャンセル</string>
+    <string name="adobe_asset_view_edit_delete_dialog_positive_button">削除</string>
+    <string name="adobe_asset_view_edit_download_button">デバイスに保存</string>
+    <string name="adobe_asset_view_edit_fragment_edit_button">編集</string>
+    <string name="adobe_asset_view_edit_fragment_erase_button">削除</string>
+    <string name="adobe_asset_view_edit_fragment_move_button">移動</string>
+    <string name="adobe_asset_view_edit_fragment_title">アイテムを選択</string>
+    <string name="adobe_asset_view_edit_move_button">移動</string>
+    <string name="adobe_asset_view_edit_rename_dialog_error_message">名前の編集中にエラーが発生しました</string>
+    <string name="adobe_asset_view_edit_rename_dialog_hint_text">新しい名前</string>
+    <string name="adobe_asset_view_edit_rename_dialog_negative_button">キャンセル</string>
+    <string name="adobe_asset_view_edit_rename_dialog_positive_button">編集</string>
+    <string name="adobe_asset_view_edit_rename_dialog_title">名前を編集</string>
+    <string name="adobe_asset_view_error_fetch_link">リンクを取得できませんでした</string>
+    <string name="adobe_asset_view_move_fragment_title">フォルダーを選択</string>
+    <string name="adobe_asset_view_multi_page_count">%d ページ</string>
+    <string formatted="false" name="adobe_asset_view_multi_page_numbering">%d / %d</string>
+    <string name="adobe_asset_view_no_comments_found">コメントが見つかりません</string>
+    <string name="adobe_asset_view_send_link_button">リンク送信</string>
+    <string name="adobe_asset_view_show_annotation_dialog_button">了解しました</string>
+    <string name="adobe_assetbrowser_edit_delete_confirm">このファイルを削除しますか。</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="adobe_auth_sign_in_close">閉じる</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="adobe_cloud_not_reachable_no_internet_connection">Unable to connect to the Creative Cloud.\n Please check your internet connection and try again</string>
+    <string name="adobe_cloud_not_reachable_private_cloud">アクセスしようとした Creative Cloud サービスは利用できません。\nVPN 接続を確認して再試行してください。</string>
+    <string name="adobe_cloud_not_reachable_public_cloud">アクセスしようとした Creative Cloud サービスは利用できません。\n再試行してください。</string>
+    <string name="adobe_cloud_not_reachable_retry">再試行</string>
+    <string name="adobe_common_error_folder_invalid_chars">無効なフォルダー名</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="adobe_common_error_view_no_internet_connection">インターネット未接続</string>
+    <string name="adobe_common_error_view_unknown_authenticate_error">認証中にエラーが発生しました。\n後でもう一度やり直してください。</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="adobe_common_error_while_creating_folder">フォルダーを作成できません</string>
+    <string name="adobe_composition_collection_plural">構成</string>
+    <string name="adobe_composition_collection_singular">構成</string>
+    <string name="adobe_comps_empty_collection">コンポジションがまだありません</string>
+    <string name="adobe_design_library_collection_count">アセット %s</string>
+    <string name="adobe_design_library_collection_count_single">アセット 1</string>
+    <string name="adobe_design_library_empty_collection">この Creative Cloud Library は空です</string>
+    <string name="adobe_design_library_header_brushes">ブラシ (%s)</string>
+    <string name="adobe_design_library_header_color">カラー (%s)</string>
+    <string name="adobe_design_library_header_colortheme">カラーテーマ (%s)</string>
+    <string name="adobe_design_library_header_graphics">グラフィック (%s)</string>
+    <string name="adobe_design_library_header_layoutstyle">レイヤースタイル (%s)</string>
+    <string name="adobe_design_library_header_looks">LOOKS (%s)</string>
+    <string name="adobe_design_library_header_textstyle">文字列スタイル (%s)</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="adobe_error_not_entitled_to_video">「ユーザーがビデオをプレビューする権限がないことに関するメッセージです」</string>
+    <string name="adobe_id_authenticator_accesslabel">Adobe ID アカウントへのフルアクセス</string>
+    <string name="adobe_id_authenticator_add_account_error_onlyone">Adobe ID は 1 つしかサポートされません</string>
+    <string name="adobe_id_authenticator_settings_label">Adobe</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="adobe_lineordrawcollection_plural">個の描画</string>
+    <string name="adobe_lineordrawcollection_singular">個の描画</string>
+    <string name="adobe_mobilecreation_item_download">ダウンロード</string>
+    <string name="adobe_mobilecreations_empty_collection">まだ描画がありません</string>
+    <string name="adobe_mobilecreations_package_count">%s 個のアセット</string>
+    <string name="adobe_mobilecreations_sort">読み込み日付順に並べ替え </string>
+    <string name="adobe_my_libraries_empty_collection">まだライブラリがありません</string>
+    <string formatted="false" name="adobe_notification_activities_comments">%s が %s にコメントしました</string>
+    <string name="adobe_notification_activities_comments_self">%s にコメントをしました</string>
+    <string formatted="false" name="adobe_notification_activities_invitation_accept">%s 参加しました %s</string>
+    <string name="adobe_notification_activities_invitation_accept_single">%s に参加しました</string>
+    <string name="adobe_notification_activities_section_header_single">アクティビティ</string>
+    <string name="adobe_notification_activities_self">あなたは</string>
+    <string name="adobe_notification_activity_timestamp_day_single">1 日前</string>
+    <string name="adobe_notification_activity_timestamp_days_multiple">%d 日前</string>
+    <string name="adobe_notification_activity_timestamp_hour_single">1 時間前</string>
+    <string name="adobe_notification_activity_timestamp_hours_multiple">%d 時間前</string>
+    <string name="adobe_notification_activity_timestamp_less_than_minute">1 分未満前</string>
+    <string name="adobe_notification_activity_timestamp_minute">%d 分後</string>
+    <string name="adobe_notification_activity_timestamp_year_multiple">%d 年後</string>
+    <string name="adobe_notification_activity_timestamp_year_single">1 年後</string>
+    <string name="adobe_notification_invitation_message">が共有フォルダーに招待しました 「%s」</string>
+    <string name="adobe_notification_invitation_section_header">招待 (%d)</string>
+    <string name="adobe_notification_invitation_section_header_single">招待 (1)</string>
+    <string name="adobe_notification_operation_collaborated_folder_error">コレクションを読み込めませんでした</string>
+    <string name="adobe_notification_operation_comment_error">アセットを読み込めませんでした</string>
+    <string name="adobe_psmix_collection_plural">写真構成</string>
+    <string name="adobe_psmix_collection_singular">写真構成</string>
+    <string name="adobe_sdk_main_root_collection">ファイル</string>
+    <string name="adobe_sketchCollection_plural">個のスケッチ</string>
+    <string name="adobe_sketchCollection_singular">個のスケッチ</string>
+    <string name="adobe_sketches_empty_collection">スケッチがまだありません</string>
+    <string name="adobe_storage_no_folders_found">フォルダーが見つかりませんでした</string>
+    <string name="adobe_uxassetbrowser_action_asgrid">グリッドとして表示</string>
+    <string name="adobe_uxassetbrowser_action_aslist">リスト形式で表示</string>
+    <string name="adobe_uxassetbrowser_action_collaborate">コラボレーション</string>
+    <string name="adobe_uxassetbrowser_action_edit_asset">編集</string>
+    <string name="adobe_uxassetbrowser_action_sort_alpha">アルファベット順に並べ替え</string>
+    <string name="adobe_uxassetbrowser_action_sort_date">日付順に並べ替え</string>
+    <string name="adobe_uxassetbrowser_comps">COMP CC</string>
+    <string name="adobe_uxassetbrowser_create_new_folder">新しいフォルダーを作成</string>
+    <string name="adobe_uxassetbrowser_csdk_myassets_main">マイアセット</string>
+    <string name="adobe_uxassetbrowser_csdk_mylibraries">マイライブラリ</string>
+    <string name="adobe_uxassetbrowser_designlibrary">ライブラリ</string>
+    <string name="adobe_uxassetbrowser_download_cancelled">ダウンロードはキャンセルされました %s</string>
+    <string name="adobe_uxassetbrowser_download_description">Adobe Creative Cloud</string>
+    <string name="adobe_uxassetbrowser_download_directory">Creative Cloud</string>
+    <string name="adobe_uxassetbrowser_download_error">ダウンロード中にエラーが発生しました %s</string>
+    <string name="adobe_uxassetbrowser_download_io_failure">IO エラーにより %s のダウンロードに失敗しました</string>
+    <string name="adobe_uxassetbrowser_download_successful"> %s ダウンロード済み</string>
+    <string name="adobe_uxassetbrowser_drawings">ILLUSTRATOR DRAW</string>
+    <string name="adobe_uxassetbrowser_file_download_assert_exception">有効なアセットファイルではありません</string>
+    <string name="adobe_uxassetbrowser_files">ファイル</string>
+    <string name="adobe_uxassetbrowser_library_image_download_assert_exception">有効なライブラリ画像ではありません</string>
+    <string name="adobe_uxassetbrowser_lines">ILLUSTRATOR LINE</string>
+    <string name="adobe_uxassetbrowser_myacount">マイアカウント</string>
+    <string name="adobe_uxassetbrowser_photo_download_assert_exception">有効な写真アセットではありません</string>
+    <string name="adobe_uxassetbrowser_photos">写真</string>
+    <string name="adobe_uxassetbrowser_psmix">PHOTOSHOP MIX</string>
+    <string name="adobe_uxassetbrowser_sdk_myaccount">マイアカウント</string>
+    <string name="adobe_uxassetbrowser_selectfolder_upload">フォルダーを選択</string>
+    <string name="adobe_uxassetbrowser_sketches">PHOTOSHOP SKETCH</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="all_colors">すべてのカラー</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="app_library">App ライブラリ</string>
+    <string name="app_name">Creative SDK</string>
+    <string name="asset_browser">アセットブラウザー</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="auth_required">Authentication Required</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="behance_publish">Behance で公開</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="bsdk_add_content_project_cover_selection_title">表紙を選択</string>
+    <string name="bsdk_add_content_project_publish_adult_content_text">成人向けコンテンツを含む</string>
+    <string name="bsdk_add_content_project_publish_creative_field_hint">クリエイティブ分野を選択</string>
+    <string name="bsdk_add_content_project_publish_creative_tags_hint">コンマで, タグを, 区切ります</string>
+    <string name="bsdk_add_content_project_publish_initiated_msg">プロジェクトを公開しています。</string>
+    <string name="bsdk_add_content_project_publish_invalid_tag_msg">タグにはスペースを含むまたは含まない英数字のみを使用してください</string>
+    <string name="bsdk_add_content_project_publish_project_description_hint">プロジェクトの詳細</string>
+    <string name="bsdk_add_content_project_publish_project_name_hint">プロジェクトに名前を付ける</string>
+    <string name="bsdk_add_content_project_publish_right_navigation">公開</string>
+    <string name="bsdk_add_content_project_publish_service_initialize_error_msg">サービスの起動中に問題が発生しました。後でもう一度やり直してください。</string>
+    <string name="bsdk_add_content_project_publish_share_on">公開先 :</string>
+    <string name="bsdk_add_content_project_publish_title">情報</string>
+    <string name="bsdk_add_project_copyright_settings_dialog_title_label">著作権設定</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_message_txt">プロジェクトが空です</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_use_action_below_msg">下のオプションを使用して開始します</string>
+    <string name="bsdk_add_project_edit_project_fragment_right_navigation">完了</string>
+    <string name="bsdk_add_project_edit_project_fragment_title">編集</string>
+    <string name="bsdk_add_project_embed_content_edit_text_hint">埋め込むコードを貼り付け</string>
+    <string name="bsdk_add_project_embed_content_error">コードが無効です。もう一度やり直してください。</string>
+    <string name="bsdk_add_project_embed_content_title">メディアコンテンツを\n埋め込む</string>
+    <string name="bsdk_add_project_preview_project_fragment_edit_action">編集</string>
+    <string name="bsdk_add_project_preview_project_fragment_title">プレビュー</string>
+    <string name="bsdk_add_wip_new_wip_dialog_desc">制作中の作品のタイトルを入力</string>
+    <string name="bsdk_add_wip_new_wip_dialog_title">タイトルを追加</string>
+    <string name="bsdk_add_wip_pick_source_view_camera_launch_error">写真撮影のためカメラの起動中に問題が発生しました。後でもう一度やり直してください。</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_action_btn_create_wip_label">新規作成</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_title_select_wip_label">選択</string>
+    <string name="bsdk_add_wip_view_connection_error_msg">接続中に問題が発生しました。ネットワーク接続を確認し、もう一度試してください。</string>
+    <string name="bsdk_addproject_creative_field_filter_dialog_done_btn_label">完了</string>
+    <string name="bsdk_addproject_creative_field_filter_dialog_title_label">フィールド</string>
+    <string name="bsdk_addproject_creative_fields_popular_category">人気のフィールド</string>
+    <string name="bsdk_addproject_custom_actionbar_forward_nav_default_txt">次へ</string>
+    <string name="bsdk_addproject_project_cover_selection_right_nav_crop_txt">適用</string>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_text">アセットを Creative Cloud からダウンロードしています。取り消してもよろしいですか？</string>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_title">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_file_download_error">ファイル %1$s のダウンロード中に問題が発生しました。しばらく待ってからもう一度試してください。</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_back_nav_content_desc">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_title_label">Creative Cloud</string>
+    <string name="bsdk_cloud_selection_view_back_nav_content_desc">戻る</string>
+    <string name="bsdk_cloud_selection_view_loading_error_msg">アカウントの読み込み中に問題が発生しました。しばらく待ってからもう一度試してください。</string>
+    <string name="bsdk_cloud_selection_view_title">アカウントを選択</string>
+    <string name="bsdk_connection_error_msg">接続中に問題が発生しました。ネットワーク接続を確認し、もう一度試してください。</string>
+    <string name="bsdk_copyright_cc_by">帰属</string>
+    <string name="bsdk_copyright_cc_by_nc">属性-非営利</string>
+    <string name="bsdk_copyright_cc_by_nc_nd">属性-非営利-改変禁止</string>
+    <string name="bsdk_copyright_cc_by_nc_sa">属性-非営利-継承</string>
+    <string name="bsdk_copyright_cc_by_nd">属性-改変禁止</string>
+    <string name="bsdk_copyright_cc_by_sa">属性-継承</string>
+    <string name="bsdk_copyright_creative_commons_header">Creative Commons</string>
+    <string name="bsdk_copyright_no_license_header">ライセンスなし</string>
+    <string name="bsdk_copyright_no_use_at_all">明示的な許可がない限り使用できません</string>
+    <string name="bsdk_edit_profile_ab_save">保存</string>
+    <string name="bsdk_edit_profile_ab_title">プロファイルを編集</string>
+    <string name="bsdk_edit_profile_avatar_first_name_field_missing_msg">名は必須です</string>
+    <string name="bsdk_edit_profile_avatar_last_name_field_missing_msg">姓は必須です</string>
+    <string name="bsdk_edit_profile_avatar_required_fields_missing_msg">名と姓は必須です</string>
+    <string name="bsdk_edit_profile_avatar_saving_error">プロファイルの詳細は保存されましたが、プロファイルイメージの保存中に問題が発生しました。後でもう一度試してください。</string>
+    <string name="bsdk_edit_profile_editing_error">プロファイルの詳細の保存中に問題が発生しました。後でもう一度試してください。</string>
+    <string name="bsdk_edit_profile_hint_company">会社情報</string>
+    <string name="bsdk_edit_profile_hint_first_name">名</string>
+    <string name="bsdk_edit_profile_hint_last_name">姓</string>
+    <string name="bsdk_edit_profile_hint_location">場所</string>
+    <string name="bsdk_edit_profile_hint_occupation">職業 / 役職</string>
+    <string name="bsdk_edit_profile_hint_website">Web サイト URL</string>
+    <string name="bsdk_edit_profile_loading_error">プロファイルの詳細の読み込み中に問題が発生しました。後でもう一度試してください。</string>
+    <string name="bsdk_edit_profile_unsaved_changes_body">すべての変更が失われます。本当に終了しますか？</string>
+    <string name="bsdk_edit_profile_unsaved_changes_title">保存されていない変更</string>
+    <string name="bsdk_enterprise_login_warning_actionbar_title">公開</string>
+    <string name="bsdk_enterprise_login_warning_cancel_button_text">取消</string>
+    <string name="bsdk_enterprise_login_warning_continue_button_text">続行</string>
+    <string name="bsdk_enterprise_login_warning_text_content">チームのメンバーとして Behance を使用して\n作品を公開できますが、組織を抜けると\nポートフォリオにアクセスできなくなります</string>
+    <string name="bsdk_enterprise_login_warning_text_header">現在 Enterprise ID で\nサインインしています</string>
+    <string name="bsdk_generic_alert_dialog_cancel_btn_label">取消</string>
+    <string name="bsdk_generic_alert_dialog_ok_btn_label">OK</string>
+    <string name="bsdk_generic_image_content_desc">画像</string>
+    <string name="bsdk_image_cropper_crop_failed_msg">画像をトリミングできませんでした。もう一度実行してください。</string>
+    <string name="bsdk_image_cropper_failed_to_open_msg">画像が見つかりません。もう一度実行してください。</string>
+    <string name="bsdk_image_selector_view_empty_album_msg">%1$s アルバムが空です。別のアルバムでやり直してください。</string>
+    <string name="bsdk_image_selector_view_error_loading_albums_msg">アルバムの読み込み中に問題が発生しました。後でもう一度試してください。</string>
+    <string name="bsdk_image_selector_view_image_dimensions_invalid_msg">選択した画像サイズが要件と一致しません</string>
+    <string name="bsdk_image_selector_view_image_dimensions_less_than_min_required_msg">画像は最低 %1$s x %2$s である必要があります。選択した画像は %3$s x %4$s です。</string>
+    <string name="bsdk_image_selector_view_image_dimensions_more_than_max_allowed_msg">画像は %1$s x %2$s 以下である必要があります。選択した画像は %3$s x %4$s です。</string>
+    <string name="bsdk_image_selector_view_image_file_type_allowed_msg">%1$s は無効なファイル形式です。許可されているのは %2$s のみです。</string>
+    <string name="bsdk_image_selector_view_image_file_type_invalid_msg">%1$s は無効なファイル形式です。</string>
+    <string name="bsdk_image_selector_view_image_file_type_not_allowed_msg">%1$s は無効なファイル形式です。%2$s は許可されていません。</string>
+    <string name="bsdk_image_selector_view_image_size_invalid_msg">選択した画像がサイズ要件と一致しません</string>
+    <string name="bsdk_image_selector_view_image_size_less_than_min_required_msg">画像が小さすぎます。最小ファイルサイズは %1$s です。</string>
+    <string name="bsdk_image_selector_view_image_size_more_than_max_allowed_msg">画像が大きすぎます。最大ファイルサイズは %1$s です。</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_cancel_label">取消</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_cancel_label">スキップ</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_done_label">完了</string>
+    <string name="bsdk_image_selector_view_titlebar_back_nav_content_desc">戻る</string>
+    <string name="bsdk_image_selector_view_titlebar_title_albums_txt">アルバム</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_photos_txt">画像を選択</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_single_photo_txt">画像を選択</string>
+    <string name="bsdk_license_cc_by">帰属</string>
+    <string name="bsdk_license_cc_by_nc">属性 非営利</string>
+    <string name="bsdk_license_cc_by_nc_nd">属性 非営利 改変禁止</string>
+    <string name="bsdk_license_cc_by_nc_sa">属性 非営利 継承</string>
+    <string name="bsdk_license_cc_by_nd">属性 改変禁止</string>
+    <string name="bsdk_license_cc_by_sa">属性 継承</string>
+    <string name="bsdk_license_no_use_at_all">所有者の明示的な許可がない限り使用できません</string>
+    <string name="bsdk_location_filter_dialog_city_empty_error">有効な市町村を選択してください</string>
+    <string name="bsdk_location_filter_dialog_city_label">市町村名</string>
+    <string name="bsdk_location_filter_dialog_country_label">国名</string>
+    <string name="bsdk_location_filter_dialog_done_btn_label">完了</string>
+    <string name="bsdk_location_filter_dialog_failed_to_load_error">場所データの読み込みに失敗しました。後でもう一度実行してください。</string>
+    <string name="bsdk_location_filter_dialog_state_label">州/都道府県</string>
+    <string name="bsdk_location_filter_dialog_title_label">場所</string>
+    <string name="bsdk_location_filter_dialog_type_city_name_label">市町村名を入力</string>
+    <string name="bsdk_msg_image_missing">msg_image_missing-behance-addcontent</string>
+    <string name="bsdk_publish_project_from_cc_invalid_file_type">%1$s は無効なファイル形式です。許可されているのは %2$s のみです。</string>
+    <string name="bsdk_publish_project_from_cc_invalid_image_size">%1$s がサイズ要件と一致しません。最大ファイルサイズは %2$s です。</string>
+    <string name="bsdk_publish_project_service_failure_notification_msg">プロジェクトをアップロードできません。%1$s。ネットワーク接続を確認して、もう一度やり直してください。</string>
+    <string name="bsdk_publish_project_service_failure_notification_ticker">Behance でプロジェクトの公開中にエラーが発生しました</string>
+    <string name="bsdk_publish_project_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_text">プロジェクトを公開中</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_publish_on_twitter_msg">¥@Behance ポートフォリオ「%1$s」の新しいプロジェクトをチェック</string>
+    <string name="bsdk_publish_project_service_success_notification_text">タップして、公開されたプロジェクトを表示</string>
+    <string name="bsdk_publish_project_service_success_notification_ticker">Behance にプロジェクトを公開しました</string>
+    <string name="bsdk_publish_project_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_unknown_failure_notification_msg">プロジェクトをアップロードできません。ネットワーク接続を確認して、もう一度やり直してください。</string>
+    <string name="bsdk_publish_results_view_behance_btn_label">Behance で表示</string>
+    <string name="bsdk_publish_results_view_desc_label">Behance で作品のフィードバックをもらったり、\nTwitter、Facebook などで作品を共有しましょう。</string>
+    <string name="bsdk_publish_results_view_title_label">作品をライブで見る</string>
+    <string name="bsdk_publish_results_view_titlebar_back_nav_content_desc">戻る</string>
+    <string name="bsdk_publish_results_view_titlebar_title_label">公開</string>
+    <string name="bsdk_publish_wip_image_required_error_msg">公開する画像の読み込み中に問題が発生しました。確認してもう一度実行してください。</string>
+    <string name="bsdk_publish_wip_service_failure_notification_msg">制作中の作品をアップロードできません。%1$s。ネットワーク接続を確認して、もう一度やり直してください。</string>
+    <string name="bsdk_publish_wip_service_failure_notification_ticker">Behance で制作中の作品の公開中にエラーが発生しました</string>
+    <string name="bsdk_publish_wip_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_text">制作中の作品を公開しています</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_publish_on_twitter_msg">¥@Behance ポートフォリオ「%1$s」の新作をチェック</string>
+    <string name="bsdk_publish_wip_service_success_notification_text">タップして、公開された制作中の作品を表示</string>
+    <string name="bsdk_publish_wip_service_success_notification_ticker">Behance で制作中の作品が公開されました</string>
+    <string name="bsdk_publish_wip_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_unknown_failure_notification_msg">制作中の作品をアップロードできません。ネットワーク接続を確認して、もう一度やり直してください。</string>
+    <string name="bsdk_search_filters_dialog_custom_actionbar_back_nav_default_txt">戻る</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_body">続行するには Facebook にログインしてください。</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_cancel_btn_label">取消</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_title">Facebook にログイン</string>
+    <string name="bsdk_social_account_fb_auth_failure">Facebook での認証中にエラーが発生しました。後でもう一度試してください。</string>
+    <string name="bsdk_social_account_fb_auth_permissions_failure">Facebook で共有するための権限がありません。</string>
+    <string name="bsdk_social_account_twitter_login_authentication_failure">Twitter での認証中にエラーが発生しました。後でもう一度試してください。</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_body">続行するには Twitter にログインしてください。</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_cancel_btn_label">取消</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_title">Twitter にログイン</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_body">Facebook アカウントをリンク解除しますか？</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_cancel_btn_label">取消</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_title">Facebook アカウントをリンク解除</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_body">Twitter アカウントをリンク解除しますか？</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_cancel_btn_label">取消</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_title">Twitter アカウントをリンク解除</string>
+    <string name="bsdk_sort_option_featured">注目作</string>
+    <string name="bsdk_sort_option_most_appreciated">最も評価されている</string>
+    <string name="bsdk_sort_option_most_discussed">最もコメントが多い</string>
+    <string name="bsdk_sort_option_most_followed">最もフォロー数が多い</string>
+    <string name="bsdk_sort_option_most_recent">最も新しい</string>
+    <string name="bsdk_sort_option_most_relevant">最も関連性が高い</string>
+    <string name="bsdk_sort_option_most_viewed">最も閲覧されている</string>
+    <string name="bsdk_wip_publish_view_adult_content_text">成人向けコンテンツを含む</string>
+    <string name="bsdk_wip_publish_view_publish_initiated_msg">制作中の作品を公開しています。ステータスバーで進捗を確認できます。</string>
+    <string name="bsdk_wip_publish_view_publish_invalid_tag_msg">タグにはスペースを含むまたは含まない英数字のみを使用してください</string>
+    <string name="bsdk_wip_publish_view_publish_required_fields_missing_msg">必須フィールドをすべて入力してください</string>
+    <string name="bsdk_wip_publish_view_publish_service_initialize_error_msg">サービスの起動中に問題が発生しました。後でもう一度やり直してください。</string>
+    <string name="bsdk_wip_publish_view_share_on_fb_content_desc">Facebook で共有</string>
+    <string name="bsdk_wip_publish_view_share_on_twitter_content_desc">Twitter で共有</string>
+    <string name="bsdk_wip_publish_view_share_on_txt">公開先 :</string>
+    <string name="bsdk_wip_publish_view_titlebar_action_btn_publish_label">公開</string>
+    <string name="bsdk_wip_publish_view_titlebar_back_nav_content_desc">戻る</string>
+    <string name="bsdk_wip_publish_view_titlebar_title_publish_label">情報</string>
+    <string name="bsdk_wip_publish_view_wip_desc_hint">フィードバックを依頼</string>
+    <string name="bsdk_wip_publish_view_wip_name_hint">タイトルを追加</string>
+    <string name="bsdk_wip_publish_view_wip_tags_hint">コンマで, タグを, 区切ります</string>
+    <string name="bsdk_wip_publish_view_wips_loading_label">読み込み中…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="by">作者: </string>
+    <string name="cancel">キャンセル</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="cancelLogIn">CANCEL</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="cc_title">Creative Cloud</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="clear_history">クリア</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="collaboration_create_invite_error">招待を作成できませんでした</string>
+    <string name="collaboration_create_invite_error_network">ネットワークに接続できませんでした</string>
+    <string name="collaboration_delete_failure">共同作業者を削除できませんでした</string>
+    <string formatted="false" name="collaboration_delete_prompt">%s を削除しますか？</string>
+    <string name="collaboration_error">共同作業者の取得中にエラーが発生しました</string>
+    <string name="collaboration_leave_failure">フォルダーから移動できませんでした</string>
+    <string formatted="false" name="collaboration_leave_prompt">%s から移動しますか？</string>
+    <string name="collaborator">共同作業者</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="color_component_activity_actionbar_title">カラー</string>
+    <string name="color_picker_actionbar_title">カラーピッカー</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="com_facebook_image_download_unknown_error">画像のダウンロード中に予期しないエラーが発生しました。</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="com_facebook_internet_permission_error_message">Web ビューのログインには、インターネットアクセス許可が必要です</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest エラー</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="com_facebook_like_button_liked">いいね！済み</string>
+    <string name="com_facebook_like_button_not_liked">いいね！</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="com_facebook_loading">読み込み中…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="com_facebook_loginview_cancel_action">キャンセル</string>
+    <string name="com_facebook_loginview_log_in_button">ログイン</string>
+    <string name="com_facebook_loginview_log_in_button_long">Facebookでログイン</string>
+    <string name="com_facebook_loginview_log_out_action">ログアウト</string>
+    <string name="com_facebook_loginview_log_out_button">ログアウト</string>
+    <string name="com_facebook_loginview_logged_in_as">次のユーザーとしてログイン中: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Facebookを使用してログイン中</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="com_facebook_requesterror_password_changed">Facebook のパスワードが変更されました。このアプリケーションに再度ログインして、Facebook アカウントを再リンクしてください。</string>
+    <string name="com_facebook_requesterror_permissions">このアプリケーションには、この操作を実行する権限がありません。権限を変更するには、アプリケーションに再度ログインしてください。</string>
+    <string name="com_facebook_requesterror_reconnect">このアプリケーションに再度ログインして、Facebook アカウントを再リンクしてください。</string>
+    <string name="com_facebook_requesterror_relogin">このアプリケーションに再度ログインして、Facebook アカウントを再リンクしてください。</string>
+    <string name="com_facebook_requesterror_web_login">Facebook アカウントがロックされています。続行するには www.facebook.com にログインしてください。</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="com_facebook_send_button_text">送信</string>
+    <string name="com_facebook_share_button_text">シェア</string>
+    <string name="com_facebook_tooltip_default">新機能！アプリと共有する情報をコントロールできます。</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="comments_error">コメントの取得中にエラーが発生しました</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="copy_themes">テーマをコピー</string>
+    <string name="copy_to">コピー先</string>
+    <string name="create">作成</string>
+    <string name="create_library">ライブラリを作成</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="creative_cloud">Creative Cloud</string>
+    <string name="creative_sdk">Creative SDK</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="delete">削除</string>
+    <string name="edit">編集</string>
+    <string name="edit_camel">編集</string>
+    <string name="edit_color">カラーを編集</string>
+    <string name="edit_name">名前を編集</string>
+    <string name="edit_theme">テーマを編集</string>
+    <string name="empty_color_list_line1">このライブラリでカラーとテーマを集めて</string>
+    <string name="empty_color_list_line2">他のモバイルアプリやデスクトップアプリで</string>
+    <string name="empty_color_list_line3">使用しましょう</string>
+    <string name="hello_blank_fragment">こんにちは空のフラグメント</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="hex">Hex</string>
+    <string name="history">履歴</string>
+    <string name="history_cleared">履歴をクリア</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="launch_header">起動コンポーネント</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="lib_row_desc_p_p">%1$d カラー、%2$d テーマ</string>
+    <string name="lib_row_desc_p_s">%1$d カラー、1 テーマ</string>
+    <string name="lib_row_desc_s_p">1 カラー、 %1$d テーマ</string>
+    <string name="lib_row_desc_s_s">1 カラー、1 テーマ</string>
+    <string name="libraries_tab_heading">マイライブラリ</string>
+    <string name="loading">読み込み中…</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="logIn">LOGIN</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.6.0/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="messenger_send_button_text">送信</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="my_library">マイライブラリ</string>
+    <string name="new_name">新しい名前</string>
+    <string name="no_colors">カラーなし</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="notification_title">通知</string>
+    <string name="photo_asset_browser_empty_folder">まだ写真がありません</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="picker_tab_heading">ピッカー</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="proxy_passwd_label">PASSWORD</string>
+    <string name="proxy_username_label">USER NAME</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="psmix_download_statement">Adobe Photoshop Mix をダウンロード</string>
+    <string name="psmix_files_empty">強力な Adobe Photoshop とモバイルの利便性で Photoshop Mix は\r\n Android でのクリエイティブかつ楽しい写真編集を提供します。</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="remove">削除</string>
+    <string name="remove_camel">削除</string>
+    <string name="remove_confirmation">削除しますか？</string>
+    <string name="rename">名前を変更</string>
+    <string name="rename_library">ライブラリ名を変更</string>
+    <string name="rgb">RGB</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="search_query_hint">検索…</string>
+    <string name="search_title">検索</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="select_a_color">カラーを選択</string>
+    <string name="select_library">ライブラリを選択</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="selection_header">選択したファイル</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="storage_asset_browser_empty_folder">ファイルがまだありません</string>
+    <string name="storage_cancel_selection">キャンセル</string>
+    <string name="storage_create_folder_already_exists_error">フォルダーは既に存在します</string>
+    <string name="storage_create_folder_authention_requires_error">認証が必要です。</string>
+    <string name="storage_create_folder_no_error">""</string>
+    <string name="storage_empty_folder_upload_files_title">ファイルをアップロード</string>
+    <string name="storage_open">開く</string>
+    <string name="storage_open_files">開く</string>
+    <string name="storage_open_multiple_files">開く (%s)</string>
+    <string name="storage_open_multiple_files_99">開く (99+)</string>
+    <string name="storage_settigs_usuage_calculating">(使用状況を計算しています)</string>
+    <string name="storage_settings_edit_cc_settings">Creative Cloud の設定を編集</string>
+    <string name="storage_settings_get_more_storage">ストレージの追加</string>
+    <string formatted="false" name="storage_settings_storage_usage">%s 使用中 (%s/%sGB)</string>
+    <string name="storage_settings_switch_accounts">アカウントを切り替え</string>
+    <string name="storage_upload_btn_title">アップロード (%s)</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="syncing_library">ライブラリを同期中…</string>
+    <string name="theme_picker_actionbar_title">テーマピッカー</string>
+    <string name="themes_tab_heading">テーマ</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="title_activity_display_message">My Message</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/auth/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string formatted="false" name="warning_msg">The server http://%s requires a username and password. The server says : %s</string>
+    <!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/color/0.7.329/res/values-ja/values-ja.xml -->
+    <eat-comment/>
+    <string name="wheel">カラーホイール</string>
+</resources>

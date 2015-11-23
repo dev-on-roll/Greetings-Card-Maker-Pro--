@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shareInterpolator="false"
+    android:zAdjustment="top" >
+
+    <alpha
+        android:duration="300"
+        android:fillAfter="true"
+        android:fillBefore="true"
+        android:fillEnabled="true"
+        android:fromAlpha="1.0"
+        android:interpolator="@android:interpolator/decelerate_cubic"
+        android:toAlpha="0.0" />
+
+    <scale
+        android:duration="300"
+        android:fillAfter="true"
+        android:fillBefore="true"
+        android:fillEnabled="true"
+        android:fromXScale="1.0"
+        android:fromYScale="1.0"
+        android:interpolator="@android:interpolator/decelerate_cubic"
+        android:pivotX="50%p"
+        android:pivotY="50%p"
+        android:toXScale=".8"
+        android:toYScale=".8" />
+
+</set><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/anim/bsdk_image_selector_view_exit.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/anim/bsdk_image_selector_view_exit.xml -->

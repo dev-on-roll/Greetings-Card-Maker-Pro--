@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_view_file_details"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/IDS_ACTION_VIEW_FILE_DETAILS"/>
+
+
+    <item
+        android:id="@+id/adobe_asset_one_up_view_comments_menu"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:title="@string/IDS_ACTION_VIEW_COMMENT"></item>
+
+</menu><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/menu/adobe_ccfiles_assetviewer_menu.xml -->

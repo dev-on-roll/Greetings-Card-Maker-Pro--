@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:pivotX="50%" android:pivotY="50%" android:fromDegrees="0"
+    android:toDegrees="360">
+    <shape android:shape="ring" android:innerRadiusRatio="3"
+        android:thicknessRatio="8" android:useLevel="false">
+        <solid android:color="@color/creative_sdk_transparent_color"/>
+        <size android:width="@dimen/creative_sdk_spinner_bar_width" android:height="@dimen/creative_sdk_spinner_bar_height" />
+    </shape>
+</rotate><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/Foundation/CreativeSDKFoundationAssetUX/res/drawable/spinner_bar.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk.foundation/assetux/0.7.329/res/drawable/spinner_bar.xml -->

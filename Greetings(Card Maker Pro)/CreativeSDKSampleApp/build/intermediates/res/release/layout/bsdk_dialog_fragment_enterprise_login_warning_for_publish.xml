@@ -1,0 +1,87 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:behanceSDK="http://schemas.android.com/apk/com.behance.sdk"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bsdk_enterprise_login_warning_bg_color">
+
+    <include layout="@layout/bsdk_actionbar_custom_publish_project" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/bsdk_edit_profile_padding"
+        android:scrollbarStyle="insideOverlay">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center">
+            <!-- Icon -->
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/bsdk_enterprise_login_warning_icon_top_bottom_margin"
+                android:src="@drawable/bsdk_icon_enterprise_warning_alert" />
+            <!-- Header-->
+
+            <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/bsdk_enterprise_login_warning_header_text_bottom_margin"
+                android:text="@string/bsdk_enterprise_login_warning_text_header"
+                android:gravity="center_horizontal"
+                android:textSize="@dimen/bsdk_enterprise_login_warning_header_text_size"
+                android:textColor="@color/bsdk_enterprise_login_warning_header_text_color"
+                android:lineSpacingExtra="@dimen/bsdk_enterprise_login_warning_header_text_line_spacing_extra"/>
+
+            <!-- Content-->
+
+            <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bsdk_enterprise_login_warning_text_content"
+                android:gravity="center_horizontal"
+                android:layout_marginBottom="@dimen/bsdk_enterprise_login_warning_content_text_bottom_margin"
+                android:textSize="@dimen/bsdk_enterprise_login_warning_content_text_size"
+                android:textColor="@color/bsdk_enterprise_login_warning_content_text_color"
+                android:lineSpacingExtra="@dimen/bsdk_enterprise_login_warning_content_text_line_spacing_extra"/>
+
+            <!-- Buttons-->
+            <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                android:id="@+id/bsdkEnterpriseLoginWarningContinueButton"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/bsdk_enterprise_login_warning_button_height"
+                android:layout_marginBottom="@dimen/bsdk_enterprise_login_warning_continue_button_margin_bottom"
+                android:layout_marginLeft="@dimen/bsdk_enterprise_login_warning_continue_button_left_right_padding"
+                android:layout_marginRight="@dimen/bsdk_enterprise_login_warning_continue_button_left_right_padding"
+                android:gravity="center"
+                android:background="@drawable/bsdk_selector_enterprice_login_warning_continue_btn"
+                android:text="@string/bsdk_enterprise_login_warning_continue_button_text"
+                android:textColor="@color/bsdk_enterprise_login_warning_continue_button_text_color"
+                android:textSize="@dimen/bsdk_enterprise_login_warning_button_text_size" />
+
+            <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                android:id="@+id/bsdkEnterpriseLoginWarningCancelButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:padding="10dp"
+                android:text="@string/bsdk_enterprise_login_warning_cancel_button_text"
+                android:textColor="@color/bsdk_enterprise_login_warning_cancel_button_text_color"
+                android:textSize="@dimen/bsdk_enterprise_login_warning_button_text_size"
+                tools:ignore="ButtonStyle" />
+
+        </LinearLayout>
+    </ScrollView>
+    </LinearLayout>
+</LinearLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_dialog_fragment_enterprise_login_warning_for_publish.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/layout/bsdk_dialog_fragment_enterprise_login_warning_for_publish.xml -->

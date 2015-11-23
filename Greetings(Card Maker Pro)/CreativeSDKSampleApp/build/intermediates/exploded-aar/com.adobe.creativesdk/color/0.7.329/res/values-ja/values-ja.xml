@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/values-ja/strings.xml -->
+    <eat-comment/>
+    <string name="Analogus">類似色</string>
+    <string name="Complementary">補色</string>
+    <string name="Compound">コンパウンド</string>
+    <string name="Custom">カスタム</string>
+    <string name="Monochromatic">モノクロマティック</string>
+    <string name="OK">OK</string>
+    <string name="Shades">シェード</string>
+    <string name="Triad">トライアド</string>
+    <string name="add_color">カラーを追加</string>
+    <string name="add_theme">テーマを追加</string>
+    <string name="all_colors">すべてのカラー</string>
+    <string name="by">作者: </string>
+    <string name="cancel">キャンセル</string>
+    <string name="clear_history">クリア</string>
+    <string name="color_component_activity_actionbar_title">カラー</string>
+    <string name="color_picker_actionbar_title">カラーピッカー</string>
+    <string name="copy_themes">テーマをコピー</string>
+    <string name="copy_to">コピー先</string>
+    <string name="create">作成</string>
+    <string name="create_library">ライブラリを作成</string>
+    <string name="delete">削除</string>
+    <string name="edit">編集</string>
+    <string name="edit_camel">編集</string>
+    <string name="edit_color">カラーを編集</string>
+    <string name="edit_name">名前を編集</string>
+    <string name="edit_theme">テーマを編集</string>
+    <string name="empty_color_list_line1">このライブラリでカラーとテーマを集めて</string>
+    <string name="empty_color_list_line2">他のモバイルアプリやデスクトップアプリで</string>
+    <string name="empty_color_list_line3">使用しましょう</string>
+    <string name="hello_blank_fragment">こんにちは空のフラグメント</string>
+    <string name="hex">Hex</string>
+    <string name="history">履歴</string>
+    <string name="history_cleared">履歴をクリア</string>
+    <string name="lib_row_desc_p_p">%1$d カラー、%2$d テーマ</string>
+    <string name="lib_row_desc_p_s">%1$d カラー、1 テーマ</string>
+    <string name="lib_row_desc_s_p">1 カラー、 %1$d テーマ</string>
+    <string name="lib_row_desc_s_s">1 カラー、1 テーマ</string>
+    <string name="libraries_tab_heading">マイライブラリ</string>
+    <string name="loading">読み込み中…</string>
+    <string name="my_library">マイライブラリ</string>
+    <string name="new_name">新しい名前</string>
+    <string name="no_colors">カラーなし</string>
+    <string name="picker_tab_heading">ピッカー</string>
+    <string name="remove">削除</string>
+    <string name="remove_camel">削除</string>
+    <string name="remove_confirmation">削除しますか？</string>
+    <string name="rename">名前を変更</string>
+    <string name="rename_library">ライブラリ名を変更</string>
+    <string name="rgb">RGB</string>
+    <string name="select_a_color">カラーを選択</string>
+    <string name="select_library">ライブラリを選択</string>
+    <string name="syncing_library">ライブラリを同期中…</string>
+    <string name="theme_picker_actionbar_title">テーマピッカー</string>
+    <string name="themes_tab_heading">テーマ</string>
+    <string name="wheel">カラーホイール</string>
+</resources>

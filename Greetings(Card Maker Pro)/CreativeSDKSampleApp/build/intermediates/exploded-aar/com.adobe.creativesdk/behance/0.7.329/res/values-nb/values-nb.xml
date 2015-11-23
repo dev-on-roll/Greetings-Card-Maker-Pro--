@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nb/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_add_content_project_cover_selection_title">Velg en forside</string>
+    <string name="bsdk_add_content_project_publish_adult_content_text">Innhold uegnet for barn</string>
+    <string name="bsdk_add_content_project_publish_creative_field_hint">Velg et kreativt område</string>
+    <string name="bsdk_add_content_project_publish_creative_tags_hint">komma, delt, koder</string>
+    <string name="bsdk_add_content_project_publish_initiated_msg">Publiserer prosjektet ditt.</string>
+    <string name="bsdk_add_content_project_publish_invalid_tag_msg">Koder kan bare inneholde alfanumeriske tegn med eller uten mellomrom</string>
+    <string name="bsdk_add_content_project_publish_project_description_hint">Beskrivelse av prosjekt</string>
+    <string name="bsdk_add_content_project_publish_project_name_hint">Gi prosjektet et navn</string>
+    <string name="bsdk_add_content_project_publish_right_navigation">Publiser</string>
+    <string name="bsdk_add_content_project_publish_service_initialize_error_msg">Problem med å starte tjenesten. Prøv på nytt senere.</string>
+    <string name="bsdk_add_content_project_publish_share_on">DEL PÅ:</string>
+    <string name="bsdk_add_content_project_publish_title">Dokumentinfo</string>
+    <string name="bsdk_add_project_copyright_settings_dialog_title_label">Innstillinger for opphavsrett</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_message_txt">Prosjektet er tomt</string>
+    <string name="bsdk_add_project_edit_fragment_empty_project_use_action_below_msg">Kom i gang ved hjelp av valgene under</string>
+    <string name="bsdk_add_project_edit_project_fragment_right_navigation">Ferdig</string>
+    <string name="bsdk_add_project_edit_project_fragment_title">Rediger</string>
+    <string name="bsdk_add_project_embed_content_edit_text_hint">Lim inn innebyggingskode</string>
+    <string name="bsdk_add_project_embed_content_error">Koden er ugyldig. Prøv på nytt.</string>
+    <string name="bsdk_add_project_embed_content_title">Innebygget medieinnhold</string>
+    <string name="bsdk_add_project_preview_project_fragment_edit_action">Rediger</string>
+    <string name="bsdk_add_project_preview_project_fragment_title">Forhåndsvisning</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nb/strings_add_wip.xml -->
+    <eat-comment/>
+    <string name="bsdk_add_wip_new_wip_dialog_desc">Skriv inn en tittel på det pågående arbeidet</string>
+    <string name="bsdk_add_wip_new_wip_dialog_title">Legg til tittel</string>
+    <string name="bsdk_add_wip_pick_source_view_camera_launch_error">Problem med å starte kameraet for å ta bilde. Prøv på nytt senere.</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_action_btn_create_wip_label">Ny</string>
+    <string name="bsdk_add_wip_pick_wip_view_titlebar_title_select_wip_label">Velg</string>
+    <string name="bsdk_add_wip_view_connection_error_msg">Det oppsto et tilkoblingsproblem. Kontroller nettverkstilkoblingen og prøv på nytt.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nb/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_addproject_creative_field_filter_dialog_done_btn_label">Ferdig</string>
+    <string name="bsdk_addproject_creative_field_filter_dialog_title_label">Felt</string>
+    <string name="bsdk_addproject_creative_fields_popular_category">POPULÆRT</string>
+    <string name="bsdk_addproject_custom_actionbar_forward_nav_default_txt">Neste</string>
+    <string name="bsdk_addproject_project_cover_selection_right_nav_crop_txt">Bruk</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nb/strings_cc_asset_browser_launcher.xml -->
+    <eat-comment/>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_text">Ressursene lastes ned fra Creative Cloud. Er du sikker på at du vil avbryte?</string>
+    <string name="bsdk_cc_asset_browser_cancel_download_alert_dialog_title">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_file_download_error">Problem med å laste ned filen %1$s. Prøv på nytt senere.</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_back_nav_content_desc">Creative Cloud</string>
+    <string name="bsdk_cc_asset_browser_launcher_titlebar_title_label">Creative Cloud</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nb/strings_adobe_cloud_selection_view.xml -->
+    <eat-comment/>
+    <string name="bsdk_cloud_selection_view_back_nav_content_desc">Tilbake</string>
+    <string name="bsdk_cloud_selection_view_loading_error_msg">Problem under lasting av kontoer. Prøv på nytt senere.</string>
+    <string name="bsdk_cloud_selection_view_title">Velg konto</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="bsdk_connection_error_msg">Det oppsto et tilkoblingsproblem. Kontroller nettverkstilkoblingen og prøv på nytt.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nb/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_copyright_cc_by">Opphavsinformasjon</string>
+    <string name="bsdk_copyright_cc_by_nc">Opphavsinformasjon – Ikke-kommersielt</string>
+    <string name="bsdk_copyright_cc_by_nc_nd">Opphavsinformasjon – Ikke-kommersielt – Ingen avledninger</string>
+    <string name="bsdk_copyright_cc_by_nc_sa">Opphavsinformasjon – Ikke-kommersielt – Share Alike</string>
+    <string name="bsdk_copyright_cc_by_nd">Opphavsinformasjon – Ingen avledninger</string>
+    <string name="bsdk_copyright_cc_by_sa">Opphavsinformasjon – Share Alike</string>
+    <string name="bsdk_copyright_creative_commons_header">CREATIVE COMMONS</string>
+    <string name="bsdk_copyright_no_license_header">INGEN LISENS</string>
+    <string name="bsdk_copyright_no_use_at_all">Ingen bruk uten eksplisitt tillatelse</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nb/strings_edit_profile.xml -->
+    <eat-comment/>
+    <string name="bsdk_edit_profile_ab_save">Arkiver</string>
+    <string name="bsdk_edit_profile_ab_title">Rediger profil</string>
+    <string name="bsdk_edit_profile_avatar_first_name_field_missing_msg">Fornavn er obligatorisk</string>
+    <string name="bsdk_edit_profile_avatar_last_name_field_missing_msg">Etternavn er obligatorisk</string>
+    <string name="bsdk_edit_profile_avatar_required_fields_missing_msg">Fornavn og etternavn er obligatorisk</string>
+    <string name="bsdk_edit_profile_avatar_saving_error">Profilinformasjonen ble lagret, men det oppsto et problem med å lagre profilbildet. Prøv på nytt senere.</string>
+    <string name="bsdk_edit_profile_editing_error">Problem med å lagre profilinformasjonen. Prøv på nytt senere.</string>
+    <string name="bsdk_edit_profile_hint_company">Firma</string>
+    <string name="bsdk_edit_profile_hint_first_name">Fornavn</string>
+    <string name="bsdk_edit_profile_hint_last_name">Etternavn</string>
+    <string name="bsdk_edit_profile_hint_location">Sted</string>
+    <string name="bsdk_edit_profile_hint_occupation">Yrke/tittel</string>
+    <string name="bsdk_edit_profile_hint_website">URL-adresse til nettside</string>
+    <string name="bsdk_edit_profile_loading_error">Problem med å laste profilinformasjonen. Prøv på nytt senere.</string>
+    <string name="bsdk_edit_profile_unsaved_changes_body">Alle endringer blir slettet. Er du sikker på at du vil avslutte?</string>
+    <string name="bsdk_edit_profile_unsaved_changes_title">Endringer som ikke er lagret</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nb/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_enterprise_login_warning_actionbar_title">Publiser</string>
+    <string name="bsdk_enterprise_login_warning_cancel_button_text">Avbryt</string>
+    <string name="bsdk_enterprise_login_warning_continue_button_text">FORTSETT</string>
+    <string name="bsdk_enterprise_login_warning_text_content">Du kan bruke Behance til å publisere arbeid som \ndel av en arbeidsgruppe, men du vil \nmiste tilgang til porteføljen \nhvis du forlater organisasjonen</string>
+    <string name="bsdk_enterprise_login_warning_text_header">Du er logget på\nmed en Enterprise ID</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="bsdk_generic_alert_dialog_cancel_btn_label">Avbryt</string>
+    <string name="bsdk_generic_alert_dialog_ok_btn_label">OK</string>
+    <string name="bsdk_generic_image_content_desc">Bilde</string>
+    <string name="bsdk_image_cropper_crop_failed_msg">Kunne ikke beskjære bildet. Prøv på nytt.</string>
+    <string name="bsdk_image_cropper_failed_to_open_msg">Fant ikke bildet. Prøv på nytt.</string>
+    <string name="bsdk_image_selector_view_empty_album_msg">%1$s album er tomt. Prøv et annet album.</string>
+    <string name="bsdk_image_selector_view_error_loading_albums_msg">Problem under lasting av album. Prøv på nytt senere.</string>
+    <string name="bsdk_image_selector_view_image_dimensions_invalid_msg">Den valgte bildestørrelsen stemmer ikke overens med kravene</string>
+    <string name="bsdk_image_selector_view_image_dimensions_less_than_min_required_msg">Bildet må være minst %1$s x %2$s. Det valgte bildet er %3$s x %4$s</string>
+    <string name="bsdk_image_selector_view_image_dimensions_more_than_max_allowed_msg">Bildet kan ikke være større enn %1$s x %2$s. Det valgte bildet er %3$s x %4$s</string>
+    <string name="bsdk_image_selector_view_image_file_type_allowed_msg">%1$s er en ugyldig filtype. Bare %2$s er tillatt.</string>
+    <string name="bsdk_image_selector_view_image_file_type_invalid_msg">%1$s er en ugyldig filtype.</string>
+    <string name="bsdk_image_selector_view_image_file_type_not_allowed_msg">%1$s er en ugyldig filtype. %2$s er ikke tillatt.</string>
+    <string name="bsdk_image_selector_view_image_size_invalid_msg">Det valgte bildet stemmer ikke med kravene til størrelse</string>
+    <string name="bsdk_image_selector_view_image_size_less_than_min_required_msg">Bildet er for lite. Den minste tillatte størrelsen er %1$s</string>
+    <string name="bsdk_image_selector_view_image_size_more_than_max_allowed_msg">Bildet er for stort. Den største tillatte størrelsen er %1$s</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_cancel_label">Avbryt</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_cancel_label">Hopp over</string>
+    <string name="bsdk_image_selector_view_titlebar_action_btn_multiple_photos_done_label">Ferdig</string>
+    <string name="bsdk_image_selector_view_titlebar_back_nav_content_desc">Tilbake</string>
+    <string name="bsdk_image_selector_view_titlebar_title_albums_txt">Album</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_photos_txt">Velg bilder</string>
+    <string name="bsdk_image_selector_view_titlebar_title_choose_single_photo_txt">Velg bilde</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nb/strings_search.xml -->
+    <eat-comment/>
+    <string name="bsdk_license_cc_by">Opphavsinformasjon</string>
+    <string name="bsdk_license_cc_by_nc">Opphavsinformasjon Ikke-kommersielt</string>
+    <string name="bsdk_license_cc_by_nc_nd">Attributter Ikke-kommersielt Ingen avledninger</string>
+    <string name="bsdk_license_cc_by_nc_sa">Opphavsinformasjon – Ikke-kommersielt – Share Alike</string>
+    <string name="bsdk_license_cc_by_nd">Attributter Ingen avledninger</string>
+    <string name="bsdk_license_cc_by_sa">Attributter Share Alike</string>
+    <string name="bsdk_license_no_use_at_all">Ingen bruk er tillatt uten eksplisitt tillatelse fra eieren</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nb/strings_location_filter_dialog.xml -->
+    <eat-comment/>
+    <string name="bsdk_location_filter_dialog_city_empty_error">Velg en gyldig by</string>
+    <string name="bsdk_location_filter_dialog_city_label">By</string>
+    <string name="bsdk_location_filter_dialog_country_label">Land</string>
+    <string name="bsdk_location_filter_dialog_done_btn_label">Ferdig</string>
+    <string name="bsdk_location_filter_dialog_failed_to_load_error">Kunne ikke laste posisjonsdata. Prøv på nytt senere.</string>
+    <string name="bsdk_location_filter_dialog_state_label">Stat</string>
+    <string name="bsdk_location_filter_dialog_title_label">Sted</string>
+    <string name="bsdk_location_filter_dialog_type_city_name_label">Angi navn på by</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nb/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_msg_image_missing">msg_image_missing-behance-addcontent</string>
+    <string name="bsdk_publish_project_from_cc_invalid_file_type">%1$s er en ugyldig filtype. Bare %2$s er tillatt.</string>
+    <string name="bsdk_publish_project_from_cc_invalid_image_size">%1$s stemmer ikke med kravene til størrelse. Maksimal filstørrelse er %2$s.</string>
+    <string name="bsdk_publish_project_service_failure_notification_msg">Kan ikke laste opp prosjektet. %1$s. Kontroller nettverkstilkoblingen og prøv på nytt.</string>
+    <string name="bsdk_publish_project_service_failure_notification_ticker">Feil ved publisering av prosjektet ditt på Behance</string>
+    <string name="bsdk_publish_project_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_text">Publiserer prosjektet ditt</string>
+    <string name="bsdk_publish_project_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_publish_on_twitter_msg">Se mitt nye prosjekt i \@Behance-porteføljen min: %1$s</string>
+    <string name="bsdk_publish_project_service_success_notification_text">Trykk for å se det publiserte prosjektet</string>
+    <string name="bsdk_publish_project_service_success_notification_ticker">Publiserte prosjektet ditt på Behance</string>
+    <string name="bsdk_publish_project_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_project_service_unknown_failure_notification_msg">Prosjektet kan ikke lastes opp for øyeblikket. Kontroller nettverkstilkoblingen og prøv på nytt.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nb/strings_publish_results.xml -->
+    <eat-comment/>
+    <string name="bsdk_publish_results_view_behance_btn_label">SE DETTE PÅ BEHANCE</string>
+    <string name="bsdk_publish_results_view_desc_label">Gå til Behance for å se tilbakemeldinger på arbeidet,\nog del det på Twitter, Facebook og annet.</string>
+    <string name="bsdk_publish_results_view_title_label">Arbeidet er live!</string>
+    <string name="bsdk_publish_results_view_titlebar_back_nav_content_desc">Tilbake</string>
+    <string name="bsdk_publish_results_view_titlebar_title_label">Publiser</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nb/strings_add_wip.xml -->
+    <eat-comment/>
+    <string name="bsdk_publish_wip_image_required_error_msg">Problem med å laste bilde for publisering. Kontroller og prøv på nytt.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_msg">Kan ikke laste opp det pågående arbeidet. %1$s. Kontroller nettverkstilkoblingen og prøv på nytt.</string>
+    <string name="bsdk_publish_wip_service_failure_notification_ticker">Feil ved publisering av det pågående arbeidet ditt på Behance</string>
+    <string name="bsdk_publish_wip_service_failure_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_text">Publiserer det pågående arbeidet ditt</string>
+    <string name="bsdk_publish_wip_service_in_progress_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_publish_on_twitter_msg">Se nytt arbeid på \@Behance-portfolioen: %1$s</string>
+    <string name="bsdk_publish_wip_service_success_notification_text">Trykk for å se det publiserte pågående arbeidet</string>
+    <string name="bsdk_publish_wip_service_success_notification_ticker">Det pågående arbeidet ditt ble publisert på Behance</string>
+    <string name="bsdk_publish_wip_service_success_notification_title">Behance</string>
+    <string name="bsdk_publish_wip_service_unknown_failure_notification_msg">Det pågående arbeidet kan ikke lastes opp for øyeblikket. Kontroller nettverkstilkoblingen og prøv på nytt.</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nb/strings_publish_project.xml -->
+    <eat-comment/>
+    <string name="bsdk_search_filters_dialog_custom_actionbar_back_nav_default_txt">Tilbake</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nb/strings_social_account_management.xml -->
+    <eat-comment/>
+    <string name="bsdk_social_account_facebook_login_confirmation_body">Logg på Facebook for å fortsette.</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_cancel_btn_label">Avbryt</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_facebook_login_confirmation_title">Logg på Facebook</string>
+    <string name="bsdk_social_account_fb_auth_failure">Feil ved Facebook-godkjenning. Prøv på nytt senere.</string>
+    <string name="bsdk_social_account_fb_auth_permissions_failure">Mangler tillatelse til å dele på Facebook.</string>
+    <string name="bsdk_social_account_twitter_login_authentication_failure">Feil ved Twitter-godkjenning. Prøv på nytt senere.</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_body">Logg på Twitter for å fortsette.</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_cancel_btn_label">Avbryt</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_twitter_login_confirmation_title">Logg på Twitter</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_body">Er du sikker på at du vil slette koblingen til Facebook-kontoen?</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_cancel_btn_label">Avbryt</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_unlink_facebook_account_confirmation_title">Slett koblingen til Facebook-kontoen</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_body">Er du sikker på at du vil slette koblingen til Twitter-kontoen?</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_cancel_btn_label">Avbryt</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_ok_btn_label">OK</string>
+    <string name="bsdk_social_account_unlink_twitter_account_confirmation_title">Slett koblingen til Twitter-kontoen</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nb/strings_search.xml -->
+    <eat-comment/>
+    <string name="bsdk_sort_option_featured">Aktuelt</string>
+    <string name="bsdk_sort_option_most_appreciated">Mest anerkjente</string>
+    <string name="bsdk_sort_option_most_discussed">Mest diskuterte</string>
+    <string name="bsdk_sort_option_most_followed">Mest fulgte</string>
+    <string name="bsdk_sort_option_most_recent">Nyeste</string>
+    <string name="bsdk_sort_option_most_relevant">Mest aktuelle</string>
+    <string name="bsdk_sort_option_most_viewed">Mest viste</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nb/strings_add_wip.xml -->
+    <eat-comment/>
+    <string name="bsdk_wip_publish_view_adult_content_text">Innhold uegnet for barn</string>
+    <string name="bsdk_wip_publish_view_publish_initiated_msg">Publiserer det pågående arbeidet ditt. Følg fremgangen på statuslinjen.</string>
+    <string name="bsdk_wip_publish_view_publish_invalid_tag_msg">Koder kan bare inneholde alfanumeriske tegn med eller uten mellomrom</string>
+    <string name="bsdk_wip_publish_view_publish_required_fields_missing_msg">Fyll ut alle obligatoriske felter</string>
+    <string name="bsdk_wip_publish_view_publish_service_initialize_error_msg">Problem med å starte tjenesten. Prøv på nytt senere.</string>
+    <string name="bsdk_wip_publish_view_share_on_fb_content_desc">Del på Facebook</string>
+    <string name="bsdk_wip_publish_view_share_on_twitter_content_desc">Del på Twitter</string>
+    <string name="bsdk_wip_publish_view_share_on_txt">DEL PÅ:</string>
+    <string name="bsdk_wip_publish_view_titlebar_action_btn_publish_label">Publiser</string>
+    <string name="bsdk_wip_publish_view_titlebar_back_nav_content_desc">Tilbake</string>
+    <string name="bsdk_wip_publish_view_titlebar_title_publish_label">Dokumentinfo</string>
+    <string name="bsdk_wip_publish_view_wip_desc_hint">Be om tilbakemelding</string>
+    <string name="bsdk_wip_publish_view_wip_name_hint">Legg til tittel</string>
+    <string name="bsdk_wip_publish_view_wip_tags_hint">komma, delt, koder</string>
+    <string name="bsdk_wip_publish_view_wips_loading_label">Laster …</string>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-nb/strings_fb_sdk.xml -->
+    <eat-comment/>
+    <string name="com_facebook_internet_permission_error_message">WebView-pålogging krever INTERNETT-tillatelse</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest-feil</string>
+    <string name="com_facebook_loading">Laster …</string>
+    <string name="com_facebook_requesterror_password_changed">Facebook-passordet ditt ble endret. Logg på appen på nytt for å koble til Facebook-kontoen igjen.</string>
+    <string name="com_facebook_requesterror_permissions">Denne appen har ikke tillatelse til å gjøre dette. Logg på appen igjen for å endre tillatelser.</string>
+    <string name="com_facebook_requesterror_reconnect">Logg på denne appen på nytt for å koble til Facebook-kontoen din igjen.</string>
+    <string name="com_facebook_requesterror_relogin">Logg på denne appen på nytt for å koble til Facebook-kontoen din igjen.</string>
+    <string name="com_facebook_requesterror_web_login">Facebook-kontoen din er låst. Logg på www.facebook.com for å fortsette.</string>
+</resources>

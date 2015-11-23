@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-v21/colors_publish_project.xml -->
+    <eat-comment/>
+    <color name="bsdk_project_publish_view_divider_color">@color/bsdk_edit_text_material_design_line_color</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-v21/colors_add_wip.xml -->
+    <eat-comment/>
+    <color name="bsdk_wip_publish_view_divider_color">@color/bsdk_edit_text_material_design_line_color</color>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-v21/dimens.xml -->
+    <eat-comment/>
+    <dimen name="bsdk_add_project_publish_fragment_adultContent_checkbox_padding_right">4dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_adultContent_padding_bottom">12.5dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_adultContent_padding_top">13dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_adult_content_txt_padding_left">0dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_copyright_padding_bottom">18.5dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_copyright_padding_left">0dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_copyright_padding_top">15.5dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_cover_image_margin_left">0dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_cover_image_margin_top_bottom">11dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_creative_field_margin_bottom">18.5dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_creative_field_margin_left">0dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_creative_field_margin_top">15.5dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_divider_left_right_margin">0dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_padding_left">@dimen/bsdk_titlebar_left_margin</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_padding_right">@dimen/bsdk_titlebar_left_margin</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_shareon_layout_margin_left">@dimen/bsdk_add_project_publish_fragment_padding_left</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_tags_padding_bottom">18.5dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_tags_padding_left">0dp</dimen>
+    <dimen name="bsdk_add_project_publish_fragment_tags_padding_top">15.5dp</dimen>
+    <dimen name="bsdk_titlebar_back_button_right_margin">27.5dp</dimen>
+    <dimen name="bsdk_titlebar_left_margin">18.5dp</dimen>
+    <dimen name="bsdk_wip_publish_view_adult_content_checkbox_padding_right">4dp</dimen>
+    <dimen name="bsdk_wip_publish_view_adult_content_divider_left_right_margin">0dp</dimen>
+    <dimen name="bsdk_wip_publish_view_adult_content_padding_bottom">12.5dp</dimen>
+    <dimen name="bsdk_wip_publish_view_adult_content_padding_top">13dp</dimen>
+    <dimen name="bsdk_wip_publish_view_adult_content_txt_padding_left">0dp</dimen>
+    <dimen name="bsdk_wip_publish_view_padding_left">@dimen/bsdk_titlebar_left_margin</dimen>
+    <dimen name="bsdk_wip_publish_view_padding_right">@dimen/bsdk_titlebar_left_margin</dimen>
+    <dimen name="bsdk_wip_publish_view_share_options_container_margin_left">0dp</dimen>
+    <dimen name="bsdk_wip_publish_view_wip_tags_padding_bottom">18.5dp</dimen>
+    <dimen name="bsdk_wip_publish_view_wip_tags_padding_left">0dp</dimen>
+    <dimen name="bsdk_wip_publish_view_wip_tags_padding_top">15.5dp</dimen>
+    <dimen name="bsdk_wip_publish_view_wip_thumbnail_image_margin_left">0dp</dimen>
+    <dimen name="bsdk_wip_publish_view_wip_thumbnail_image_margin_top_bottom">11dp</dimen>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-v21/layouts.xml -->
+    <eat-comment/>
+    <item name="bsdk_dialog_generic_alert" type="layout">@layout/bsdk_dialog_generic_alert_material_theme_style</item>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-v21/styles.xml -->
+    <eat-comment/>
+    <style name="BsdkAddProjectActivityTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:statusBarColor">@color/bsdk_status_bar_bg_color</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="BsdkAddWIPActivityTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:statusBarColor">@color/bsdk_status_bar_bg_color</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="BsdkAdobeCCLauncherActivityTheme" parent="AppBaseTheme">
+        <item name="android:statusBarColor">@color/bsdk_status_bar_bg_color</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="BsdkAdobeCloudSelectionViewTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:statusBarColor">@color/bsdk_status_bar_bg_color</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="BsdkEditProfileActivityTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:statusBarColor">@color/bsdk_status_bar_bg_color</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-v21/styles_components.xml -->
+    <eat-comment/>
+    <style name="BsdkEditProfileEditTextStyle" parent="BsdkEditTextStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/bsdk_edit_profile_field_height</item>
+        <item name="android:textColor">@color/bsdk_edit_profile_text_color</item>
+        <item name="android:textColorHint">@color/bsdk_edit_profile_hint_color</item>
+        <item name="android:textSize">@dimen/bsdk_edit_profile_field_text_size</item>
+        <item name="android:inputType">textCapSentences</item>
+        <item name="android:imeOptions">flagNoFullscreen</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="BsdkEditTextStyle">
+        <item name="android:background">@drawable/bsdk_selector_edit_text_behance_blue</item>
+    </style>
+    <style name="BsdkEditTextWithSpinnerBgStyle">
+        <item name="android:background">@drawable/bsdk_selector_edit_text_behance_blue</item>
+        <item name="android:drawableRight">@drawable/bsdk_icon_add_project_edit_fragment_drop_arrow</item>
+        <item name="android:paddingRight">@dimen/bsdk_edit_text_material_design_spinner_bg_right_margin</item>
+    </style>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-v21/styles.xml -->
+    <eat-comment/>
+    <style name="BsdkEnterpriseLoginWarningTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:statusBarColor">@color/bsdk_status_bar_bg_color</item>
+        <item name="android:windowAnimationStyle">@style/BsdkEnterpriseLoginWarningThemeWindowAnimationStyle</item>
+    </style>
+    <style name="BsdkImageSelectorViewTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/bsdk_status_bar_bg_color</item>
+        <item name="android:windowAnimationStyle">@style/BsdkImageSelectorViewWindowAnimationStyle</item>
+    </style>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-v21/styles_components.xml -->
+    <eat-comment/>
+    <style name="BsdkLayoutWithEditTextBackgroundStyle">
+        <item name="android:background">@drawable/bsdk_selector_layout_behance_blue</item>
+    </style>
+    <style name="BsdkPublishProjectEditTextStyle" parent="BsdkEditTextStyle">
+        <item name="android:textColor">@color/bsdk_add_project_publish_fragment_txt_color</item>
+        <item name="android:textColorHint">@color/bsdk_add_project_publish_fragment_hint_txt_color</item>
+        <item name="android:textSize">@dimen/bsdk_add_project_publish_fragment_txt_size</item>
+    </style>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-v21/styles.xml -->
+    <eat-comment/>
+    <style name="BsdkPublishResultsActivityTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/bsdk_status_bar_bg_color</item>
+        <item name="android:windowAnimationStyle">@style/BsdkPublishWIPToBehanceViewWindowAnimationStyle</item>
+    </style>
+    <style name="BsdkPublishWIPToBehanceViewTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/bsdk_status_bar_bg_color</item>
+        <item name="android:windowAnimationStyle">@style/BsdkPublishWIPToBehanceViewWindowAnimationStyle</item>
+    </style>
+    <!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/values-v21/styles_components.xml -->
+    <eat-comment/>
+    <style name="BsdkPublishWipEditTextStyle" parent="BsdkEditTextStyle">
+        <item name="android:textColor">@color/bsdk_wip_publish_view_wip_details_txt_color</item>
+        <item name="android:textColorHint">@color/bsdk_wip_publish_view_wip_details_txt_hint_color</item>
+        <item name="android:textSize">@dimen/bsdk_publish_info_views_field_text_size</item>
+    </style>
+</resources>

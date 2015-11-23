@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/bsdk_bg_fastscroll_thumb_pressed" android:state_pressed="true"/>
+    <item android:drawable="@drawable/bsdk_bg_fastscroll_thumb_default"/>
+
+</selector><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/drawable/bsdk_selector_fastscroll_thumb_behance_blue.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/drawable/bsdk_selector_fastscroll_thumb_behance_blue.xml -->

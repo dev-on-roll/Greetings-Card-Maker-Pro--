@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/library_listView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+<!--    <ImageView
+        android:id="@+id/add_lib_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingRight="@dimen/add_lib_button_padding"
+        android:paddingBottom="@dimen/add_lib_button_padding"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/ic_add_lib"/>-->
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/add_lib_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="@dimen/fab_margin"
+        android:src="@drawable/creativesdkcolor_ic_add_white_24dp"
+        app:backgroundTint="@color/add_lib_fab_bg"
+        app:fabSize="normal"/>
+
+    <include layout="@layout/adobe_common_errorview" android:id="@+id/library_list_no_network_view" android:visibility="gone" />
+
+    <include layout="@layout/creativesdkcolor_logged_out_view" android:id="@+id/library_list_logged_out_view" android:visibility="gone" />
+
+</RelativeLayout>
+<!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKColor/src/main/res/layout/creativesdkcolor_fragment_library_list.xml -->

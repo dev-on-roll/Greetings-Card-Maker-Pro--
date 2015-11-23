@@ -1,0 +1,64 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/bsdk_cloud_selection_view_bg_color"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:background="@drawable/bsdk_bg_image_actionbar"
+        android:gravity="center_vertical">
+
+        <RelativeLayout
+            android:id="@+id/bsdkCloudSelectionViewBackBtnContainer"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true">
+
+            <ImageView
+                android:id="@+id/bsdkCloudSelectionViewBackBtnImageView"
+                android:background="@drawable/bsdk_selector_app_default_selection_bg"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:contentDescription="@string/bsdk_cloud_selection_view_back_nav_content_desc"
+                android:paddingLeft="@dimen/bsdk_titlebar_left_margin"
+                android:paddingRight="@dimen/bsdk_titlebar_back_button_right_margin"
+                android:scaleType="center"
+                android:src="@drawable/bsdk_icon_actionbar_back_button"/>
+
+            <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@id/bsdkCloudSelectionViewBackBtnImageView"
+                android:paddingRight="10dp"
+                android:text="@string/bsdk_cloud_selection_view_title"
+                android:textColor="@color/bsdk_titlebar_txt_color"
+                android:textSize="@dimen/bsdk_titlebar_txt_size"/>
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ListView
+            android:id="@+id/bsdkCloudSelectionViewCloudsListView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="@null"
+            android:scrollbarStyle="outsideOverlay">
+        </ListView>
+
+        <ProgressBar
+            android:id="@+id/bsdkCloudSelectionViewProgressSpinner"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:visibility="gone"/>
+    </RelativeLayout>
+</LinearLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_activity_adobe_cloud_selection.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/layout/bsdk_activity_adobe_cloud_selection.xml -->

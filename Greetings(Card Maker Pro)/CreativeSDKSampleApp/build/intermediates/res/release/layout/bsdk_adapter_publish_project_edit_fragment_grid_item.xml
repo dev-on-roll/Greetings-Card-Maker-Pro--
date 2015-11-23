@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:behanceSDK="http://schemas.android.com/apk/com.behance.sdk"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@color/bsdk_add_project_edit_fragment_list_item_background_color"
+    android:gravity="center" >
+
+    <ImageView
+        android:id="@id/drag_handle"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:contentDescription="@string/bsdk_msg_image_missing"
+        android:paddingLeft="@dimen/bsdk_add_project_edit_fragment_reorder_icon_margin_left"
+        android:paddingRight="@dimen/bsdk_add_project_edit_fragment_reorder_icon_margin_right"
+        android:src="@drawable/bsdk_icon_add_project_edit_fragment_list_drag" />
+
+    <RelativeLayout
+        android:layout_width="@dimen/bsdk_add_project_edit_fragment_list_image_width"
+        android:layout_height="@dimen/bsdk_add_project_edit_fragment_list_image_height"
+        android:layout_toRightOf="@id/drag_handle"
+        android:layout_centerVertical="true"
+        android:padding="@dimen/bsdk_add_project_edit_fragment_list_item_padding"
+        android:animateLayoutChanges="false" >
+
+        <ImageView
+            android:id="@+id/add_project_edit_fragment_image_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/bsdk_msg_image_missing"
+            android:scaleType="centerInside" />
+
+        <ImageView
+            android:id="@+id/add_project_edit_fragment_image_view_duplicate"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/bsdk_msg_image_missing"
+            android:scaleType="centerInside"
+            android:visibility="invisible"/>
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/add_project_edit_fragment_delete_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/bsdk_add_project_edit_fragment_delete_icon_right_margin"
+        android:contentDescription="@string/bsdk_msg_image_missing"
+        android:paddingLeft="@dimen/bsdk_add_project_edit_fragment_delete_icon_padding"
+        android:paddingRight="@dimen/bsdk_add_project_edit_fragment_delete_icon_padding"
+        android:scaleType="center"
+        android:src="@drawable/bsdk_icon_add_project_edit_fragment_delete" />
+
+    <ImageView
+        android:id="@+id/add_project_edit_fragment_rotate_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/bsdk_add_project_edit_fragment_rotate_icon_right_margin"
+        android:layout_toLeftOf="@id/add_project_edit_fragment_delete_icon"
+        android:contentDescription="@string/bsdk_msg_image_missing"
+        android:paddingLeft="@dimen/bsdk_add_project_edit_fragment_rotate_icon_padding"
+        android:paddingRight="@dimen/bsdk_add_project_edit_fragment_rotate_icon_padding"
+        android:scaleType="center"
+        android:src="@drawable/bsdk_icon_add_project_edit_fragment_rotate_image" />
+
+    <RelativeLayout
+        android:id="@+id/add_project_edit_fragment_embed_view"
+        android:layout_width="@dimen/bsdk_add_project_edit_fragment_list_embed_view_height_width"
+        android:layout_height="@dimen/bsdk_add_project_edit_fragment_list_embed_view_height_width"
+        android:layout_centerVertical="true"
+        android:layout_margin="@dimen/bsdk_add_project_edit_fragment_list_item_padding"
+        android:background="@color/bsdk_add_project_edit_preview_fragment_embed_content_icon_background_color"
+        android:layout_marginRight="@dimen/bsdk_add_project_custom_actionbar_right_padding"
+        android:layout_toRightOf="@id/drag_handle"
+        android:gravity="center" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:orientation="vertical"
+            tools:ignore="UselessParent" >
+
+            <ImageView
+                android:id="@+id/bsdkPublishProjectEditFragmentEmbedIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/bsdk_generic_image_content_desc"
+                android:layout_marginBottom="@dimen/bsdk_add_project_edit_fragment_embed_content_icon_image_bottom_margin"
+                android:scaleType="center"
+                android:src="@drawable/bsdk_add_project_edit_fragment_embed_content_icon" />
+
+            <com.behance.sdk.ui.customviews.BehanceSDKTextView
+                android:id="@+id/bsdkPublishProjectEditFragmentEmbedDesc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/bsdk_add_project_edit_preview_fragment_embed_content_icon_txt_color"
+                android:textSize="@dimen/bsdk_add_project_edit_fragment_embed_content_icon_txt_size"
+                behanceSDK:fontStyle="bold" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout><!-- From: file:/Users/bharath/GIT/CreativeSDKRoot/creativesdk/CreativeSDKBehance/res/layout/bsdk_adapter_publish_project_edit_fragment_grid_item.xml --><!-- From: file:/C:/Users/jagota/CreativeSDKSampleApp/build/intermediates/exploded-aar/com.adobe.creativesdk/behance/0.7.329/res/layout/bsdk_adapter_publish_project_edit_fragment_grid_item.xml -->
